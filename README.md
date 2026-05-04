@@ -5,9 +5,9 @@ Public holiday data for [OmniWake](https://github.com/velocity-craft) — 195+ c
 ## Quick Start
 
 ```
-Base URL: https://velocity-craft.github.io/holiday-data/
-Manifest: https://velocity-craft.github.io/holiday-data/manifest.json
-Country:  https://velocity-craft.github.io/holiday-data/countries/{CC}.json
+Base URL: https://velocitycraft.app/holiday-data/
+Manifest: https://velocitycraft.app/holiday-data/manifest.json
+Country:  https://velocitycraft.app/holiday-data/countries/{CC}.json
 ```
 
 Country codes follow ISO 3166-1 alpha-2 (e.g., `US`, `KR`, `IN`).
