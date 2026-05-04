@@ -1,0 +1,24 @@
+holiday-data — Public Holiday Database
+Copyright (c) 2026 Velocity Craft
+https://github.com/velocity-craft/holiday-data
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0) for data files (authoring/, dist/).
+
+---
+
+REQUIRED ATTRIBUTION TEXT
+
+When redistributing or building upon the data in this repository, include the
+following attribution in your product, documentation, or data package:
+
+  Holiday data provided by Velocity Craft (https://github.com/velocity-craft/holiday-data),
+  licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+THIRD-PARTY ACKNOWLEDGEMENTS
+
+Holiday date computation is cross-validated against the python-holidays library
+(https://github.com/vacanza/python-holidays), licensed under MIT.
+python-holidays is not distributed with or embedded in this data.
