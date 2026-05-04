@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "_comment": "Holiday template library. Each entry defines localized names for a named holiday concept. Templates are referenced by overrides/{CC}.json. A2 seed — translation gaps filled in Phase A5 via translate.py.",
+  "templates": {
+
+    "new_year": {
+      "defaultName": "New Year's Day",
+      "localizedNames": {
+        "ko": "신정", "en": "New Year's Day", "ja": "元日",
+        "zh": "元旦", "es": "Año Nuevo", "fr": "Jour de l'An",
+        "de": "Neujahr", "pt": "Ano Novo"
+      }
+    },
+    "new_year_eve": {
+      "defaultName": "New Year's Eve",
+      "localizedNames": {
+        "ko": "섣달그믐", "en": "New Year's Eve", "ja": "大晦日",
+        "zh": "新年前夕", "es": "Nochevieja", "fr": "Saint-Sylvestre",
+        "de": "Silvester", "pt": "Véspera de Ano Novo"
+      }
+    },
+    "labor_day_international": {
+      "defaultName": "International Workers' Day",
+      "localizedNames": {
+        "ko": "근로자의 날", "en": "International Workers' Day", "ja": "メーデー",
+        "zh": "劳动节", "es": "Día Internacional del Trabajo", "fr": "Fête du Travail",
+        "de": "Tag der Arbeit", "pt": "Dia do Trabalhador"
+      }
+    },
+    "christmas": {
+      "defaultName": "Christmas Day",
+      "localizedNames": {
+        "ko": "크리스마스", "en": "Christmas Day", "ja": "クリスマス",
+        "zh": "圣诞节", "es": "Navidad", "fr": "Noël",
+        "de": "1. Weihnachtstag", "pt": "Natal"
+      }
+    },
+    "christmas_eve": {
+      "defaultName": "Christmas Eve",
+      "localizedNames": {
+        "ko": "크리스마스 이브", "en": "Christmas Eve", "ja": "クリスマス・イブ",
+        "zh": "圣诞节前夕", "es": "Nochebuena", "fr": "Veille de Noël",
+        "de": "Heiligabend", "pt": "Véspera de Natal"
+      }
+    },
+    "boxing_day": {
+      "defaultName": "Boxing Day",
+      "localizedNames": {
+        "ko": "박싱 데이", "en": "Boxing Day", "ja": "ボクシング・デー",
+        "zh": "节礼日", "es": "Boxing Day", "fr": "Lendemain de Noël",
+        "de": "2. Weihnachtstag", "pt": "Boxing Day"
+      }
+    },
+    "epiphany": {
+      "defaultName": "Epiphany",
+      "localizedNames": {
+        "ko": "주님 공현 대축일", "en": "Epiphany", "ja": "公現祭",
+        "zh": "主显节", "es": "Epifanía del Señor", "fr": "Épiphanie",
+        "de": "Heilige Drei Könige", "pt": "Epifania"
+      }
+    },
+    "all_saints_day": {
+      "defaultName": "All Saints' Day",
+      "localizedNames": {
+        "ko": "만성절", "en": "All Saints' Day", "ja": "諸聖人の日",
+        "zh": "万圣节", "es": "Día de Todos los Santos", "fr": "Toussaint",
+        "de": "Allerheiligen", "pt": "Dia de Todos os Santos"
+      }
+    },
+    "all_souls_day": {
+      "defaultName": "All Souls' Day",
+      "localizedNames": {
+        "ko": "위령의 날", "en": "All Souls' Day", "ja": "万霊節",
+        "zh": "万灵节", "es": "Día de los Difuntos", "fr": "Jour des Défunts",
+        "de": "Allerseelen", "pt": "Dia de Finados"
+      }
+    },
+    "assumption_of_mary": {
+      "defaultName": "Assumption of Mary",
+      "localizedNames": {
+        "ko": "성모 승천 대축일", "en": "Assumption of Mary", "ja": "聖母被昇天",
+        "zh": "圣母升天节", "es": "Asunción de la Virgen", "fr": "Assomption de la Vierge",
+        "de": "Mariä Himmelfahrt", "pt": "Assunção de Nossa Senhora"
+      }
+    },
+    "immaculate_conception": {
+      "defaultName": "Immaculate Conception",
+      "localizedNames": {
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일", "en": "Immaculate Conception",
+        "ja": "無原罪の御宿り", "zh": "圣母无染原罪节",
+        "es": "Inmaculada Concepción", "fr": "Immaculée Conception",
+        "de": "Mariä Empfängnis", "pt": "Imaculada Conceição"
+      }
+    },
+    "corpus_christi": {
+      "defaultName": "Corpus Christi",
+      "localizedNames": {
+        "ko": "성체 성혈 대축일", "en": "Corpus Christi", "ja": "キリストの聖体",
+        "zh": "基督圣体圣血节", "es": "Corpus Christi", "fr": "Fête-Dieu",
+        "de": "Fronleichnam", "pt": "Corpus Christi"
+      }
+    },
+
+    "good_friday_western": {
+      "defaultName": "Good Friday",
+      "localizedNames": {
+        "ko": "성 금요일", "en": "Good Friday", "ja": "聖金曜日",
+        "zh": "耶稣受难日", "es": "Viernes Santo", "fr": "Vendredi saint",
+        "de": "Karfreitag", "pt": "Sexta-feira Santa"
+      }
+    },
+    "holy_saturday": {
+      "defaultName": "Holy Saturday",
+      "localizedNames": {
+        "ko": "성 토요일", "en": "Holy Saturday", "ja": "聖土曜日",
+        "zh": "复活节前夕", "es": "Sábado Santo", "fr": "Samedi saint",
+        "de": "Karsamstag", "pt": "Sábado Santo"
+      }
+    },
+    "easter_western": {
+      "defaultName": "Easter Sunday",
+      "localizedNames": {
+        "ko": "부활절", "en": "Easter Sunday", "ja": "イースター",
+        "zh": "复活节", "es": "Domingo de Resurrección", "fr": "Dimanche de Pâques",
+        "de": "Ostersonntag", "pt": "Domingo de Páscoa"
+      }
+    },
+    "easter_monday_western": {
+      "defaultName": "Easter Monday",
+      "localizedNames": {
+        "ko": "부활 월요일", "en": "Easter Monday", "ja": "復活祭月曜日",
+        "zh": "复活节星期一", "es": "Lunes de Pascua", "fr": "Lundi de Pâques",
+        "de": "Ostermontag", "pt": "Segunda-feira de Páscoa"
+      }
+    },
+    "ascension_western": {
+      "defaultName": "Ascension Day",
+      "localizedNames": {
+        "ko": "예수 승천 대축일", "en": "Ascension Day", "ja": "キリスト昇天日",
+        "zh": "耶稣升天节", "es": "Ascensión del Señor", "fr": "Ascension",
+        "de": "Christi Himmelfahrt", "pt": "Ascensão de Cristo"
+      }
+    },
+    "pentecost_western": {
+      "defaultName": "Whit Sunday",
+      "localizedNames": {
+        "ko": "성령 강림 대축일", "en": "Whit Sunday", "ja": "聖霊降臨祭",
+        "zh": "圣灵降临节", "es": "Domingo de Pentecostés", "fr": "Pentecôte",
+        "de": "Pfingstsonntag", "pt": "Domingo de Pentecostes"
+      }
+    },
+    "pentecost_monday_western": {
+      "defaultName": "Whit Monday",
+      "localizedNames": {
+        "ko": "성령 강림 대축일 다음 월요일", "en": "Whit Monday", "ja": "聖霊降臨祭翌日",
+        "zh": "圣灵降临节翌日", "es": "Lunes de Pentecostés", "fr": "Lundi de Pentecôte",
+        "de": "Pfingstmontag", "pt": "Segunda-feira de Pentecostes"
+      }
+    },
+    "easter_eastern": {
+      "defaultName": "Orthodox Easter Sunday",
+      "localizedNames": {
+        "ko": "정교회 부활절", "en": "Orthodox Easter Sunday", "ja": "正教会復活祭",
+        "zh": "东正教复活节", "es": "Pascua Ortodoxa", "fr": "Pâques orthodoxes",
+        "de": "Orthodoxes Osterfest", "pt": "Páscoa Ortodoxa"
+      }
+    },
+    "easter_monday_eastern": {
+      "defaultName": "Orthodox Easter Monday",
+      "localizedNames": {
+        "ko": "정교회 부활 월요일", "en": "Orthodox Easter Monday", "ja": "正教会復活祭月曜日",
+        "zh": "东正教复活节星期一", "es": "Lunes de Pascua Ortodoxa", "fr": "Lundi de Pâques orthodoxes",
+        "de": "Orthodoxer Ostermontag", "pt": "Segunda-feira de Páscoa Ortodoxa"
+      }
+    },
+
+    "eid_al_fitr": {
+      "defaultName": "Eid al-Fitr",
+      "localizedNames": {
+        "ko": "이드 알 피트르", "en": "Eid al-Fitr", "ja": "イード・アル＝フィトル",
+        "zh": "开斋节", "es": "Eid al-Fitr", "fr": "Aïd el-Fitr",
+        "de": "Eid al-Fitr", "pt": "Eid al-Fitr"
+      }
+    },
+    "eid_al_fitr_2nd": {
+      "defaultName": "Eid al-Fitr (2nd Day)",
+      "localizedNames": {
+        "ko": "이드 알 피트르 (2일째)", "en": "Eid al-Fitr (2nd Day)", "ja": "イード・アル＝フィトル（2日目）",
+        "zh": "开斋节（第二天）", "es": "Eid al-Fitr (2.° día)", "fr": "Aïd el-Fitr (2e jour)",
+        "de": "Eid al-Fitr (2. Tag)", "pt": "Eid al-Fitr (2.º dia)"
+      }
+    },
+    "eid_al_fitr_3rd": {
+      "defaultName": "Eid al-Fitr (3rd Day)",
+      "localizedNames": {
+        "ko": "이드 알 피트르 (3일째)", "en": "Eid al-Fitr (3rd Day)", "ja": "イード・アル＝フィトル（3日目）",
+        "zh": "开斋节（第三天）", "es": "Eid al-Fitr (3.er día)", "fr": "Aïd el-Fitr (3e jour)",
+        "de": "Eid al-Fitr (3. Tag)", "pt": "Eid al-Fitr (3.º dia)"
+      }
+    },
+    "eid_al_adha": {
+      "defaultName": "Eid al-Adha",
+      "localizedNames": {
+        "ko": "이드 알 아드하", "en": "Eid al-Adha", "ja": "イード・アル＝アドハー",
+        "zh": "宰牲节", "es": "Eid al-Adha", "fr": "Aïd el-Adha",
+        "de": "Eid al-Adha", "pt": "Eid al-Adha"
+      }
+    },
+    "eid_al_adha_2nd": {
+      "defaultName": "Eid al-Adha (2nd Day)",
+      "localizedNames": {
+        "ko": "이드 알 아드하 (2일째)", "en": "Eid al-Adha (2nd Day)", "ja": "イード・アル＝アドハー（2日目）",
+        "zh": "宰牲节（第二天）", "es": "Eid al-Adha (2.° día)", "fr": "Aïd el-Adha (2e jour)",
+        "de": "Eid al-Adha (2. Tag)", "pt": "Eid al-Adha (2.º dia)"
+      }
+    },
+    "eid_al_adha_3rd": {
+      "defaultName": "Eid al-Adha (3rd Day)",
+      "localizedNames": {
+        "ko": "이드 알 아드하 (3일째)", "en": "Eid al-Adha (3rd Day)", "ja": "イード・アル＝アドハー（3日目）",
+        "zh": "宰牲节（第三天）", "es": "Eid al-Adha (3.er día)", "fr": "Aïd el-Adha (3e jour)",
+        "de": "Eid al-Adha (3. Tag)", "pt": "Eid al-Adha (3.º dia)"
+      }
+    },
+    "islamic_new_year": {
+      "defaultName": "Islamic New Year",
+      "localizedNames": {
+        "ko": "이슬람 새해", "en": "Islamic New Year", "ja": "イスラム暦新年",
+        "zh": "伊斯兰新年", "es": "Año Nuevo Islámico", "fr": "Nouvel An de l'Hégire",
+        "de": "Islamisches Neujahr", "pt": "Ano Novo Islâmico"
+      }
+    },
+    "mawlid_al_nabi": {
+      "defaultName": "Prophet's Birthday",
+      "localizedNames": {
+        "ko": "예언자 탄생일", "en": "Prophet's Birthday", "ja": "預言者の誕生日",
+        "zh": "圣纪节", "es": "Mawlid al-Nabi", "fr": "Mawlid al-Nabi",
+        "de": "Maulid an-Nabi", "pt": "Aniversário do Profeta"
+      }
+    },
+    "isra_miraj": {
+      "defaultName": "Isra Mi'raj",
+      "localizedNames": {
+        "ko": "이스라 미라지", "en": "Isra Mi'raj", "ja": "イスラー・ミウラージュ",
+        "zh": "登霄节", "es": "Isra Mi'raj", "fr": "Isra et Mi'raj",
+        "de": "Lailat al-Mi'radsch", "pt": "Isra e Mi'raj"
+      }
+    },
+    "laylat_al_qadr": {
+      "defaultName": "Night of Power",
+      "localizedNames": {
+        "ko": "권능의 밤", "en": "Night of Power", "ja": "カドルの夜",
+        "zh": "盖德尔夜", "es": "Noche del Destino", "fr": "Nuit du Destin",
+        "de": "Nacht der Bestimmung", "pt": "Noite do Poder"
+      }
+    },
+
+    "lunar_new_year": {
+      "defaultName": "Lunar New Year",
+      "localizedNames": {
+        "ko": "음력 설날", "en": "Lunar New Year", "ja": "春節",
+        "zh": "春节", "es": "Año Nuevo Lunar", "fr": "Nouvel An Lunaire",
+        "de": "Chinesisches Neujahr", "pt": "Ano Novo Lunar"
+      }
+    },
+    "lunar_new_year_2nd": {
+      "defaultName": "Lunar New Year (2nd Day)",
+      "localizedNames": {
+        "ko": "음력 설날 (2일째)", "en": "Lunar New Year (2nd Day)", "ja": "春節（2日目）",
+        "zh": "春节（第二天）", "es": "Año Nuevo Lunar (2.° día)", "fr": "Nouvel An Lunaire (2e jour)",
+        "de": "Chinesisches Neujahr (2. Tag)", "pt": "Ano Novo Lunar (2.º dia)"
+      }
+    },
+    "dragon_boat_festival": {
+      "defaultName": "Dragon Boat Festival",
+      "localizedNames": {
+        "ko": "단오", "en": "Dragon Boat Festival", "ja": "端午節",
+        "zh": "端午节", "es": "Festival del Bote del Dragón", "fr": "Festival du bateau-dragon",
+        "de": "Drachenbootfest", "pt": "Festival do Barco do Dragão"
+      }
+    },
+    "mid_autumn_festival": {
+      "defaultName": "Mid-Autumn Festival",
+      "localizedNames": {
+        "ko": "중추절", "en": "Mid-Autumn Festival", "ja": "中秋節",
+        "zh": "中秋节", "es": "Festival de Medio Otoño", "fr": "Fête de la Mi-Automne",
+        "de": "Mittherbstfest", "pt": "Festival do Meio-Outono"
+      }
+    },
+    "qingming_festival": {
+      "defaultName": "Qingming Festival",
+      "localizedNames": {
+        "ko": "청명", "en": "Qingming Festival", "ja": "清明節",
+        "zh": "清明节", "es": "Festival Qingming", "fr": "Fête de Qingming",
+        "de": "Qingming-Fest", "pt": "Festival Qingming"
+      }
+    },
+
+    "us_mlk_day": {
+      "defaultName": "Martin Luther King Jr. Day",
+      "localizedNames": {
+        "ko": "마틴 루터 킹 기념일", "en": "Martin Luther King Jr. Day", "ja": "マーティン・ルーサー・キング・デー",
+        "zh": "马丁·路德·金纪念日", "es": "Día de Martin Luther King Jr.", "fr": "Journée Martin Luther King",
+        "de": "Martin-Luther-King-Tag", "pt": "Dia de Martin Luther King Jr."
+      }
+    },
+    "us_presidents_day": {
+      "defaultName": "Presidents' Day",
+      "localizedNames": {
+        "ko": "대통령의 날", "en": "Presidents' Day", "ja": "大統領の日",
+        "zh": "总统日", "es": "Día de los Presidentes", "fr": "Jour des Présidents",
+        "de": "Präsidententag", "pt": "Dia dos Presidentes"
+      }
+    },
+    "us_memorial_day": {
+      "defaultName": "Memorial Day",
+      "localizedNames": {
+        "ko": "현충일", "en": "Memorial Day", "ja": "メモリアルデー",
+        "zh": "阵亡将士纪念日", "es": "Día de los Caídos", "fr": "Jour du Souvenir",
+        "de": "Memorial Day", "pt": "Dia dos Caídos"
+      }
+    },
+    "us_juneteenth": {
+      "defaultName": "Juneteenth National Independence Day",
+      "localizedNames": {
+        "ko": "준틴스 국가 독립기념일", "en": "Juneteenth National Independence Day", "ja": "ジューンティーンス",
+        "zh": "六月节", "es": "Juneteenth", "fr": "Juneteenth",
+        "de": "Juneteenth", "pt": "Juneteenth"
+      }
+    },
+    "us_independence_day": {
+      "defaultName": "Independence Day",
+      "localizedNames": {
+        "ko": "미국 독립기념일", "en": "Independence Day", "ja": "アメリカ独立記念日",
+        "zh": "美国独立纪念日", "es": "Día de la Independencia", "fr": "Fête nationale américaine",
+        "de": "Unabhängigkeitstag", "pt": "Dia da Independência"
+      }
+    },
+    "us_labor_day": {
+      "defaultName": "Labor Day",
+      "localizedNames": {
+        "ko": "미국 노동절", "en": "Labor Day", "ja": "レイバー・デー",
+        "zh": "美国劳工节", "es": "Día del Trabajo", "fr": "Fête du Travail",
+        "de": "Labor Day", "pt": "Dia do Trabalho"
+      }
+    },
+    "us_columbus_day": {
+      "defaultName": "Columbus Day",
+      "localizedNames": {
+        "ko": "콜럼버스의 날", "en": "Columbus Day", "ja": "コロンブスデー",
+        "zh": "哥伦布日", "es": "Día de la Hispanidad", "fr": "Jour de Christophe Colomb",
+        "de": "Kolumbustag", "pt": "Dia de Colombo"
+      }
+    },
+    "us_veterans_day": {
+      "defaultName": "Veterans Day",
+      "localizedNames": {
+        "ko": "재향군인의 날", "en": "Veterans Day", "ja": "ベテランズデー",
+        "zh": "退伍军人节", "es": "Día de los Veteranos", "fr": "Jour des Anciens Combattants",
+        "de": "Veteranentag", "pt": "Dia dos Veteranos"
+      }
+    },
+    "us_thanksgiving": {
+      "defaultName": "Thanksgiving Day",
+      "localizedNames": {
+        "ko": "추수감사절", "en": "Thanksgiving Day", "ja": "感謝祭",
+        "zh": "感恩节", "es": "Día de Acción de Gracias", "fr": "Thanksgiving",
+        "de": "Thanksgiving", "pt": "Ação de Graças"
+      }
+    },
+
+    "bastille_day": {
+      "defaultName": "Bastille Day",
+      "localizedNames": {
+        "ko": "프랑스 혁명 기념일", "en": "Bastille Day", "ja": "パリ祭",
+        "zh": "法国国庆日", "es": "Día de la Bastilla", "fr": "Fête nationale",
+        "de": "Bastille-Tag", "pt": "Dia da Bastilha"
+      }
+    },
+    "german_unity_day": {
+      "defaultName": "German Unity Day",
+      "localizedNames": {
+        "ko": "독일 통일의 날", "en": "German Unity Day", "ja": "ドイツ統一記念日",
+        "zh": "德国统一日", "es": "Día de la Unidad Alemana", "fr": "Jour de l'Unité allemande",
+        "de": "Tag der Deutschen Einheit", "pt": "Dia da Unidade Alemã"
+      }
+    },
+    "swiss_national_day": {
+      "defaultName": "Swiss National Day",
+      "localizedNames": {
+        "ko": "스위스 건국기념일", "en": "Swiss National Day", "ja": "スイス建国記念日",
+        "zh": "瑞士国庆节", "es": "Día Nacional de Suiza", "fr": "Fête nationale suisse",
+        "de": "Bundesfeiertag", "pt": "Dia Nacional da Suíça"
+      }
+    },
+    "st_patricks_day": {
+      "defaultName": "St. Patrick's Day",
+      "localizedNames": {
+        "ko": "성 패트릭의 날", "en": "St. Patrick's Day", "ja": "聖パトリックの日",
+        "zh": "圣帕特里克节", "es": "Día de San Patricio", "fr": "Saint-Patrick",
+        "de": "St. Patrick's Day", "pt": "Dia de São Patrício"
+      }
+    },
+    "victory_day_europe": {
+      "defaultName": "Victory in Europe Day",
+      "localizedNames": {
+        "ko": "유럽 전승 기념일", "en": "Victory in Europe Day", "ja": "ヨーロッパ戦勝記念日",
+        "zh": "欧洲胜利日", "es": "Día de la Victoria en Europa", "fr": "Fête de la Victoire",
+        "de": "Tag des Sieges in Europa", "pt": "Dia da Vitória na Europa"
+      }
+    },
+    "armistice_day": {
+      "defaultName": "Armistice Day",
+      "localizedNames": {
+        "ko": "휴전 기념일", "en": "Armistice Day", "ja": "休戦記念日",
+        "zh": "停战纪念日", "es": "Día del Armisticio", "fr": "Jour de l'Armistice",
+        "de": "Waffenstillstandstag", "pt": "Dia do Armistício"
+      }
+    },
+
+    "anzac_day": {
+      "defaultName": "ANZAC Day",
+      "localizedNames": {
+        "ko": "안작 기념일", "en": "ANZAC Day", "ja": "アンザック・デー",
+        "zh": "澳新军团日", "es": "Día de ANZAC", "fr": "Journée ANZAC",
+        "de": "ANZAC-Tag", "pt": "Dia ANZAC"
+      }
+    },
+    "australia_day": {
+      "defaultName": "Australia Day",
+      "localizedNames": {
+        "ko": "호주의 날", "en": "Australia Day", "ja": "オーストラリアデー",
+        "zh": "澳大利亚日", "es": "Día de Australia", "fr": "Jour de l'Australie",
+        "de": "Australientag", "pt": "Dia da Austrália"
+      }
+    },
+    "waitangi_day": {
+      "defaultName": "Waitangi Day",
+      "localizedNames": {
+        "ko": "와이탕이 날", "en": "Waitangi Day", "ja": "ワイタンギ・デー",
+        "zh": "怀唐伊日", "es": "Día de Waitangi", "fr": "Jour de Waitangi",
+        "de": "Waitangi-Tag", "pt": "Dia de Waitangi"
+      }
+    },
+    "canada_day": {
+      "defaultName": "Canada Day",
+      "localizedNames": {
+        "ko": "캐나다의 날", "en": "Canada Day", "ja": "カナダデー",
+        "zh": "加拿大国庆日", "es": "Día de Canadá", "fr": "Fête du Canada",
+        "de": "Kanada-Tag", "pt": "Dia do Canadá"
+      }
+    },
+    "thanksgiving_ca": {
+      "defaultName": "Thanksgiving Day",
+      "localizedNames": {
+        "ko": "캐나다 추수감사절", "en": "Thanksgiving Day", "ja": "感謝祭",
+        "zh": "感恩节", "es": "Día de Acción de Gracias", "fr": "Action de grâce",
+        "de": "Thanksgiving", "pt": "Ação de Graças"
+      }
+    },
+    "victoria_day_ca": {
+      "defaultName": "Victoria Day",
+      "localizedNames": {
+        "ko": "빅토리아 데이", "en": "Victoria Day", "ja": "ビクトリアデー",
+        "zh": "维多利亚节", "es": "Día de la Victoria", "fr": "Fête de la Reine",
+        "de": "Victoria Day", "pt": "Dia de Vitória"
+      }
+    },
+
+    "korea_independence_movement": {
+      "defaultName": "Independence Movement Day",
+      "localizedNames": {
+        "ko": "삼일절", "en": "Independence Movement Day", "ja": "三一運動記念日",
+        "zh": "三一独立运动纪念日", "es": "Día del Movimiento de Independencia",
+        "fr": "Jour du Mouvement pour l'Indépendance",
+        "de": "Tag der Unabhängigkeitsbewegung", "pt": "Dia do Movimento de Independência"
+      }
+    },
+    "korea_liberation": {
+      "defaultName": "Liberation Day",
+      "localizedNames": {
+        "ko": "광복절", "en": "Liberation Day", "ja": "光復節",
+        "zh": "光复节", "es": "Día de la Liberación de Corea", "fr": "Jour de la Libération de la Corée",
+        "de": "Koreas Befreiungstag", "pt": "Dia da Libertação da Coreia"
+      }
+    },
+    "korea_foundation": {
+      "defaultName": "National Foundation Day",
+      "localizedNames": {
+        "ko": "개천절", "en": "National Foundation Day", "ja": "開天節",
+        "zh": "开国节", "es": "Día de la Fundación Nacional de Corea",
+        "fr": "Jour de la Fondation Nationale de la Corée",
+        "de": "Nationaler Gründungstag Koreas", "pt": "Dia da Fundação Nacional da Coreia"
+      }
+    },
+    "korea_hangul": {
+      "defaultName": "Hangul Day",
+      "localizedNames": {
+        "ko": "한글날", "en": "Hangul Day", "ja": "ハングルの日",
+        "zh": "韩文节", "es": "Día del Hangul", "fr": "Journée du Hangeul",
+        "de": "Hangul-Tag", "pt": "Dia do Hangul"
+      }
+    },
+    "korea_childrens_day": {
+      "defaultName": "Children's Day",
+      "localizedNames": {
+        "ko": "어린이날", "en": "Children's Day", "ja": "韓国こどもの日",
+        "zh": "韩国儿童节", "es": "Día de los Niños de Corea", "fr": "Journée des Enfants de Corée",
+        "de": "Koreanischer Kindertag", "pt": "Dia das Crianças na Coreia"
+      }
+    },
+    "korea_seollal": {
+      "defaultName": "Korean New Year",
+      "localizedNames": {
+        "ko": "설날", "en": "Korean New Year", "ja": "ソルラル",
+        "zh": "韩国农历新年", "es": "Año Nuevo Coreano", "fr": "Nouvel An Coréen",
+        "de": "Koreanisches Neujahr", "pt": "Ano Novo Coreano"
+      }
+    },
+    "korea_chuseok": {
+      "defaultName": "Chuseok",
+      "localizedNames": {
+        "ko": "추석", "en": "Chuseok", "ja": "チュソク",
+        "zh": "秋夕", "es": "Chuseok", "fr": "Chuseok",
+        "de": "Chuseok", "pt": "Chuseok"
+      }
+    },
+
+    "japan_coming_of_age": {
+      "defaultName": "Coming of Age Day",
+      "localizedNames": {
+        "ko": "일본 성인의 날", "en": "Coming of Age Day", "ja": "成人の日",
+        "zh": "成人节", "es": "Día de la Mayoría de Edad", "fr": "Journée de l'Âge Adulte",
+        "de": "Tag des Erwachsenwerdens", "pt": "Dia da Maioridade"
+      }
+    },
+    "japan_national_foundation": {
+      "defaultName": "National Foundation Day",
+      "localizedNames": {
+        "ko": "일본 건국기념일", "en": "National Foundation Day", "ja": "建国記念の日",
+        "zh": "建国纪念日", "es": "Día de la Fundación Nacional de Japón",
+        "fr": "Jour de la Fondation Nationale du Japon",
+        "de": "Nationaler Gründungstag Japans", "pt": "Dia da Fundação Nacional do Japão"
+      }
+    },
+    "japan_emperor_birthday": {
+      "defaultName": "Emperor's Birthday",
+      "localizedNames": {
+        "ko": "일본 천황 탄생일", "en": "Emperor's Birthday", "ja": "天皇誕生日",
+        "zh": "天皇诞生日", "es": "Cumpleaños del Emperador", "fr": "Anniversaire de l'Empereur",
+        "de": "Geburtstag des Kaisers", "pt": "Aniversário do Imperador"
+      }
+    },
+    "japan_showa_day": {
+      "defaultName": "Showa Day",
+      "localizedNames": {
+        "ko": "쇼와의 날", "en": "Showa Day", "ja": "昭和の日",
+        "zh": "昭和日", "es": "Día de Shōwa", "fr": "Journée Shōwa",
+        "de": "Shōwa-Tag", "pt": "Dia Shōwa"
+      }
+    },
+    "japan_constitution_memorial": {
+      "defaultName": "Constitution Memorial Day",
+      "localizedNames": {
+        "ko": "일본 헌법기념일", "en": "Constitution Memorial Day", "ja": "憲法記念日",
+        "zh": "宪法纪念日", "es": "Día de la Constitución de Japón",
+        "fr": "Journée de la Constitution du Japon",
+        "de": "Verfassungsgedenktag", "pt": "Dia Memorial da Constituição"
+      }
+    },
+    "japan_greenery_day": {
+      "defaultName": "Greenery Day",
+      "localizedNames": {
+        "ko": "녹색의 날", "en": "Greenery Day", "ja": "みどりの日",
+        "zh": "绿之日", "es": "Día del Verdor", "fr": "Journée des Espaces Verts",
+        "de": "Tag des Grüns", "pt": "Dia da Natureza"
+      }
+    },
+    "japan_childrens_day": {
+      "defaultName": "Children's Day",
+      "localizedNames": {
+        "ko": "일본 어린이날", "en": "Children's Day", "ja": "こどもの日",
+        "zh": "日本儿童节", "es": "Día de los Niños de Japón",
+        "fr": "Journée des Enfants du Japon",
+        "de": "Kindertag Japan", "pt": "Dia das Crianças no Japão"
+      }
+    },
+    "japan_marine_day": {
+      "defaultName": "Marine Day",
+      "localizedNames": {
+        "ko": "바다의 날", "en": "Marine Day", "ja": "海の日",
+        "zh": "海洋日", "es": "Día del Mar", "fr": "Journée Maritime",
+        "de": "Meerestag", "pt": "Dia do Mar"
+      }
+    },
+    "japan_mountain_day": {
+      "defaultName": "Mountain Day",
+      "localizedNames": {
+        "ko": "산의 날", "en": "Mountain Day", "ja": "山の日",
+        "zh": "山之日", "es": "Día de la Montaña", "fr": "Journée de la Montagne",
+        "de": "Bergtag", "pt": "Dia da Montanha"
+      }
+    },
+    "japan_respect_for_aged": {
+      "defaultName": "Respect for the Aged Day",
+      "localizedNames": {
+        "ko": "경로의 날", "en": "Respect for the Aged Day", "ja": "敬老の日",
+        "zh": "敬老日", "es": "Día del Respeto a los Mayores",
+        "fr": "Journée du Respect des Personnes Âgées",
+        "de": "Tag der Ehrerbietung gegenüber Älteren", "pt": "Dia do Respeito aos Idosos"
+      }
+    },
+    "japan_autumnal_equinox": {
+      "defaultName": "Autumnal Equinox Day",
+      "localizedNames": {
+        "ko": "추분", "en": "Autumnal Equinox Day", "ja": "秋分の日",
+        "zh": "秋分日", "es": "Día del Equinoccio de Otoño",
+        "fr": "Journée de l'Équinoxe d'Automne",
+        "de": "Herbst-Tagundnachtgleiche", "pt": "Dia do Equinócio de Outono"
+      }
+    },
+    "japan_culture_day": {
+      "defaultName": "Culture Day",
+      "localizedNames": {
+        "ko": "문화의 날", "en": "Culture Day", "ja": "文化の日",
+        "zh": "文化日", "es": "Día de la Cultura", "fr": "Journée Culturelle",
+        "de": "Kulturtag", "pt": "Dia da Cultura"
+      }
+    },
+    "japan_labor_thanksgiving": {
+      "defaultName": "Labor Thanksgiving Day",
+      "localizedNames": {
+        "ko": "일본 근로감사절", "en": "Labor Thanksgiving Day", "ja": "勤労感謝の日",
+        "zh": "劳动感谢日", "es": "Día de Acción de Gracias por el Trabajo",
+        "fr": "Journée d'Action de Grâce pour le Travail",
+        "de": "Tag der Dankbarkeit für Arbeit", "pt": "Dia de Ação de Graças pelo Trabalho"
+      }
+    },
+
+    "india_republic_day": {
+      "defaultName": "Republic Day",
+      "localizedNames": {
+        "ko": "인도 공화국의 날", "en": "Republic Day", "ja": "インド共和国記念日",
+        "zh": "印度共和国日", "es": "Día de la República de la India",
+        "fr": "Jour de la République de l'Inde",
+        "de": "Indischer Nationalfeiertag", "pt": "Dia da República Indiana"
+      }
+    },
+    "india_independence_day": {
+      "defaultName": "Independence Day",
+      "localizedNames": {
+        "ko": "인도 독립기념일", "en": "Independence Day", "ja": "インド独立記念日",
+        "zh": "印度独立纪念日", "es": "Día de la Independencia de la India",
+        "fr": "Jour de l'Indépendance de l'Inde",
+        "de": "Indischer Unabhängigkeitstag", "pt": "Dia da Independência da Índia"
+      }
+    },
+    "india_gandhi_jayanti": {
+      "defaultName": "Gandhi Jayanti",
+      "localizedNames": {
+        "ko": "간디 탄생일", "en": "Gandhi Jayanti", "ja": "ガンジー生誕祭",
+        "zh": "甘地诞辰纪念日", "es": "Gandhi Jayanti", "fr": "Gandhi Jayanti",
+        "de": "Gandhi-Jayanti", "pt": "Jayanti Gandhi"
+      }
+    },
+    "india_diwali": {
+      "defaultName": "Diwali",
+      "localizedNames": {
+        "ko": "디왈리", "en": "Diwali", "ja": "ディワリ",
+        "zh": "排灯节", "es": "Diwali", "fr": "Diwali",
+        "de": "Diwali", "pt": "Diwali"
+      }
+    },
+    "india_holi": {
+      "defaultName": "Holi",
+      "localizedNames": {
+        "ko": "홀리", "en": "Holi", "ja": "ホーリー",
+        "zh": "洒红节", "es": "Holi", "fr": "Holi",
+        "de": "Holi", "pt": "Holi"
+      }
+    },
+
+    "national_day_generic": {
+      "defaultName": "National Day",
+      "localizedNames": {
+        "ko": "국경일", "en": "National Day", "ja": "建国記念日",
+        "zh": "国庆节", "es": "Día Nacional", "fr": "Fête nationale",
+        "de": "Nationalfeiertag", "pt": "Dia Nacional"
+      }
+    },
+    "independence_day_generic": {
+      "defaultName": "Independence Day",
+      "localizedNames": {
+        "ko": "독립기념일", "en": "Independence Day", "ja": "独立記念日",
+        "zh": "独立日", "es": "Día de la Independencia", "fr": "Jour de l'Indépendance",
+        "de": "Unabhängigkeitstag", "pt": "Dia da Independência"
+      }
+    },
+    "republic_day_generic": {
+      "defaultName": "Republic Day",
+      "localizedNames": {
+        "ko": "공화국의 날", "en": "Republic Day", "ja": "共和国記念日",
+        "zh": "共和国日", "es": "Día de la República", "fr": "Fête de la République",
+        "de": "Tag der Republik", "pt": "Dia da República"
+      }
+    },
+    "constitution_day_generic": {
+      "defaultName": "Constitution Day",
+      "localizedNames": {
+        "ko": "제헌절", "en": "Constitution Day", "ja": "憲法記念日",
+        "zh": "宪法日", "es": "Día de la Constitución", "fr": "Journée de la Constitution",
+        "de": "Verfassungstag", "pt": "Dia da Constituição"
+      }
+    },
+    "liberation_day_generic": {
+      "defaultName": "Liberation Day",
+      "localizedNames": {
+        "ko": "해방기념일", "en": "Liberation Day", "ja": "解放記念日",
+        "zh": "解放日", "es": "Día de la Liberación", "fr": "Jour de la Libération",
+        "de": "Tag der Befreiung", "pt": "Dia da Libertação"
+      }
+    },
+    "revolution_day_generic": {
+      "defaultName": "Revolution Day",
+      "localizedNames": {
+        "ko": "혁명기념일", "en": "Revolution Day", "ja": "革命記念日",
+        "zh": "革命纪念日", "es": "Día de la Revolución", "fr": "Fête de la Révolution",
+        "de": "Revolutionstag", "pt": "Dia da Revolução"
+      }
+    },
+    "martyrs_day_generic": {
+      "defaultName": "Martyrs' Day",
+      "localizedNames": {
+        "ko": "순국선열의 날", "en": "Martyrs' Day", "ja": "殉教者の日",
+        "zh": "烈士纪念日", "es": "Día de los Mártires", "fr": "Journée des Martyrs",
+        "de": "Märtyrertag", "pt": "Dia dos Mártires"
+      }
+    },
+    "armed_forces_day_generic": {
+      "defaultName": "Armed Forces Day",
+      "localizedNames": {
+        "ko": "국군의 날", "en": "Armed Forces Day", "ja": "軍人の日",
+        "zh": "建军节", "es": "Día de las Fuerzas Armadas", "fr": "Journée des Forces armées",
+        "de": "Tag der Streitkräfte", "pt": "Dia das Forças Armadas"
+      }
+    },
+    "national_unity_day_generic": {
+      "defaultName": "National Unity Day",
+      "localizedNames": {
+        "ko": "국가통합의 날", "en": "National Unity Day", "ja": "国家統一記念日",
+        "zh": "国家统一日", "es": "Día de la Unidad Nacional", "fr": "Journée de l'Unité nationale",
+        "de": "Tag der nationalen Einheit", "pt": "Dia da Unidade Nacional"
+      }
+    },
+    "founding_day_generic": {
+      "defaultName": "Founding Day",
+      "localizedNames": {
+        "ko": "건국기념일", "en": "Founding Day", "ja": "建国記念日",
+        "zh": "建国纪念日", "es": "Día de la Fundación", "fr": "Jour de la Fondation",
+        "de": "Gründungstag", "pt": "Dia da Fundação"
+      }
+    }
+  }
+}

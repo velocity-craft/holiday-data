@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "_comment": "Date computation rules referenced by overrides/{CC}.json. build.py interprets these to expand dates for each target year.",
+  "rules": {
+
+    "fixed_jan_1":  { "type": "fixed", "month": 1,  "day": 1  },
+    "fixed_jan_6":  { "type": "fixed", "month": 1,  "day": 6  },
+    "fixed_jan_26": { "type": "fixed", "month": 1,  "day": 26 },
+    "fixed_feb_2":  { "type": "fixed", "month": 2,  "day": 2  },
+    "fixed_feb_6":  { "type": "fixed", "month": 2,  "day": 6  },
+    "fixed_feb_11": { "type": "fixed", "month": 2,  "day": 11 },
+    "fixed_feb_23": { "type": "fixed", "month": 2,  "day": 23 },
+    "fixed_mar_1":  { "type": "fixed", "month": 3,  "day": 1  },
+    "fixed_mar_17": { "type": "fixed", "month": 3,  "day": 17 },
+    "fixed_apr_25": { "type": "fixed", "month": 4,  "day": 25 },
+    "fixed_apr_29": { "type": "fixed", "month": 4,  "day": 29 },
+    "fixed_may_1":  { "type": "fixed", "month": 5,  "day": 1  },
+    "fixed_may_3":  { "type": "fixed", "month": 5,  "day": 3  },
+    "fixed_may_4":  { "type": "fixed", "month": 5,  "day": 4  },
+    "fixed_may_5":  { "type": "fixed", "month": 5,  "day": 5  },
+    "fixed_may_8":  { "type": "fixed", "month": 5,  "day": 8  },
+    "fixed_jun_9":  { "type": "fixed", "month": 6,  "day": 9  },
+    "fixed_jun_19": { "type": "fixed", "month": 6,  "day": 19 },
+    "fixed_jul_1":  { "type": "fixed", "month": 7,  "day": 1  },
+    "fixed_jul_4":  { "type": "fixed", "month": 7,  "day": 4  },
+    "fixed_jul_14": { "type": "fixed", "month": 7,  "day": 14 },
+    "fixed_aug_1":  { "type": "fixed", "month": 8,  "day": 1  },
+    "fixed_aug_11": { "type": "fixed", "month": 8,  "day": 11 },
+    "fixed_aug_15": { "type": "fixed", "month": 8,  "day": 15 },
+    "fixed_aug_17": { "type": "fixed", "month": 8,  "day": 17 },
+    "fixed_oct_1":  { "type": "fixed", "month": 10, "day": 1  },
+    "fixed_oct_2":  { "type": "fixed", "month": 10, "day": 2  },
+    "fixed_oct_3":  { "type": "fixed", "month": 10, "day": 3  },
+    "fixed_oct_9":  { "type": "fixed", "month": 10, "day": 9  },
+    "fixed_nov_1":  { "type": "fixed", "month": 11, "day": 1  },
+    "fixed_nov_2":  { "type": "fixed", "month": 11, "day": 2  },
+    "fixed_nov_3":  { "type": "fixed", "month": 11, "day": 3  },
+    "fixed_nov_11": { "type": "fixed", "month": 11, "day": 11 },
+    "fixed_nov_23": { "type": "fixed", "month": 11, "day": 23 },
+    "fixed_nov_30": { "type": "fixed", "month": 11, "day": 30 },
+    "fixed_dec_8":  { "type": "fixed", "month": 12, "day": 8  },
+    "fixed_dec_24": { "type": "fixed", "month": 12, "day": 24 },
+    "fixed_dec_25": { "type": "fixed", "month": 12, "day": 25 },
+    "fixed_dec_26": { "type": "fixed", "month": 12, "day": 26 },
+    "fixed_dec_31": { "type": "fixed", "month": 12, "day": 31 },
+
+    "nth_mon_jan_2": { "type": "nth_weekday", "month": 1,  "weekday": "MON", "ordinal": 2 },
+    "nth_mon_jan_3": { "type": "nth_weekday", "month": 1,  "weekday": "MON", "ordinal": 3 },
+    "nth_mon_feb_3": { "type": "nth_weekday", "month": 2,  "weekday": "MON", "ordinal": 3 },
+    "nth_mon_may_2": { "type": "nth_weekday", "month": 5,  "weekday": "MON", "ordinal": 2 },
+    "nth_sun_may_2": { "type": "nth_weekday", "month": 5,  "weekday": "SUN", "ordinal": 2 },
+    "nth_mon_sep_1": { "type": "nth_weekday", "month": 9,  "weekday": "MON", "ordinal": 1 },
+    "nth_mon_sep_3": { "type": "nth_weekday", "month": 9,  "weekday": "MON", "ordinal": 3 },
+    "nth_mon_oct_2": { "type": "nth_weekday", "month": 10, "weekday": "MON", "ordinal": 2 },
+    "nth_thu_nov_4": { "type": "nth_weekday", "month": 11, "weekday": "THU", "ordinal": 4 },
+    "nth_mon_jul_3": { "type": "nth_weekday", "month": 7,  "weekday": "MON", "ordinal": 3 },
+
+    "last_mon_may": { "type": "last_weekday", "month": 5,  "weekday": "MON" },
+    "last_mon_aug": { "type": "last_weekday", "month": 8,  "weekday": "MON" },
+    "last_mon_oct": { "type": "last_weekday", "month": 10, "weekday": "MON" },
+
+    "mon_before_may_25": {
+      "type": "nearest_weekday_before_or_on",
+      "weekday": "MON",
+      "month": 5,
+      "day": 25,
+      "_note": "Victoria Day Canada: Monday on or before May 25"
+    },
+
+    "computus_western": {
+      "type": "computus",
+      "variant": "western",
+      "_note": "Gregorian Easter — Anonymous Gregorian algorithm"
+    },
+    "computus_eastern": {
+      "type": "computus",
+      "variant": "eastern",
+      "_note": "Julian Easter converted to Gregorian calendar"
+    },
+
+    "offset_computus_western_neg2": {
+      "type": "offset", "base": "computus_western", "days": -2,
+      "_note": "Good Friday"
+    },
+    "offset_computus_western_neg1": {
+      "type": "offset", "base": "computus_western", "days": -1,
+      "_note": "Holy Saturday"
+    },
+    "offset_computus_western_1": {
+      "type": "offset", "base": "computus_western", "days": 1,
+      "_note": "Easter Monday"
+    },
+    "offset_computus_western_39": {
+      "type": "offset", "base": "computus_western", "days": 39,
+      "_note": "Ascension Day (39 days after Easter)"
+    },
+    "offset_computus_western_49": {
+      "type": "offset", "base": "computus_western", "days": 49,
+      "_note": "Whit Sunday / Pentecost (49 days after Easter)"
+    },
+    "offset_computus_western_50": {
+      "type": "offset", "base": "computus_western", "days": 50,
+      "_note": "Whit Monday (50 days after Easter)"
+    },
+    "offset_computus_western_60": {
+      "type": "offset", "base": "computus_western", "days": 60,
+      "_note": "Corpus Christi (60 days after Easter)"
+    },
+    "offset_computus_eastern_1": {
+      "type": "offset", "base": "computus_eastern", "days": 1,
+      "_note": "Orthodox Easter Monday"
+    },
+
+    "chinese_lunar_1_1": {
+      "type": "lunisolar", "calendar": "chinese", "month": 1, "day": 1,
+      "_note": "Chinese New Year / Spring Festival"
+    },
+    "chinese_lunar_1_2": {
+      "type": "lunisolar", "calendar": "chinese", "month": 1, "day": 2
+    },
+    "chinese_lunar_5_5": {
+      "type": "lunisolar", "calendar": "chinese", "month": 5, "day": 5,
+      "_note": "Dragon Boat Festival"
+    },
+    "chinese_lunar_8_15": {
+      "type": "lunisolar", "calendar": "chinese", "month": 8, "day": 15,
+      "_note": "Mid-Autumn Festival"
+    },
+    "solar_term_qingming": {
+      "type": "solar_term",
+      "longitude": 15,
+      "_note": "Qingming: sun reaches ecliptic longitude 15° (approx. April 4–5)"
+    },
+
+    "korean_lunar_1_neg1": {
+      "type": "lunisolar", "calendar": "korean", "month": 1, "day": -1,
+      "_note": "Seollal Eve (day before Lunar New Year)"
+    },
+    "korean_lunar_1_1": {
+      "type": "lunisolar", "calendar": "korean", "month": 1, "day": 1,
+      "_note": "Seollal / Korean Lunar New Year"
+    },
+    "korean_lunar_1_2": {
+      "type": "lunisolar", "calendar": "korean", "month": 1, "day": 2
+    },
+    "korean_lunar_8_14": {
+      "type": "lunisolar", "calendar": "korean", "month": 8, "day": 14,
+      "_note": "Chuseok Eve"
+    },
+    "korean_lunar_8_15": {
+      "type": "lunisolar", "calendar": "korean", "month": 8, "day": 15,
+      "_note": "Chuseok"
+    },
+    "korean_lunar_8_16": {
+      "type": "lunisolar", "calendar": "korean", "month": 8, "day": 16
+    },
+
+    "islamic_muharram_1": {
+      "type": "lunisolar", "calendar": "hijri", "month": 1, "day": 1,
+      "_note": "Islamic New Year — Muharram 1"
+    },
+    "islamic_rabi_12": {
+      "type": "lunisolar", "calendar": "hijri", "month": 3, "day": 12,
+      "_note": "Mawlid al-Nabi (Sunni) — Rabi al-Awwal 12"
+    },
+    "islamic_rajab_27": {
+      "type": "lunisolar", "calendar": "hijri", "month": 7, "day": 27,
+      "_note": "Isra Mi'raj — Rajab 27"
+    },
+    "islamic_ramadan_27": {
+      "type": "lunisolar", "calendar": "hijri", "month": 9, "day": 27,
+      "_note": "Laylat al-Qadr (approximate) — Ramadan 27"
+    },
+    "islamic_shawwal_1": {
+      "type": "lunisolar", "calendar": "hijri", "month": 10, "day": 1,
+      "_note": "Eid al-Fitr — Shawwal 1"
+    },
+    "islamic_shawwal_2": {
+      "type": "lunisolar", "calendar": "hijri", "month": 10, "day": 2
+    },
+    "islamic_shawwal_3": {
+      "type": "lunisolar", "calendar": "hijri", "month": 10, "day": 3
+    },
+    "islamic_dhul_hijja_10": {
+      "type": "lunisolar", "calendar": "hijri", "month": 12, "day": 10,
+      "_note": "Eid al-Adha — Dhul Hijjah 10"
+    },
+    "islamic_dhul_hijja_11": {
+      "type": "lunisolar", "calendar": "hijri", "month": 12, "day": 11
+    },
+    "islamic_dhul_hijja_12": {
+      "type": "lunisolar", "calendar": "hijri", "month": 12, "day": 12
+    },
+
+    "hindu_diwali": {
+      "type": "lunisolar",
+      "calendar": "hindu",
+      "month": "kartika",
+      "tithi": "amavasya",
+      "_note": "Diwali: new moon night of Kartika (October–November)"
+    },
+    "hindu_holi": {
+      "type": "lunisolar",
+      "calendar": "hindu",
+      "month": "phalguna",
+      "tithi": "purnima",
+      "_note": "Holi: full moon of Phalguna (February–March)"
+    },
+
+    "japan_autumnal_equinox_computed": {
+      "type": "astronomical",
+      "event": "autumnal_equinox",
+      "timezone": "Asia/Tokyo",
+      "_note": "Exact date varies by year; determined by Japanese National Astronomical Observatory"
+    },
+    "japan_vernal_equinox_computed": {
+      "type": "astronomical",
+      "event": "vernal_equinox",
+      "timezone": "Asia/Tokyo",
+      "_note": "Exact date varies by year"
+    }
+  }
+}

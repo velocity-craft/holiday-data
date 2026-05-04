@@ -1,0 +1,18 @@
+{
+  "countryCode": "US",
+  "countryName": "United States",
+  "timeZone": "America/New_York",
+  "holidays": [
+    { "template": "new_year",         "rule": "fixed_jan_1"  },
+    { "template": "us_mlk_day",       "rule": "nth_mon_jan_3" },
+    { "template": "us_presidents_day","rule": "nth_mon_feb_3" },
+    { "template": "us_memorial_day",  "rule": "last_mon_may"  },
+    { "template": "us_juneteenth",    "rule": "fixed_jun_19"  },
+    { "template": "us_independence_day", "rule": "fixed_jul_4" },
+    { "template": "us_labor_day",     "rule": "nth_mon_sep_1" },
+    { "template": "us_columbus_day",  "rule": "nth_mon_oct_2" },
+    { "template": "us_veterans_day",  "rule": "fixed_nov_11"  },
+    { "template": "us_thanksgiving",  "rule": "nth_thu_nov_4" },
+    { "template": "christmas",        "rule": "fixed_dec_25"  }
+  ]
+}
