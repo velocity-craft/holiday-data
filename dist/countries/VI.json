@@ -1,0 +1,404 @@
+{
+  "countryCode": "VI",
+  "countryName": "Virgin Islands, U.S.",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-19",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Präsidententag",
+        "en": "Presidents' Day",
+        "es": "Día de los Presidentes",
+        "fr": "Jour des Présidents",
+        "ja": "大統領の日",
+        "ko": "대통령의 날",
+        "pt": "Dia dos Presidentes",
+        "zh": "总统日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-31",
+      "localizedNames": {
+        "de": "Transfer Day",
+        "en": "Transfer Day",
+        "es": "Transfer Day",
+        "fr": "Transfer Day",
+        "ja": "Transfer Day",
+        "ko": "Transfer Day",
+        "pt": "Transfer Day",
+        "zh": "Transfer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Holy Thursday",
+        "en": "Holy Thursday",
+        "es": "Holy Thursday",
+        "fr": "Holy Thursday",
+        "ja": "Holy Thursday",
+        "ko": "Holy Thursday",
+        "pt": "Holy Thursday",
+        "zh": "Holy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-03",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Columbus Day and Puerto Rico Friendship Day",
+        "en": "Columbus Day and Puerto Rico Friendship Day",
+        "es": "Columbus Day and Puerto Rico Friendship Day",
+        "fr": "Columbus Day and Puerto Rico Friendship Day",
+        "ja": "Columbus Day and Puerto Rico Friendship Day",
+        "ko": "Columbus Day and Puerto Rico Friendship Day",
+        "pt": "Columbus Day and Puerto Rico Friendship Day",
+        "zh": "Columbus Day and Puerto Rico Friendship Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Liberty Day",
+        "en": "Liberty Day",
+        "es": "Liberty Day",
+        "fr": "Liberty Day",
+        "ja": "Liberty Day",
+        "ko": "Liberty Day",
+        "pt": "Liberty Day",
+        "zh": "Liberty Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Christmas Second Day",
+        "en": "Christmas Second Day",
+        "es": "Christmas Second Day",
+        "fr": "Christmas Second Day",
+        "ja": "Christmas Second Day",
+        "ko": "Christmas Second Day",
+        "pt": "Christmas Second Day",
+        "zh": "Christmas Second Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-18",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-15",
+      "localizedNames": {
+        "de": "Präsidententag",
+        "en": "Presidents' Day",
+        "es": "Día de los Presidentes",
+        "fr": "Jour des Présidents",
+        "ja": "大統領の日",
+        "ko": "대통령의 날",
+        "pt": "Dia dos Presidentes",
+        "zh": "总统日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Holy Thursday",
+        "en": "Holy Thursday",
+        "es": "Holy Thursday",
+        "fr": "Holy Thursday",
+        "ja": "Holy Thursday",
+        "ko": "Holy Thursday",
+        "pt": "Holy Thursday",
+        "zh": "Holy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-31",
+      "localizedNames": {
+        "de": "Transfer Day",
+        "en": "Transfer Day",
+        "es": "Transfer Day",
+        "fr": "Transfer Day",
+        "ja": "Transfer Day",
+        "ko": "Transfer Day",
+        "pt": "Transfer Day",
+        "zh": "Transfer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-31",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-03",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "Columbus Day and Puerto Rico Friendship Day",
+        "en": "Columbus Day and Puerto Rico Friendship Day",
+        "es": "Columbus Day and Puerto Rico Friendship Day",
+        "fr": "Columbus Day and Puerto Rico Friendship Day",
+        "ja": "Columbus Day and Puerto Rico Friendship Day",
+        "ko": "Columbus Day and Puerto Rico Friendship Day",
+        "pt": "Columbus Day and Puerto Rico Friendship Day",
+        "zh": "Columbus Day and Puerto Rico Friendship Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Liberty Day",
+        "en": "Liberty Day",
+        "es": "Liberty Day",
+        "fr": "Liberty Day",
+        "ja": "Liberty Day",
+        "ko": "Liberty Day",
+        "pt": "Liberty Day",
+        "zh": "Liberty Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Christmas Second Day",
+        "en": "Christmas Second Day",
+        "es": "Christmas Second Day",
+        "fr": "Christmas Second Day",
+        "ja": "Christmas Second Day",
+        "ko": "Christmas Second Day",
+        "pt": "Christmas Second Day",
+        "zh": "Christmas Second Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/St_Thomas",
+  "years": [
+    2026,
+    2027
+  ]
+}

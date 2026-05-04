@@ -1,0 +1,236 @@
+{
+  "countryCode": "BS",
+  "countryName": "Bahamas",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-10",
+      "localizedNames": {
+        "de": "Majority Rule Day",
+        "en": "Majority Rule Day",
+        "es": "Majority Rule Day",
+        "fr": "Majority Rule Day",
+        "ja": "Majority Rule Day",
+        "ko": "Majority Rule Day",
+        "pt": "Majority Rule Day",
+        "zh": "Majority Rule Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-05",
+      "localizedNames": {
+        "de": "Randol Fawkes Labour Day",
+        "en": "Randol Fawkes Labour Day",
+        "es": "Randol Fawkes Labour Day",
+        "fr": "Randol Fawkes Labour Day",
+        "ja": "Randol Fawkes Labour Day",
+        "ko": "Randol Fawkes Labour Day",
+        "pt": "Randol Fawkes Labour Day",
+        "zh": "Randol Fawkes Labour Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-10",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-10",
+      "localizedNames": {
+        "de": "Majority Rule Day",
+        "en": "Majority Rule Day",
+        "es": "Majority Rule Day",
+        "fr": "Majority Rule Day",
+        "ja": "Majority Rule Day",
+        "ko": "Majority Rule Day",
+        "pt": "Majority Rule Day",
+        "zh": "Majority Rule Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-04",
+      "localizedNames": {
+        "de": "Randol Fawkes Labour Day",
+        "en": "Randol Fawkes Labour Day",
+        "es": "Randol Fawkes Labour Day",
+        "fr": "Randol Fawkes Labour Day",
+        "ja": "Randol Fawkes Labour Day",
+        "ko": "Randol Fawkes Labour Day",
+        "pt": "Randol Fawkes Labour Day",
+        "zh": "Randol Fawkes Labour Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-10",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Nassau",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "timeZone": "Europe/Sarajevo",
+  "holidays": [
+    {
+      "template": "ba_orthodox_christmas_day",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ba_catholic_easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ba_orthodox_good_friday",
+      "rule": "offset_computus_eastern_neg2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ba_catholic_christmas_day",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

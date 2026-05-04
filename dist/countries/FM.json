@@ -1,0 +1,236 @@
+{
+  "countryCode": "FM",
+  "countryName": "Micronesia, Federated States of",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-31",
+      "localizedNames": {
+        "de": "Micronesian Culture and Tradition Day",
+        "en": "Micronesian Culture and Tradition Day",
+        "es": "Micronesian Culture and Tradition Day",
+        "fr": "Micronesian Culture and Tradition Day",
+        "ja": "Micronesian Culture and Tradition Day",
+        "ko": "Micronesian Culture and Tradition Day",
+        "pt": "Micronesian Culture and Tradition Day",
+        "zh": "Micronesian Culture and Tradition Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-10",
+      "localizedNames": {
+        "de": "Federated States of Micronesia Day",
+        "en": "Federated States of Micronesia Day",
+        "es": "Federated States of Micronesia Day",
+        "fr": "Federated States of Micronesia Day",
+        "ja": "Federated States of Micronesia Day",
+        "ko": "Federated States of Micronesia Day",
+        "pt": "Federated States of Micronesia Day",
+        "zh": "Federated States of Micronesia Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-24",
+      "localizedNames": {
+        "de": "United Nations Day",
+        "en": "United Nations Day",
+        "es": "United Nations Day",
+        "fr": "United Nations Day",
+        "ja": "United Nations Day",
+        "ko": "United Nations Day",
+        "pt": "United Nations Day",
+        "zh": "United Nations Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-03",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-11",
+      "localizedNames": {
+        "de": "FSM Veterans of Foreign Wars Day",
+        "en": "FSM Veterans of Foreign Wars Day",
+        "es": "FSM Veterans of Foreign Wars Day",
+        "fr": "FSM Veterans of Foreign Wars Day",
+        "ja": "FSM Veterans of Foreign Wars Day",
+        "ko": "FSM Veterans of Foreign Wars Day",
+        "pt": "FSM Veterans of Foreign Wars Day",
+        "zh": "FSM Veterans of Foreign Wars Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-23",
+      "localizedNames": {
+        "de": "Präsidententag",
+        "en": "Presidents' Day",
+        "es": "Día de los Presidentes",
+        "fr": "Jour des Présidents",
+        "ja": "大統領の日",
+        "ko": "대통령의 날",
+        "pt": "Dia dos Presidentes",
+        "zh": "总统日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-31",
+      "localizedNames": {
+        "de": "Micronesian Culture and Tradition Day",
+        "en": "Micronesian Culture and Tradition Day",
+        "es": "Micronesian Culture and Tradition Day",
+        "fr": "Micronesian Culture and Tradition Day",
+        "ja": "Micronesian Culture and Tradition Day",
+        "ko": "Micronesian Culture and Tradition Day",
+        "pt": "Micronesian Culture and Tradition Day",
+        "zh": "Micronesian Culture and Tradition Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-10",
+      "localizedNames": {
+        "de": "Federated States of Micronesia Day",
+        "en": "Federated States of Micronesia Day",
+        "es": "Federated States of Micronesia Day",
+        "fr": "Federated States of Micronesia Day",
+        "ja": "Federated States of Micronesia Day",
+        "ko": "Federated States of Micronesia Day",
+        "pt": "Federated States of Micronesia Day",
+        "zh": "Federated States of Micronesia Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-24",
+      "localizedNames": {
+        "de": "United Nations Day",
+        "en": "United Nations Day",
+        "es": "United Nations Day",
+        "fr": "United Nations Day",
+        "ja": "United Nations Day",
+        "ko": "United Nations Day",
+        "pt": "United Nations Day",
+        "zh": "United Nations Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-03",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-11",
+      "localizedNames": {
+        "de": "FSM Veterans of Foreign Wars Day",
+        "en": "FSM Veterans of Foreign Wars Day",
+        "es": "FSM Veterans of Foreign Wars Day",
+        "fr": "FSM Veterans of Foreign Wars Day",
+        "ja": "FSM Veterans of Foreign Wars Day",
+        "ko": "FSM Veterans of Foreign Wars Day",
+        "pt": "FSM Veterans of Foreign Wars Day",
+        "zh": "FSM Veterans of Foreign Wars Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-23",
+      "localizedNames": {
+        "de": "Präsidententag",
+        "en": "Presidents' Day",
+        "es": "Día de los Presidentes",
+        "fr": "Jour des Présidents",
+        "ja": "大統領の日",
+        "ko": "대통령의 날",
+        "pt": "Dia dos Presidentes",
+        "zh": "总统日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Chuuk",
+  "years": [
+    2026,
+    2027
+  ]
+}

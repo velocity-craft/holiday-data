@@ -1,0 +1,264 @@
+{
+  "countryCode": "TC",
+  "countryName": "Turks and Caicos Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-09",
+      "localizedNames": {
+        "de": "Commonwealth Day",
+        "en": "Commonwealth Day",
+        "es": "Commonwealth Day",
+        "fr": "Commonwealth Day",
+        "ja": "Commonwealth Day",
+        "ko": "Commonwealth Day",
+        "pt": "Commonwealth Day",
+        "zh": "Commonwealth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "JAGS McCartney Day",
+        "en": "JAGS McCartney Day",
+        "es": "JAGS McCartney Day",
+        "fr": "JAGS McCartney Day",
+        "ja": "JAGS McCartney Day",
+        "ko": "JAGS McCartney Day",
+        "pt": "JAGS McCartney Day",
+        "zh": "JAGS McCartney Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-31",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-25",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "National Heritage Day",
+        "en": "National Heritage Day",
+        "es": "National Heritage Day",
+        "fr": "National Heritage Day",
+        "ja": "National Heritage Day",
+        "ko": "National Heritage Day",
+        "pt": "National Heritage Day",
+        "zh": "National Heritage Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "Commonwealth Day",
+        "en": "Commonwealth Day",
+        "es": "Commonwealth Day",
+        "fr": "Commonwealth Day",
+        "ja": "Commonwealth Day",
+        "ko": "Commonwealth Day",
+        "pt": "Commonwealth Day",
+        "zh": "Commonwealth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-31",
+      "localizedNames": {
+        "de": "JAGS McCartney Day",
+        "en": "JAGS McCartney Day",
+        "es": "JAGS McCartney Day",
+        "fr": "JAGS McCartney Day",
+        "ja": "JAGS McCartney Day",
+        "ko": "JAGS McCartney Day",
+        "pt": "JAGS McCartney Day",
+        "zh": "JAGS McCartney Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-30",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-24",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "National Heritage Day",
+        "en": "National Heritage Day",
+        "es": "National Heritage Day",
+        "fr": "National Heritage Day",
+        "ja": "National Heritage Day",
+        "ko": "National Heritage Day",
+        "pt": "National Heritage Day",
+        "zh": "National Heritage Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Grand_Turk",
+  "years": [
+    2026,
+    2027
+  ]
+}

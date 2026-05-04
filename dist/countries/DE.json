@@ -1,0 +1,96 @@
+{
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-03",
+      "localizedNames": {
+        "de": "Tag der Deutschen Einheit",
+        "en": "German Unity Day",
+        "es": "Día de la Unidad Alemana",
+        "fr": "Jour de l'Unité allemande",
+        "ja": "ドイツ統一記念日",
+        "ko": "독일 통일의 날",
+        "pt": "Dia da Unidade Alemã",
+        "zh": "德国统一日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-03",
+      "localizedNames": {
+        "de": "Tag der Deutschen Einheit",
+        "en": "German Unity Day",
+        "es": "Día de la Unidad Alemana",
+        "fr": "Jour de l'Unité allemande",
+        "ja": "ドイツ統一記念日",
+        "ko": "독일 통일의 날",
+        "pt": "Dia da Unidade Alemã",
+        "zh": "德国统一日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Berlin",
+  "years": [
+    2026,
+    2027
+  ]
+}

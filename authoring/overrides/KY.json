@@ -1,0 +1,55 @@
+{
+  "countryCode": "KY",
+  "countryName": "Cayman Islands",
+  "timeZone": "America/Cayman",
+  "holidays": [
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "nth_mon_jan_4"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "cv_ash_wednesday",
+      "rule": "offset_computus_western_neg46"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "id_general_election_day",
+      "rule": "fixed_apr_30"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "nth_mon_may_1"
+    },
+    {
+      "template": "ky_discovery_day",
+      "rule": "nth_mon_may_3"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "nth_mon_jul_1"
+    },
+    {
+      "template": "armistice_day_generic",
+      "rule": "nth_mon_nov_2"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

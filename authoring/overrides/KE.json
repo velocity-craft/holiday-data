@@ -1,0 +1,63 @@
+{
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "timeZone": "Africa/Nairobi",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ke_national_tree_growing_day",
+      "rule": "fixed_may_10"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ke_madaraka_day",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "ke_mashujaa_day",
+      "rule": "fixed_oct_20"
+    },
+    {
+      "template": "ke_mazingira_day",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "ke_utamaduni_day",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "ke_inauguration_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "ke_jamhuri_day",
+      "rule": "fixed_dec_12"
+    }
+  ]
+}

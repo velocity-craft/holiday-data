@@ -1,0 +1,264 @@
+{
+  "countryCode": "SR",
+  "countryName": "Suriname",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "Day of Freedoms",
+        "en": "Day of Freedoms",
+        "es": "Day of Freedoms",
+        "fr": "Day of Freedoms",
+        "ja": "Day of Freedoms",
+        "ko": "Day of Freedoms",
+        "pt": "Day of Freedoms",
+        "zh": "Day of Freedoms"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-09",
+      "localizedNames": {
+        "de": "Indigenous People Day",
+        "en": "Indigenous People Day",
+        "es": "Indigenous People Day",
+        "fr": "Indigenous People Day",
+        "ja": "Indigenous People Day",
+        "ko": "Indigenous People Day",
+        "pt": "Indigenous People Day",
+        "zh": "Indigenous People Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-10",
+      "localizedNames": {
+        "de": "Day of the Maroons",
+        "en": "Day of the Maroons",
+        "es": "Day of the Maroons",
+        "fr": "Day of the Maroons",
+        "ja": "Day of the Maroons",
+        "ko": "Day of the Maroons",
+        "pt": "Day of the Maroons",
+        "zh": "Day of the Maroons"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-08",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-25",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "Day of Freedoms",
+        "en": "Day of Freedoms",
+        "es": "Day of Freedoms",
+        "fr": "Day of Freedoms",
+        "ja": "Day of Freedoms",
+        "ko": "Day of Freedoms",
+        "pt": "Day of Freedoms",
+        "zh": "Day of Freedoms"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-09",
+      "localizedNames": {
+        "de": "Indigenous People Day",
+        "en": "Indigenous People Day",
+        "es": "Indigenous People Day",
+        "fr": "Indigenous People Day",
+        "ja": "Indigenous People Day",
+        "ko": "Indigenous People Day",
+        "pt": "Indigenous People Day",
+        "zh": "Indigenous People Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-10",
+      "localizedNames": {
+        "de": "Day of the Maroons",
+        "en": "Day of the Maroons",
+        "es": "Day of the Maroons",
+        "fr": "Day of the Maroons",
+        "ja": "Day of the Maroons",
+        "ko": "Day of the Maroons",
+        "pt": "Day of the Maroons",
+        "zh": "Day of the Maroons"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-25",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Paramaribo",
+  "years": [
+    2026,
+    2027
+  ]
+}

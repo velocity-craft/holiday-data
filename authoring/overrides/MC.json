@@ -1,0 +1,51 @@
+{
+  "countryCode": "MC",
+  "countryName": "Monaco",
+  "timeZone": "Europe/Monaco",
+  "holidays": [
+    {
+      "template": "mc_saint_devote_s_day",
+      "rule": "fixed_jan_27"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "mc_prince_s_day",
+      "rule": "fixed_nov_19"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

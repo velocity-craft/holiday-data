@@ -1,0 +1,39 @@
+{
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "timeZone": "America/Santo_Domingo",
+  "holidays": [
+    {
+      "template": "do_lady_of_altagracia",
+      "rule": "fixed_jan_21"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_feb_27"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "do_restoration_day",
+      "rule": "fixed_aug_16"
+    },
+    {
+      "template": "do_our_lady_of_mercedes_day",
+      "rule": "fixed_sep_24"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

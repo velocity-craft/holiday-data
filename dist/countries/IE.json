@@ -1,0 +1,236 @@
+{
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-02",
+      "localizedNames": {
+        "de": "Saint Brigid's Day",
+        "en": "Saint Brigid's Day",
+        "es": "Saint Brigid's Day",
+        "fr": "Saint Brigid's Day",
+        "ja": "Saint Brigid's Day",
+        "ko": "Saint Brigid's Day",
+        "pt": "Saint Brigid's Day",
+        "zh": "Saint Brigid's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-17",
+      "localizedNames": {
+        "de": "Saint Patrick's Day",
+        "en": "Saint Patrick's Day",
+        "es": "Saint Patrick's Day",
+        "fr": "Saint Patrick's Day",
+        "ja": "Saint Patrick's Day",
+        "ko": "Saint Patrick's Day",
+        "pt": "Saint Patrick's Day",
+        "zh": "Saint Patrick's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "June Bank Holiday",
+        "en": "June Bank Holiday",
+        "es": "June Bank Holiday",
+        "fr": "June Bank Holiday",
+        "ja": "June Bank Holiday",
+        "ko": "June Bank Holiday",
+        "pt": "June Bank Holiday",
+        "zh": "June Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "August Bank Holiday",
+        "en": "August Bank Holiday",
+        "es": "August Bank Holiday",
+        "fr": "August Bank Holiday",
+        "ja": "August Bank Holiday",
+        "ko": "August Bank Holiday",
+        "pt": "August Bank Holiday",
+        "zh": "August Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-26",
+      "localizedNames": {
+        "de": "October Bank Holiday",
+        "en": "October Bank Holiday",
+        "es": "October Bank Holiday",
+        "fr": "October Bank Holiday",
+        "ja": "October Bank Holiday",
+        "ko": "October Bank Holiday",
+        "pt": "October Bank Holiday",
+        "zh": "October Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-01",
+      "localizedNames": {
+        "de": "Saint Brigid's Day",
+        "en": "Saint Brigid's Day",
+        "es": "Saint Brigid's Day",
+        "fr": "Saint Brigid's Day",
+        "ja": "Saint Brigid's Day",
+        "ko": "Saint Brigid's Day",
+        "pt": "Saint Brigid's Day",
+        "zh": "Saint Brigid's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-17",
+      "localizedNames": {
+        "de": "Saint Patrick's Day",
+        "en": "Saint Patrick's Day",
+        "es": "Saint Patrick's Day",
+        "fr": "Saint Patrick's Day",
+        "ja": "Saint Patrick's Day",
+        "ko": "Saint Patrick's Day",
+        "pt": "Saint Patrick's Day",
+        "zh": "Saint Patrick's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-07",
+      "localizedNames": {
+        "de": "June Bank Holiday",
+        "en": "June Bank Holiday",
+        "es": "June Bank Holiday",
+        "fr": "June Bank Holiday",
+        "ja": "June Bank Holiday",
+        "ko": "June Bank Holiday",
+        "pt": "June Bank Holiday",
+        "zh": "June Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "August Bank Holiday",
+        "en": "August Bank Holiday",
+        "es": "August Bank Holiday",
+        "fr": "August Bank Holiday",
+        "ja": "August Bank Holiday",
+        "ko": "August Bank Holiday",
+        "pt": "August Bank Holiday",
+        "zh": "August Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-25",
+      "localizedNames": {
+        "de": "October Bank Holiday",
+        "en": "October Bank Holiday",
+        "es": "October Bank Holiday",
+        "fr": "October Bank Holiday",
+        "ja": "October Bank Holiday",
+        "ko": "October Bank Holiday",
+        "pt": "October Bank Holiday",
+        "zh": "October Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Dublin",
+  "years": [
+    2026,
+    2027
+  ]
+}

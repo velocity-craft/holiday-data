@@ -1,0 +1,63 @@
+{
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "timeZone": "Africa/Malabo",
+  "holidays": [
+    {
+      "template": "gq_afcon_victory_against_ivory_coast",
+      "rule": "fixed_jan_23"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "gq_african_liberation_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "bw_president_s_day",
+      "rule": "fixed_jun_5"
+    },
+    {
+      "template": "armed_forces_day_generic",
+      "rule": "fixed_aug_3"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_12"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

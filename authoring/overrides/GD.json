@@ -1,0 +1,59 @@
+{
+  "countryCode": "GD",
+  "countryName": "Grenada",
+  "timeZone": "America/Grenada",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_feb_7"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "ag_carnival_monday",
+      "rule": "nth_mon_aug_2"
+    },
+    {
+      "template": "ag_carnival_tuesday",
+      "rule": "nth_tue_aug_2"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "fixed_oct_19"
+    },
+    {
+      "template": "thanksgiving_day_generic",
+      "rule": "fixed_oct_25"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

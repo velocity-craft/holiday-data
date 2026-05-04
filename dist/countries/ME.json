@@ -1,0 +1,124 @@
+{
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-13",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-13",
+      "localizedNames": {
+        "de": "Njegos Day",
+        "en": "Njegos Day",
+        "es": "Njegos Day",
+        "fr": "Njegos Day",
+        "ja": "Njegos Day",
+        "ko": "Njegos Day",
+        "pt": "Njegos Day",
+        "zh": "Njegos Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-13",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-13",
+      "localizedNames": {
+        "de": "Njegos Day",
+        "en": "Njegos Day",
+        "es": "Njegos Day",
+        "fr": "Njegos Day",
+        "ja": "Njegos Day",
+        "ko": "Njegos Day",
+        "pt": "Njegos Day",
+        "zh": "Njegos Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Podgorica",
+  "years": [
+    2026,
+    2027
+  ]
+}

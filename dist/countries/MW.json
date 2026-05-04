@@ -1,0 +1,208 @@
+{
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-15",
+      "localizedNames": {
+        "de": "John Chilembwe Day",
+        "en": "John Chilembwe Day",
+        "es": "John Chilembwe Day",
+        "fr": "John Chilembwe Day",
+        "ja": "John Chilembwe Day",
+        "ko": "John Chilembwe Day",
+        "pt": "John Chilembwe Day",
+        "zh": "John Chilembwe Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-03",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-14",
+      "localizedNames": {
+        "de": "Kamuzu Day",
+        "en": "Kamuzu Day",
+        "es": "Kamuzu Day",
+        "fr": "Kamuzu Day",
+        "ja": "Kamuzu Day",
+        "ko": "Kamuzu Day",
+        "pt": "Kamuzu Day",
+        "zh": "Kamuzu Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-15",
+      "localizedNames": {
+        "de": "John Chilembwe Day",
+        "en": "John Chilembwe Day",
+        "es": "John Chilembwe Day",
+        "fr": "John Chilembwe Day",
+        "ja": "John Chilembwe Day",
+        "ko": "John Chilembwe Day",
+        "pt": "John Chilembwe Day",
+        "zh": "John Chilembwe Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-03",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-14",
+      "localizedNames": {
+        "de": "Kamuzu Day",
+        "en": "Kamuzu Day",
+        "es": "Kamuzu Day",
+        "fr": "Kamuzu Day",
+        "ja": "Kamuzu Day",
+        "ko": "Kamuzu Day",
+        "pt": "Kamuzu Day",
+        "zh": "Kamuzu Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-06",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Blantyre",
+  "years": [
+    2026,
+    2027
+  ]
+}

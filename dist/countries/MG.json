@@ -1,0 +1,236 @@
+{
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-29",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-11",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-29",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-11",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Indian/Antananarivo",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-04",
+      "localizedNames": {
+        "de": "Birthday of the Reigning Sovereign of Tonga",
+        "en": "Birthday of the Reigning Sovereign of Tonga",
+        "es": "Birthday of the Reigning Sovereign of Tonga",
+        "fr": "Birthday of the Reigning Sovereign of Tonga",
+        "ja": "Birthday of the Reigning Sovereign of Tonga",
+        "ko": "Birthday of the Reigning Sovereign of Tonga",
+        "pt": "Birthday of the Reigning Sovereign of Tonga",
+        "zh": "Birthday of the Reigning Sovereign of Tonga"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-17",
+      "localizedNames": {
+        "de": "Birthday of the Heir to the Crown of Tonga",
+        "en": "Birthday of the Heir to the Crown of Tonga",
+        "es": "Birthday of the Heir to the Crown of Tonga",
+        "fr": "Birthday of the Heir to the Crown of Tonga",
+        "ja": "Birthday of the Heir to the Crown of Tonga",
+        "ko": "Birthday of the Heir to the Crown of Tonga",
+        "pt": "Birthday of the Heir to the Crown of Tonga",
+        "zh": "Birthday of the Heir to the Crown of Tonga"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-04",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-04",
+      "localizedNames": {
+        "de": "Birthday of the Reigning Sovereign of Tonga",
+        "en": "Birthday of the Reigning Sovereign of Tonga",
+        "es": "Birthday of the Reigning Sovereign of Tonga",
+        "fr": "Birthday of the Reigning Sovereign of Tonga",
+        "ja": "Birthday of the Reigning Sovereign of Tonga",
+        "ko": "Birthday of the Reigning Sovereign of Tonga",
+        "pt": "Birthday of the Reigning Sovereign of Tonga",
+        "zh": "Birthday of the Reigning Sovereign of Tonga"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-17",
+      "localizedNames": {
+        "de": "Birthday of the Heir to the Crown of Tonga",
+        "en": "Birthday of the Heir to the Crown of Tonga",
+        "es": "Birthday of the Heir to the Crown of Tonga",
+        "fr": "Birthday of the Heir to the Crown of Tonga",
+        "ja": "Birthday of the Heir to the Crown of Tonga",
+        "ko": "Birthday of the Heir to the Crown of Tonga",
+        "pt": "Birthday of the Heir to the Crown of Tonga",
+        "zh": "Birthday of the Heir to the Crown of Tonga"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-04",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Tongatapu",
+  "years": [
+    2026,
+    2027
+  ]
+}

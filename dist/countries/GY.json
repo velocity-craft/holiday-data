@@ -1,0 +1,320 @@
+{
+  "countryCode": "GY",
+  "countryName": "Guyana",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-23",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-05",
+      "localizedNames": {
+        "de": "Arrival Day",
+        "en": "Arrival Day",
+        "es": "Arrival Day",
+        "fr": "Arrival Day",
+        "ja": "Arrival Day",
+        "ko": "Arrival Day",
+        "pt": "Arrival Day",
+        "zh": "Arrival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "CARICOM Day",
+        "en": "CARICOM Day",
+        "es": "CARICOM Day",
+        "fr": "CARICOM Day",
+        "ja": "CARICOM Day",
+        "ko": "CARICOM Day",
+        "pt": "CARICOM Day",
+        "zh": "CARICOM Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-08",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Day After Christmas",
+        "en": "Day After Christmas",
+        "es": "Day After Christmas",
+        "fr": "Day After Christmas",
+        "ja": "Day After Christmas",
+        "ko": "Day After Christmas",
+        "pt": "Day After Christmas",
+        "zh": "Day After Christmas"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-23",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-05",
+      "localizedNames": {
+        "de": "Arrival Day",
+        "en": "Arrival Day",
+        "es": "Arrival Day",
+        "fr": "Arrival Day",
+        "ja": "Arrival Day",
+        "ko": "Arrival Day",
+        "pt": "Arrival Day",
+        "zh": "Arrival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "CARICOM Day",
+        "en": "CARICOM Day",
+        "es": "CARICOM Day",
+        "fr": "CARICOM Day",
+        "ja": "CARICOM Day",
+        "ko": "CARICOM Day",
+        "pt": "CARICOM Day",
+        "zh": "CARICOM Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Day After Christmas",
+        "en": "Day After Christmas",
+        "es": "Day After Christmas",
+        "fr": "Day After Christmas",
+        "ja": "Day After Christmas",
+        "ko": "Day After Christmas",
+        "pt": "Day After Christmas",
+        "zh": "Day After Christmas"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Guyana",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "countryCode": "TJ",
+  "countryName": "Tajikistan",
+  "timeZone": "Asia/Dushanbe",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "mothers_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "tj_international_nowruz_day",
+      "rule": "fixed_mar_21"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "national_unity_day_generic",
+      "rule": "fixed_jun_27"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_9"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_nov_6"
+    }
+  ]
+}

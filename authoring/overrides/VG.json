@@ -1,0 +1,63 @@
+{
+  "countryCode": "VG",
+  "countryName": "Virgin Islands, British",
+  "timeZone": "America/Tortola",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "vg_lavity_stoutt_s_birthday",
+      "rule": "nth_mon_mar_1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "ck_sovereign_s_birthday",
+      "rule": "nth_fri_jun_2"
+    },
+    {
+      "template": "vg_virgin_islands_day",
+      "rule": "nth_mon_jul_1"
+    },
+    {
+      "template": "vg_emancipation_monday",
+      "rule": "nth_mon_aug_1"
+    },
+    {
+      "template": "vg_emancipation_tuesday",
+      "rule": "nth_tue_aug_1"
+    },
+    {
+      "template": "vg_emancipation_wednesday",
+      "rule": "nth_wed_aug_1"
+    },
+    {
+      "template": "vg_heroes_and_foreparents_day",
+      "rule": "nth_mon_oct_3"
+    },
+    {
+      "template": "vg_the_great_march_of_1949_and_restoration_",
+      "rule": "nth_mon_nov_4"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

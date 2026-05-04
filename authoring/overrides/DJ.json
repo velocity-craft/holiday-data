@@ -1,0 +1,59 @@
+{
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "timeZone": "Africa/Djibouti",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "dj_independence_day_holiday",
+      "rule": "fixed_jun_28"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jun_27"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "bn_christmas_day_isra_and_mi_raj_estimated",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

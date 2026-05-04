@@ -1,0 +1,208 @@
+{
+  "countryCode": "GI",
+  "countryName": "Gibraltar",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-28",
+      "localizedNames": {
+        "de": "Workers' Memorial Day",
+        "en": "Workers' Memorial Day",
+        "es": "Workers' Memorial Day",
+        "fr": "Workers' Memorial Day",
+        "ja": "Workers' Memorial Day",
+        "ko": "Workers' Memorial Day",
+        "pt": "Workers' Memorial Day",
+        "zh": "Workers' Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Spring Bank Holiday",
+        "en": "Spring Bank Holiday",
+        "es": "Spring Bank Holiday",
+        "fr": "Spring Bank Holiday",
+        "ja": "Spring Bank Holiday",
+        "ko": "Spring Bank Holiday",
+        "pt": "Spring Bank Holiday",
+        "zh": "Spring Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-31",
+      "localizedNames": {
+        "de": "Late Summer Bank Holiday",
+        "en": "Late Summer Bank Holiday",
+        "es": "Late Summer Bank Holiday",
+        "fr": "Late Summer Bank Holiday",
+        "ja": "Late Summer Bank Holiday",
+        "ko": "Late Summer Bank Holiday",
+        "pt": "Late Summer Bank Holiday",
+        "zh": "Late Summer Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-10",
+      "localizedNames": {
+        "de": "Gibraltar National Day",
+        "en": "Gibraltar National Day",
+        "es": "Gibraltar National Day",
+        "fr": "Gibraltar National Day",
+        "ja": "Gibraltar National Day",
+        "ko": "Gibraltar National Day",
+        "pt": "Gibraltar National Day",
+        "zh": "Gibraltar National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-28",
+      "localizedNames": {
+        "de": "Workers' Memorial Day",
+        "en": "Workers' Memorial Day",
+        "es": "Workers' Memorial Day",
+        "fr": "Workers' Memorial Day",
+        "ja": "Workers' Memorial Day",
+        "ko": "Workers' Memorial Day",
+        "pt": "Workers' Memorial Day",
+        "zh": "Workers' Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-31",
+      "localizedNames": {
+        "de": "Spring Bank Holiday",
+        "en": "Spring Bank Holiday",
+        "es": "Spring Bank Holiday",
+        "fr": "Spring Bank Holiday",
+        "ja": "Spring Bank Holiday",
+        "ko": "Spring Bank Holiday",
+        "pt": "Spring Bank Holiday",
+        "zh": "Spring Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-30",
+      "localizedNames": {
+        "de": "Late Summer Bank Holiday",
+        "en": "Late Summer Bank Holiday",
+        "es": "Late Summer Bank Holiday",
+        "fr": "Late Summer Bank Holiday",
+        "ja": "Late Summer Bank Holiday",
+        "ko": "Late Summer Bank Holiday",
+        "pt": "Late Summer Bank Holiday",
+        "zh": "Late Summer Bank Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-10",
+      "localizedNames": {
+        "de": "Gibraltar National Day",
+        "en": "Gibraltar National Day",
+        "es": "Gibraltar National Day",
+        "fr": "Gibraltar National Day",
+        "ja": "Gibraltar National Day",
+        "ko": "Gibraltar National Day",
+        "pt": "Gibraltar National Day",
+        "zh": "Gibraltar National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Gibraltar",
+  "years": [
+    2026,
+    2027
+  ]
+}

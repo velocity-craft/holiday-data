@@ -1,0 +1,236 @@
+{
+  "countryCode": "NF",
+  "countryName": "Norfolk Island",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-26",
+      "localizedNames": {
+        "de": "Australientag",
+        "en": "Australia Day",
+        "es": "Día de Australia",
+        "fr": "Jour de l'Australie",
+        "ja": "オーストラリアデー",
+        "ko": "호주의 날",
+        "pt": "Dia da Austrália",
+        "zh": "澳大利亚日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-06",
+      "localizedNames": {
+        "de": "Foundation Day",
+        "en": "Foundation Day",
+        "es": "Foundation Day",
+        "fr": "Foundation Day",
+        "ja": "Foundation Day",
+        "ko": "Foundation Day",
+        "pt": "Foundation Day",
+        "zh": "Foundation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-08",
+      "localizedNames": {
+        "de": "Bounty Day",
+        "en": "Bounty Day",
+        "es": "Bounty Day",
+        "fr": "Bounty Day",
+        "ja": "Bounty Day",
+        "ko": "Bounty Day",
+        "pt": "Bounty Day",
+        "zh": "Bounty Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Show Day",
+        "en": "Show Day",
+        "es": "Show Day",
+        "fr": "Show Day",
+        "ja": "Show Day",
+        "ko": "Show Day",
+        "pt": "Show Day",
+        "zh": "Show Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-26",
+      "localizedNames": {
+        "de": "Australientag",
+        "en": "Australia Day",
+        "es": "Día de Australia",
+        "fr": "Jour de l'Australie",
+        "ja": "オーストラリアデー",
+        "ko": "호주의 날",
+        "pt": "Dia da Austrália",
+        "zh": "澳大利亚日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-06",
+      "localizedNames": {
+        "de": "Foundation Day",
+        "en": "Foundation Day",
+        "es": "Foundation Day",
+        "fr": "Foundation Day",
+        "ja": "Foundation Day",
+        "ko": "Foundation Day",
+        "pt": "Foundation Day",
+        "zh": "Foundation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-08",
+      "localizedNames": {
+        "de": "Bounty Day",
+        "en": "Bounty Day",
+        "es": "Bounty Day",
+        "fr": "Bounty Day",
+        "ja": "Bounty Day",
+        "ko": "Bounty Day",
+        "pt": "Bounty Day",
+        "zh": "Bounty Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "Show Day",
+        "en": "Show Day",
+        "es": "Show Day",
+        "fr": "Show Day",
+        "ja": "Show Day",
+        "ko": "Show Day",
+        "pt": "Show Day",
+        "zh": "Show Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Norfolk",
+  "years": [
+    2026,
+    2027
+  ]
+}

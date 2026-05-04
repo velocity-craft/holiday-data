@@ -1,0 +1,404 @@
+{
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-10",
+      "localizedNames": {
+        "de": "National Children's Day",
+        "en": "National Children's Day",
+        "es": "National Children's Day",
+        "fr": "National Children's Day",
+        "ja": "National Children's Day",
+        "ko": "National Children's Day",
+        "pt": "National Children's Day",
+        "zh": "National Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-06",
+      "localizedNames": {
+        "de": "Chakri Memorial Day",
+        "en": "Chakri Memorial Day",
+        "es": "Chakri Memorial Day",
+        "fr": "Chakri Memorial Day",
+        "ja": "Chakri Memorial Day",
+        "ko": "Chakri Memorial Day",
+        "pt": "Chakri Memorial Day",
+        "zh": "Chakri Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-13",
+      "localizedNames": {
+        "de": "Songkran Festival",
+        "en": "Songkran Festival",
+        "es": "Songkran Festival",
+        "fr": "Songkran Festival",
+        "ja": "Songkran Festival",
+        "ko": "Songkran Festival",
+        "pt": "Songkran Festival",
+        "zh": "Songkran Festival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "National Labor Day",
+        "en": "National Labor Day",
+        "es": "National Labor Day",
+        "fr": "National Labor Day",
+        "ja": "National Labor Day",
+        "ko": "National Labor Day",
+        "pt": "National Labor Day",
+        "zh": "National Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-04",
+      "localizedNames": {
+        "de": "Coronation Day",
+        "en": "Coronation Day",
+        "es": "Coronation Day",
+        "fr": "Coronation Day",
+        "ja": "Coronation Day",
+        "ko": "Coronation Day",
+        "pt": "Coronation Day",
+        "zh": "Coronation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-03",
+      "localizedNames": {
+        "de": "HM Queen Suthida's Birthday",
+        "en": "HM Queen Suthida's Birthday",
+        "es": "HM Queen Suthida's Birthday",
+        "fr": "HM Queen Suthida's Birthday",
+        "ja": "HM Queen Suthida's Birthday",
+        "ko": "HM Queen Suthida's Birthday",
+        "pt": "HM Queen Suthida's Birthday",
+        "zh": "HM Queen Suthida's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-28",
+      "localizedNames": {
+        "de": "HM King Maha Vajiralongkorn's Birthday",
+        "en": "HM King Maha Vajiralongkorn's Birthday",
+        "es": "HM King Maha Vajiralongkorn's Birthday",
+        "fr": "HM King Maha Vajiralongkorn's Birthday",
+        "ja": "HM King Maha Vajiralongkorn's Birthday",
+        "ko": "HM King Maha Vajiralongkorn's Birthday",
+        "pt": "HM King Maha Vajiralongkorn's Birthday",
+        "zh": "HM King Maha Vajiralongkorn's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-12",
+      "localizedNames": {
+        "de": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "es": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "fr": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "ja": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "ko": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "pt": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "zh": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-13",
+      "localizedNames": {
+        "de": "HM King Bhumibol Adulyadej Memorial Day",
+        "en": "HM King Bhumibol Adulyadej Memorial Day",
+        "es": "HM King Bhumibol Adulyadej Memorial Day",
+        "fr": "HM King Bhumibol Adulyadej Memorial Day",
+        "ja": "HM King Bhumibol Adulyadej Memorial Day",
+        "ko": "HM King Bhumibol Adulyadej Memorial Day",
+        "pt": "HM King Bhumibol Adulyadej Memorial Day",
+        "zh": "HM King Bhumibol Adulyadej Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-23",
+      "localizedNames": {
+        "de": "HM King Chulalongkorn Memorial Day",
+        "en": "HM King Chulalongkorn Memorial Day",
+        "es": "HM King Chulalongkorn Memorial Day",
+        "fr": "HM King Chulalongkorn Memorial Day",
+        "ja": "HM King Chulalongkorn Memorial Day",
+        "ko": "HM King Chulalongkorn Memorial Day",
+        "pt": "HM King Chulalongkorn Memorial Day",
+        "zh": "HM King Chulalongkorn Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-05",
+      "localizedNames": {
+        "de": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "es": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "fr": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "ja": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "ko": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "pt": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "zh": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-10",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-09",
+      "localizedNames": {
+        "de": "National Children's Day",
+        "en": "National Children's Day",
+        "es": "National Children's Day",
+        "fr": "National Children's Day",
+        "ja": "National Children's Day",
+        "ko": "National Children's Day",
+        "pt": "National Children's Day",
+        "zh": "National Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-06",
+      "localizedNames": {
+        "de": "Chakri Memorial Day",
+        "en": "Chakri Memorial Day",
+        "es": "Chakri Memorial Day",
+        "fr": "Chakri Memorial Day",
+        "ja": "Chakri Memorial Day",
+        "ko": "Chakri Memorial Day",
+        "pt": "Chakri Memorial Day",
+        "zh": "Chakri Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-13",
+      "localizedNames": {
+        "de": "Songkran Festival",
+        "en": "Songkran Festival",
+        "es": "Songkran Festival",
+        "fr": "Songkran Festival",
+        "ja": "Songkran Festival",
+        "ko": "Songkran Festival",
+        "pt": "Songkran Festival",
+        "zh": "Songkran Festival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "National Labor Day",
+        "en": "National Labor Day",
+        "es": "National Labor Day",
+        "fr": "National Labor Day",
+        "ja": "National Labor Day",
+        "ko": "National Labor Day",
+        "pt": "National Labor Day",
+        "zh": "National Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-04",
+      "localizedNames": {
+        "de": "Coronation Day",
+        "en": "Coronation Day",
+        "es": "Coronation Day",
+        "fr": "Coronation Day",
+        "ja": "Coronation Day",
+        "ko": "Coronation Day",
+        "pt": "Coronation Day",
+        "zh": "Coronation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-03",
+      "localizedNames": {
+        "de": "HM Queen Suthida's Birthday",
+        "en": "HM Queen Suthida's Birthday",
+        "es": "HM Queen Suthida's Birthday",
+        "fr": "HM Queen Suthida's Birthday",
+        "ja": "HM Queen Suthida's Birthday",
+        "ko": "HM Queen Suthida's Birthday",
+        "pt": "HM Queen Suthida's Birthday",
+        "zh": "HM Queen Suthida's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-28",
+      "localizedNames": {
+        "de": "HM King Maha Vajiralongkorn's Birthday",
+        "en": "HM King Maha Vajiralongkorn's Birthday",
+        "es": "HM King Maha Vajiralongkorn's Birthday",
+        "fr": "HM King Maha Vajiralongkorn's Birthday",
+        "ja": "HM King Maha Vajiralongkorn's Birthday",
+        "ko": "HM King Maha Vajiralongkorn's Birthday",
+        "pt": "HM King Maha Vajiralongkorn's Birthday",
+        "zh": "HM King Maha Vajiralongkorn's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-12",
+      "localizedNames": {
+        "de": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "en": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "es": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "fr": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "ja": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "ko": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "pt": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day",
+        "zh": "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-13",
+      "localizedNames": {
+        "de": "HM King Bhumibol Adulyadej Memorial Day",
+        "en": "HM King Bhumibol Adulyadej Memorial Day",
+        "es": "HM King Bhumibol Adulyadej Memorial Day",
+        "fr": "HM King Bhumibol Adulyadej Memorial Day",
+        "ja": "HM King Bhumibol Adulyadej Memorial Day",
+        "ko": "HM King Bhumibol Adulyadej Memorial Day",
+        "pt": "HM King Bhumibol Adulyadej Memorial Day",
+        "zh": "HM King Bhumibol Adulyadej Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-23",
+      "localizedNames": {
+        "de": "HM King Chulalongkorn Memorial Day",
+        "en": "HM King Chulalongkorn Memorial Day",
+        "es": "HM King Chulalongkorn Memorial Day",
+        "fr": "HM King Chulalongkorn Memorial Day",
+        "ja": "HM King Chulalongkorn Memorial Day",
+        "ko": "HM King Chulalongkorn Memorial Day",
+        "pt": "HM King Chulalongkorn Memorial Day",
+        "zh": "HM King Chulalongkorn Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-05",
+      "localizedNames": {
+        "de": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "en": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "es": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "fr": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "ja": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "ko": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "pt": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day",
+        "zh": "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-10",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Bangkok",
+  "years": [
+    2026,
+    2027
+  ]
+}

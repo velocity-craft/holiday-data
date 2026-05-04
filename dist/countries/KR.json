@@ -1,0 +1,348 @@
+{
+  "countryCode": "KR",
+  "countryName": "Korea, Republic of",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-27",
+      "localizedNames": {
+        "de": "Temporary Public Holiday",
+        "en": "Temporary Public Holiday",
+        "es": "Temporary Public Holiday",
+        "fr": "Temporary Public Holiday",
+        "ja": "Temporary Public Holiday",
+        "ko": "Temporary Public Holiday",
+        "pt": "Temporary Public Holiday",
+        "zh": "Temporary Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-01",
+      "localizedNames": {
+        "de": "Tag der Unabhängigkeitsbewegung",
+        "en": "Independence Movement Day",
+        "es": "Día del Movimiento de Independencia",
+        "fr": "Jour du Mouvement pour l'Indépendance",
+        "ja": "三一運動記念日",
+        "ko": "삼일절",
+        "pt": "Dia do Movimento de Independência",
+        "zh": "三一独立运动纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-10",
+      "localizedNames": {
+        "de": "National Assembly Election Day",
+        "en": "National Assembly Election Day",
+        "es": "National Assembly Election Day",
+        "fr": "National Assembly Election Day",
+        "ja": "National Assembly Election Day",
+        "ko": "National Assembly Election Day",
+        "pt": "National Assembly Election Day",
+        "zh": "National Assembly Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-05",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-03",
+      "localizedNames": {
+        "de": "Local Election Day",
+        "en": "Local Election Day",
+        "es": "Local Election Day",
+        "fr": "Local Election Day",
+        "ja": "Local Election Day",
+        "ko": "Local Election Day",
+        "pt": "Local Election Day",
+        "zh": "Local Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-06",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-17",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-09",
+      "localizedNames": {
+        "de": "Hangul-Tag",
+        "en": "Hangul Day",
+        "es": "Día del Hangul",
+        "fr": "Journée du Hangeul",
+        "ja": "ハングルの日",
+        "ko": "한글날",
+        "pt": "Dia do Hangul",
+        "zh": "韩文节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-27",
+      "localizedNames": {
+        "de": "Temporary Public Holiday",
+        "en": "Temporary Public Holiday",
+        "es": "Temporary Public Holiday",
+        "fr": "Temporary Public Holiday",
+        "ja": "Temporary Public Holiday",
+        "ko": "Temporary Public Holiday",
+        "pt": "Temporary Public Holiday",
+        "zh": "Temporary Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-01",
+      "localizedNames": {
+        "de": "Tag der Unabhängigkeitsbewegung",
+        "en": "Independence Movement Day",
+        "es": "Día del Movimiento de Independencia",
+        "fr": "Jour du Mouvement pour l'Indépendance",
+        "ja": "三一運動記念日",
+        "ko": "삼일절",
+        "pt": "Dia do Movimento de Independência",
+        "zh": "三一独立运动纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-10",
+      "localizedNames": {
+        "de": "National Assembly Election Day",
+        "en": "National Assembly Election Day",
+        "es": "National Assembly Election Day",
+        "fr": "National Assembly Election Day",
+        "ja": "National Assembly Election Day",
+        "ko": "National Assembly Election Day",
+        "pt": "National Assembly Election Day",
+        "zh": "National Assembly Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-05",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-03",
+      "localizedNames": {
+        "de": "Local Election Day",
+        "en": "Local Election Day",
+        "es": "Local Election Day",
+        "fr": "Local Election Day",
+        "ja": "Local Election Day",
+        "ko": "Local Election Day",
+        "pt": "Local Election Day",
+        "zh": "Local Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-17",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-09",
+      "localizedNames": {
+        "de": "Hangul-Tag",
+        "en": "Hangul Day",
+        "es": "Día del Hangul",
+        "fr": "Journée du Hangeul",
+        "ja": "ハングルの日",
+        "ko": "한글날",
+        "pt": "Dia do Hangul",
+        "zh": "韩文节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Seoul",
+  "years": [
+    2026,
+    2027
+  ]
+}

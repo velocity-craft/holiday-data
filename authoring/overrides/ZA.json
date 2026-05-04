@@ -1,0 +1,59 @@
+{
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "timeZone": "Africa/Johannesburg",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "human_rights_day",
+      "rule": "fixed_mar_21"
+    },
+    {
+      "template": "mt_freedom_day",
+      "rule": "fixed_apr_27"
+    },
+    {
+      "template": "mz_family_day",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "za_national_and_provincial_government_elect",
+      "rule": "fixed_may_29"
+    },
+    {
+      "template": "youth_day",
+      "rule": "fixed_jun_16"
+    },
+    {
+      "template": "tl_national_women_s_day",
+      "rule": "fixed_aug_9"
+    },
+    {
+      "template": "za_heritage_day",
+      "rule": "fixed_sep_24"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "za_day_of_goodwill",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "za_day_of_reconciliation",
+      "rule": "fixed_dec_16"
+    }
+  ]
+}

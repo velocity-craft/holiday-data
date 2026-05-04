@@ -1,0 +1,208 @@
+{
+  "countryCode": "MQ",
+  "countryName": "Martinique",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-22",
+      "localizedNames": {
+        "de": "Abolition of Slavery",
+        "en": "Abolition of Slavery",
+        "es": "Abolition of Slavery",
+        "fr": "Abolition of Slavery",
+        "ja": "Abolition of Slavery",
+        "ko": "Abolition of Slavery",
+        "pt": "Abolition of Slavery",
+        "zh": "Abolition of Slavery"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-14",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-21",
+      "localizedNames": {
+        "de": "Victor Schoelcher Day",
+        "en": "Victor Schoelcher Day",
+        "es": "Victor Schoelcher Day",
+        "fr": "Victor Schoelcher Day",
+        "ja": "Victor Schoelcher Day",
+        "ko": "Victor Schoelcher Day",
+        "pt": "Victor Schoelcher Day",
+        "zh": "Victor Schoelcher Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-22",
+      "localizedNames": {
+        "de": "Abolition of Slavery",
+        "en": "Abolition of Slavery",
+        "es": "Abolition of Slavery",
+        "fr": "Abolition of Slavery",
+        "ja": "Abolition of Slavery",
+        "ko": "Abolition of Slavery",
+        "pt": "Abolition of Slavery",
+        "zh": "Abolition of Slavery"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-14",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-21",
+      "localizedNames": {
+        "de": "Victor Schoelcher Day",
+        "en": "Victor Schoelcher Day",
+        "es": "Victor Schoelcher Day",
+        "fr": "Victor Schoelcher Day",
+        "ja": "Victor Schoelcher Day",
+        "ko": "Victor Schoelcher Day",
+        "pt": "Victor Schoelcher Day",
+        "zh": "Victor Schoelcher Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Martinique",
+  "years": [
+    2026,
+    2027
+  ]
+}

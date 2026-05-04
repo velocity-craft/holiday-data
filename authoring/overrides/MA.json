@@ -1,0 +1,67 @@
+{
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "timeZone": "Africa/Casablanca",
+  "holidays": [
+    {
+      "template": "bf_proclamation_of_independence_day",
+      "rule": "fixed_jan_11"
+    },
+    {
+      "template": "dz_amazigh_new_year",
+      "rule": "fixed_jan_13"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "ma_throne_day",
+      "rule": "fixed_jul_30"
+    },
+    {
+      "template": "ma_oued_ed_dahab_day",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "ma_oued_ed_dahab_day_prophet_s_birthday_est",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "revolution_day_generic",
+      "rule": "fixed_aug_20"
+    },
+    {
+      "template": "youth_day",
+      "rule": "fixed_aug_21"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_18"
+    },
+    {
+      "template": "ma_green_march",
+      "rule": "fixed_nov_6"
+    }
+  ]
+}

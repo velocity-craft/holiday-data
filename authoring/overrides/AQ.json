@@ -1,0 +1,19 @@
+{
+  "countryCode": "AQ",
+  "countryName": "Antarctica",
+  "timeZone": "Antarctica/McMurdo",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "aq_antarctica_day",
+      "rule": "fixed_dec_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

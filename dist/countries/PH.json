@@ -1,0 +1,516 @@
+{
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Black Saturday",
+        "en": "Black Saturday",
+        "es": "Black Saturday",
+        "fr": "Black Saturday",
+        "ja": "Black Saturday",
+        "ko": "Black Saturday",
+        "pt": "Black Saturday",
+        "zh": "Black Saturday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-09",
+      "localizedNames": {
+        "de": "Day of Valor",
+        "en": "Day of Valor",
+        "es": "Day of Valor",
+        "fr": "Day of Valor",
+        "ja": "Day of Valor",
+        "ko": "Day of Valor",
+        "pt": "Day of Valor",
+        "zh": "Day of Valor"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-12",
+      "localizedNames": {
+        "de": "Elections special (non-working) day",
+        "en": "Elections special (non-working) day",
+        "es": "Elections special (non-working) day",
+        "fr": "Elections special (non-working) day",
+        "ja": "Elections special (non-working) day",
+        "ko": "Elections special (non-working) day",
+        "pt": "Elections special (non-working) day",
+        "zh": "Elections special (non-working) day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-12",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-31",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-31",
+      "localizedNames": {
+        "de": "All Saints' Day Eve",
+        "en": "All Saints' Day Eve",
+        "es": "All Saints' Day Eve",
+        "fr": "All Saints' Day Eve",
+        "ja": "All Saints' Day Eve",
+        "ko": "All Saints' Day Eve",
+        "pt": "All Saints' Day Eve",
+        "zh": "All Saints' Day Eve"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-30",
+      "localizedNames": {
+        "de": "Bonifacio Day",
+        "en": "Bonifacio Day",
+        "es": "Bonifacio Day",
+        "fr": "Bonifacio Day",
+        "ja": "Bonifacio Day",
+        "ko": "Bonifacio Day",
+        "pt": "Bonifacio Day",
+        "zh": "Bonifacio Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-30",
+      "localizedNames": {
+        "de": "Rizal Day",
+        "en": "Rizal Day",
+        "es": "Rizal Day",
+        "fr": "Rizal Day",
+        "ja": "Rizal Day",
+        "ko": "Rizal Day",
+        "pt": "Rizal Day",
+        "zh": "Rizal Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-27",
+      "localizedNames": {
+        "de": "Black Saturday",
+        "en": "Black Saturday",
+        "es": "Black Saturday",
+        "fr": "Black Saturday",
+        "ja": "Black Saturday",
+        "ko": "Black Saturday",
+        "pt": "Black Saturday",
+        "zh": "Black Saturday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-09",
+      "localizedNames": {
+        "de": "Day of Valor",
+        "en": "Day of Valor",
+        "es": "Day of Valor",
+        "fr": "Day of Valor",
+        "ja": "Day of Valor",
+        "ko": "Day of Valor",
+        "pt": "Day of Valor",
+        "zh": "Day of Valor"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-12",
+      "localizedNames": {
+        "de": "Elections special (non-working) day",
+        "en": "Elections special (non-working) day",
+        "es": "Elections special (non-working) day",
+        "fr": "Elections special (non-working) day",
+        "ja": "Elections special (non-working) day",
+        "ko": "Elections special (non-working) day",
+        "pt": "Elections special (non-working) day",
+        "zh": "Elections special (non-working) day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-12",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-30",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-31",
+      "localizedNames": {
+        "de": "All Saints' Day Eve",
+        "en": "All Saints' Day Eve",
+        "es": "All Saints' Day Eve",
+        "fr": "All Saints' Day Eve",
+        "ja": "All Saints' Day Eve",
+        "ko": "All Saints' Day Eve",
+        "pt": "All Saints' Day Eve",
+        "zh": "All Saints' Day Eve"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-30",
+      "localizedNames": {
+        "de": "Bonifacio Day",
+        "en": "Bonifacio Day",
+        "es": "Bonifacio Day",
+        "fr": "Bonifacio Day",
+        "ja": "Bonifacio Day",
+        "ko": "Bonifacio Day",
+        "pt": "Bonifacio Day",
+        "zh": "Bonifacio Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-30",
+      "localizedNames": {
+        "de": "Rizal Day",
+        "en": "Rizal Day",
+        "es": "Rizal Day",
+        "fr": "Rizal Day",
+        "ja": "Rizal Day",
+        "ko": "Rizal Day",
+        "pt": "Rizal Day",
+        "zh": "Rizal Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Manila",
+  "years": [
+    2026,
+    2027
+  ]
+}

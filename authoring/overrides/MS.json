@@ -1,0 +1,51 @@
+{
+  "countryCode": "MS",
+  "countryName": "Montserrat",
+  "timeZone": "America/Montserrat",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ie_saint_patrick_s_day",
+      "rule": "fixed_mar_17"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "ms_day_of_prayer_and_thanksgiving",
+      "rule": "nth_wed_jul_2"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "nth_mon_aug_1"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "ms_festival_day",
+      "rule": "fixed_dec_31"
+    }
+  ]
+}

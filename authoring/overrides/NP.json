@@ -1,0 +1,59 @@
+{
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "timeZone": "Asia/Kathmandu",
+  "holidays": [
+    {
+      "template": "np_prithvi_jayanti",
+      "rule": "fixed_jan_11"
+    },
+    {
+      "template": "np_gyalpo_lhosar_sonam_lhochhar",
+      "rule": "fixed_feb_7"
+    },
+    {
+      "template": "np_national_democracy_day",
+      "rule": "fixed_feb_19"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "np_international_women_s_day_maha_shivaratr",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "np_buddha_jayanti_international_labor_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_sep_19"
+    },
+    {
+      "template": "np_gai_tihar_laxmi_pooja",
+      "rule": "fixed_oct_29"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "np_tamu_lhochhar",
+      "rule": "fixed_dec_30"
+    }
+  ]
+}

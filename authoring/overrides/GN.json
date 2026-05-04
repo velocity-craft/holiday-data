@@ -1,0 +1,43 @@
+{
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "timeZone": "Africa/Conakry",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "africa_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_2"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "countryCode": "TZ",
+  "countryName": "Tanzania, United Republic of",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-12",
+      "localizedNames": {
+        "de": "Zanzibar Revolution Day",
+        "en": "Zanzibar Revolution Day",
+        "es": "Zanzibar Revolution Day",
+        "fr": "Zanzibar Revolution Day",
+        "ja": "Zanzibar Revolution Day",
+        "ko": "Zanzibar Revolution Day",
+        "pt": "Zanzibar Revolution Day",
+        "zh": "Zanzibar Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-07",
+      "localizedNames": {
+        "de": "The Sheikh Abeid Amani Karume Day",
+        "en": "The Sheikh Abeid Amani Karume Day",
+        "es": "The Sheikh Abeid Amani Karume Day",
+        "fr": "The Sheikh Abeid Amani Karume Day",
+        "ja": "The Sheikh Abeid Amani Karume Day",
+        "ko": "The Sheikh Abeid Amani Karume Day",
+        "pt": "The Sheikh Abeid Amani Karume Day",
+        "zh": "The Sheikh Abeid Amani Karume Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-26",
+      "localizedNames": {
+        "de": "Union Celebrations",
+        "en": "Union Celebrations",
+        "es": "Union Celebrations",
+        "fr": "Union Celebrations",
+        "ja": "Union Celebrations",
+        "ko": "Union Celebrations",
+        "pt": "Union Celebrations",
+        "zh": "Union Celebrations"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-07",
+      "localizedNames": {
+        "de": "International Trade Fair",
+        "en": "International Trade Fair",
+        "es": "International Trade Fair",
+        "fr": "International Trade Fair",
+        "ja": "International Trade Fair",
+        "ko": "International Trade Fair",
+        "pt": "International Trade Fair",
+        "zh": "International Trade Fair"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-08",
+      "localizedNames": {
+        "de": "Peasants' Day",
+        "en": "Peasants' Day",
+        "es": "Peasants' Day",
+        "fr": "Peasants' Day",
+        "ja": "Peasants' Day",
+        "ko": "Peasants' Day",
+        "pt": "Peasants' Day",
+        "zh": "Peasants' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-14",
+      "localizedNames": {
+        "de": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "en": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "es": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "fr": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "ja": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "ko": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "pt": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "zh": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-09",
+      "localizedNames": {
+        "de": "Independence and Republic Day",
+        "en": "Independence and Republic Day",
+        "es": "Independence and Republic Day",
+        "fr": "Independence and Republic Day",
+        "ja": "Independence and Republic Day",
+        "ko": "Independence and Republic Day",
+        "pt": "Independence and Republic Day",
+        "zh": "Independence and Republic Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-12",
+      "localizedNames": {
+        "de": "Zanzibar Revolution Day",
+        "en": "Zanzibar Revolution Day",
+        "es": "Zanzibar Revolution Day",
+        "fr": "Zanzibar Revolution Day",
+        "ja": "Zanzibar Revolution Day",
+        "ko": "Zanzibar Revolution Day",
+        "pt": "Zanzibar Revolution Day",
+        "zh": "Zanzibar Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-07",
+      "localizedNames": {
+        "de": "The Sheikh Abeid Amani Karume Day",
+        "en": "The Sheikh Abeid Amani Karume Day",
+        "es": "The Sheikh Abeid Amani Karume Day",
+        "fr": "The Sheikh Abeid Amani Karume Day",
+        "ja": "The Sheikh Abeid Amani Karume Day",
+        "ko": "The Sheikh Abeid Amani Karume Day",
+        "pt": "The Sheikh Abeid Amani Karume Day",
+        "zh": "The Sheikh Abeid Amani Karume Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-26",
+      "localizedNames": {
+        "de": "Union Celebrations",
+        "en": "Union Celebrations",
+        "es": "Union Celebrations",
+        "fr": "Union Celebrations",
+        "ja": "Union Celebrations",
+        "ko": "Union Celebrations",
+        "pt": "Union Celebrations",
+        "zh": "Union Celebrations"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-07",
+      "localizedNames": {
+        "de": "International Trade Fair",
+        "en": "International Trade Fair",
+        "es": "International Trade Fair",
+        "fr": "International Trade Fair",
+        "ja": "International Trade Fair",
+        "ko": "International Trade Fair",
+        "pt": "International Trade Fair",
+        "zh": "International Trade Fair"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-08",
+      "localizedNames": {
+        "de": "Peasants' Day",
+        "en": "Peasants' Day",
+        "es": "Peasants' Day",
+        "fr": "Peasants' Day",
+        "ja": "Peasants' Day",
+        "ko": "Peasants' Day",
+        "pt": "Peasants' Day",
+        "zh": "Peasants' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-14",
+      "localizedNames": {
+        "de": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "en": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "es": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "fr": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "ja": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "ko": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "pt": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race",
+        "zh": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-09",
+      "localizedNames": {
+        "de": "Independence and Republic Day",
+        "en": "Independence and Republic Day",
+        "es": "Independence and Republic Day",
+        "fr": "Independence and Republic Day",
+        "ja": "Independence and Republic Day",
+        "ko": "Independence and Republic Day",
+        "pt": "Independence and Republic Day",
+        "zh": "Independence and Republic Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Dar_es_Salaam",
+  "years": [
+    2026,
+    2027
+  ]
+}

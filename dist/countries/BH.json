@@ -1,0 +1,208 @@
+{
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-16",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-15",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-16",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Bahrain",
+  "years": [
+    2026,
+    2027
+  ]
+}

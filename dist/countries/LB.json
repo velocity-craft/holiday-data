@@ -1,0 +1,502 @@
+{
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Armenian Orthodox Christmas Day",
+        "en": "Armenian Orthodox Christmas Day",
+        "es": "Armenian Orthodox Christmas Day",
+        "fr": "Armenian Orthodox Christmas Day",
+        "ja": "Armenian Orthodox Christmas Day",
+        "ko": "Armenian Orthodox Christmas Day",
+        "pt": "Armenian Orthodox Christmas Day",
+        "zh": "Armenian Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-09",
+      "localizedNames": {
+        "de": "Saint Maron's Day",
+        "en": "Saint Maron's Day",
+        "es": "Saint Maron's Day",
+        "fr": "Saint Maron's Day",
+        "ja": "Saint Maron's Day",
+        "ko": "Saint Maron's Day",
+        "pt": "Saint Maron's Day",
+        "zh": "Saint Maron's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-25",
+      "localizedNames": {
+        "de": "Feast of the Annunciation",
+        "en": "Feast of the Annunciation",
+        "es": "Feast of the Annunciation",
+        "fr": "Feast of the Annunciation",
+        "ja": "Feast of the Annunciation",
+        "ko": "Feast of the Annunciation",
+        "pt": "Feast of the Annunciation",
+        "zh": "Feast of the Annunciation"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-03",
+      "localizedNames": {
+        "de": "Catholic Good Friday",
+        "en": "Catholic Good Friday",
+        "es": "Catholic Good Friday",
+        "fr": "Catholic Good Friday",
+        "ja": "Catholic Good Friday",
+        "ko": "Catholic Good Friday",
+        "pt": "Catholic Good Friday",
+        "zh": "Catholic Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-10",
+      "localizedNames": {
+        "de": "Orthodox Good Friday",
+        "en": "Orthodox Good Friday",
+        "es": "Orthodox Good Friday",
+        "fr": "Orthodox Good Friday",
+        "ja": "Orthodox Good Friday",
+        "ko": "Orthodox Good Friday",
+        "pt": "Orthodox Good Friday",
+        "zh": "Orthodox Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-18",
+      "localizedNames": {
+        "de": "Catholic Good Friday; Orthodox Good Friday",
+        "en": "Catholic Good Friday; Orthodox Good Friday",
+        "es": "Catholic Good Friday; Orthodox Good Friday",
+        "fr": "Catholic Good Friday; Orthodox Good Friday",
+        "ja": "Catholic Good Friday; Orthodox Good Friday",
+        "ko": "Catholic Good Friday; Orthodox Good Friday",
+        "pt": "Catholic Good Friday; Orthodox Good Friday",
+        "zh": "Catholic Good Friday; Orthodox Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-19",
+      "localizedNames": {
+        "de": "Orthodox Holy Saturday",
+        "en": "Orthodox Holy Saturday",
+        "es": "Orthodox Holy Saturday",
+        "fr": "Orthodox Holy Saturday",
+        "ja": "Orthodox Holy Saturday",
+        "ko": "Orthodox Holy Saturday",
+        "pt": "Orthodox Holy Saturday",
+        "zh": "Orthodox Holy Saturday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-03",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-10",
+      "localizedNames": {
+        "de": "Resistance and Liberation Day",
+        "en": "Resistance and Liberation Day",
+        "es": "Resistance and Liberation Day",
+        "fr": "Resistance and Liberation Day",
+        "ja": "Resistance and Liberation Day",
+        "ko": "Resistance and Liberation Day",
+        "pt": "Resistance and Liberation Day",
+        "zh": "Resistance and Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-22",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Armenian Orthodox Christmas Day",
+        "en": "Armenian Orthodox Christmas Day",
+        "es": "Armenian Orthodox Christmas Day",
+        "fr": "Armenian Orthodox Christmas Day",
+        "ja": "Armenian Orthodox Christmas Day",
+        "ko": "Armenian Orthodox Christmas Day",
+        "pt": "Armenian Orthodox Christmas Day",
+        "zh": "Armenian Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "Saint Maron's Day",
+        "en": "Saint Maron's Day",
+        "es": "Saint Maron's Day",
+        "fr": "Saint Maron's Day",
+        "ja": "Saint Maron's Day",
+        "ko": "Saint Maron's Day",
+        "pt": "Saint Maron's Day",
+        "zh": "Saint Maron's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Feast of the Annunciation",
+        "en": "Feast of the Annunciation",
+        "es": "Feast of the Annunciation",
+        "fr": "Feast of the Annunciation",
+        "ja": "Feast of the Annunciation",
+        "ko": "Feast of the Annunciation",
+        "pt": "Feast of the Annunciation",
+        "zh": "Feast of the Annunciation"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-26",
+      "localizedNames": {
+        "de": "Catholic Good Friday",
+        "en": "Catholic Good Friday",
+        "es": "Catholic Good Friday",
+        "fr": "Catholic Good Friday",
+        "ja": "Catholic Good Friday",
+        "ko": "Catholic Good Friday",
+        "pt": "Catholic Good Friday",
+        "zh": "Catholic Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-18",
+      "localizedNames": {
+        "de": "Catholic Good Friday; Orthodox Good Friday",
+        "en": "Catholic Good Friday; Orthodox Good Friday",
+        "es": "Catholic Good Friday; Orthodox Good Friday",
+        "fr": "Catholic Good Friday; Orthodox Good Friday",
+        "ja": "Catholic Good Friday; Orthodox Good Friday",
+        "ko": "Catholic Good Friday; Orthodox Good Friday",
+        "pt": "Catholic Good Friday; Orthodox Good Friday",
+        "zh": "Catholic Good Friday; Orthodox Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-19",
+      "localizedNames": {
+        "de": "Orthodox Holy Saturday",
+        "en": "Orthodox Holy Saturday",
+        "es": "Orthodox Holy Saturday",
+        "fr": "Orthodox Holy Saturday",
+        "ja": "Orthodox Holy Saturday",
+        "ko": "Orthodox Holy Saturday",
+        "pt": "Orthodox Holy Saturday",
+        "zh": "Orthodox Holy Saturday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-30",
+      "localizedNames": {
+        "de": "Orthodox Good Friday",
+        "en": "Orthodox Good Friday",
+        "es": "Orthodox Good Friday",
+        "fr": "Orthodox Good Friday",
+        "ja": "Orthodox Good Friday",
+        "ko": "Orthodox Good Friday",
+        "pt": "Orthodox Good Friday",
+        "zh": "Orthodox Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-02",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-09",
+      "localizedNames": {
+        "de": "Resistance and Liberation Day",
+        "en": "Resistance and Liberation Day",
+        "es": "Resistance and Liberation Day",
+        "fr": "Resistance and Liberation Day",
+        "ja": "Resistance and Liberation Day",
+        "ko": "Resistance and Liberation Day",
+        "pt": "Resistance and Liberation Day",
+        "zh": "Resistance and Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-15",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-22",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Beirut",
+  "years": [
+    2026,
+    2027
+  ]
+}

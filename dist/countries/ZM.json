@@ -1,0 +1,264 @@
+{
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-28",
+      "localizedNames": {
+        "de": "Kenneth Kaunda Day",
+        "en": "Kenneth Kaunda Day",
+        "es": "Kenneth Kaunda Day",
+        "fr": "Kenneth Kaunda Day",
+        "ja": "Kenneth Kaunda Day",
+        "ko": "Kenneth Kaunda Day",
+        "pt": "Kenneth Kaunda Day",
+        "zh": "Kenneth Kaunda Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Heroes' Day",
+        "en": "Heroes' Day",
+        "es": "Heroes' Day",
+        "fr": "Heroes' Day",
+        "ja": "Heroes' Day",
+        "ko": "Heroes' Day",
+        "pt": "Heroes' Day",
+        "zh": "Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Farmers' Day",
+        "en": "Farmers' Day",
+        "es": "Farmers' Day",
+        "fr": "Farmers' Day",
+        "ja": "Farmers' Day",
+        "ko": "Farmers' Day",
+        "pt": "Farmers' Day",
+        "zh": "Farmers' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-18",
+      "localizedNames": {
+        "de": "National Prayer Day",
+        "en": "National Prayer Day",
+        "es": "National Prayer Day",
+        "fr": "National Prayer Day",
+        "ja": "National Prayer Day",
+        "ko": "National Prayer Day",
+        "pt": "National Prayer Day",
+        "zh": "National Prayer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-24",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-27",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-28",
+      "localizedNames": {
+        "de": "Kenneth Kaunda Day",
+        "en": "Kenneth Kaunda Day",
+        "es": "Kenneth Kaunda Day",
+        "fr": "Kenneth Kaunda Day",
+        "ja": "Kenneth Kaunda Day",
+        "ko": "Kenneth Kaunda Day",
+        "pt": "Kenneth Kaunda Day",
+        "zh": "Kenneth Kaunda Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-25",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Heroes' Day",
+        "en": "Heroes' Day",
+        "es": "Heroes' Day",
+        "fr": "Heroes' Day",
+        "ja": "Heroes' Day",
+        "ko": "Heroes' Day",
+        "pt": "Heroes' Day",
+        "zh": "Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Farmers' Day",
+        "en": "Farmers' Day",
+        "es": "Farmers' Day",
+        "fr": "Farmers' Day",
+        "ja": "Farmers' Day",
+        "ko": "Farmers' Day",
+        "pt": "Farmers' Day",
+        "zh": "Farmers' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-18",
+      "localizedNames": {
+        "de": "National Prayer Day",
+        "en": "National Prayer Day",
+        "es": "National Prayer Day",
+        "fr": "National Prayer Day",
+        "ja": "National Prayer Day",
+        "ko": "National Prayer Day",
+        "pt": "National Prayer Day",
+        "zh": "National Prayer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-24",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Lusaka",
+  "years": [
+    2026,
+    2027
+  ]
+}

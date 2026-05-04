@@ -1,0 +1,71 @@
+{
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "timeZone": "Europe/Tirane",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "al_catholic_easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "al_nowruz_day",
+      "rule": "fixed_mar_22"
+    },
+    {
+      "template": "al_public_holiday",
+      "rule": "fixed_mar_15"
+    },
+    {
+      "template": "al_summer_day",
+      "rule": "fixed_mar_14"
+    },
+    {
+      "template": "al_catholic_easter_sunday_orthodox_easter_s",
+      "rule": "fixed_apr_20"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "easter_eastern",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "al_mother_teresa_canonization_day",
+      "rule": "fixed_sep_5"
+    },
+    {
+      "template": "al_alphabet_day",
+      "rule": "fixed_nov_22"
+    },
+    {
+      "template": "al_flag_and_independence_day",
+      "rule": "fixed_nov_28"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_nov_29"
+    },
+    {
+      "template": "al_national_youth_day",
+      "rule": "fixed_dec_8"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

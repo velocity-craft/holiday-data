@@ -1,0 +1,96 @@
+{
+  "countryCode": "LA",
+  "countryName": "Lao People's Democratic Republic",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "International Women's Rights Day",
+        "en": "International Women's Rights Day",
+        "es": "International Women's Rights Day",
+        "fr": "International Women's Rights Day",
+        "ja": "International Women's Rights Day",
+        "ko": "International Women's Rights Day",
+        "pt": "International Women's Rights Day",
+        "zh": "International Women's Rights Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-02",
+      "localizedNames": {
+        "de": "Lao National Day",
+        "en": "Lao National Day",
+        "es": "Lao National Day",
+        "fr": "Lao National Day",
+        "ja": "Lao National Day",
+        "ko": "Lao National Day",
+        "pt": "Lao National Day",
+        "zh": "Lao National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "International Women's Rights Day",
+        "en": "International Women's Rights Day",
+        "es": "International Women's Rights Day",
+        "fr": "International Women's Rights Day",
+        "ja": "International Women's Rights Day",
+        "ko": "International Women's Rights Day",
+        "pt": "International Women's Rights Day",
+        "zh": "International Women's Rights Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-02",
+      "localizedNames": {
+        "de": "Lao National Day",
+        "en": "Lao National Day",
+        "es": "Lao National Day",
+        "fr": "Lao National Day",
+        "ja": "Lao National Day",
+        "ko": "Lao National Day",
+        "pt": "Lao National Day",
+        "zh": "Lao National Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Vientiane",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "timeZone": "Pacific/Port_Moresby",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "pg_grand_chief_sir_michael_somare_remembran",
+      "rule": "fixed_feb_26"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ai_king_s_birthday",
+      "rule": "fixed_jun_17"
+    },
+    {
+      "template": "pg_papua_new_guinea_remembrance_day",
+      "rule": "fixed_jul_23"
+    },
+    {
+      "template": "pg_national_repentance_day",
+      "rule": "fixed_aug_26"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_16"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

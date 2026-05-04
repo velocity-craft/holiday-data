@@ -1,0 +1,59 @@
+{
+  "countryCode": "PS",
+  "countryName": "Palestine, State of",
+  "timeZone": "Asia/Gaza",
+  "holidays": [
+    {
+      "template": "ba_orthodox_christmas_day",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_15"
+    },
+    {
+      "template": "ba_catholic_christmas_day",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "ps_catholic_christmas_day_isra_and_mi_raj",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

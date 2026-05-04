@@ -1,0 +1,47 @@
+{
+  "countryCode": "GI",
+  "countryName": "Gibraltar",
+  "timeZone": "Europe/Gibraltar",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "gi_workers_memorial_day",
+      "rule": "fixed_apr_28"
+    },
+    {
+      "template": "gb_spring_bank_holiday",
+      "rule": "last_mon_may"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "gi_late_summer_bank_holiday",
+      "rule": "last_mon_aug"
+    },
+    {
+      "template": "gi_gibraltar_national_day",
+      "rule": "fixed_sep_10"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

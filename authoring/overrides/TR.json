@@ -1,0 +1,47 @@
+{
+  "countryCode": "TR",
+  "countryName": "Türkiye",
+  "timeZone": "Europe/Istanbul",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "tr_national_sovereignty_and_children_s_day",
+      "rule": "fixed_apr_23"
+    },
+    {
+      "template": "tr_commemoration_of_atat_rk_youth_and_sport",
+      "rule": "fixed_may_19"
+    },
+    {
+      "template": "tr_commemoration_of_atat_rk_youth_and_sport",
+      "rule": "fixed_may_19"
+    },
+    {
+      "template": "tr_labour_and_solidarity_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "tr_democracy_and_national_unity_day",
+      "rule": "fixed_jul_15"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_aug_30"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_oct_29"
+    }
+  ]
+}

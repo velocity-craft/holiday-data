@@ -1,0 +1,63 @@
+{
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "timeZone": "Europe/Sofia",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_mar_3"
+    },
+    {
+      "template": "bg_day_of_slavonic_alphabet_bulgarian_enlig",
+      "rule": "fixed_may_24"
+    },
+    {
+      "template": "bg_easter_saint_george_s_day_day_of_the_bul",
+      "rule": "fixed_may_6"
+    },
+    {
+      "template": "bg_holy_saturday_labor_day_and_internationa",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "bg_labor_day_and_international_workers_soli",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "bg_saint_george_s_day_day_of_the_bulgarian_",
+      "rule": "fixed_may_6"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_eastern_neg2"
+    },
+    {
+      "template": "holy_saturday",
+      "rule": "offset_computus_eastern_neg1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_22"
+    },
+    {
+      "template": "unification_day_generic",
+      "rule": "fixed_sep_6"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_eve",
+      "rule": "fixed_dec_24"
+    }
+  ]
+}

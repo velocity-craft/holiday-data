@@ -1,0 +1,43 @@
+{
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "timeZone": "Pacific/Tongatapu",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "anzac_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "to_birthday_of_the_reigning_sovereign_of_to",
+      "rule": "fixed_jul_4"
+    },
+    {
+      "template": "to_birthday_of_the_heir_to_the_crown_of_ton",
+      "rule": "fixed_sep_17"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_nov_4"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

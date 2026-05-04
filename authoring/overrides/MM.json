@@ -1,0 +1,59 @@
+{
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "timeZone": "Asia/Yangon",
+  "holidays": [
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jan_4"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "mm_union_day",
+      "rule": "fixed_feb_12"
+    },
+    {
+      "template": "armed_forces_day_generic",
+      "rule": "fixed_mar_27"
+    },
+    {
+      "template": "mm_full_moon_day_of_tabaung_peasants_day",
+      "rule": "fixed_mar_2"
+    },
+    {
+      "template": "mm_peasants_day",
+      "rule": "fixed_mar_2"
+    },
+    {
+      "template": "mm_myanmar_new_year",
+      "rule": "fixed_apr_13"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_jul_19"
+    },
+    {
+      "template": "diwali",
+      "rule": "hindu_diwali"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

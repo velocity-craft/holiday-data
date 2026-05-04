@@ -1,0 +1,180 @@
+{
+  "countryCode": "AX",
+  "countryName": "Åland Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-09",
+      "localizedNames": {
+        "de": "Åland's Autonomy Day",
+        "en": "Åland's Autonomy Day",
+        "es": "Åland's Autonomy Day",
+        "fr": "Åland's Autonomy Day",
+        "ja": "Åland's Autonomy Day",
+        "ko": "Åland's Autonomy Day",
+        "pt": "Åland's Autonomy Day",
+        "zh": "Åland's Autonomy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-06",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-09",
+      "localizedNames": {
+        "de": "Åland's Autonomy Day",
+        "en": "Åland's Autonomy Day",
+        "es": "Åland's Autonomy Day",
+        "fr": "Åland's Autonomy Day",
+        "ja": "Åland's Autonomy Day",
+        "ko": "Åland's Autonomy Day",
+        "pt": "Åland's Autonomy Day",
+        "zh": "Åland's Autonomy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-06",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Mariehamn",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "timeZone": "Africa/Niamey",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "laylat_al_qadr",
+      "rule": "islamic_ramadan_27"
+    },
+    {
+      "template": "ne_national_concord_day",
+      "rule": "fixed_apr_24"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "ne_anniversary_of_the_cnsp_coup",
+      "rule": "fixed_jul_26"
+    },
+    {
+      "template": "ne_anniversary_of_the_proclamation_of_indep",
+      "rule": "fixed_aug_3"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_dec_18"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "countryCode": "KR",
+  "countryName": "Korea, Republic of",
+  "timeZone": "Asia/Seoul",
+  "holidays": [
+    {
+      "template": "kr_temporary_public_holiday",
+      "rule": "fixed_jan_27"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "korean_lunar_1_1"
+    },
+    {
+      "template": "chinese_new_year_eve",
+      "rule": "korean_lunar_1_neg1"
+    },
+    {
+      "template": "korean_new_year_2nd_day",
+      "rule": "korean_lunar_1_2"
+    },
+    {
+      "template": "korea_independence_movement",
+      "rule": "fixed_mar_1"
+    },
+    {
+      "template": "kr_national_assembly_election_day",
+      "rule": "fixed_apr_10"
+    },
+    {
+      "template": "buddha_birthday",
+      "rule": "korean_lunar_4_8"
+    },
+    {
+      "template": "korea_childrens_day",
+      "rule": "fixed_may_5"
+    },
+    {
+      "template": "kr_buddha_s_birthday_children_s_day",
+      "rule": "fixed_may_5"
+    },
+    {
+      "template": "id_local_election_day",
+      "rule": "fixed_jun_3"
+    },
+    {
+      "template": "kr_presidential_election_day",
+      "rule": "fixed_jun_3"
+    },
+    {
+      "template": "us_memorial_day",
+      "rule": "fixed_jun_6"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_jul_17"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "chuseok_2nd_day",
+      "rule": "korean_lunar_8_16"
+    },
+    {
+      "template": "chuseok_eve",
+      "rule": "korean_lunar_8_14"
+    },
+    {
+      "template": "mid_autumn_festival",
+      "rule": "korean_lunar_8_15"
+    },
+    {
+      "template": "armed_forces_day_generic",
+      "rule": "fixed_oct_1"
+    },
+    {
+      "template": "foundation_day_generic",
+      "rule": "fixed_oct_3"
+    },
+    {
+      "template": "korea_hangul",
+      "rule": "fixed_oct_9"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

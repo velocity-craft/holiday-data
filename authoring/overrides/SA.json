@@ -1,0 +1,27 @@
+{
+  "countryCode": "SA",
+  "countryName": "Saudi Arabia",
+  "timeZone": "Asia/Riyadh",
+  "holidays": [
+    {
+      "template": "sa_founding_day_holiday",
+      "rule": "fixed_feb_22"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "sa_national_day_holiday",
+      "rule": "fixed_sep_23"
+    }
+  ]
+}

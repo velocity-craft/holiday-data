@@ -1,0 +1,264 @@
+{
+  "countryCode": "ST",
+  "countryName": "Sao Tome and Principe",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-04",
+      "localizedNames": {
+        "de": "Day of King Amador",
+        "en": "Day of King Amador",
+        "es": "Day of King Amador",
+        "fr": "Day of King Amador",
+        "ja": "Day of King Amador",
+        "ko": "Day of King Amador",
+        "pt": "Day of King Amador",
+        "zh": "Day of King Amador"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-03",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-12",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-06",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-30",
+      "localizedNames": {
+        "de": "Agricultural Reform Day",
+        "en": "Agricultural Reform Day",
+        "es": "Agricultural Reform Day",
+        "fr": "Agricultural Reform Day",
+        "ja": "Agricultural Reform Day",
+        "ko": "Agricultural Reform Day",
+        "pt": "Agricultural Reform Day",
+        "zh": "Agricultural Reform Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-21",
+      "localizedNames": {
+        "de": "São Tomé Day",
+        "en": "São Tomé Day",
+        "es": "São Tomé Day",
+        "fr": "São Tomé Day",
+        "ja": "São Tomé Day",
+        "ko": "São Tomé Day",
+        "pt": "São Tomé Day",
+        "zh": "São Tomé Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-04",
+      "localizedNames": {
+        "de": "Day of King Amador",
+        "en": "Day of King Amador",
+        "es": "Day of King Amador",
+        "fr": "Day of King Amador",
+        "ja": "Day of King Amador",
+        "ko": "Day of King Amador",
+        "pt": "Day of King Amador",
+        "zh": "Day of King Amador"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-03",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-12",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-06",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-30",
+      "localizedNames": {
+        "de": "Agricultural Reform Day",
+        "en": "Agricultural Reform Day",
+        "es": "Agricultural Reform Day",
+        "fr": "Agricultural Reform Day",
+        "ja": "Agricultural Reform Day",
+        "ko": "Agricultural Reform Day",
+        "pt": "Agricultural Reform Day",
+        "zh": "Agricultural Reform Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-21",
+      "localizedNames": {
+        "de": "São Tomé Day",
+        "en": "São Tomé Day",
+        "es": "São Tomé Day",
+        "fr": "São Tomé Day",
+        "ja": "São Tomé Day",
+        "ko": "São Tomé Day",
+        "pt": "São Tomé Day",
+        "zh": "São Tomé Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Sao_Tome",
+  "years": [
+    2026,
+    2027
+  ]
+}

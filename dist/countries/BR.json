@@ -1,0 +1,264 @@
+{
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Universal Fraternization Day",
+        "en": "Universal Fraternization Day",
+        "es": "Universal Fraternization Day",
+        "fr": "Universal Fraternization Day",
+        "ja": "Universal Fraternization Day",
+        "ko": "Universal Fraternization Day",
+        "pt": "Universal Fraternization Day",
+        "zh": "Universal Fraternization Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-21",
+      "localizedNames": {
+        "de": "Tiradentes' Day",
+        "en": "Tiradentes' Day",
+        "es": "Tiradentes' Day",
+        "fr": "Tiradentes' Day",
+        "ja": "Tiradentes' Day",
+        "ko": "Tiradentes' Day",
+        "pt": "Tiradentes' Day",
+        "zh": "Tiradentes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-07",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Our Lady of Aparecida",
+        "en": "Our Lady of Aparecida",
+        "es": "Our Lady of Aparecida",
+        "fr": "Our Lady of Aparecida",
+        "ja": "Our Lady of Aparecida",
+        "ko": "Our Lady of Aparecida",
+        "pt": "Our Lady of Aparecida",
+        "zh": "Our Lady of Aparecida"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-15",
+      "localizedNames": {
+        "de": "Republic Proclamation Day",
+        "en": "Republic Proclamation Day",
+        "es": "Republic Proclamation Day",
+        "fr": "Republic Proclamation Day",
+        "ja": "Republic Proclamation Day",
+        "ko": "Republic Proclamation Day",
+        "pt": "Republic Proclamation Day",
+        "zh": "Republic Proclamation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-20",
+      "localizedNames": {
+        "de": "National Day of Zumbi and Black Awareness",
+        "en": "National Day of Zumbi and Black Awareness",
+        "es": "National Day of Zumbi and Black Awareness",
+        "fr": "National Day of Zumbi and Black Awareness",
+        "ja": "National Day of Zumbi and Black Awareness",
+        "ko": "National Day of Zumbi and Black Awareness",
+        "pt": "National Day of Zumbi and Black Awareness",
+        "zh": "National Day of Zumbi and Black Awareness"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Universal Fraternization Day",
+        "en": "Universal Fraternization Day",
+        "es": "Universal Fraternization Day",
+        "fr": "Universal Fraternization Day",
+        "ja": "Universal Fraternization Day",
+        "ko": "Universal Fraternization Day",
+        "pt": "Universal Fraternization Day",
+        "zh": "Universal Fraternization Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-21",
+      "localizedNames": {
+        "de": "Tiradentes' Day",
+        "en": "Tiradentes' Day",
+        "es": "Tiradentes' Day",
+        "fr": "Tiradentes' Day",
+        "ja": "Tiradentes' Day",
+        "ko": "Tiradentes' Day",
+        "pt": "Tiradentes' Day",
+        "zh": "Tiradentes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-07",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-12",
+      "localizedNames": {
+        "de": "Our Lady of Aparecida",
+        "en": "Our Lady of Aparecida",
+        "es": "Our Lady of Aparecida",
+        "fr": "Our Lady of Aparecida",
+        "ja": "Our Lady of Aparecida",
+        "ko": "Our Lady of Aparecida",
+        "pt": "Our Lady of Aparecida",
+        "zh": "Our Lady of Aparecida"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-15",
+      "localizedNames": {
+        "de": "Republic Proclamation Day",
+        "en": "Republic Proclamation Day",
+        "es": "Republic Proclamation Day",
+        "fr": "Republic Proclamation Day",
+        "ja": "Republic Proclamation Day",
+        "ko": "Republic Proclamation Day",
+        "pt": "Republic Proclamation Day",
+        "zh": "Republic Proclamation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-20",
+      "localizedNames": {
+        "de": "National Day of Zumbi and Black Awareness",
+        "en": "National Day of Zumbi and Black Awareness",
+        "es": "National Day of Zumbi and Black Awareness",
+        "fr": "National Day of Zumbi and Black Awareness",
+        "ja": "National Day of Zumbi and Black Awareness",
+        "ko": "National Day of Zumbi and Black Awareness",
+        "pt": "National Day of Zumbi and Black Awareness",
+        "zh": "National Day of Zumbi and Black Awareness"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Sao_Paulo",
+  "years": [
+    2026,
+    2027
+  ]
+}

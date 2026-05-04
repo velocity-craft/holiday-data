@@ -1,0 +1,656 @@
+{
+  "countryCode": "VA",
+  "countryName": "Holy See (Vatican City State)",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Solemnity of Mary, Mother of God",
+        "en": "Solemnity of Mary, Mother of God",
+        "es": "Solemnity of Mary, Mother of God",
+        "fr": "Solemnity of Mary, Mother of God",
+        "ja": "Solemnity of Mary, Mother of God",
+        "ko": "Solemnity of Mary, Mother of God",
+        "pt": "Solemnity of Mary, Mother of God",
+        "zh": "Solemnity of Mary, Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-11",
+      "localizedNames": {
+        "de": "Anniversary of the Foundation of Vatican City",
+        "en": "Anniversary of the Foundation of Vatican City",
+        "es": "Anniversary of the Foundation of Vatican City",
+        "fr": "Anniversary of the Foundation of Vatican City",
+        "ja": "Anniversary of the Foundation of Vatican City",
+        "ko": "Anniversary of the Foundation of Vatican City",
+        "pt": "Anniversary of the Foundation of Vatican City",
+        "zh": "Anniversary of the Foundation of Vatican City"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-19",
+      "localizedNames": {
+        "de": "Saint Joseph's Day",
+        "en": "Saint Joseph's Day",
+        "es": "Saint Joseph's Day",
+        "fr": "Saint Joseph's Day",
+        "ja": "Saint Joseph's Day",
+        "ko": "Saint Joseph's Day",
+        "pt": "Saint Joseph's Day",
+        "zh": "Saint Joseph's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-07",
+      "localizedNames": {
+        "de": "Easter Tuesday",
+        "en": "Easter Tuesday",
+        "es": "Easter Tuesday",
+        "fr": "Easter Tuesday",
+        "ja": "Easter Tuesday",
+        "ko": "Easter Tuesday",
+        "pt": "Easter Tuesday",
+        "zh": "Easter Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Saint Joseph the Worker's Day",
+        "en": "Saint Joseph the Worker's Day",
+        "es": "Saint Joseph the Worker's Day",
+        "fr": "Saint Joseph the Worker's Day",
+        "ja": "Saint Joseph the Worker's Day",
+        "ko": "Saint Joseph the Worker's Day",
+        "pt": "Saint Joseph the Worker's Day",
+        "zh": "Saint Joseph the Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-24",
+      "localizedNames": {
+        "de": "Solemnity of Pentecost",
+        "en": "Solemnity of Pentecost",
+        "es": "Solemnity of Pentecost",
+        "fr": "Solemnity of Pentecost",
+        "ja": "Solemnity of Pentecost",
+        "ko": "Solemnity of Pentecost",
+        "pt": "Solemnity of Pentecost",
+        "zh": "Solemnity of Pentecost"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-31",
+      "localizedNames": {
+        "de": "Solemnity of Holy Trinity",
+        "en": "Solemnity of Holy Trinity",
+        "es": "Solemnity of Holy Trinity",
+        "fr": "Solemnity of Holy Trinity",
+        "ja": "Solemnity of Holy Trinity",
+        "ko": "Solemnity of Holy Trinity",
+        "pt": "Solemnity of Holy Trinity",
+        "zh": "Solemnity of Holy Trinity"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Corpus Domini",
+        "en": "Corpus Domini",
+        "es": "Corpus Domini",
+        "fr": "Corpus Domini",
+        "ja": "Corpus Domini",
+        "ko": "Corpus Domini",
+        "pt": "Corpus Domini",
+        "zh": "Corpus Domini"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-29",
+      "localizedNames": {
+        "de": "Saints Peter and Paul's Day",
+        "en": "Saints Peter and Paul's Day",
+        "es": "Saints Peter and Paul's Day",
+        "fr": "Saints Peter and Paul's Day",
+        "ja": "Saints Peter and Paul's Day",
+        "ko": "Saints Peter and Paul's Day",
+        "pt": "Saints Peter and Paul's Day",
+        "zh": "Saints Peter and Paul's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-14",
+      "localizedNames": {
+        "de": "Day Before Assumption of Mary",
+        "en": "Day Before Assumption of Mary",
+        "es": "Day Before Assumption of Mary",
+        "fr": "Day Before Assumption of Mary",
+        "ja": "Day Before Assumption of Mary",
+        "ko": "Day Before Assumption of Mary",
+        "pt": "Day Before Assumption of Mary",
+        "zh": "Day Before Assumption of Mary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Of Mary Day",
+        "en": "Assumption Of Mary Day",
+        "es": "Assumption Of Mary Day",
+        "fr": "Assumption Of Mary Day",
+        "ja": "Assumption Of Mary Day",
+        "ko": "Assumption Of Mary Day",
+        "pt": "Assumption Of Mary Day",
+        "zh": "Assumption Of Mary Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-16",
+      "localizedNames": {
+        "de": "Day After Assumption of Mary",
+        "en": "Day After Assumption of Mary",
+        "es": "Day After Assumption of Mary",
+        "fr": "Day After Assumption of Mary",
+        "ja": "Day After Assumption of Mary",
+        "ko": "Day After Assumption of Mary",
+        "pt": "Day After Assumption of Mary",
+        "zh": "Day After Assumption of Mary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-27",
+      "localizedNames": {
+        "de": "Saint John the Evangelist's Day",
+        "en": "Saint John the Evangelist's Day",
+        "es": "Saint John the Evangelist's Day",
+        "fr": "Saint John the Evangelist's Day",
+        "ja": "Saint John the Evangelist's Day",
+        "ko": "Saint John the Evangelist's Day",
+        "pt": "Saint John the Evangelist's Day",
+        "zh": "Saint John the Evangelist's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "Last Day of the Year",
+        "en": "Last Day of the Year",
+        "es": "Last Day of the Year",
+        "fr": "Last Day of the Year",
+        "ja": "Last Day of the Year",
+        "ko": "Last Day of the Year",
+        "pt": "Last Day of the Year",
+        "zh": "Last Day of the Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Solemnity of Mary, Mother of God",
+        "en": "Solemnity of Mary, Mother of God",
+        "es": "Solemnity of Mary, Mother of God",
+        "fr": "Solemnity of Mary, Mother of God",
+        "ja": "Solemnity of Mary, Mother of God",
+        "ko": "Solemnity of Mary, Mother of God",
+        "pt": "Solemnity of Mary, Mother of God",
+        "zh": "Solemnity of Mary, Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-11",
+      "localizedNames": {
+        "de": "Anniversary of the Foundation of Vatican City",
+        "en": "Anniversary of the Foundation of Vatican City",
+        "es": "Anniversary of the Foundation of Vatican City",
+        "fr": "Anniversary of the Foundation of Vatican City",
+        "ja": "Anniversary of the Foundation of Vatican City",
+        "ko": "Anniversary of the Foundation of Vatican City",
+        "pt": "Anniversary of the Foundation of Vatican City",
+        "zh": "Anniversary of the Foundation of Vatican City"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-19",
+      "localizedNames": {
+        "de": "Saint Joseph's Day",
+        "en": "Saint Joseph's Day",
+        "es": "Saint Joseph's Day",
+        "fr": "Saint Joseph's Day",
+        "ja": "Saint Joseph's Day",
+        "ko": "Saint Joseph's Day",
+        "pt": "Saint Joseph's Day",
+        "zh": "Saint Joseph's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-27",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-30",
+      "localizedNames": {
+        "de": "Easter Tuesday",
+        "en": "Easter Tuesday",
+        "es": "Easter Tuesday",
+        "fr": "Easter Tuesday",
+        "ja": "Easter Tuesday",
+        "ko": "Easter Tuesday",
+        "pt": "Easter Tuesday",
+        "zh": "Easter Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Saint Joseph the Worker's Day",
+        "en": "Saint Joseph the Worker's Day",
+        "es": "Saint Joseph the Worker's Day",
+        "fr": "Saint Joseph the Worker's Day",
+        "ja": "Saint Joseph the Worker's Day",
+        "ko": "Saint Joseph the Worker's Day",
+        "pt": "Saint Joseph the Worker's Day",
+        "zh": "Saint Joseph the Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-16",
+      "localizedNames": {
+        "de": "Solemnity of Pentecost",
+        "en": "Solemnity of Pentecost",
+        "es": "Solemnity of Pentecost",
+        "fr": "Solemnity of Pentecost",
+        "ja": "Solemnity of Pentecost",
+        "ko": "Solemnity of Pentecost",
+        "pt": "Solemnity of Pentecost",
+        "zh": "Solemnity of Pentecost"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-23",
+      "localizedNames": {
+        "de": "Solemnity of Holy Trinity",
+        "en": "Solemnity of Holy Trinity",
+        "es": "Solemnity of Holy Trinity",
+        "fr": "Solemnity of Holy Trinity",
+        "ja": "Solemnity of Holy Trinity",
+        "ko": "Solemnity of Holy Trinity",
+        "pt": "Solemnity of Holy Trinity",
+        "zh": "Solemnity of Holy Trinity"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Corpus Domini",
+        "en": "Corpus Domini",
+        "es": "Corpus Domini",
+        "fr": "Corpus Domini",
+        "ja": "Corpus Domini",
+        "ko": "Corpus Domini",
+        "pt": "Corpus Domini",
+        "zh": "Corpus Domini"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-29",
+      "localizedNames": {
+        "de": "Saints Peter and Paul's Day",
+        "en": "Saints Peter and Paul's Day",
+        "es": "Saints Peter and Paul's Day",
+        "fr": "Saints Peter and Paul's Day",
+        "ja": "Saints Peter and Paul's Day",
+        "ko": "Saints Peter and Paul's Day",
+        "pt": "Saints Peter and Paul's Day",
+        "zh": "Saints Peter and Paul's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-14",
+      "localizedNames": {
+        "de": "Day Before Assumption of Mary",
+        "en": "Day Before Assumption of Mary",
+        "es": "Day Before Assumption of Mary",
+        "fr": "Day Before Assumption of Mary",
+        "ja": "Day Before Assumption of Mary",
+        "ko": "Day Before Assumption of Mary",
+        "pt": "Day Before Assumption of Mary",
+        "zh": "Day Before Assumption of Mary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Of Mary Day",
+        "en": "Assumption Of Mary Day",
+        "es": "Assumption Of Mary Day",
+        "fr": "Assumption Of Mary Day",
+        "ja": "Assumption Of Mary Day",
+        "ko": "Assumption Of Mary Day",
+        "pt": "Assumption Of Mary Day",
+        "zh": "Assumption Of Mary Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-16",
+      "localizedNames": {
+        "de": "Day After Assumption of Mary",
+        "en": "Day After Assumption of Mary",
+        "es": "Day After Assumption of Mary",
+        "fr": "Day After Assumption of Mary",
+        "ja": "Day After Assumption of Mary",
+        "ko": "Day After Assumption of Mary",
+        "pt": "Day After Assumption of Mary",
+        "zh": "Day After Assumption of Mary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-27",
+      "localizedNames": {
+        "de": "Saint John the Evangelist's Day",
+        "en": "Saint John the Evangelist's Day",
+        "es": "Saint John the Evangelist's Day",
+        "fr": "Saint John the Evangelist's Day",
+        "ja": "Saint John the Evangelist's Day",
+        "ko": "Saint John the Evangelist's Day",
+        "pt": "Saint John the Evangelist's Day",
+        "zh": "Saint John the Evangelist's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "Last Day of the Year",
+        "en": "Last Day of the Year",
+        "es": "Last Day of the Year",
+        "fr": "Last Day of the Year",
+        "ja": "Last Day of the Year",
+        "ko": "Last Day of the Year",
+        "pt": "Last Day of the Year",
+        "zh": "Last Day of the Year"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Vatican",
+  "years": [
+    2026,
+    2027
+  ]
+}

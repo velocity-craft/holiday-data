@@ -1,0 +1,404 @@
+{
+  "countryCode": "HT",
+  "countryName": "Haiti",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "National Independence Day; New Year's Day",
+        "en": "National Independence Day; New Year's Day",
+        "es": "National Independence Day; New Year's Day",
+        "fr": "National Independence Day; New Year's Day",
+        "ja": "National Independence Day; New Year's Day",
+        "ko": "National Independence Day; New Year's Day",
+        "pt": "National Independence Day; New Year's Day",
+        "zh": "National Independence Day; New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Ancestry Day",
+        "en": "Ancestry Day",
+        "es": "Ancestry Day",
+        "fr": "Ancestry Day",
+        "ja": "Ancestry Day",
+        "ko": "Ancestry Day",
+        "pt": "Ancestry Day",
+        "zh": "Ancestry Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-15",
+      "localizedNames": {
+        "de": "Carnival",
+        "en": "Carnival",
+        "es": "Carnival",
+        "fr": "Carnival",
+        "ja": "Carnival",
+        "ko": "Carnival",
+        "pt": "Carnival",
+        "zh": "Carnival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Shrove Monday",
+        "en": "Shrove Monday",
+        "es": "Shrove Monday",
+        "fr": "Shrove Monday",
+        "ja": "Shrove Monday",
+        "ko": "Shrove Monday",
+        "pt": "Shrove Monday",
+        "zh": "Shrove Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "Fat Tuesday",
+        "en": "Fat Tuesday",
+        "es": "Fat Tuesday",
+        "fr": "Fat Tuesday",
+        "ja": "Fat Tuesday",
+        "ko": "Fat Tuesday",
+        "pt": "Fat Tuesday",
+        "zh": "Fat Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Agriculture and Labor Day",
+        "en": "Agriculture and Labor Day",
+        "es": "Agriculture and Labor Day",
+        "fr": "Agriculture and Labor Day",
+        "ja": "Agriculture and Labor Day",
+        "ko": "Agriculture and Labor Day",
+        "pt": "Agriculture and Labor Day",
+        "zh": "Agriculture and Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-18",
+      "localizedNames": {
+        "de": "Flag Day and University Day",
+        "en": "Flag Day and University Day",
+        "es": "Flag Day and University Day",
+        "fr": "Flag Day and University Day",
+        "ja": "Flag Day and University Day",
+        "ko": "Flag Day and University Day",
+        "pt": "Flag Day and University Day",
+        "zh": "Flag Day and University Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-17",
+      "localizedNames": {
+        "de": "Death of Dessalines",
+        "en": "Death of Dessalines",
+        "es": "Death of Dessalines",
+        "fr": "Death of Dessalines",
+        "ja": "Death of Dessalines",
+        "ko": "Death of Dessalines",
+        "pt": "Death of Dessalines",
+        "zh": "Death of Dessalines"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Day of the Dead",
+        "en": "Day of the Dead",
+        "es": "Day of the Dead",
+        "fr": "Day of the Dead",
+        "ja": "Day of the Dead",
+        "ko": "Day of the Dead",
+        "pt": "Day of the Dead",
+        "zh": "Day of the Dead"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-18",
+      "localizedNames": {
+        "de": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "en": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "es": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "fr": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "ja": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "ko": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "pt": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "zh": "Armed Forces Day; Commemoration of the Battle of Vertieres"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "National Independence Day; New Year's Day",
+        "en": "National Independence Day; New Year's Day",
+        "es": "National Independence Day; New Year's Day",
+        "fr": "National Independence Day; New Year's Day",
+        "ja": "National Independence Day; New Year's Day",
+        "ko": "National Independence Day; New Year's Day",
+        "pt": "National Independence Day; New Year's Day",
+        "zh": "National Independence Day; New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Ancestry Day",
+        "en": "Ancestry Day",
+        "es": "Ancestry Day",
+        "fr": "Ancestry Day",
+        "ja": "Ancestry Day",
+        "ko": "Ancestry Day",
+        "pt": "Ancestry Day",
+        "zh": "Ancestry Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-07",
+      "localizedNames": {
+        "de": "Carnival",
+        "en": "Carnival",
+        "es": "Carnival",
+        "fr": "Carnival",
+        "ja": "Carnival",
+        "ko": "Carnival",
+        "pt": "Carnival",
+        "zh": "Carnival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-08",
+      "localizedNames": {
+        "de": "Shrove Monday",
+        "en": "Shrove Monday",
+        "es": "Shrove Monday",
+        "fr": "Shrove Monday",
+        "ja": "Shrove Monday",
+        "ko": "Shrove Monday",
+        "pt": "Shrove Monday",
+        "zh": "Shrove Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "Fat Tuesday",
+        "en": "Fat Tuesday",
+        "es": "Fat Tuesday",
+        "fr": "Fat Tuesday",
+        "ja": "Fat Tuesday",
+        "ko": "Fat Tuesday",
+        "pt": "Fat Tuesday",
+        "zh": "Fat Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Agriculture and Labor Day",
+        "en": "Agriculture and Labor Day",
+        "es": "Agriculture and Labor Day",
+        "fr": "Agriculture and Labor Day",
+        "ja": "Agriculture and Labor Day",
+        "ko": "Agriculture and Labor Day",
+        "pt": "Agriculture and Labor Day",
+        "zh": "Agriculture and Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-18",
+      "localizedNames": {
+        "de": "Flag Day and University Day",
+        "en": "Flag Day and University Day",
+        "es": "Flag Day and University Day",
+        "fr": "Flag Day and University Day",
+        "ja": "Flag Day and University Day",
+        "ko": "Flag Day and University Day",
+        "pt": "Flag Day and University Day",
+        "zh": "Flag Day and University Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-17",
+      "localizedNames": {
+        "de": "Death of Dessalines",
+        "en": "Death of Dessalines",
+        "es": "Death of Dessalines",
+        "fr": "Death of Dessalines",
+        "ja": "Death of Dessalines",
+        "ko": "Death of Dessalines",
+        "pt": "Death of Dessalines",
+        "zh": "Death of Dessalines"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Day of the Dead",
+        "en": "Day of the Dead",
+        "es": "Day of the Dead",
+        "fr": "Day of the Dead",
+        "ja": "Day of the Dead",
+        "ko": "Day of the Dead",
+        "pt": "Day of the Dead",
+        "zh": "Day of the Dead"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-18",
+      "localizedNames": {
+        "de": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "en": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "es": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "fr": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "ja": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "ko": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "pt": "Armed Forces Day; Commemoration of the Battle of Vertieres",
+        "zh": "Armed Forces Day; Commemoration of the Battle of Vertieres"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Port-au-Prince",
+  "years": [
+    2026,
+    2027
+  ]
+}

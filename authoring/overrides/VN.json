@@ -1,0 +1,27 @@
+{
+  "countryCode": "VN",
+  "countryName": "Viet Nam",
+  "timeZone": "Asia/Ho_Chi_Minh",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "vn_fifth_day_of_lunar_new_year",
+      "rule": "offset_computus_western_neg46"
+    },
+    {
+      "template": "vn_liberation_day_reunification_day",
+      "rule": "fixed_apr_30"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    }
+  ]
+}

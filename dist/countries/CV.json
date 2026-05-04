@@ -1,0 +1,292 @@
+{
+  "countryCode": "CV",
+  "countryName": "Cabo Verde",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-13",
+      "localizedNames": {
+        "de": "Democracy and Freedom Day",
+        "en": "Democracy and Freedom Day",
+        "es": "Democracy and Freedom Day",
+        "fr": "Democracy and Freedom Day",
+        "ja": "Democracy and Freedom Day",
+        "ko": "Democracy and Freedom Day",
+        "pt": "Democracy and Freedom Day",
+        "zh": "Democracy and Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-20",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-18",
+      "localizedNames": {
+        "de": "Ash Wednesday",
+        "en": "Ash Wednesday",
+        "es": "Ash Wednesday",
+        "fr": "Ash Wednesday",
+        "ja": "Ash Wednesday",
+        "ko": "Ash Wednesday",
+        "pt": "Ash Wednesday",
+        "zh": "Ash Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "International Children's Day",
+        "en": "International Children's Day",
+        "es": "International Children's Day",
+        "fr": "International Children's Day",
+        "ja": "International Children's Day",
+        "ko": "International Children's Day",
+        "pt": "International Children's Day",
+        "zh": "International Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-05",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-13",
+      "localizedNames": {
+        "de": "Democracy and Freedom Day",
+        "en": "Democracy and Freedom Day",
+        "es": "Democracy and Freedom Day",
+        "fr": "Democracy and Freedom Day",
+        "ja": "Democracy and Freedom Day",
+        "ko": "Democracy and Freedom Day",
+        "pt": "Democracy and Freedom Day",
+        "zh": "Democracy and Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-20",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-10",
+      "localizedNames": {
+        "de": "Ash Wednesday",
+        "en": "Ash Wednesday",
+        "es": "Ash Wednesday",
+        "fr": "Ash Wednesday",
+        "ja": "Ash Wednesday",
+        "ko": "Ash Wednesday",
+        "pt": "Ash Wednesday",
+        "zh": "Ash Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "International Children's Day",
+        "en": "International Children's Day",
+        "es": "International Children's Day",
+        "fr": "International Children's Day",
+        "ja": "International Children's Day",
+        "ko": "International Children's Day",
+        "pt": "International Children's Day",
+        "zh": "International Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Atlantic/Cape_Verde",
+  "years": [
+    2026,
+    2027
+  ]
+}

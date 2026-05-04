@@ -1,0 +1,208 @@
+{
+  "countryCode": "NI",
+  "countryName": "Nicaragua",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-19",
+      "localizedNames": {
+        "de": "Revolutionstag",
+        "en": "Revolution Day",
+        "es": "Día de la Revolución",
+        "fr": "Fête de la Révolution",
+        "ja": "革命記念日",
+        "ko": "혁명기념일",
+        "pt": "Dia da Revolução",
+        "zh": "革命纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-14",
+      "localizedNames": {
+        "de": "Battle of San Jacinto Day",
+        "en": "Battle of San Jacinto Day",
+        "es": "Battle of San Jacinto Day",
+        "fr": "Battle of San Jacinto Day",
+        "ja": "Battle of San Jacinto Day",
+        "ko": "Battle of San Jacinto Day",
+        "pt": "Battle of San Jacinto Day",
+        "zh": "Battle of San Jacinto Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-15",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-19",
+      "localizedNames": {
+        "de": "Revolutionstag",
+        "en": "Revolution Day",
+        "es": "Día de la Revolución",
+        "fr": "Fête de la Révolution",
+        "ja": "革命記念日",
+        "ko": "혁명기념일",
+        "pt": "Dia da Revolução",
+        "zh": "革命纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-14",
+      "localizedNames": {
+        "de": "Battle of San Jacinto Day",
+        "en": "Battle of San Jacinto Day",
+        "es": "Battle of San Jacinto Day",
+        "fr": "Battle of San Jacinto Day",
+        "ja": "Battle of San Jacinto Day",
+        "ko": "Battle of San Jacinto Day",
+        "pt": "Battle of San Jacinto Day",
+        "zh": "Battle of San Jacinto Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-15",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Managua",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "timeZone": "Africa/Ndjamena",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_11"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_nov_28"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "td_freedom_and_democracy_day",
+      "rule": "fixed_dec_1"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "timeZone": "Pacific/Fiji",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "holy_saturday",
+      "rule": "offset_computus_western_neg1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "fj_ratu_sir_lala_sukuna_day",
+      "rule": "last_fri_may"
+    },
+    {
+      "template": "fj_fiji_day",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "diwali",
+      "rule": "hindu_diwali"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

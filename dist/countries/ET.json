@@ -1,0 +1,208 @@
+{
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "holidays": [
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-02",
+      "localizedNames": {
+        "de": "Adwa Victory Day",
+        "en": "Adwa Victory Day",
+        "es": "Adwa Victory Day",
+        "fr": "Adwa Victory Day",
+        "ja": "Adwa Victory Day",
+        "ko": "Adwa Victory Day",
+        "pt": "Adwa Victory Day",
+        "zh": "Adwa Victory Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-05",
+      "localizedNames": {
+        "de": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "en": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "es": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "fr": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "ja": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "ko": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "pt": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "zh": "Easter Sunday; Ethiopian Patriots' Victory Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-28",
+      "localizedNames": {
+        "de": "Downfall of the Dergue Regime Day",
+        "en": "Downfall of the Dergue Regime Day",
+        "es": "Downfall of the Dergue Regime Day",
+        "fr": "Downfall of the Dergue Regime Day",
+        "ja": "Downfall of the Dergue Regime Day",
+        "ko": "Downfall of the Dergue Regime Day",
+        "pt": "Downfall of the Dergue Regime Day",
+        "zh": "Downfall of the Dergue Regime Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-02",
+      "localizedNames": {
+        "de": "Adwa Victory Day",
+        "en": "Adwa Victory Day",
+        "es": "Adwa Victory Day",
+        "fr": "Adwa Victory Day",
+        "ja": "Adwa Victory Day",
+        "ko": "Adwa Victory Day",
+        "pt": "Adwa Victory Day",
+        "zh": "Adwa Victory Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-05",
+      "localizedNames": {
+        "de": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "en": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "es": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "fr": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "ja": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "ko": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "pt": "Easter Sunday; Ethiopian Patriots' Victory Day",
+        "zh": "Easter Sunday; Ethiopian Patriots' Victory Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-28",
+      "localizedNames": {
+        "de": "Downfall of the Dergue Regime Day",
+        "en": "Downfall of the Dergue Regime Day",
+        "es": "Downfall of the Dergue Regime Day",
+        "fr": "Downfall of the Dergue Regime Day",
+        "ja": "Downfall of the Dergue Regime Day",
+        "ko": "Downfall of the Dergue Regime Day",
+        "pt": "Downfall of the Dergue Regime Day",
+        "zh": "Downfall of the Dergue Regime Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Addis_Ababa",
+  "years": [
+    2026,
+    2027
+  ]
+}

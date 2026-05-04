@@ -1,0 +1,51 @@
+{
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "timeZone": "Africa/Maseru",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ls_moshoeshoe_s_day",
+      "rule": "fixed_mar_11"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ls_africa_heroes_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "ai_king_s_birthday",
+      "rule": "fixed_jul_17"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_4"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

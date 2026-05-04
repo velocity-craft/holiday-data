@@ -1,0 +1,59 @@
+{
+  "countryCode": "AX",
+  "countryName": "Åland Islands",
+  "timeZone": "Europe/Mariehamn",
+  "holidays": [
+    {
+      "template": "epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_sunday",
+      "rule": "offset_computus_western_pos49"
+    },
+    {
+      "template": "ax_land_s_autonomy_day",
+      "rule": "fixed_jun_9"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_2nd_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas_eve",
+      "rule": "fixed_dec_24"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_dec_6"
+    }
+  ]
+}

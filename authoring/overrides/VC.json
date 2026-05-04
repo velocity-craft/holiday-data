@@ -1,0 +1,51 @@
+{
+  "countryCode": "VC",
+  "countryName": "Saint Vincent and the Grenadines",
+  "timeZone": "America/St_Vincent",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "fixed_mar_14"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "vc_national_spiritual_baptist_day",
+      "rule": "fixed_may_21"
+    },
+    {
+      "template": "vc_national_workers_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "fixed_aug_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_27"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

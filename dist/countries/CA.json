@@ -1,0 +1,96 @@
+{
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "Kanada-Tag",
+        "en": "Canada Day",
+        "es": "Día de Canadá",
+        "fr": "Fête du Canada",
+        "ja": "カナダデー",
+        "ko": "캐나다의 날",
+        "pt": "Dia do Canadá",
+        "zh": "加拿大国庆日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "Kanada-Tag",
+        "en": "Canada Day",
+        "es": "Día de Canadá",
+        "fr": "Fête du Canada",
+        "ja": "カナダデー",
+        "ko": "캐나다의 날",
+        "pt": "Dia do Canadá",
+        "zh": "加拿大国庆日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Toronto",
+  "years": [
+    2026,
+    2027
+  ]
+}

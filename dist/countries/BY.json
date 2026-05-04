@@ -1,0 +1,292 @@
+{
+  "countryCode": "BY",
+  "countryName": "Belarus",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Catholic Easter",
+        "en": "Catholic Easter",
+        "es": "Catholic Easter",
+        "fr": "Catholic Easter",
+        "ja": "Catholic Easter",
+        "ko": "Catholic Easter",
+        "pt": "Catholic Easter",
+        "zh": "Catholic Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-12",
+      "localizedNames": {
+        "de": "Orthodox Easter",
+        "en": "Orthodox Easter",
+        "es": "Orthodox Easter",
+        "fr": "Orthodox Easter",
+        "ja": "Orthodox Easter",
+        "ko": "Orthodox Easter",
+        "pt": "Orthodox Easter",
+        "zh": "Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-20",
+      "localizedNames": {
+        "de": "Catholic Easter; Orthodox Easter",
+        "en": "Catholic Easter; Orthodox Easter",
+        "es": "Catholic Easter; Orthodox Easter",
+        "fr": "Catholic Easter; Orthodox Easter",
+        "ja": "Catholic Easter; Orthodox Easter",
+        "ko": "Catholic Easter; Orthodox Easter",
+        "pt": "Catholic Easter; Orthodox Easter",
+        "zh": "Catholic Easter; Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-21",
+      "localizedNames": {
+        "de": "Radunitsa (Day of Rejoicing)",
+        "en": "Radunitsa (Day of Rejoicing)",
+        "es": "Radunitsa (Day of Rejoicing)",
+        "fr": "Radunitsa (Day of Rejoicing)",
+        "ja": "Radunitsa (Day of Rejoicing)",
+        "ko": "Radunitsa (Day of Rejoicing)",
+        "pt": "Radunitsa (Day of Rejoicing)",
+        "zh": "Radunitsa (Day of Rejoicing)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-03",
+      "localizedNames": {
+        "de": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "en": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "es": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "fr": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "ja": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "ko": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "pt": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "zh": "Independence Day of the Republic of Belarus (Day of the Republic)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-07",
+      "localizedNames": {
+        "de": "October Revolution Day",
+        "en": "October Revolution Day",
+        "es": "October Revolution Day",
+        "fr": "October Revolution Day",
+        "ja": "October Revolution Day",
+        "ko": "October Revolution Day",
+        "pt": "October Revolution Day",
+        "zh": "October Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Catholic Christmas Day",
+        "en": "Catholic Christmas Day",
+        "es": "Catholic Christmas Day",
+        "fr": "Catholic Christmas Day",
+        "ja": "Catholic Christmas Day",
+        "ko": "Catholic Christmas Day",
+        "pt": "Catholic Christmas Day",
+        "zh": "Catholic Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-28",
+      "localizedNames": {
+        "de": "Catholic Easter",
+        "en": "Catholic Easter",
+        "es": "Catholic Easter",
+        "fr": "Catholic Easter",
+        "ja": "Catholic Easter",
+        "ko": "Catholic Easter",
+        "pt": "Catholic Easter",
+        "zh": "Catholic Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-20",
+      "localizedNames": {
+        "de": "Catholic Easter; Orthodox Easter",
+        "en": "Catholic Easter; Orthodox Easter",
+        "es": "Catholic Easter; Orthodox Easter",
+        "fr": "Catholic Easter; Orthodox Easter",
+        "ja": "Catholic Easter; Orthodox Easter",
+        "ko": "Catholic Easter; Orthodox Easter",
+        "pt": "Catholic Easter; Orthodox Easter",
+        "zh": "Catholic Easter; Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-02",
+      "localizedNames": {
+        "de": "Orthodox Easter",
+        "en": "Orthodox Easter",
+        "es": "Orthodox Easter",
+        "fr": "Orthodox Easter",
+        "ja": "Orthodox Easter",
+        "ko": "Orthodox Easter",
+        "pt": "Orthodox Easter",
+        "zh": "Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-11",
+      "localizedNames": {
+        "de": "Radunitsa (Day of Rejoicing)",
+        "en": "Radunitsa (Day of Rejoicing)",
+        "es": "Radunitsa (Day of Rejoicing)",
+        "fr": "Radunitsa (Day of Rejoicing)",
+        "ja": "Radunitsa (Day of Rejoicing)",
+        "ko": "Radunitsa (Day of Rejoicing)",
+        "pt": "Radunitsa (Day of Rejoicing)",
+        "zh": "Radunitsa (Day of Rejoicing)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-03",
+      "localizedNames": {
+        "de": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "en": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "es": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "fr": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "ja": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "ko": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "pt": "Independence Day of the Republic of Belarus (Day of the Republic)",
+        "zh": "Independence Day of the Republic of Belarus (Day of the Republic)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-07",
+      "localizedNames": {
+        "de": "October Revolution Day",
+        "en": "October Revolution Day",
+        "es": "October Revolution Day",
+        "fr": "October Revolution Day",
+        "ja": "October Revolution Day",
+        "ko": "October Revolution Day",
+        "pt": "October Revolution Day",
+        "zh": "October Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Catholic Christmas Day",
+        "en": "Catholic Christmas Day",
+        "es": "Catholic Christmas Day",
+        "fr": "Catholic Christmas Day",
+        "ja": "Catholic Christmas Day",
+        "ko": "Catholic Christmas Day",
+        "pt": "Catholic Christmas Day",
+        "zh": "Catholic Christmas Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Minsk",
+  "years": [
+    2026,
+    2027
+  ]
+}

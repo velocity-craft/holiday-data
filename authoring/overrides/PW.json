@@ -1,0 +1,51 @@
+{
+  "countryCode": "PW",
+  "countryName": "Palau",
+  "timeZone": "Pacific/Palau",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "youth_day",
+      "rule": "fixed_mar_15"
+    },
+    {
+      "template": "pw_senior_citizens_day",
+      "rule": "fixed_may_5"
+    },
+    {
+      "template": "bw_president_s_day",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_jul_9"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_sep_1"
+    },
+    {
+      "template": "fm_united_nations_day",
+      "rule": "fixed_oct_24"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_1"
+    },
+    {
+      "template": "mz_family_day",
+      "rule": "nth_fri_nov_4"
+    },
+    {
+      "template": "thanksgiving_day_generic",
+      "rule": "last_thu_nov"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

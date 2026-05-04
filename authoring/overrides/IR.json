@@ -1,0 +1,63 @@
+{
+  "countryCode": "IR",
+  "countryName": "Iran, Islamic Republic of",
+  "timeZone": "Asia/Tehran",
+  "holidays": [
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "al_public_holiday",
+      "rule": "fixed_mar_1"
+    },
+    {
+      "template": "iq_eid_al_fitr_estimated_nowruz",
+      "rule": "fixed_mar_21"
+    },
+    {
+      "template": "ir_eid_al_fitr_holiday_estimated_nowruz_hol",
+      "rule": "fixed_mar_22"
+    },
+    {
+      "template": "ir_last_day_of_year",
+      "rule": "fixed_mar_20"
+    },
+    {
+      "template": "ir_martyrdom_of_imam_ali_nowruz_holiday",
+      "rule": "fixed_mar_22"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ir_eid_al_fitr_holiday_islamic_republic_day",
+      "rule": "fixed_apr_1"
+    },
+    {
+      "template": "ir_martyrdom_of_imam_ali_nature_s_day",
+      "rule": "fixed_apr_1"
+    },
+    {
+      "template": "ir_nature_s_day",
+      "rule": "fixed_apr_2"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ir_15_khordad_uprising_eid_al_ghadeer_estim",
+      "rule": "fixed_jun_5"
+    },
+    {
+      "template": "day_of_ashura",
+      "rule": "islamic_muharram_10"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-26",
+      "localizedNames": {
+        "de": "Grand Chief Sir Michael Somare Remembrance Day",
+        "en": "Grand Chief Sir Michael Somare Remembrance Day",
+        "es": "Grand Chief Sir Michael Somare Remembrance Day",
+        "fr": "Grand Chief Sir Michael Somare Remembrance Day",
+        "ja": "Grand Chief Sir Michael Somare Remembrance Day",
+        "ko": "Grand Chief Sir Michael Somare Remembrance Day",
+        "pt": "Grand Chief Sir Michael Somare Remembrance Day",
+        "zh": "Grand Chief Sir Michael Somare Remembrance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-23",
+      "localizedNames": {
+        "de": "Papua New Guinea Remembrance Day",
+        "en": "Papua New Guinea Remembrance Day",
+        "es": "Papua New Guinea Remembrance Day",
+        "fr": "Papua New Guinea Remembrance Day",
+        "ja": "Papua New Guinea Remembrance Day",
+        "ko": "Papua New Guinea Remembrance Day",
+        "pt": "Papua New Guinea Remembrance Day",
+        "zh": "Papua New Guinea Remembrance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "National Repentance Day",
+        "en": "National Repentance Day",
+        "es": "National Repentance Day",
+        "fr": "National Repentance Day",
+        "ja": "National Repentance Day",
+        "ko": "National Repentance Day",
+        "pt": "National Repentance Day",
+        "zh": "National Repentance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-16",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-26",
+      "localizedNames": {
+        "de": "Grand Chief Sir Michael Somare Remembrance Day",
+        "en": "Grand Chief Sir Michael Somare Remembrance Day",
+        "es": "Grand Chief Sir Michael Somare Remembrance Day",
+        "fr": "Grand Chief Sir Michael Somare Remembrance Day",
+        "ja": "Grand Chief Sir Michael Somare Remembrance Day",
+        "ko": "Grand Chief Sir Michael Somare Remembrance Day",
+        "pt": "Grand Chief Sir Michael Somare Remembrance Day",
+        "zh": "Grand Chief Sir Michael Somare Remembrance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-17",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-23",
+      "localizedNames": {
+        "de": "Papua New Guinea Remembrance Day",
+        "en": "Papua New Guinea Remembrance Day",
+        "es": "Papua New Guinea Remembrance Day",
+        "fr": "Papua New Guinea Remembrance Day",
+        "ja": "Papua New Guinea Remembrance Day",
+        "ko": "Papua New Guinea Remembrance Day",
+        "pt": "Papua New Guinea Remembrance Day",
+        "zh": "Papua New Guinea Remembrance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-26",
+      "localizedNames": {
+        "de": "National Repentance Day",
+        "en": "National Repentance Day",
+        "es": "National Repentance Day",
+        "fr": "National Repentance Day",
+        "ja": "National Repentance Day",
+        "ko": "National Repentance Day",
+        "pt": "National Repentance Day",
+        "zh": "National Repentance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-16",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Port_Moresby",
+  "years": [
+    2026,
+    2027
+  ]
+}

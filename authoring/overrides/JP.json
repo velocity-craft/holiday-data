@@ -1,0 +1,75 @@
+{
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "timeZone": "Asia/Tokyo",
+  "holidays": [
+    {
+      "template": "japan_coming_of_age",
+      "rule": "nth_mon_jan_2"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "japan_emperor_birthday",
+      "rule": "fixed_feb_23"
+    },
+    {
+      "template": "jp_foundation_day",
+      "rule": "fixed_feb_11"
+    },
+    {
+      "template": "japan_vernal_equinox",
+      "rule": "japan_vernal_equinox_computed"
+    },
+    {
+      "template": "japan_showa_day",
+      "rule": "fixed_apr_29"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_may_3"
+    },
+    {
+      "template": "japan_greenery_day",
+      "rule": "fixed_may_4"
+    },
+    {
+      "template": "korea_childrens_day",
+      "rule": "fixed_may_5"
+    },
+    {
+      "template": "japan_marine_day",
+      "rule": "nth_mon_jul_3"
+    },
+    {
+      "template": "japan_mountain_day",
+      "rule": "fixed_aug_11"
+    },
+    {
+      "template": "cl_national_holiday",
+      "rule": "fixed_sep_22"
+    },
+    {
+      "template": "japan_autumnal_equinox",
+      "rule": "japan_autumnal_equinox_computed"
+    },
+    {
+      "template": "japan_respect_for_aged",
+      "rule": "nth_mon_sep_3"
+    },
+    {
+      "template": "jp_sports_day",
+      "rule": "nth_mon_oct_2"
+    },
+    {
+      "template": "japan_culture_day",
+      "rule": "fixed_nov_3"
+    },
+    {
+      "template": "japan_labor_thanksgiving",
+      "rule": "fixed_nov_23"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-04",
+      "localizedNames": {
+        "de": "Sunday",
+        "en": "Sunday",
+        "es": "Sunday",
+        "fr": "Sunday",
+        "ja": "Sunday",
+        "ko": "Sunday",
+        "pt": "Sunday",
+        "zh": "Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Easter Sunday; Sunday",
+        "en": "Easter Sunday; Sunday",
+        "es": "Easter Sunday; Sunday",
+        "fr": "Easter Sunday; Sunday",
+        "ja": "Easter Sunday; Sunday",
+        "ko": "Easter Sunday; Sunday",
+        "pt": "Easter Sunday; Sunday",
+        "zh": "Easter Sunday; Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-24",
+      "localizedNames": {
+        "de": "Sunday; Whit Sunday",
+        "en": "Sunday; Whit Sunday",
+        "es": "Sunday; Whit Sunday",
+        "fr": "Sunday; Whit Sunday",
+        "ja": "Sunday; Whit Sunday",
+        "ko": "Sunday; Whit Sunday",
+        "pt": "Sunday; Whit Sunday",
+        "zh": "Sunday; Whit Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-06",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Second Day of Christmas; Sunday",
+        "en": "Second Day of Christmas; Sunday",
+        "es": "Second Day of Christmas; Sunday",
+        "fr": "Second Day of Christmas; Sunday",
+        "ja": "Second Day of Christmas; Sunday",
+        "ko": "Second Day of Christmas; Sunday",
+        "pt": "Second Day of Christmas; Sunday",
+        "zh": "Second Day of Christmas; Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-03",
+      "localizedNames": {
+        "de": "Sunday",
+        "en": "Sunday",
+        "es": "Sunday",
+        "fr": "Sunday",
+        "ja": "Sunday",
+        "ko": "Sunday",
+        "pt": "Sunday",
+        "zh": "Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-28",
+      "localizedNames": {
+        "de": "Easter Sunday; Sunday",
+        "en": "Easter Sunday; Sunday",
+        "es": "Easter Sunday; Sunday",
+        "fr": "Easter Sunday; Sunday",
+        "ja": "Easter Sunday; Sunday",
+        "ko": "Easter Sunday; Sunday",
+        "pt": "Easter Sunday; Sunday",
+        "zh": "Easter Sunday; Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-16",
+      "localizedNames": {
+        "de": "Sunday; Whit Sunday",
+        "en": "Sunday; Whit Sunday",
+        "es": "Sunday; Whit Sunday",
+        "fr": "Sunday; Whit Sunday",
+        "ja": "Sunday; Whit Sunday",
+        "ko": "Sunday; Whit Sunday",
+        "pt": "Sunday; Whit Sunday",
+        "zh": "Sunday; Whit Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Second Day of Christmas; Sunday",
+        "en": "Second Day of Christmas; Sunday",
+        "es": "Second Day of Christmas; Sunday",
+        "fr": "Second Day of Christmas; Sunday",
+        "ja": "Second Day of Christmas; Sunday",
+        "ko": "Second Day of Christmas; Sunday",
+        "pt": "Second Day of Christmas; Sunday",
+        "zh": "Second Day of Christmas; Sunday"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Stockholm",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "timeZone": "Africa/Gaborone",
+  "holidays": [
+    {
+      "template": "bw_new_year_s_day_holiday",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "holy_saturday",
+      "rule": "offset_computus_western_neg1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "bw_labour_day_holiday",
+      "rule": "fixed_may_3"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "bw_president_s_day",
+      "rule": "nth_mon_jul_3"
+    },
+    {
+      "template": "bw_sir_seretse_khama_day",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "bw_botswana_day",
+      "rule": "fixed_sep_30"
+    },
+    {
+      "template": "bw_botswana_day_holiday",
+      "rule": "fixed_oct_1"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "bw_boxing_day_holiday",
+      "rule": "fixed_dec_28"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

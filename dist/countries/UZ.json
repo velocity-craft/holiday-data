@@ -1,0 +1,264 @@
+{
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-21",
+      "localizedNames": {
+        "de": "Nowruz",
+        "en": "Nowruz",
+        "es": "Nowruz",
+        "fr": "Nowruz",
+        "ja": "Nowruz",
+        "ko": "Nowruz",
+        "pt": "Nowruz",
+        "zh": "Nowruz"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-09",
+      "localizedNames": {
+        "de": "Day of Memory and Honor",
+        "en": "Day of Memory and Honor",
+        "es": "Day of Memory and Honor",
+        "fr": "Day of Memory and Honor",
+        "ja": "Day of Memory and Honor",
+        "ko": "Day of Memory and Honor",
+        "pt": "Day of Memory and Honor",
+        "zh": "Day of Memory and Honor"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Teachers and Instructors Day",
+        "en": "Teachers and Instructors Day",
+        "es": "Teachers and Instructors Day",
+        "fr": "Teachers and Instructors Day",
+        "ja": "Teachers and Instructors Day",
+        "ko": "Teachers and Instructors Day",
+        "pt": "Teachers and Instructors Day",
+        "zh": "Teachers and Instructors Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-21",
+      "localizedNames": {
+        "de": "Nowruz",
+        "en": "Nowruz",
+        "es": "Nowruz",
+        "fr": "Nowruz",
+        "ja": "Nowruz",
+        "ko": "Nowruz",
+        "pt": "Nowruz",
+        "zh": "Nowruz"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-09",
+      "localizedNames": {
+        "de": "Day of Memory and Honor",
+        "en": "Day of Memory and Honor",
+        "es": "Day of Memory and Honor",
+        "fr": "Day of Memory and Honor",
+        "ja": "Day of Memory and Honor",
+        "ko": "Day of Memory and Honor",
+        "pt": "Day of Memory and Honor",
+        "zh": "Day of Memory and Honor"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Teachers and Instructors Day",
+        "en": "Teachers and Instructors Day",
+        "es": "Teachers and Instructors Day",
+        "fr": "Teachers and Instructors Day",
+        "ja": "Teachers and Instructors Day",
+        "ko": "Teachers and Instructors Day",
+        "pt": "Teachers and Instructors Day",
+        "zh": "Teachers and Instructors Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Samarkand",
+  "years": [
+    2026,
+    2027
+  ]
+}

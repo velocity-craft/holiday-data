@@ -1,0 +1,264 @@
+{
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Constitutional Assembly Convocation Day; Labor Day",
+        "en": "Constitutional Assembly Convocation Day; Labor Day",
+        "es": "Constitutional Assembly Convocation Day; Labor Day",
+        "fr": "Constitutional Assembly Convocation Day; Labor Day",
+        "ja": "Constitutional Assembly Convocation Day; Labor Day",
+        "ko": "Constitutional Assembly Convocation Day; Labor Day",
+        "pt": "Constitutional Assembly Convocation Day; Labor Day",
+        "zh": "Constitutional Assembly Convocation Day; Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-04",
+      "localizedNames": {
+        "de": "Restoration of Independence Day",
+        "en": "Restoration of Independence Day",
+        "es": "Restoration of Independence Day",
+        "fr": "Restoration of Independence Day",
+        "ja": "Restoration of Independence Day",
+        "ko": "Restoration of Independence Day",
+        "pt": "Restoration of Independence Day",
+        "zh": "Restoration of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-23",
+      "localizedNames": {
+        "de": "Midsummer Eve",
+        "en": "Midsummer Eve",
+        "es": "Midsummer Eve",
+        "fr": "Midsummer Eve",
+        "ja": "Midsummer Eve",
+        "ko": "Midsummer Eve",
+        "pt": "Midsummer Eve",
+        "zh": "Midsummer Eve"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-24",
+      "localizedNames": {
+        "de": "Midsummer Day",
+        "en": "Midsummer Day",
+        "es": "Midsummer Day",
+        "fr": "Midsummer Day",
+        "ja": "Midsummer Day",
+        "ko": "Midsummer Day",
+        "pt": "Midsummer Day",
+        "zh": "Midsummer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-18",
+      "localizedNames": {
+        "de": "Republic of Latvia Proclamation Day",
+        "en": "Republic of Latvia Proclamation Day",
+        "es": "Republic of Latvia Proclamation Day",
+        "fr": "Republic of Latvia Proclamation Day",
+        "ja": "Republic of Latvia Proclamation Day",
+        "ko": "Republic of Latvia Proclamation Day",
+        "pt": "Republic of Latvia Proclamation Day",
+        "zh": "Republic of Latvia Proclamation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Constitutional Assembly Convocation Day; Labor Day",
+        "en": "Constitutional Assembly Convocation Day; Labor Day",
+        "es": "Constitutional Assembly Convocation Day; Labor Day",
+        "fr": "Constitutional Assembly Convocation Day; Labor Day",
+        "ja": "Constitutional Assembly Convocation Day; Labor Day",
+        "ko": "Constitutional Assembly Convocation Day; Labor Day",
+        "pt": "Constitutional Assembly Convocation Day; Labor Day",
+        "zh": "Constitutional Assembly Convocation Day; Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-04",
+      "localizedNames": {
+        "de": "Restoration of Independence Day",
+        "en": "Restoration of Independence Day",
+        "es": "Restoration of Independence Day",
+        "fr": "Restoration of Independence Day",
+        "ja": "Restoration of Independence Day",
+        "ko": "Restoration of Independence Day",
+        "pt": "Restoration of Independence Day",
+        "zh": "Restoration of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-23",
+      "localizedNames": {
+        "de": "Midsummer Eve",
+        "en": "Midsummer Eve",
+        "es": "Midsummer Eve",
+        "fr": "Midsummer Eve",
+        "ja": "Midsummer Eve",
+        "ko": "Midsummer Eve",
+        "pt": "Midsummer Eve",
+        "zh": "Midsummer Eve"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-24",
+      "localizedNames": {
+        "de": "Midsummer Day",
+        "en": "Midsummer Day",
+        "es": "Midsummer Day",
+        "fr": "Midsummer Day",
+        "ja": "Midsummer Day",
+        "ko": "Midsummer Day",
+        "pt": "Midsummer Day",
+        "zh": "Midsummer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-18",
+      "localizedNames": {
+        "de": "Republic of Latvia Proclamation Day",
+        "en": "Republic of Latvia Proclamation Day",
+        "es": "Republic of Latvia Proclamation Day",
+        "fr": "Republic of Latvia Proclamation Day",
+        "ja": "Republic of Latvia Proclamation Day",
+        "ko": "Republic of Latvia Proclamation Day",
+        "pt": "Republic of Latvia Proclamation Day",
+        "zh": "Republic of Latvia Proclamation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Riga",
+  "years": [
+    2026,
+    2027
+  ]
+}

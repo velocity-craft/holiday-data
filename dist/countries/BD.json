@@ -1,0 +1,152 @@
+{
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "holidays": [
+    {
+      "date": "2026-02-21",
+      "localizedNames": {
+        "de": "Martyrs' Day and International Mother Language Day",
+        "en": "Martyrs' Day and International Mother Language Day",
+        "es": "Martyrs' Day and International Mother Language Day",
+        "fr": "Martyrs' Day and International Mother Language Day",
+        "ja": "Martyrs' Day and International Mother Language Day",
+        "ko": "Martyrs' Day and International Mother Language Day",
+        "pt": "Martyrs' Day and International Mother Language Day",
+        "zh": "Martyrs' Day and International Mother Language Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-17",
+      "localizedNames": {
+        "de": "Sheikh Mujibur Rahman's Birthday",
+        "en": "Sheikh Mujibur Rahman's Birthday",
+        "es": "Sheikh Mujibur Rahman's Birthday",
+        "fr": "Sheikh Mujibur Rahman's Birthday",
+        "ja": "Sheikh Mujibur Rahman's Birthday",
+        "ko": "Sheikh Mujibur Rahman's Birthday",
+        "pt": "Sheikh Mujibur Rahman's Birthday",
+        "zh": "Sheikh Mujibur Rahman's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-14",
+      "localizedNames": {
+        "de": "Bengali New Year's Day",
+        "en": "Bengali New Year's Day",
+        "es": "Bengali New Year's Day",
+        "fr": "Bengali New Year's Day",
+        "ja": "Bengali New Year's Day",
+        "ko": "Bengali New Year's Day",
+        "pt": "Bengali New Year's Day",
+        "zh": "Bengali New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "National Mourning Day",
+        "en": "National Mourning Day",
+        "es": "National Mourning Day",
+        "fr": "National Mourning Day",
+        "ja": "National Mourning Day",
+        "ko": "National Mourning Day",
+        "pt": "National Mourning Day",
+        "zh": "National Mourning Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-21",
+      "localizedNames": {
+        "de": "Martyrs' Day and International Mother Language Day",
+        "en": "Martyrs' Day and International Mother Language Day",
+        "es": "Martyrs' Day and International Mother Language Day",
+        "fr": "Martyrs' Day and International Mother Language Day",
+        "ja": "Martyrs' Day and International Mother Language Day",
+        "ko": "Martyrs' Day and International Mother Language Day",
+        "pt": "Martyrs' Day and International Mother Language Day",
+        "zh": "Martyrs' Day and International Mother Language Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-17",
+      "localizedNames": {
+        "de": "Sheikh Mujibur Rahman's Birthday",
+        "en": "Sheikh Mujibur Rahman's Birthday",
+        "es": "Sheikh Mujibur Rahman's Birthday",
+        "fr": "Sheikh Mujibur Rahman's Birthday",
+        "ja": "Sheikh Mujibur Rahman's Birthday",
+        "ko": "Sheikh Mujibur Rahman's Birthday",
+        "pt": "Sheikh Mujibur Rahman's Birthday",
+        "zh": "Sheikh Mujibur Rahman's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-14",
+      "localizedNames": {
+        "de": "Bengali New Year's Day",
+        "en": "Bengali New Year's Day",
+        "es": "Bengali New Year's Day",
+        "fr": "Bengali New Year's Day",
+        "ja": "Bengali New Year's Day",
+        "ko": "Bengali New Year's Day",
+        "pt": "Bengali New Year's Day",
+        "zh": "Bengali New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "National Mourning Day",
+        "en": "National Mourning Day",
+        "es": "National Mourning Day",
+        "fr": "National Mourning Day",
+        "ja": "National Mourning Day",
+        "ko": "National Mourning Day",
+        "pt": "National Mourning Day",
+        "zh": "National Mourning Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Dhaka",
+  "years": [
+    2026,
+    2027
+  ]
+}

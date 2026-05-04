@@ -1,0 +1,63 @@
+{
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "timeZone": "Africa/Bujumbura",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "bi_unity_day",
+      "rule": "fixed_feb_5"
+    },
+    {
+      "template": "bi_commemoration_of_the_assassination_of_pr",
+      "rule": "fixed_apr_6"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "bi_national_day_of_patriotism_and_commemora",
+      "rule": "fixed_jun_8"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "bi_commemoration_of_the_assassination_of_na",
+      "rule": "fixed_oct_13"
+    },
+    {
+      "template": "bi_commemoration_of_the_assassination_of_pr",
+      "rule": "fixed_oct_21"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

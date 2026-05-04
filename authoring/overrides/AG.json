@@ -1,0 +1,51 @@
+{
+  "countryCode": "AG",
+  "countryName": "Antigua and Barbuda",
+  "timeZone": "America/Antigua",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "ag_carnival_monday",
+      "rule": "nth_mon_aug_1"
+    },
+    {
+      "template": "ag_carnival_tuesday",
+      "rule": "nth_tue_aug_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "ag_sir_vere_cornwall_bird_snr_day",
+      "rule": "fixed_dec_9"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

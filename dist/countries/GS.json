@@ -1,0 +1,236 @@
+{
+  "countryCode": "GS",
+  "countryName": "South Georgia and the South Sandwich Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-17",
+      "localizedNames": {
+        "de": "Possession Day",
+        "en": "Possession Day",
+        "es": "Possession Day",
+        "fr": "Possession Day",
+        "ja": "Possession Day",
+        "ko": "Possession Day",
+        "pt": "Possession Day",
+        "zh": "Possession Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-20",
+      "localizedNames": {
+        "de": "Shackleton Day",
+        "en": "Shackleton Day",
+        "es": "Shackleton Day",
+        "fr": "Shackleton Day",
+        "ja": "Shackleton Day",
+        "ko": "Shackleton Day",
+        "pt": "Shackleton Day",
+        "zh": "Shackleton Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-21",
+      "localizedNames": {
+        "de": "Mid-winter Day",
+        "en": "Mid-winter Day",
+        "es": "Mid-winter Day",
+        "fr": "Mid-winter Day",
+        "ja": "Mid-winter Day",
+        "ko": "Mid-winter Day",
+        "pt": "Mid-winter Day",
+        "zh": "Mid-winter Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-30",
+      "localizedNames": {
+        "de": "Environment Day",
+        "en": "Environment Day",
+        "es": "Environment Day",
+        "fr": "Environment Day",
+        "ja": "Environment Day",
+        "ko": "Environment Day",
+        "pt": "Environment Day",
+        "zh": "Environment Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-17",
+      "localizedNames": {
+        "de": "Possession Day",
+        "en": "Possession Day",
+        "es": "Possession Day",
+        "fr": "Possession Day",
+        "ja": "Possession Day",
+        "ko": "Possession Day",
+        "pt": "Possession Day",
+        "zh": "Possession Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-20",
+      "localizedNames": {
+        "de": "Shackleton Day",
+        "en": "Shackleton Day",
+        "es": "Shackleton Day",
+        "fr": "Shackleton Day",
+        "ja": "Shackleton Day",
+        "ko": "Shackleton Day",
+        "pt": "Shackleton Day",
+        "zh": "Shackleton Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-21",
+      "localizedNames": {
+        "de": "Mid-winter Day",
+        "en": "Mid-winter Day",
+        "es": "Mid-winter Day",
+        "fr": "Mid-winter Day",
+        "ja": "Mid-winter Day",
+        "ko": "Mid-winter Day",
+        "pt": "Mid-winter Day",
+        "zh": "Mid-winter Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-30",
+      "localizedNames": {
+        "de": "Environment Day",
+        "en": "Environment Day",
+        "es": "Environment Day",
+        "fr": "Environment Day",
+        "ja": "Environment Day",
+        "ko": "Environment Day",
+        "pt": "Environment Day",
+        "zh": "Environment Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Atlantic/South_Georgia",
+  "years": [
+    2026,
+    2027
+  ]
+}

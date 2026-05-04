@@ -1,0 +1,152 @@
+{
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-10",
+      "localizedNames": {
+        "de": "National Festival and People's Revolution Anniversary",
+        "en": "National Festival and People's Revolution Anniversary",
+        "es": "National Festival and People's Revolution Anniversary",
+        "fr": "National Festival and People's Revolution Anniversary",
+        "ja": "National Festival and People's Revolution Anniversary",
+        "ko": "National Festival and People's Revolution Anniversary",
+        "pt": "National Festival and People's Revolution Anniversary",
+        "zh": "National Festival and People's Revolution Anniversary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-26",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-29",
+      "localizedNames": {
+        "de": "National Freedom and Independence Day",
+        "en": "National Freedom and Independence Day",
+        "es": "National Freedom and Independence Day",
+        "fr": "National Freedom and Independence Day",
+        "ja": "National Freedom and Independence Day",
+        "ko": "National Freedom and Independence Day",
+        "pt": "National Freedom and Independence Day",
+        "zh": "National Freedom and Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-10",
+      "localizedNames": {
+        "de": "National Festival and People's Revolution Anniversary",
+        "en": "National Festival and People's Revolution Anniversary",
+        "es": "National Festival and People's Revolution Anniversary",
+        "fr": "National Festival and People's Revolution Anniversary",
+        "ja": "National Festival and People's Revolution Anniversary",
+        "ko": "National Festival and People's Revolution Anniversary",
+        "pt": "National Festival and People's Revolution Anniversary",
+        "zh": "National Festival and People's Revolution Anniversary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-26",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-29",
+      "localizedNames": {
+        "de": "National Freedom and Independence Day",
+        "en": "National Freedom and Independence Day",
+        "es": "National Freedom and Independence Day",
+        "fr": "National Freedom and Independence Day",
+        "ja": "National Freedom and Independence Day",
+        "ko": "National Freedom and Independence Day",
+        "pt": "National Freedom and Independence Day",
+        "zh": "National Freedom and Independence Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Ulaanbaatar",
+  "years": [
+    2026,
+    2027
+  ]
+}

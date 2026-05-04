@@ -1,0 +1,51 @@
+{
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "timeZone": "Europe/Belgrade",
+  "holidays": [
+    {
+      "template": "ba_orthodox_christmas_day",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "cz_statehood_day",
+      "rule": "fixed_feb_15"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_eastern_pos1"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_eastern_neg2"
+    },
+    {
+      "template": "holy_saturday",
+      "rule": "offset_computus_eastern_neg1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "rs_easter_sunday_labor_day",
+      "rule": "fixed_may_2"
+    },
+    {
+      "template": "rs_holy_saturday_labor_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "armistice_day_generic",
+      "rule": "fixed_nov_11"
+    }
+  ]
+}

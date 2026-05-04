@@ -1,0 +1,31 @@
+{
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "timeZone": "Asia/Muscat",
+  "holidays": [
+    {
+      "template": "om_sultan_s_accession_day",
+      "rule": "fixed_jan_11"
+    },
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "countryCode": "GU",
+  "countryName": "Guam",
+  "timeZone": "Pacific/Guam",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "us_mlk_day",
+      "rule": "nth_mon_jan_3"
+    },
+    {
+      "template": "as_washington_s_birthday",
+      "rule": "nth_mon_feb_3"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "gu_guam_discovery_day",
+      "rule": "nth_mon_mar_1"
+    },
+    {
+      "template": "us_memorial_day",
+      "rule": "last_mon_may"
+    },
+    {
+      "template": "us_juneteenth",
+      "rule": "fixed_jun_19"
+    },
+    {
+      "template": "gu_liberation_day_guam",
+      "rule": "fixed_jul_21"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_4"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_sep_1"
+    },
+    {
+      "template": "all_souls_day",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "armistice_day_generic",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "thanksgiving_day_generic",
+      "rule": "last_thu_nov"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "gu_lady_of_camarin_day",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

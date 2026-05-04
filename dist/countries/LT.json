@@ -1,0 +1,292 @@
+{
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Day of Restoration of the State of Lithuania",
+        "en": "Day of Restoration of the State of Lithuania",
+        "es": "Day of Restoration of the State of Lithuania",
+        "fr": "Day of Restoration of the State of Lithuania",
+        "ja": "Day of Restoration of the State of Lithuania",
+        "ko": "Day of Restoration of the State of Lithuania",
+        "pt": "Day of Restoration of the State of Lithuania",
+        "zh": "Day of Restoration of the State of Lithuania"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-11",
+      "localizedNames": {
+        "de": "Day of Restoration of Independence of Lithuania",
+        "en": "Day of Restoration of Independence of Lithuania",
+        "es": "Day of Restoration of Independence of Lithuania",
+        "fr": "Day of Restoration of Independence of Lithuania",
+        "ja": "Day of Restoration of Independence of Lithuania",
+        "ko": "Day of Restoration of Independence of Lithuania",
+        "pt": "Day of Restoration of Independence of Lithuania",
+        "zh": "Day of Restoration of Independence of Lithuania"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-24",
+      "localizedNames": {
+        "de": "Day of Dew and Saint John",
+        "en": "Day of Dew and Saint John",
+        "es": "Day of Dew and Saint John",
+        "fr": "Day of Dew and Saint John",
+        "ja": "Day of Dew and Saint John",
+        "ko": "Day of Dew and Saint John",
+        "pt": "Day of Dew and Saint John",
+        "zh": "Day of Dew and Saint John"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-16",
+      "localizedNames": {
+        "de": "Day of Restoration of the State of Lithuania",
+        "en": "Day of Restoration of the State of Lithuania",
+        "es": "Day of Restoration of the State of Lithuania",
+        "fr": "Day of Restoration of the State of Lithuania",
+        "ja": "Day of Restoration of the State of Lithuania",
+        "ko": "Day of Restoration of the State of Lithuania",
+        "pt": "Day of Restoration of the State of Lithuania",
+        "zh": "Day of Restoration of the State of Lithuania"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-11",
+      "localizedNames": {
+        "de": "Day of Restoration of Independence of Lithuania",
+        "en": "Day of Restoration of Independence of Lithuania",
+        "es": "Day of Restoration of Independence of Lithuania",
+        "fr": "Day of Restoration of Independence of Lithuania",
+        "ja": "Day of Restoration of Independence of Lithuania",
+        "ko": "Day of Restoration of Independence of Lithuania",
+        "pt": "Day of Restoration of Independence of Lithuania",
+        "zh": "Day of Restoration of Independence of Lithuania"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-24",
+      "localizedNames": {
+        "de": "Day of Dew and Saint John",
+        "en": "Day of Dew and Saint John",
+        "es": "Day of Dew and Saint John",
+        "fr": "Day of Dew and Saint John",
+        "ja": "Day of Dew and Saint John",
+        "ko": "Day of Dew and Saint John",
+        "pt": "Day of Dew and Saint John",
+        "zh": "Day of Dew and Saint John"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-06",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Vilnius",
+  "years": [
+    2026,
+    2027
+  ]
+}

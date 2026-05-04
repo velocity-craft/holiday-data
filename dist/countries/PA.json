@@ -1,0 +1,292 @@
+{
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-09",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "Carnival Tuesday",
+        "en": "Carnival Tuesday",
+        "es": "Carnival Tuesday",
+        "fr": "Carnival Tuesday",
+        "ja": "Carnival Tuesday",
+        "ko": "Carnival Tuesday",
+        "pt": "Carnival Tuesday",
+        "zh": "Carnival Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "Presidential Inauguration Day",
+        "en": "Presidential Inauguration Day",
+        "es": "Presidential Inauguration Day",
+        "fr": "Presidential Inauguration Day",
+        "ja": "Presidential Inauguration Day",
+        "ko": "Presidential Inauguration Day",
+        "pt": "Presidential Inauguration Day",
+        "zh": "Presidential Inauguration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-03",
+      "localizedNames": {
+        "de": "Separation Day",
+        "en": "Separation Day",
+        "es": "Separation Day",
+        "fr": "Separation Day",
+        "ja": "Separation Day",
+        "ko": "Separation Day",
+        "pt": "Separation Day",
+        "zh": "Separation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-05",
+      "localizedNames": {
+        "de": "Colon Day",
+        "en": "Colon Day",
+        "es": "Colon Day",
+        "fr": "Colon Day",
+        "ja": "Colon Day",
+        "ko": "Colon Day",
+        "pt": "Colon Day",
+        "zh": "Colon Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-10",
+      "localizedNames": {
+        "de": "Los Santos Uprising Day",
+        "en": "Los Santos Uprising Day",
+        "es": "Los Santos Uprising Day",
+        "fr": "Los Santos Uprising Day",
+        "ja": "Los Santos Uprising Day",
+        "ko": "Los Santos Uprising Day",
+        "pt": "Los Santos Uprising Day",
+        "zh": "Los Santos Uprising Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-28",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-20",
+      "localizedNames": {
+        "de": "National Mourning Day",
+        "en": "National Mourning Day",
+        "es": "National Mourning Day",
+        "fr": "National Mourning Day",
+        "ja": "National Mourning Day",
+        "ko": "National Mourning Day",
+        "pt": "National Mourning Day",
+        "zh": "National Mourning Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-09",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "Carnival Tuesday",
+        "en": "Carnival Tuesday",
+        "es": "Carnival Tuesday",
+        "fr": "Carnival Tuesday",
+        "ja": "Carnival Tuesday",
+        "ko": "Carnival Tuesday",
+        "pt": "Carnival Tuesday",
+        "zh": "Carnival Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "Presidential Inauguration Day",
+        "en": "Presidential Inauguration Day",
+        "es": "Presidential Inauguration Day",
+        "fr": "Presidential Inauguration Day",
+        "ja": "Presidential Inauguration Day",
+        "ko": "Presidential Inauguration Day",
+        "pt": "Presidential Inauguration Day",
+        "zh": "Presidential Inauguration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-03",
+      "localizedNames": {
+        "de": "Separation Day",
+        "en": "Separation Day",
+        "es": "Separation Day",
+        "fr": "Separation Day",
+        "ja": "Separation Day",
+        "ko": "Separation Day",
+        "pt": "Separation Day",
+        "zh": "Separation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-05",
+      "localizedNames": {
+        "de": "Colon Day",
+        "en": "Colon Day",
+        "es": "Colon Day",
+        "fr": "Colon Day",
+        "ja": "Colon Day",
+        "ko": "Colon Day",
+        "pt": "Colon Day",
+        "zh": "Colon Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-10",
+      "localizedNames": {
+        "de": "Los Santos Uprising Day",
+        "en": "Los Santos Uprising Day",
+        "es": "Los Santos Uprising Day",
+        "fr": "Los Santos Uprising Day",
+        "ja": "Los Santos Uprising Day",
+        "ko": "Los Santos Uprising Day",
+        "pt": "Los Santos Uprising Day",
+        "zh": "Los Santos Uprising Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-28",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-20",
+      "localizedNames": {
+        "de": "National Mourning Day",
+        "en": "National Mourning Day",
+        "es": "National Mourning Day",
+        "fr": "National Mourning Day",
+        "ja": "National Mourning Day",
+        "ko": "National Mourning Day",
+        "pt": "National Mourning Day",
+        "zh": "National Mourning Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Panama",
+  "years": [
+    2026,
+    2027
+  ]
+}

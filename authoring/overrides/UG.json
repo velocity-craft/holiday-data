@@ -1,0 +1,63 @@
+{
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "timeZone": "Africa/Kampala",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ug_nrm_liberation_day",
+      "rule": "fixed_jan_26"
+    },
+    {
+      "template": "ug_archbishop_janani_luwum_day",
+      "rule": "fixed_feb_16"
+    },
+    {
+      "template": "am_women_s_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "fixed_jun_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ug_uganda_martyrs_day",
+      "rule": "fixed_jun_3"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_9"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "timeZone": "Asia/Phnom_Penh",
+  "holidays": [
+    {
+      "template": "kh_day_of_victory_over_the_genocidal_regime",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "kh_international_new_year_day",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "kh_international_women_s_rights_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "kh_hm_king_norodom_sihamoni_s_birthday",
+      "rule": "fixed_may_14"
+    },
+    {
+      "template": "kh_international_labor_day_visaka_bochea_da",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "kh_hm_queen_norodom_monineath_sihanouk_the_",
+      "rule": "fixed_jun_18"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_sep_24"
+    },
+    {
+      "template": "kh_hm_king_norodom_sihamoni_s_coronation_da",
+      "rule": "fixed_oct_29"
+    },
+    {
+      "template": "kh_hm_king_norodom_sihanouk_mourning_day",
+      "rule": "fixed_oct_15"
+    },
+    {
+      "template": "ao_national_independence_day",
+      "rule": "fixed_nov_9"
+    },
+    {
+      "template": "kh_peace_day_in_cambodia",
+      "rule": "fixed_dec_29"
+    }
+  ]
+}

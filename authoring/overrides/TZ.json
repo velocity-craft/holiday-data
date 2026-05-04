@@ -1,0 +1,71 @@
+{
+  "countryCode": "TZ",
+  "countryName": "Tanzania, United Republic of",
+  "timeZone": "Africa/Dar_es_Salaam",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "tz_zanzibar_revolution_day",
+      "rule": "fixed_jan_12"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "tz_the_sheikh_abeid_amani_karume_day",
+      "rule": "fixed_apr_7"
+    },
+    {
+      "template": "tz_union_celebrations",
+      "rule": "fixed_apr_26"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "tz_international_trade_fair",
+      "rule": "fixed_jul_7"
+    },
+    {
+      "template": "mm_peasants_day",
+      "rule": "fixed_aug_8"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "tz_the_mwalimu_nyerere_day_and_climax_of_th",
+      "rule": "fixed_oct_14"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "mu_independence_and_republic_day",
+      "rule": "fixed_dec_9"
+    }
+  ]
+}

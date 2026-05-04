@@ -1,0 +1,320 @@
+{
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-16",
+      "localizedNames": {
+        "de": "Nacht der Bestimmung",
+        "en": "Night of Power",
+        "es": "Noche del Destino",
+        "fr": "Nuit du Destin",
+        "ja": "カドルの夜",
+        "ko": "권능의 밤",
+        "pt": "Noite do Poder",
+        "zh": "盖德尔夜"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-24",
+      "localizedNames": {
+        "de": "National Concord Day",
+        "en": "National Concord Day",
+        "es": "National Concord Day",
+        "fr": "National Concord Day",
+        "ja": "National Concord Day",
+        "ko": "National Concord Day",
+        "pt": "National Concord Day",
+        "zh": "National Concord Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-26",
+      "localizedNames": {
+        "de": "Anniversary of the CNSP Coup",
+        "en": "Anniversary of the CNSP Coup",
+        "es": "Anniversary of the CNSP Coup",
+        "fr": "Anniversary of the CNSP Coup",
+        "ja": "Anniversary of the CNSP Coup",
+        "ko": "Anniversary of the CNSP Coup",
+        "pt": "Anniversary of the CNSP Coup",
+        "zh": "Anniversary of the CNSP Coup"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Anniversary of the Proclamation of Independence",
+        "en": "Anniversary of the Proclamation of Independence",
+        "es": "Anniversary of the Proclamation of Independence",
+        "fr": "Anniversary of the Proclamation of Independence",
+        "ja": "Anniversary of the Proclamation of Independence",
+        "ko": "Anniversary of the Proclamation of Independence",
+        "pt": "Anniversary of the Proclamation of Independence",
+        "zh": "Anniversary of the Proclamation of Independence"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-18",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-06",
+      "localizedNames": {
+        "de": "Nacht der Bestimmung",
+        "en": "Night of Power",
+        "es": "Noche del Destino",
+        "fr": "Nuit du Destin",
+        "ja": "カドルの夜",
+        "ko": "권능의 밤",
+        "pt": "Noite do Poder",
+        "zh": "盖德尔夜"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-24",
+      "localizedNames": {
+        "de": "National Concord Day",
+        "en": "National Concord Day",
+        "es": "National Concord Day",
+        "fr": "National Concord Day",
+        "ja": "National Concord Day",
+        "ko": "National Concord Day",
+        "pt": "National Concord Day",
+        "zh": "National Concord Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-26",
+      "localizedNames": {
+        "de": "Anniversary of the CNSP Coup",
+        "en": "Anniversary of the CNSP Coup",
+        "es": "Anniversary of the CNSP Coup",
+        "fr": "Anniversary of the CNSP Coup",
+        "ja": "Anniversary of the CNSP Coup",
+        "ko": "Anniversary of the CNSP Coup",
+        "pt": "Anniversary of the CNSP Coup",
+        "zh": "Anniversary of the CNSP Coup"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-03",
+      "localizedNames": {
+        "de": "Anniversary of the Proclamation of Independence",
+        "en": "Anniversary of the Proclamation of Independence",
+        "es": "Anniversary of the Proclamation of Independence",
+        "fr": "Anniversary of the Proclamation of Independence",
+        "ja": "Anniversary of the Proclamation of Independence",
+        "ko": "Anniversary of the Proclamation of Independence",
+        "pt": "Anniversary of the Proclamation of Independence",
+        "zh": "Anniversary of the Proclamation of Independence"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-18",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Niamey",
+  "years": [
+    2026,
+    2027
+  ]
+}

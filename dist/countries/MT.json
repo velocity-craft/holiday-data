@@ -1,0 +1,376 @@
+{
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-10",
+      "localizedNames": {
+        "de": "Feast of Saint Paul's Shipwreck",
+        "en": "Feast of Saint Paul's Shipwreck",
+        "es": "Feast of Saint Paul's Shipwreck",
+        "fr": "Feast of Saint Paul's Shipwreck",
+        "ja": "Feast of Saint Paul's Shipwreck",
+        "ko": "Feast of Saint Paul's Shipwreck",
+        "pt": "Feast of Saint Paul's Shipwreck",
+        "zh": "Feast of Saint Paul's Shipwreck"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-19",
+      "localizedNames": {
+        "de": "Feast of Saint Joseph",
+        "en": "Feast of Saint Joseph",
+        "es": "Feast of Saint Joseph",
+        "fr": "Feast of Saint Joseph",
+        "ja": "Feast of Saint Joseph",
+        "ko": "Feast of Saint Joseph",
+        "pt": "Feast of Saint Joseph",
+        "zh": "Feast of Saint Joseph"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-31",
+      "localizedNames": {
+        "de": "Freedom Day",
+        "en": "Freedom Day",
+        "es": "Freedom Day",
+        "fr": "Freedom Day",
+        "ja": "Freedom Day",
+        "ko": "Freedom Day",
+        "pt": "Freedom Day",
+        "zh": "Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-07",
+      "localizedNames": {
+        "de": "Sette Giugno",
+        "en": "Sette Giugno",
+        "es": "Sette Giugno",
+        "fr": "Sette Giugno",
+        "ja": "Sette Giugno",
+        "ko": "Sette Giugno",
+        "pt": "Sette Giugno",
+        "zh": "Sette Giugno"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-29",
+      "localizedNames": {
+        "de": "Feast of Saint Peter and Saint Paul",
+        "en": "Feast of Saint Peter and Saint Paul",
+        "es": "Feast of Saint Peter and Saint Paul",
+        "fr": "Feast of Saint Peter and Saint Paul",
+        "ja": "Feast of Saint Peter and Saint Paul",
+        "ko": "Feast of Saint Peter and Saint Paul",
+        "pt": "Feast of Saint Peter and Saint Paul",
+        "zh": "Feast of Saint Peter and Saint Paul"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Feast of the Assumption",
+        "en": "Feast of the Assumption",
+        "es": "Feast of the Assumption",
+        "fr": "Feast of the Assumption",
+        "ja": "Feast of the Assumption",
+        "ko": "Feast of the Assumption",
+        "pt": "Feast of the Assumption",
+        "zh": "Feast of the Assumption"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-08",
+      "localizedNames": {
+        "de": "Feast of Our Lady of Victories",
+        "en": "Feast of Our Lady of Victories",
+        "es": "Feast of Our Lady of Victories",
+        "fr": "Feast of Our Lady of Victories",
+        "ja": "Feast of Our Lady of Victories",
+        "ko": "Feast of Our Lady of Victories",
+        "pt": "Feast of Our Lady of Victories",
+        "zh": "Feast of Our Lady of Victories"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Feast of the Immaculate Conception",
+        "en": "Feast of the Immaculate Conception",
+        "es": "Feast of the Immaculate Conception",
+        "fr": "Feast of the Immaculate Conception",
+        "ja": "Feast of the Immaculate Conception",
+        "ko": "Feast of the Immaculate Conception",
+        "pt": "Feast of the Immaculate Conception",
+        "zh": "Feast of the Immaculate Conception"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-13",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-10",
+      "localizedNames": {
+        "de": "Feast of Saint Paul's Shipwreck",
+        "en": "Feast of Saint Paul's Shipwreck",
+        "es": "Feast of Saint Paul's Shipwreck",
+        "fr": "Feast of Saint Paul's Shipwreck",
+        "ja": "Feast of Saint Paul's Shipwreck",
+        "ko": "Feast of Saint Paul's Shipwreck",
+        "pt": "Feast of Saint Paul's Shipwreck",
+        "zh": "Feast of Saint Paul's Shipwreck"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-19",
+      "localizedNames": {
+        "de": "Feast of Saint Joseph",
+        "en": "Feast of Saint Joseph",
+        "es": "Feast of Saint Joseph",
+        "fr": "Feast of Saint Joseph",
+        "ja": "Feast of Saint Joseph",
+        "ko": "Feast of Saint Joseph",
+        "pt": "Feast of Saint Joseph",
+        "zh": "Feast of Saint Joseph"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-31",
+      "localizedNames": {
+        "de": "Freedom Day",
+        "en": "Freedom Day",
+        "es": "Freedom Day",
+        "fr": "Freedom Day",
+        "ja": "Freedom Day",
+        "ko": "Freedom Day",
+        "pt": "Freedom Day",
+        "zh": "Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-07",
+      "localizedNames": {
+        "de": "Sette Giugno",
+        "en": "Sette Giugno",
+        "es": "Sette Giugno",
+        "fr": "Sette Giugno",
+        "ja": "Sette Giugno",
+        "ko": "Sette Giugno",
+        "pt": "Sette Giugno",
+        "zh": "Sette Giugno"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-29",
+      "localizedNames": {
+        "de": "Feast of Saint Peter and Saint Paul",
+        "en": "Feast of Saint Peter and Saint Paul",
+        "es": "Feast of Saint Peter and Saint Paul",
+        "fr": "Feast of Saint Peter and Saint Paul",
+        "ja": "Feast of Saint Peter and Saint Paul",
+        "ko": "Feast of Saint Peter and Saint Paul",
+        "pt": "Feast of Saint Peter and Saint Paul",
+        "zh": "Feast of Saint Peter and Saint Paul"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Feast of the Assumption",
+        "en": "Feast of the Assumption",
+        "es": "Feast of the Assumption",
+        "fr": "Feast of the Assumption",
+        "ja": "Feast of the Assumption",
+        "ko": "Feast of the Assumption",
+        "pt": "Feast of the Assumption",
+        "zh": "Feast of the Assumption"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-08",
+      "localizedNames": {
+        "de": "Feast of Our Lady of Victories",
+        "en": "Feast of Our Lady of Victories",
+        "es": "Feast of Our Lady of Victories",
+        "fr": "Feast of Our Lady of Victories",
+        "ja": "Feast of Our Lady of Victories",
+        "ko": "Feast of Our Lady of Victories",
+        "pt": "Feast of Our Lady of Victories",
+        "zh": "Feast of Our Lady of Victories"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Feast of the Immaculate Conception",
+        "en": "Feast of the Immaculate Conception",
+        "es": "Feast of the Immaculate Conception",
+        "fr": "Feast of the Immaculate Conception",
+        "ja": "Feast of the Immaculate Conception",
+        "ko": "Feast of the Immaculate Conception",
+        "pt": "Feast of the Immaculate Conception",
+        "zh": "Feast of the Immaculate Conception"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-13",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Malta",
+  "years": [
+    2026,
+    2027
+  ]
+}

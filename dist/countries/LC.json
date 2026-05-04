@@ -1,0 +1,236 @@
+{
+  "countryCode": "LC",
+  "countryName": "Saint Lucia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "New Year's Holiday",
+        "en": "New Year's Holiday",
+        "es": "New Year's Holiday",
+        "fr": "New Year's Holiday",
+        "ja": "New Year's Holiday",
+        "ko": "New Year's Holiday",
+        "pt": "New Year's Holiday",
+        "zh": "New Year's Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-22",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-13",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "New Year's Holiday",
+        "en": "New Year's Holiday",
+        "es": "New Year's Holiday",
+        "fr": "New Year's Holiday",
+        "ja": "New Year's Holiday",
+        "ko": "New Year's Holiday",
+        "pt": "New Year's Holiday",
+        "zh": "New Year's Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-22",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-13",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/St_Lucia",
+  "years": [
+    2026,
+    2027
+  ]
+}

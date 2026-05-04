@@ -1,0 +1,51 @@
+{
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "timeZone": "Asia/Kuwait",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_feb_26"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_feb_25"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    }
+  ]
+}

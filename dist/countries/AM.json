@@ -1,0 +1,320 @@
+{
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Christmas and Epiphany",
+        "en": "Christmas and Epiphany",
+        "es": "Christmas and Epiphany",
+        "fr": "Christmas and Epiphany",
+        "ja": "Christmas and Epiphany",
+        "ko": "Christmas and Epiphany",
+        "pt": "Christmas and Epiphany",
+        "zh": "Christmas and Epiphany"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-27",
+      "localizedNames": {
+        "de": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "en": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "es": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "fr": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "ja": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "ko": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "pt": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "zh": "Day of Remembrance for the Fallen Defenders of the Fatherland"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-28",
+      "localizedNames": {
+        "de": "Army Day",
+        "en": "Army Day",
+        "es": "Army Day",
+        "fr": "Army Day",
+        "ja": "Army Day",
+        "ko": "Army Day",
+        "pt": "Army Day",
+        "zh": "Army Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-24",
+      "localizedNames": {
+        "de": "Day of Remembrance of the Victims of Armenian Genocide",
+        "en": "Day of Remembrance of the Victims of Armenian Genocide",
+        "es": "Day of Remembrance of the Victims of Armenian Genocide",
+        "fr": "Day of Remembrance of the Victims of Armenian Genocide",
+        "ja": "Day of Remembrance of the Victims of Armenian Genocide",
+        "ko": "Day of Remembrance of the Victims of Armenian Genocide",
+        "pt": "Day of Remembrance of the Victims of Armenian Genocide",
+        "zh": "Day of Remembrance of the Victims of Armenian Genocide"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-09",
+      "localizedNames": {
+        "de": "Victory and Peace Day",
+        "en": "Victory and Peace Day",
+        "es": "Victory and Peace Day",
+        "fr": "Victory and Peace Day",
+        "ja": "Victory and Peace Day",
+        "ko": "Victory and Peace Day",
+        "pt": "Victory and Peace Day",
+        "zh": "Victory and Peace Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-28",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-05",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Christmas and Epiphany",
+        "en": "Christmas and Epiphany",
+        "es": "Christmas and Epiphany",
+        "fr": "Christmas and Epiphany",
+        "ja": "Christmas and Epiphany",
+        "ko": "Christmas and Epiphany",
+        "pt": "Christmas and Epiphany",
+        "zh": "Christmas and Epiphany"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-27",
+      "localizedNames": {
+        "de": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "en": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "es": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "fr": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "ja": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "ko": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "pt": "Day of Remembrance for the Fallen Defenders of the Fatherland",
+        "zh": "Day of Remembrance for the Fallen Defenders of the Fatherland"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-28",
+      "localizedNames": {
+        "de": "Army Day",
+        "en": "Army Day",
+        "es": "Army Day",
+        "fr": "Army Day",
+        "ja": "Army Day",
+        "ko": "Army Day",
+        "pt": "Army Day",
+        "zh": "Army Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-24",
+      "localizedNames": {
+        "de": "Day of Remembrance of the Victims of Armenian Genocide",
+        "en": "Day of Remembrance of the Victims of Armenian Genocide",
+        "es": "Day of Remembrance of the Victims of Armenian Genocide",
+        "fr": "Day of Remembrance of the Victims of Armenian Genocide",
+        "ja": "Day of Remembrance of the Victims of Armenian Genocide",
+        "ko": "Day of Remembrance of the Victims of Armenian Genocide",
+        "pt": "Day of Remembrance of the Victims of Armenian Genocide",
+        "zh": "Day of Remembrance of the Victims of Armenian Genocide"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-09",
+      "localizedNames": {
+        "de": "Victory and Peace Day",
+        "en": "Victory and Peace Day",
+        "es": "Victory and Peace Day",
+        "fr": "Victory and Peace Day",
+        "ja": "Victory and Peace Day",
+        "ko": "Victory and Peace Day",
+        "pt": "Victory and Peace Day",
+        "zh": "Victory and Peace Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-28",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "Silvester",
+        "en": "New Year's Eve",
+        "es": "Nochevieja",
+        "fr": "Saint-Sylvestre",
+        "ja": "大晦日",
+        "ko": "섣달그믐",
+        "pt": "Véspera de Ano Novo",
+        "zh": "新年前夕"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Yerevan",
+  "years": [
+    2026,
+    2027
+  ]
+}

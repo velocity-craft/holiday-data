@@ -1,0 +1,51 @@
+{
+  "countryCode": "EH",
+  "countryName": "Western Sahara",
+  "timeZone": "Africa/El_Aaiun",
+  "holidays": [
+    {
+      "template": "eh_proclamation_of_the_sadr",
+      "rule": "fixed_feb_27"
+    },
+    {
+      "template": "eh_first_martyr",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eh_commencement_of_the_armed_struggle",
+      "rule": "fixed_may_20"
+    },
+    {
+      "template": "eh_creation_of_the_polisario_front",
+      "rule": "fixed_may_10"
+    },
+    {
+      "template": "eh_uprising_day",
+      "rule": "fixed_jun_17"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_jun_9"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "national_unity_day_generic",
+      "rule": "fixed_oct_12"
+    }
+  ]
+}

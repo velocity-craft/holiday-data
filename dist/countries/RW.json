@@ -1,0 +1,348 @@
+{
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Day after New Year's Day",
+        "en": "Day after New Year's Day",
+        "es": "Day after New Year's Day",
+        "fr": "Day after New Year's Day",
+        "ja": "Day after New Year's Day",
+        "ko": "Day after New Year's Day",
+        "pt": "Day after New Year's Day",
+        "zh": "Day after New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-01",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-07",
+      "localizedNames": {
+        "de": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "en": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "es": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "fr": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "ja": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "ko": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "pt": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "zh": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-04",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-07",
+      "localizedNames": {
+        "de": "Umuganura Day",
+        "en": "Umuganura Day",
+        "es": "Umuganura Day",
+        "fr": "Umuganura Day",
+        "ja": "Umuganura Day",
+        "ko": "Umuganura Day",
+        "pt": "Umuganura Day",
+        "zh": "Umuganura Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Day after New Year's Day",
+        "en": "Day after New Year's Day",
+        "es": "Day after New Year's Day",
+        "fr": "Day after New Year's Day",
+        "ja": "Day after New Year's Day",
+        "ko": "Day after New Year's Day",
+        "pt": "Day after New Year's Day",
+        "zh": "Day after New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-01",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-07",
+      "localizedNames": {
+        "de": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "en": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "es": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "fr": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "ja": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "ko": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "pt": "Memorial Day of Genocide perpetrated against the Tutsi in 1994",
+        "zh": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-04",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-06",
+      "localizedNames": {
+        "de": "Umuganura Day",
+        "en": "Umuganura Day",
+        "es": "Umuganura Day",
+        "fr": "Umuganura Day",
+        "ja": "Umuganura Day",
+        "ko": "Umuganura Day",
+        "pt": "Umuganura Day",
+        "zh": "Umuganura Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Kigali",
+  "years": [
+    2026,
+    2027
+  ]
+}

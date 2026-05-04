@@ -1,0 +1,320 @@
+{
+  "countryCode": "BZ",
+  "countryName": "Belize",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-15",
+      "localizedNames": {
+        "de": "George Price Day",
+        "en": "George Price Day",
+        "es": "George Price Day",
+        "fr": "George Price Day",
+        "ja": "George Price Day",
+        "ko": "George Price Day",
+        "pt": "George Price Day",
+        "zh": "George Price Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-09",
+      "localizedNames": {
+        "de": "National Heroes and Benefactors Day",
+        "en": "National Heroes and Benefactors Day",
+        "es": "National Heroes and Benefactors Day",
+        "fr": "National Heroes and Benefactors Day",
+        "ja": "National Heroes and Benefactors Day",
+        "ko": "National Heroes and Benefactors Day",
+        "pt": "National Heroes and Benefactors Day",
+        "zh": "National Heroes and Benefactors Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-10",
+      "localizedNames": {
+        "de": "Saint George's Caye Day",
+        "en": "Saint George's Caye Day",
+        "es": "Saint George's Caye Day",
+        "fr": "Saint George's Caye Day",
+        "ja": "Saint George's Caye Day",
+        "ko": "Saint George's Caye Day",
+        "pt": "Saint George's Caye Day",
+        "zh": "Saint George's Caye Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Indigenous Peoples' Resistance Day",
+        "en": "Indigenous Peoples' Resistance Day",
+        "es": "Indigenous Peoples' Resistance Day",
+        "fr": "Indigenous Peoples' Resistance Day",
+        "ja": "Indigenous Peoples' Resistance Day",
+        "ko": "Indigenous Peoples' Resistance Day",
+        "pt": "Indigenous Peoples' Resistance Day",
+        "zh": "Indigenous Peoples' Resistance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-19",
+      "localizedNames": {
+        "de": "Garifuna Settlement Day",
+        "en": "Garifuna Settlement Day",
+        "es": "Garifuna Settlement Day",
+        "fr": "Garifuna Settlement Day",
+        "ja": "Garifuna Settlement Day",
+        "ko": "Garifuna Settlement Day",
+        "pt": "Garifuna Settlement Day",
+        "zh": "Garifuna Settlement Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-15",
+      "localizedNames": {
+        "de": "George Price Day",
+        "en": "George Price Day",
+        "es": "George Price Day",
+        "fr": "George Price Day",
+        "ja": "George Price Day",
+        "ko": "George Price Day",
+        "pt": "George Price Day",
+        "zh": "George Price Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-09",
+      "localizedNames": {
+        "de": "National Heroes and Benefactors Day",
+        "en": "National Heroes and Benefactors Day",
+        "es": "National Heroes and Benefactors Day",
+        "fr": "National Heroes and Benefactors Day",
+        "ja": "National Heroes and Benefactors Day",
+        "ko": "National Heroes and Benefactors Day",
+        "pt": "National Heroes and Benefactors Day",
+        "zh": "National Heroes and Benefactors Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-27",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-01",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-10",
+      "localizedNames": {
+        "de": "Saint George's Caye Day",
+        "en": "Saint George's Caye Day",
+        "es": "Saint George's Caye Day",
+        "fr": "Saint George's Caye Day",
+        "ja": "Saint George's Caye Day",
+        "ko": "Saint George's Caye Day",
+        "pt": "Saint George's Caye Day",
+        "zh": "Saint George's Caye Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-21",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-12",
+      "localizedNames": {
+        "de": "Indigenous Peoples' Resistance Day",
+        "en": "Indigenous Peoples' Resistance Day",
+        "es": "Indigenous Peoples' Resistance Day",
+        "fr": "Indigenous Peoples' Resistance Day",
+        "ja": "Indigenous Peoples' Resistance Day",
+        "ko": "Indigenous Peoples' Resistance Day",
+        "pt": "Indigenous Peoples' Resistance Day",
+        "zh": "Indigenous Peoples' Resistance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-19",
+      "localizedNames": {
+        "de": "Garifuna Settlement Day",
+        "en": "Garifuna Settlement Day",
+        "es": "Garifuna Settlement Day",
+        "fr": "Garifuna Settlement Day",
+        "ja": "Garifuna Settlement Day",
+        "ko": "Garifuna Settlement Day",
+        "pt": "Garifuna Settlement Day",
+        "zh": "Garifuna Settlement Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Belize",
+  "years": [
+    2026,
+    2027
+  ]
+}

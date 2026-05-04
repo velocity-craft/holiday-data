@@ -1,0 +1,264 @@
+{
+  "countryCode": "KI",
+  "countryName": "Kiribati",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-19",
+      "localizedNames": {
+        "de": "National Health Day",
+        "en": "National Health Day",
+        "es": "National Health Day",
+        "fr": "National Health Day",
+        "ja": "National Health Day",
+        "ko": "National Health Day",
+        "pt": "National Health Day",
+        "zh": "National Health Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-11",
+      "localizedNames": {
+        "de": "Gospel Day",
+        "en": "Gospel Day",
+        "es": "Gospel Day",
+        "fr": "Gospel Day",
+        "ja": "Gospel Day",
+        "ko": "Gospel Day",
+        "pt": "Gospel Day",
+        "zh": "Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-12",
+      "localizedNames": {
+        "de": "National Day - Independence Anniversary",
+        "en": "National Day - Independence Anniversary",
+        "es": "National Day - Independence Anniversary",
+        "fr": "National Day - Independence Anniversary",
+        "ja": "National Day - Independence Anniversary",
+        "ko": "National Day - Independence Anniversary",
+        "pt": "National Day - Independence Anniversary",
+        "zh": "National Day - Independence Anniversary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-15",
+      "localizedNames": {
+        "de": "National Day (in honor of Unimwane)",
+        "en": "National Day (in honor of Unimwane)",
+        "es": "National Day (in honor of Unimwane)",
+        "fr": "National Day (in honor of Unimwane)",
+        "ja": "National Day (in honor of Unimwane)",
+        "ko": "National Day (in honor of Unimwane)",
+        "pt": "National Day (in honor of Unimwane)",
+        "zh": "National Day (in honor of Unimwane)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-16",
+      "localizedNames": {
+        "de": "National Day (in honor of Unaine)",
+        "en": "National Day (in honor of Unaine)",
+        "es": "National Day (in honor of Unaine)",
+        "fr": "National Day (in honor of Unaine)",
+        "ja": "National Day (in honor of Unaine)",
+        "ko": "National Day (in honor of Unaine)",
+        "pt": "National Day (in honor of Unaine)",
+        "zh": "National Day (in honor of Unaine)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-09",
+      "localizedNames": {
+        "de": "Human Rights and Peace Day",
+        "en": "Human Rights and Peace Day",
+        "es": "Human Rights and Peace Day",
+        "fr": "Human Rights and Peace Day",
+        "ja": "Human Rights and Peace Day",
+        "ko": "Human Rights and Peace Day",
+        "pt": "Human Rights and Peace Day",
+        "zh": "Human Rights and Peace Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-19",
+      "localizedNames": {
+        "de": "National Health Day",
+        "en": "National Health Day",
+        "es": "National Health Day",
+        "fr": "National Health Day",
+        "ja": "National Health Day",
+        "ko": "National Health Day",
+        "pt": "National Health Day",
+        "zh": "National Health Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-11",
+      "localizedNames": {
+        "de": "Gospel Day",
+        "en": "Gospel Day",
+        "es": "Gospel Day",
+        "fr": "Gospel Day",
+        "ja": "Gospel Day",
+        "ko": "Gospel Day",
+        "pt": "Gospel Day",
+        "zh": "Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-12",
+      "localizedNames": {
+        "de": "National Day - Independence Anniversary",
+        "en": "National Day - Independence Anniversary",
+        "es": "National Day - Independence Anniversary",
+        "fr": "National Day - Independence Anniversary",
+        "ja": "National Day - Independence Anniversary",
+        "ko": "National Day - Independence Anniversary",
+        "pt": "National Day - Independence Anniversary",
+        "zh": "National Day - Independence Anniversary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-15",
+      "localizedNames": {
+        "de": "National Day (in honor of Unimwane)",
+        "en": "National Day (in honor of Unimwane)",
+        "es": "National Day (in honor of Unimwane)",
+        "fr": "National Day (in honor of Unimwane)",
+        "ja": "National Day (in honor of Unimwane)",
+        "ko": "National Day (in honor of Unimwane)",
+        "pt": "National Day (in honor of Unimwane)",
+        "zh": "National Day (in honor of Unimwane)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-16",
+      "localizedNames": {
+        "de": "National Day (in honor of Unaine)",
+        "en": "National Day (in honor of Unaine)",
+        "es": "National Day (in honor of Unaine)",
+        "fr": "National Day (in honor of Unaine)",
+        "ja": "National Day (in honor of Unaine)",
+        "ko": "National Day (in honor of Unaine)",
+        "pt": "National Day (in honor of Unaine)",
+        "zh": "National Day (in honor of Unaine)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-09",
+      "localizedNames": {
+        "de": "Human Rights and Peace Day",
+        "en": "Human Rights and Peace Day",
+        "es": "Human Rights and Peace Day",
+        "fr": "Human Rights and Peace Day",
+        "ja": "Human Rights and Peace Day",
+        "ko": "Human Rights and Peace Day",
+        "pt": "Human Rights and Peace Day",
+        "zh": "Human Rights and Peace Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Tarawa",
+  "years": [
+    2026,
+    2027
+  ]
+}

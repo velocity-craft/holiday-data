@@ -1,0 +1,55 @@
+{
+  "countryCode": "IN",
+  "countryName": "India",
+  "timeZone": "Asia/Kolkata",
+  "holidays": [
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_jan_26"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "day_of_ashura",
+      "rule": "islamic_muharram_10"
+    },
+    {
+      "template": "in_independence_day_prophet_s_birthday_esti",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "diwali",
+      "rule": "hindu_diwali"
+    },
+    {
+      "template": "in_dussehra_gandhi_jayanti",
+      "rule": "fixed_oct_2"
+    },
+    {
+      "template": "india_gandhi_jayanti",
+      "rule": "fixed_oct_2"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

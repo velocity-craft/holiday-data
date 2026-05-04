@@ -1,0 +1,152 @@
+{
+  "countryCode": "SA",
+  "countryName": "Saudi Arabia",
+  "holidays": [
+    {
+      "date": "2026-02-22",
+      "localizedNames": {
+        "de": "Founding Day Holiday",
+        "en": "Founding Day Holiday",
+        "es": "Founding Day Holiday",
+        "fr": "Founding Day Holiday",
+        "ja": "Founding Day Holiday",
+        "ko": "Founding Day Holiday",
+        "pt": "Founding Day Holiday",
+        "zh": "Founding Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-26",
+      "localizedNames": {
+        "de": "Arafat Day",
+        "en": "Arafat Day",
+        "es": "Arafat Day",
+        "fr": "Arafat Day",
+        "ja": "Arafat Day",
+        "ko": "Arafat Day",
+        "pt": "Arafat Day",
+        "zh": "Arafat Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-23",
+      "localizedNames": {
+        "de": "National Day Holiday",
+        "en": "National Day Holiday",
+        "es": "National Day Holiday",
+        "fr": "National Day Holiday",
+        "ja": "National Day Holiday",
+        "ko": "National Day Holiday",
+        "pt": "National Day Holiday",
+        "zh": "National Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-22",
+      "localizedNames": {
+        "de": "Founding Day Holiday",
+        "en": "Founding Day Holiday",
+        "es": "Founding Day Holiday",
+        "fr": "Founding Day Holiday",
+        "ja": "Founding Day Holiday",
+        "ko": "Founding Day Holiday",
+        "pt": "Founding Day Holiday",
+        "zh": "Founding Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-16",
+      "localizedNames": {
+        "de": "Arafat Day",
+        "en": "Arafat Day",
+        "es": "Arafat Day",
+        "fr": "Arafat Day",
+        "ja": "Arafat Day",
+        "ko": "Arafat Day",
+        "pt": "Arafat Day",
+        "zh": "Arafat Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-23",
+      "localizedNames": {
+        "de": "National Day Holiday",
+        "en": "National Day Holiday",
+        "es": "National Day Holiday",
+        "fr": "National Day Holiday",
+        "ja": "National Day Holiday",
+        "ko": "National Day Holiday",
+        "pt": "National Day Holiday",
+        "zh": "National Day Holiday"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Riyadh",
+  "years": [
+    2026,
+    2027
+  ]
+}

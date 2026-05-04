@@ -1,0 +1,51 @@
+{
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "timeZone": "Indian/Mauritius",
+  "holidays": [
+    {
+      "template": "ck_day_after_new_year_s_day",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "bl_abolition_of_slavery",
+      "rule": "fixed_feb_1"
+    },
+    {
+      "template": "mu_independence_and_republic_day",
+      "rule": "fixed_mar_12"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "diwali",
+      "rule": "hindu_diwali"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "mu_arrival_of_indentured_laborers",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

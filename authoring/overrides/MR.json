@@ -1,0 +1,39 @@
+{
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "timeZone": "Africa/Nouakchott",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "africa_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_28"
+    }
+  ]
+}

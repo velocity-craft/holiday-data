@@ -1,0 +1,71 @@
+{
+  "countryCode": "CI",
+  "countryName": "Côte d'Ivoire",
+  "timeZone": "Africa/Abidjan",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ci_2024_african_cup_of_nations_victory",
+      "rule": "fixed_feb_12"
+    },
+    {
+      "template": "ci_day_after_the_eid_al_fitr",
+      "rule": "fixed_mar_31"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "ci_day_after_the_eid_al_adha_whit_monday",
+      "rule": "fixed_may_17"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "ci_day_after_the_eid_al_adha",
+      "rule": "fixed_jun_17"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_7"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "ci_national_peace_day",
+      "rule": "fixed_nov_15"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

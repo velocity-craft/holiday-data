@@ -1,0 +1,39 @@
+{
+  "countryCode": "FM",
+  "countryName": "Micronesia, Federated States of",
+  "timeZone": "Pacific/Chuuk",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "fm_micronesian_culture_and_tradition_day",
+      "rule": "fixed_mar_31"
+    },
+    {
+      "template": "fm_federated_states_of_micronesia_day",
+      "rule": "fixed_may_10"
+    },
+    {
+      "template": "fm_united_nations_day",
+      "rule": "fixed_oct_24"
+    },
+    {
+      "template": "fm_fsm_veterans_of_foreign_wars_day",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_3"
+    },
+    {
+      "template": "us_presidents_day",
+      "rule": "fixed_nov_23"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "timeZone": "America/Guayaquil",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ad_carnival",
+      "rule": "offset_computus_western_neg48"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ec_the_battle_of_pichincha",
+      "rule": "fixed_may_24"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ec_declaration_of_independence_of_quito",
+      "rule": "fixed_aug_10"
+    },
+    {
+      "template": "ec_independence_of_guayaquil",
+      "rule": "fixed_oct_9"
+    },
+    {
+      "template": "all_souls_day",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "ec_independence_of_cuenca",
+      "rule": "fixed_nov_3"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

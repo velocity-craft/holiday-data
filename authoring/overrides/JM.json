@@ -1,0 +1,47 @@
+{
+  "countryCode": "JM",
+  "countryName": "Jamaica",
+  "timeZone": "America/Jamaica",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "cv_ash_wednesday",
+      "rule": "offset_computus_western_neg46"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "jm_national_labour_day",
+      "rule": "fixed_may_23"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "fixed_aug_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_6"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "nth_mon_oct_3"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

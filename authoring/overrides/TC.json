@@ -1,0 +1,51 @@
+{
+  "countryCode": "TC",
+  "countryName": "Turks and Caicos Islands",
+  "timeZone": "America/Grand_Turk",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "tc_commonwealth_day",
+      "rule": "nth_mon_mar_2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "tc_jags_mccartney_day",
+      "rule": "last_mon_may"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "fixed_aug_1"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "last_mon_aug"
+    },
+    {
+      "template": "al_national_youth_day",
+      "rule": "last_fri_sep"
+    },
+    {
+      "template": "tc_national_heritage_day",
+      "rule": "nth_mon_oct_2"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

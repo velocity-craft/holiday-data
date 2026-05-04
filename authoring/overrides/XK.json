@@ -1,0 +1,55 @@
+{
+  "countryCode": "XK",
+  "countryName": "XK",
+  "timeZone": "UTC",
+  "holidays": [
+    {
+      "template": "ba_orthodox_christmas_day",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_feb_17"
+    },
+    {
+      "template": "by_catholic_easter",
+      "rule": "computus_western"
+    },
+    {
+      "template": "by_catholic_easter_orthodox_easter",
+      "rule": "fixed_apr_20"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_apr_9"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "by_orthodox_easter",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "europe_day",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ba_catholic_christmas_day",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

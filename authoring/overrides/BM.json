@@ -1,0 +1,39 @@
+{
+  "countryCode": "BM",
+  "countryName": "Bermuda",
+  "timeZone": "Atlantic/Bermuda",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "bm_bermuda_day",
+      "rule": "nth_fri_may_4"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "nth_mon_jun_3"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_sep_1"
+    },
+    {
+      "template": "armistice_day_generic",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

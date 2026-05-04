@@ -1,0 +1,208 @@
+{
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "International Fraternalism Day",
+        "en": "International Fraternalism Day",
+        "es": "International Fraternalism Day",
+        "fr": "International Fraternalism Day",
+        "ja": "International Fraternalism Day",
+        "ko": "International Fraternalism Day",
+        "pt": "International Fraternalism Day",
+        "zh": "International Fraternalism Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-03",
+      "localizedNames": {
+        "de": "Heroes' Day",
+        "en": "Heroes' Day",
+        "es": "Heroes' Day",
+        "fr": "Heroes' Day",
+        "ja": "Heroes' Day",
+        "ko": "Heroes' Day",
+        "pt": "Heroes' Day",
+        "zh": "Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-07",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-25",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-25",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-04",
+      "localizedNames": {
+        "de": "Peace and Reconciliation Day",
+        "en": "Peace and Reconciliation Day",
+        "es": "Peace and Reconciliation Day",
+        "fr": "Peace and Reconciliation Day",
+        "ja": "Peace and Reconciliation Day",
+        "ko": "Peace and Reconciliation Day",
+        "pt": "Peace and Reconciliation Day",
+        "zh": "Peace and Reconciliation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Family Day",
+        "en": "Family Day",
+        "es": "Family Day",
+        "fr": "Family Day",
+        "ja": "Family Day",
+        "ko": "Family Day",
+        "pt": "Family Day",
+        "zh": "Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "International Fraternalism Day",
+        "en": "International Fraternalism Day",
+        "es": "International Fraternalism Day",
+        "fr": "International Fraternalism Day",
+        "ja": "International Fraternalism Day",
+        "ko": "International Fraternalism Day",
+        "pt": "International Fraternalism Day",
+        "zh": "International Fraternalism Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-03",
+      "localizedNames": {
+        "de": "Heroes' Day",
+        "en": "Heroes' Day",
+        "es": "Heroes' Day",
+        "fr": "Heroes' Day",
+        "ja": "Heroes' Day",
+        "ko": "Heroes' Day",
+        "pt": "Heroes' Day",
+        "zh": "Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-07",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-25",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-25",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-04",
+      "localizedNames": {
+        "de": "Peace and Reconciliation Day",
+        "en": "Peace and Reconciliation Day",
+        "es": "Peace and Reconciliation Day",
+        "fr": "Peace and Reconciliation Day",
+        "ja": "Peace and Reconciliation Day",
+        "ko": "Peace and Reconciliation Day",
+        "pt": "Peace and Reconciliation Day",
+        "zh": "Peace and Reconciliation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Family Day",
+        "en": "Family Day",
+        "es": "Family Day",
+        "fr": "Family Day",
+        "ja": "Family Day",
+        "ko": "Family Day",
+        "pt": "Family Day",
+        "zh": "Family Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Maputo",
+  "years": [
+    2026,
+    2027
+  ]
+}

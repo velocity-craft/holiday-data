@@ -1,0 +1,47 @@
+{
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "timeZone": "Europe/Dublin",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ie_saint_brigid_s_day",
+      "rule": "nth_mon_feb_1"
+    },
+    {
+      "template": "ie_saint_patrick_s_day",
+      "rule": "fixed_mar_17"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_may_1"
+    },
+    {
+      "template": "ie_june_bank_holiday",
+      "rule": "nth_mon_jun_1"
+    },
+    {
+      "template": "ie_august_bank_holiday",
+      "rule": "nth_mon_aug_1"
+    },
+    {
+      "template": "ie_october_bank_holiday",
+      "rule": "last_mon_oct"
+    },
+    {
+      "template": "ad_saint_stephen_s_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

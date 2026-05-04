@@ -1,0 +1,292 @@
+{
+  "countryCode": "NG",
+  "countryName": "Nigeria",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-29",
+      "localizedNames": {
+        "de": "Presidential Inauguration Day",
+        "en": "Presidential Inauguration Day",
+        "es": "Presidential Inauguration Day",
+        "fr": "Presidential Inauguration Day",
+        "ja": "Presidential Inauguration Day",
+        "ko": "Presidential Inauguration Day",
+        "pt": "Presidential Inauguration Day",
+        "zh": "Presidential Inauguration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-12",
+      "localizedNames": {
+        "de": "Democracy Day",
+        "en": "Democracy Day",
+        "es": "Democracy Day",
+        "fr": "Democracy Day",
+        "ja": "Democracy Day",
+        "ko": "Democracy Day",
+        "pt": "Democracy Day",
+        "zh": "Democracy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-15",
+      "localizedNames": {
+        "de": "Day of Mourning for President Muhammadu Buhari",
+        "en": "Day of Mourning for President Muhammadu Buhari",
+        "es": "Day of Mourning for President Muhammadu Buhari",
+        "fr": "Day of Mourning for President Muhammadu Buhari",
+        "ja": "Day of Mourning for President Muhammadu Buhari",
+        "ko": "Day of Mourning for President Muhammadu Buhari",
+        "pt": "Day of Mourning for President Muhammadu Buhari",
+        "zh": "Day of Mourning for President Muhammadu Buhari"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-29",
+      "localizedNames": {
+        "de": "Presidential Inauguration Day",
+        "en": "Presidential Inauguration Day",
+        "es": "Presidential Inauguration Day",
+        "fr": "Presidential Inauguration Day",
+        "ja": "Presidential Inauguration Day",
+        "ko": "Presidential Inauguration Day",
+        "pt": "Presidential Inauguration Day",
+        "zh": "Presidential Inauguration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-12",
+      "localizedNames": {
+        "de": "Democracy Day",
+        "en": "Democracy Day",
+        "es": "Democracy Day",
+        "fr": "Democracy Day",
+        "ja": "Democracy Day",
+        "ko": "Democracy Day",
+        "pt": "Democracy Day",
+        "zh": "Democracy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-15",
+      "localizedNames": {
+        "de": "Day of Mourning for President Muhammadu Buhari",
+        "en": "Day of Mourning for President Muhammadu Buhari",
+        "es": "Day of Mourning for President Muhammadu Buhari",
+        "fr": "Day of Mourning for President Muhammadu Buhari",
+        "ja": "Day of Mourning for President Muhammadu Buhari",
+        "ko": "Day of Mourning for President Muhammadu Buhari",
+        "pt": "Day of Mourning for President Muhammadu Buhari",
+        "zh": "Day of Mourning for President Muhammadu Buhari"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Lagos",
+  "years": [
+    2026,
+    2027
+  ]
+}

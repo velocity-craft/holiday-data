@@ -1,0 +1,320 @@
+{
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "International New Year Day",
+        "en": "International New Year Day",
+        "es": "International New Year Day",
+        "fr": "International New Year Day",
+        "ja": "International New Year Day",
+        "ko": "International New Year Day",
+        "pt": "International New Year Day",
+        "zh": "International New Year Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Day of Victory over the Genocidal Regime",
+        "en": "Day of Victory over the Genocidal Regime",
+        "es": "Day of Victory over the Genocidal Regime",
+        "fr": "Day of Victory over the Genocidal Regime",
+        "ja": "Day of Victory over the Genocidal Regime",
+        "ko": "Day of Victory over the Genocidal Regime",
+        "pt": "Day of Victory over the Genocidal Regime",
+        "zh": "Day of Victory over the Genocidal Regime"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "International Women's Rights Day",
+        "en": "International Women's Rights Day",
+        "es": "International Women's Rights Day",
+        "fr": "International Women's Rights Day",
+        "ja": "International Women's Rights Day",
+        "ko": "International Women's Rights Day",
+        "pt": "International Women's Rights Day",
+        "zh": "International Women's Rights Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "International Labor Day; Visaka Bochea Day",
+        "en": "International Labor Day; Visaka Bochea Day",
+        "es": "International Labor Day; Visaka Bochea Day",
+        "fr": "International Labor Day; Visaka Bochea Day",
+        "ja": "International Labor Day; Visaka Bochea Day",
+        "ko": "International Labor Day; Visaka Bochea Day",
+        "pt": "International Labor Day; Visaka Bochea Day",
+        "zh": "International Labor Day; Visaka Bochea Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-14",
+      "localizedNames": {
+        "de": "HM King Norodom Sihamoni's Birthday",
+        "en": "HM King Norodom Sihamoni's Birthday",
+        "es": "HM King Norodom Sihamoni's Birthday",
+        "fr": "HM King Norodom Sihamoni's Birthday",
+        "ja": "HM King Norodom Sihamoni's Birthday",
+        "ko": "HM King Norodom Sihamoni's Birthday",
+        "pt": "HM King Norodom Sihamoni's Birthday",
+        "zh": "HM King Norodom Sihamoni's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-18",
+      "localizedNames": {
+        "de": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "en": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "es": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "fr": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "ja": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "ko": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "pt": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "zh": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-24",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-15",
+      "localizedNames": {
+        "de": "HM King Norodom Sihanouk Mourning Day",
+        "en": "HM King Norodom Sihanouk Mourning Day",
+        "es": "HM King Norodom Sihanouk Mourning Day",
+        "fr": "HM King Norodom Sihanouk Mourning Day",
+        "ja": "HM King Norodom Sihanouk Mourning Day",
+        "ko": "HM King Norodom Sihanouk Mourning Day",
+        "pt": "HM King Norodom Sihanouk Mourning Day",
+        "zh": "HM King Norodom Sihanouk Mourning Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-29",
+      "localizedNames": {
+        "de": "HM King Norodom Sihamoni's Coronation Day",
+        "en": "HM King Norodom Sihamoni's Coronation Day",
+        "es": "HM King Norodom Sihamoni's Coronation Day",
+        "fr": "HM King Norodom Sihamoni's Coronation Day",
+        "ja": "HM King Norodom Sihamoni's Coronation Day",
+        "ko": "HM King Norodom Sihamoni's Coronation Day",
+        "pt": "HM King Norodom Sihamoni's Coronation Day",
+        "zh": "HM King Norodom Sihamoni's Coronation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-09",
+      "localizedNames": {
+        "de": "National Independence Day",
+        "en": "National Independence Day",
+        "es": "National Independence Day",
+        "fr": "National Independence Day",
+        "ja": "National Independence Day",
+        "ko": "National Independence Day",
+        "pt": "National Independence Day",
+        "zh": "National Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-29",
+      "localizedNames": {
+        "de": "Peace Day in Cambodia",
+        "en": "Peace Day in Cambodia",
+        "es": "Peace Day in Cambodia",
+        "fr": "Peace Day in Cambodia",
+        "ja": "Peace Day in Cambodia",
+        "ko": "Peace Day in Cambodia",
+        "pt": "Peace Day in Cambodia",
+        "zh": "Peace Day in Cambodia"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "International New Year Day",
+        "en": "International New Year Day",
+        "es": "International New Year Day",
+        "fr": "International New Year Day",
+        "ja": "International New Year Day",
+        "ko": "International New Year Day",
+        "pt": "International New Year Day",
+        "zh": "International New Year Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Day of Victory over the Genocidal Regime",
+        "en": "Day of Victory over the Genocidal Regime",
+        "es": "Day of Victory over the Genocidal Regime",
+        "fr": "Day of Victory over the Genocidal Regime",
+        "ja": "Day of Victory over the Genocidal Regime",
+        "ko": "Day of Victory over the Genocidal Regime",
+        "pt": "Day of Victory over the Genocidal Regime",
+        "zh": "Day of Victory over the Genocidal Regime"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "International Women's Rights Day",
+        "en": "International Women's Rights Day",
+        "es": "International Women's Rights Day",
+        "fr": "International Women's Rights Day",
+        "ja": "International Women's Rights Day",
+        "ko": "International Women's Rights Day",
+        "pt": "International Women's Rights Day",
+        "zh": "International Women's Rights Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "International Labor Day; Visaka Bochea Day",
+        "en": "International Labor Day; Visaka Bochea Day",
+        "es": "International Labor Day; Visaka Bochea Day",
+        "fr": "International Labor Day; Visaka Bochea Day",
+        "ja": "International Labor Day; Visaka Bochea Day",
+        "ko": "International Labor Day; Visaka Bochea Day",
+        "pt": "International Labor Day; Visaka Bochea Day",
+        "zh": "International Labor Day; Visaka Bochea Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-14",
+      "localizedNames": {
+        "de": "HM King Norodom Sihamoni's Birthday",
+        "en": "HM King Norodom Sihamoni's Birthday",
+        "es": "HM King Norodom Sihamoni's Birthday",
+        "fr": "HM King Norodom Sihamoni's Birthday",
+        "ja": "HM King Norodom Sihamoni's Birthday",
+        "ko": "HM King Norodom Sihamoni's Birthday",
+        "pt": "HM King Norodom Sihamoni's Birthday",
+        "zh": "HM King Norodom Sihamoni's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-18",
+      "localizedNames": {
+        "de": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "en": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "es": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "fr": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "ja": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "ko": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "pt": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+        "zh": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-24",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-15",
+      "localizedNames": {
+        "de": "HM King Norodom Sihanouk Mourning Day",
+        "en": "HM King Norodom Sihanouk Mourning Day",
+        "es": "HM King Norodom Sihanouk Mourning Day",
+        "fr": "HM King Norodom Sihanouk Mourning Day",
+        "ja": "HM King Norodom Sihanouk Mourning Day",
+        "ko": "HM King Norodom Sihanouk Mourning Day",
+        "pt": "HM King Norodom Sihanouk Mourning Day",
+        "zh": "HM King Norodom Sihanouk Mourning Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "HM King Norodom Sihamoni's Coronation Day",
+        "en": "HM King Norodom Sihamoni's Coronation Day",
+        "es": "HM King Norodom Sihamoni's Coronation Day",
+        "fr": "HM King Norodom Sihamoni's Coronation Day",
+        "ja": "HM King Norodom Sihamoni's Coronation Day",
+        "ko": "HM King Norodom Sihamoni's Coronation Day",
+        "pt": "HM King Norodom Sihamoni's Coronation Day",
+        "zh": "HM King Norodom Sihamoni's Coronation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-09",
+      "localizedNames": {
+        "de": "National Independence Day",
+        "en": "National Independence Day",
+        "es": "National Independence Day",
+        "fr": "National Independence Day",
+        "ja": "National Independence Day",
+        "ko": "National Independence Day",
+        "pt": "National Independence Day",
+        "zh": "National Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-29",
+      "localizedNames": {
+        "de": "Peace Day in Cambodia",
+        "en": "Peace Day in Cambodia",
+        "es": "Peace Day in Cambodia",
+        "fr": "Peace Day in Cambodia",
+        "ja": "Peace Day in Cambodia",
+        "ko": "Peace Day in Cambodia",
+        "pt": "Peace Day in Cambodia",
+        "zh": "Peace Day in Cambodia"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Phnom_Penh",
+  "years": [
+    2026,
+    2027
+  ]
+}

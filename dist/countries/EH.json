@@ -1,0 +1,306 @@
+{
+  "countryCode": "EH",
+  "countryName": "Western Sahara",
+  "holidays": [
+    {
+      "date": "2026-02-27",
+      "localizedNames": {
+        "de": "Proclamation of the SADR",
+        "en": "Proclamation of the SADR",
+        "es": "Proclamation of the SADR",
+        "fr": "Proclamation of the SADR",
+        "ja": "Proclamation of the SADR",
+        "ko": "Proclamation of the SADR",
+        "pt": "Proclamation of the SADR",
+        "zh": "Proclamation of the SADR"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "First Martyr",
+        "en": "First Martyr",
+        "es": "First Martyr",
+        "fr": "First Martyr",
+        "ja": "First Martyr",
+        "ko": "First Martyr",
+        "pt": "First Martyr",
+        "zh": "First Martyr"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-10",
+      "localizedNames": {
+        "de": "Creation of the Polisario Front",
+        "en": "Creation of the Polisario Front",
+        "es": "Creation of the Polisario Front",
+        "fr": "Creation of the Polisario Front",
+        "ja": "Creation of the Polisario Front",
+        "ko": "Creation of the Polisario Front",
+        "pt": "Creation of the Polisario Front",
+        "zh": "Creation of the Polisario Front"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-20",
+      "localizedNames": {
+        "de": "Commencement of the Armed Struggle",
+        "en": "Commencement of the Armed Struggle",
+        "es": "Commencement of the Armed Struggle",
+        "fr": "Commencement of the Armed Struggle",
+        "ja": "Commencement of the Armed Struggle",
+        "ko": "Commencement of the Armed Struggle",
+        "pt": "Commencement of the Armed Struggle",
+        "zh": "Commencement of the Armed Struggle"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-09",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Uprising Day",
+        "en": "Uprising Day",
+        "es": "Uprising Day",
+        "fr": "Uprising Day",
+        "ja": "Uprising Day",
+        "ko": "Uprising Day",
+        "pt": "Uprising Day",
+        "zh": "Uprising Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Tag der nationalen Einheit",
+        "en": "National Unity Day",
+        "es": "Día de la Unidad Nacional",
+        "fr": "Journée de l'Unité nationale",
+        "ja": "国家統一記念日",
+        "ko": "국가통합의 날",
+        "pt": "Dia da Unidade Nacional",
+        "zh": "国家统一日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-27",
+      "localizedNames": {
+        "de": "Proclamation of the SADR",
+        "en": "Proclamation of the SADR",
+        "es": "Proclamation of the SADR",
+        "fr": "Proclamation of the SADR",
+        "ja": "Proclamation of the SADR",
+        "ko": "Proclamation of the SADR",
+        "pt": "Proclamation of the SADR",
+        "zh": "Proclamation of the SADR"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "First Martyr",
+        "en": "First Martyr",
+        "es": "First Martyr",
+        "fr": "First Martyr",
+        "ja": "First Martyr",
+        "ko": "First Martyr",
+        "pt": "First Martyr",
+        "zh": "First Martyr"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-10",
+      "localizedNames": {
+        "de": "Creation of the Polisario Front",
+        "en": "Creation of the Polisario Front",
+        "es": "Creation of the Polisario Front",
+        "fr": "Creation of the Polisario Front",
+        "ja": "Creation of the Polisario Front",
+        "ko": "Creation of the Polisario Front",
+        "pt": "Creation of the Polisario Front",
+        "zh": "Creation of the Polisario Front"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-20",
+      "localizedNames": {
+        "de": "Commencement of the Armed Struggle",
+        "en": "Commencement of the Armed Struggle",
+        "es": "Commencement of the Armed Struggle",
+        "fr": "Commencement of the Armed Struggle",
+        "ja": "Commencement of the Armed Struggle",
+        "ko": "Commencement of the Armed Struggle",
+        "pt": "Commencement of the Armed Struggle",
+        "zh": "Commencement of the Armed Struggle"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-09",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-17",
+      "localizedNames": {
+        "de": "Uprising Day",
+        "en": "Uprising Day",
+        "es": "Uprising Day",
+        "fr": "Uprising Day",
+        "ja": "Uprising Day",
+        "ko": "Uprising Day",
+        "pt": "Uprising Day",
+        "zh": "Uprising Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-12",
+      "localizedNames": {
+        "de": "Tag der nationalen Einheit",
+        "en": "National Unity Day",
+        "es": "Día de la Unidad Nacional",
+        "fr": "Journée de l'Unité nationale",
+        "ja": "国家統一記念日",
+        "ko": "국가통합의 날",
+        "pt": "Dia da Unidade Nacional",
+        "zh": "国家统一日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/El_Aaiun",
+  "years": [
+    2026,
+    2027
+  ]
+}

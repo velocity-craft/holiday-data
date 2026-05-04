@@ -1,0 +1,39 @@
+{
+  "countryCode": "RU",
+  "countryName": "Russian Federation",
+  "timeZone": "Europe/Moscow",
+  "holidays": [
+    {
+      "template": "christmas",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "kg_new_year_holidays",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "kz_defender_of_the_fatherland_day",
+      "rule": "fixed_feb_23"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "ru_holiday_of_spring_and_labor",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "ru_russia_day",
+      "rule": "fixed_jun_12"
+    },
+    {
+      "template": "bi_unity_day",
+      "rule": "fixed_nov_4"
+    }
+  ]
+}

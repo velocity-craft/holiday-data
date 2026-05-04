@@ -1,0 +1,51 @@
+{
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "timeZone": "Pacific/Apia",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ws_the_day_after_new_year_s_day",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ws_day_after_good_friday",
+      "rule": "offset_computus_western_neg1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "mothers_day",
+      "rule": "nth_mon_may_2"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "fathers_day",
+      "rule": "nth_mon_aug_2"
+    },
+    {
+      "template": "ws_white_sunday_lotu_a_tamaiti",
+      "rule": "nth_mon_oct_2"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

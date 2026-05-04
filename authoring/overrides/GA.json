@@ -1,0 +1,75 @@
+{
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "timeZone": "Africa/Libreville",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ga_women_s_rights_day",
+      "rule": "fixed_apr_17"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "ga_eid_al_adha_estimated_whit_sunday",
+      "rule": "fixed_may_16"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "whit_sunday",
+      "rule": "offset_computus_western_pos49"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "dj_independence_day_holiday",
+      "rule": "fixed_aug_17"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_16"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_aug_30"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

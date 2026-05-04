@@ -1,0 +1,320 @@
+{
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "holidays": [
+    {
+      "date": "2026-01-11",
+      "localizedNames": {
+        "de": "Prithvi Jayanti",
+        "en": "Prithvi Jayanti",
+        "es": "Prithvi Jayanti",
+        "fr": "Prithvi Jayanti",
+        "ja": "Prithvi Jayanti",
+        "ko": "Prithvi Jayanti",
+        "pt": "Prithvi Jayanti",
+        "zh": "Prithvi Jayanti"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-07",
+      "localizedNames": {
+        "de": "Gyalpo Lhosar; Sonam Lhochhar",
+        "en": "Gyalpo Lhosar; Sonam Lhochhar",
+        "es": "Gyalpo Lhosar; Sonam Lhochhar",
+        "fr": "Gyalpo Lhosar; Sonam Lhochhar",
+        "ja": "Gyalpo Lhosar; Sonam Lhochhar",
+        "ko": "Gyalpo Lhosar; Sonam Lhochhar",
+        "pt": "Gyalpo Lhosar; Sonam Lhochhar",
+        "zh": "Gyalpo Lhosar; Sonam Lhochhar"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-19",
+      "localizedNames": {
+        "de": "National Democracy Day",
+        "en": "National Democracy Day",
+        "es": "National Democracy Day",
+        "fr": "National Democracy Day",
+        "ja": "National Democracy Day",
+        "ko": "National Democracy Day",
+        "pt": "National Democracy Day",
+        "zh": "National Democracy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "International Women's Day; Maha Shivaratri",
+        "en": "International Women's Day; Maha Shivaratri",
+        "es": "International Women's Day; Maha Shivaratri",
+        "fr": "International Women's Day; Maha Shivaratri",
+        "ja": "International Women's Day; Maha Shivaratri",
+        "ko": "International Women's Day; Maha Shivaratri",
+        "pt": "International Women's Day; Maha Shivaratri",
+        "zh": "International Women's Day; Maha Shivaratri"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Buddha Jayanti; International Labor Day",
+        "en": "Buddha Jayanti; International Labor Day",
+        "es": "Buddha Jayanti; International Labor Day",
+        "fr": "Buddha Jayanti; International Labor Day",
+        "ja": "Buddha Jayanti; International Labor Day",
+        "ko": "Buddha Jayanti; International Labor Day",
+        "pt": "Buddha Jayanti; International Labor Day",
+        "zh": "Buddha Jayanti; International Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-19",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-29",
+      "localizedNames": {
+        "de": "Gai Tihar; Laxmi Pooja",
+        "en": "Gai Tihar; Laxmi Pooja",
+        "es": "Gai Tihar; Laxmi Pooja",
+        "fr": "Gai Tihar; Laxmi Pooja",
+        "ja": "Gai Tihar; Laxmi Pooja",
+        "ko": "Gai Tihar; Laxmi Pooja",
+        "pt": "Gai Tihar; Laxmi Pooja",
+        "zh": "Gai Tihar; Laxmi Pooja"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-30",
+      "localizedNames": {
+        "de": "Tamu Lhochhar",
+        "en": "Tamu Lhochhar",
+        "es": "Tamu Lhochhar",
+        "fr": "Tamu Lhochhar",
+        "ja": "Tamu Lhochhar",
+        "ko": "Tamu Lhochhar",
+        "pt": "Tamu Lhochhar",
+        "zh": "Tamu Lhochhar"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-11",
+      "localizedNames": {
+        "de": "Prithvi Jayanti",
+        "en": "Prithvi Jayanti",
+        "es": "Prithvi Jayanti",
+        "fr": "Prithvi Jayanti",
+        "ja": "Prithvi Jayanti",
+        "ko": "Prithvi Jayanti",
+        "pt": "Prithvi Jayanti",
+        "zh": "Prithvi Jayanti"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-07",
+      "localizedNames": {
+        "de": "Gyalpo Lhosar; Sonam Lhochhar",
+        "en": "Gyalpo Lhosar; Sonam Lhochhar",
+        "es": "Gyalpo Lhosar; Sonam Lhochhar",
+        "fr": "Gyalpo Lhosar; Sonam Lhochhar",
+        "ja": "Gyalpo Lhosar; Sonam Lhochhar",
+        "ko": "Gyalpo Lhosar; Sonam Lhochhar",
+        "pt": "Gyalpo Lhosar; Sonam Lhochhar",
+        "zh": "Gyalpo Lhosar; Sonam Lhochhar"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-19",
+      "localizedNames": {
+        "de": "National Democracy Day",
+        "en": "National Democracy Day",
+        "es": "National Democracy Day",
+        "fr": "National Democracy Day",
+        "ja": "National Democracy Day",
+        "ko": "National Democracy Day",
+        "pt": "National Democracy Day",
+        "zh": "National Democracy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "International Women's Day; Maha Shivaratri",
+        "en": "International Women's Day; Maha Shivaratri",
+        "es": "International Women's Day; Maha Shivaratri",
+        "fr": "International Women's Day; Maha Shivaratri",
+        "ja": "International Women's Day; Maha Shivaratri",
+        "ko": "International Women's Day; Maha Shivaratri",
+        "pt": "International Women's Day; Maha Shivaratri",
+        "zh": "International Women's Day; Maha Shivaratri"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Buddha Jayanti; International Labor Day",
+        "en": "Buddha Jayanti; International Labor Day",
+        "es": "Buddha Jayanti; International Labor Day",
+        "fr": "Buddha Jayanti; International Labor Day",
+        "ja": "Buddha Jayanti; International Labor Day",
+        "ko": "Buddha Jayanti; International Labor Day",
+        "pt": "Buddha Jayanti; International Labor Day",
+        "zh": "Buddha Jayanti; International Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-19",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "Gai Tihar; Laxmi Pooja",
+        "en": "Gai Tihar; Laxmi Pooja",
+        "es": "Gai Tihar; Laxmi Pooja",
+        "fr": "Gai Tihar; Laxmi Pooja",
+        "ja": "Gai Tihar; Laxmi Pooja",
+        "ko": "Gai Tihar; Laxmi Pooja",
+        "pt": "Gai Tihar; Laxmi Pooja",
+        "zh": "Gai Tihar; Laxmi Pooja"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-30",
+      "localizedNames": {
+        "de": "Tamu Lhochhar",
+        "en": "Tamu Lhochhar",
+        "es": "Tamu Lhochhar",
+        "fr": "Tamu Lhochhar",
+        "ja": "Tamu Lhochhar",
+        "ko": "Tamu Lhochhar",
+        "pt": "Tamu Lhochhar",
+        "zh": "Tamu Lhochhar"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Kathmandu",
+  "years": [
+    2026,
+    2027
+  ]
+}

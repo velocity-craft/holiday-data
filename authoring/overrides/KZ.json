@@ -1,0 +1,55 @@
+{
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "timeZone": "Asia/Almaty",
+  "holidays": [
+    {
+      "template": "er_orthodox_christmas",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "kz_nowruz_holiday",
+      "rule": "fixed_mar_21"
+    },
+    {
+      "template": "kz_defender_of_the_fatherland_day",
+      "rule": "fixed_may_7"
+    },
+    {
+      "template": "kz_kazakhstan_s_people_solidarity_holiday",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "kz_capital_day",
+      "rule": "fixed_jul_6"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_aug_30"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_oct_25"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_dec_16"
+    }
+  ]
+}

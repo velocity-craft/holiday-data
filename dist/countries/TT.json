@@ -1,0 +1,348 @@
+{
+  "countryCode": "TT",
+  "countryName": "Trinidad and Tobago",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-30",
+      "localizedNames": {
+        "de": "Spiritual Baptist Liberation Day",
+        "en": "Spiritual Baptist Liberation Day",
+        "es": "Spiritual Baptist Liberation Day",
+        "fr": "Spiritual Baptist Liberation Day",
+        "ja": "Spiritual Baptist Liberation Day",
+        "ko": "Spiritual Baptist Liberation Day",
+        "pt": "Spiritual Baptist Liberation Day",
+        "zh": "Spiritual Baptist Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-30",
+      "localizedNames": {
+        "de": "Corpus Christi; Indian Arrival Day",
+        "en": "Corpus Christi; Indian Arrival Day",
+        "es": "Corpus Christi; Indian Arrival Day",
+        "fr": "Corpus Christi; Indian Arrival Day",
+        "ja": "Corpus Christi; Indian Arrival Day",
+        "ko": "Corpus Christi; Indian Arrival Day",
+        "pt": "Corpus Christi; Indian Arrival Day",
+        "zh": "Corpus Christi; Indian Arrival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-19",
+      "localizedNames": {
+        "de": "Corpus Christi; Labor Day",
+        "en": "Corpus Christi; Labor Day",
+        "es": "Corpus Christi; Labor Day",
+        "fr": "Corpus Christi; Labor Day",
+        "ja": "Corpus Christi; Labor Day",
+        "ko": "Corpus Christi; Labor Day",
+        "pt": "Corpus Christi; Labor Day",
+        "zh": "Corpus Christi; Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-01",
+      "localizedNames": {
+        "de": "African Emancipation Day",
+        "en": "African Emancipation Day",
+        "es": "African Emancipation Day",
+        "fr": "African Emancipation Day",
+        "ja": "African Emancipation Day",
+        "ko": "African Emancipation Day",
+        "pt": "African Emancipation Day",
+        "zh": "African Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-31",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-24",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-08",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-30",
+      "localizedNames": {
+        "de": "Spiritual Baptist Liberation Day",
+        "en": "Spiritual Baptist Liberation Day",
+        "es": "Spiritual Baptist Liberation Day",
+        "fr": "Spiritual Baptist Liberation Day",
+        "ja": "Spiritual Baptist Liberation Day",
+        "ko": "Spiritual Baptist Liberation Day",
+        "pt": "Spiritual Baptist Liberation Day",
+        "zh": "Spiritual Baptist Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-30",
+      "localizedNames": {
+        "de": "Corpus Christi; Indian Arrival Day",
+        "en": "Corpus Christi; Indian Arrival Day",
+        "es": "Corpus Christi; Indian Arrival Day",
+        "fr": "Corpus Christi; Indian Arrival Day",
+        "ja": "Corpus Christi; Indian Arrival Day",
+        "ko": "Corpus Christi; Indian Arrival Day",
+        "pt": "Corpus Christi; Indian Arrival Day",
+        "zh": "Corpus Christi; Indian Arrival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-19",
+      "localizedNames": {
+        "de": "Corpus Christi; Labor Day",
+        "en": "Corpus Christi; Labor Day",
+        "es": "Corpus Christi; Labor Day",
+        "fr": "Corpus Christi; Labor Day",
+        "ja": "Corpus Christi; Labor Day",
+        "ko": "Corpus Christi; Labor Day",
+        "pt": "Corpus Christi; Labor Day",
+        "zh": "Corpus Christi; Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-01",
+      "localizedNames": {
+        "de": "African Emancipation Day",
+        "en": "African Emancipation Day",
+        "es": "African Emancipation Day",
+        "fr": "African Emancipation Day",
+        "ja": "African Emancipation Day",
+        "ko": "African Emancipation Day",
+        "pt": "African Emancipation Day",
+        "zh": "African Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-31",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-24",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Port_of_Spain",
+  "years": [
+    2026,
+    2027
+  ]
+}

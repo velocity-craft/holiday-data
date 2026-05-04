@@ -1,0 +1,71 @@
+{
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "timeZone": "Africa/Tunis",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "tn_revolution_and_youth_day",
+      "rule": "fixed_jan_14"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_mar_20"
+    },
+    {
+      "template": "tn_eid_al_fitr_estimated_independence_day",
+      "rule": "fixed_mar_20"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_apr_9"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_jul_25"
+    },
+    {
+      "template": "am_women_s_day",
+      "rule": "fixed_aug_13"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "tn_evacuation_day",
+      "rule": "fixed_oct_15"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "timeZone": "Europe/Athens",
+  "holidays": [
+    {
+      "template": "epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "cy_green_monday",
+      "rule": "offset_computus_eastern_neg48"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_mar_25"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_eastern_pos1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_eastern_neg2"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_eastern_pos50"
+    },
+    {
+      "template": "ge_dormition_of_the_mother_of_god",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "gr_ochi_day",
+      "rule": "fixed_oct_28"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "gr_glorifying_mother_of_god",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "timeZone": "Asia/Yerevan",
+  "holidays": [
+    {
+      "template": "am_army_day",
+      "rule": "fixed_jan_28"
+    },
+    {
+      "template": "am_christmas_and_epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "am_day_of_remembrance_for_the_fallen_defend",
+      "rule": "fixed_jan_27"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "am_women_s_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "am_day_of_remembrance_of_the_victims_of_arm",
+      "rule": "fixed_apr_24"
+    },
+    {
+      "template": "am_victory_and_peace_day",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_may_28"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_jul_5"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_21"
+    },
+    {
+      "template": "new_year_eve",
+      "rule": "fixed_dec_31"
+    }
+  ]
+}

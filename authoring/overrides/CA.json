@@ -1,0 +1,27 @@
+{
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "timeZone": "America/Toronto",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "canada_day",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_sep_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

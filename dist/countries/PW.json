@@ -1,0 +1,236 @@
+{
+  "countryCode": "PW",
+  "countryName": "Palau",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-05",
+      "localizedNames": {
+        "de": "Senior Citizens Day",
+        "en": "Senior Citizens Day",
+        "es": "Senior Citizens Day",
+        "fr": "Senior Citizens Day",
+        "ja": "Senior Citizens Day",
+        "ko": "Senior Citizens Day",
+        "pt": "Senior Citizens Day",
+        "zh": "Senior Citizens Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "President's Day",
+        "en": "President's Day",
+        "es": "President's Day",
+        "fr": "President's Day",
+        "ja": "President's Day",
+        "ko": "President's Day",
+        "pt": "President's Day",
+        "zh": "President's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-09",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-24",
+      "localizedNames": {
+        "de": "United Nations Day",
+        "en": "United Nations Day",
+        "es": "United Nations Day",
+        "fr": "United Nations Day",
+        "ja": "United Nations Day",
+        "ko": "United Nations Day",
+        "pt": "United Nations Day",
+        "zh": "United Nations Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-27",
+      "localizedNames": {
+        "de": "Family Day",
+        "en": "Family Day",
+        "es": "Family Day",
+        "fr": "Family Day",
+        "ja": "Family Day",
+        "ko": "Family Day",
+        "pt": "Family Day",
+        "zh": "Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-05",
+      "localizedNames": {
+        "de": "Senior Citizens Day",
+        "en": "Senior Citizens Day",
+        "es": "Senior Citizens Day",
+        "fr": "Senior Citizens Day",
+        "ja": "Senior Citizens Day",
+        "ko": "Senior Citizens Day",
+        "pt": "Senior Citizens Day",
+        "zh": "Senior Citizens Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "President's Day",
+        "en": "President's Day",
+        "es": "President's Day",
+        "fr": "President's Day",
+        "ja": "President's Day",
+        "ko": "President's Day",
+        "pt": "President's Day",
+        "zh": "President's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-09",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-24",
+      "localizedNames": {
+        "de": "United Nations Day",
+        "en": "United Nations Day",
+        "es": "United Nations Day",
+        "fr": "United Nations Day",
+        "ja": "United Nations Day",
+        "ko": "United Nations Day",
+        "pt": "United Nations Day",
+        "zh": "United Nations Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-26",
+      "localizedNames": {
+        "de": "Family Day",
+        "en": "Family Day",
+        "es": "Family Day",
+        "fr": "Family Day",
+        "ja": "Family Day",
+        "ko": "Family Day",
+        "pt": "Family Day",
+        "zh": "Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Palau",
+  "years": [
+    2026,
+    2027
+  ]
+}

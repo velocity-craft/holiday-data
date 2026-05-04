@@ -1,0 +1,55 @@
+{
+  "countryCode": "CC",
+  "countryName": "Cocos (Keeling) Islands",
+  "timeZone": "Indian/Cocos",
+  "holidays": [
+    {
+      "template": "australia_day",
+      "rule": "fixed_jan_26"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "anzac_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "cc_act_of_self_determination_day",
+      "rule": "fixed_apr_6"
+    },
+    {
+      "template": "cc_act_of_self_determination_day_easter_mon",
+      "rule": "fixed_apr_6"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

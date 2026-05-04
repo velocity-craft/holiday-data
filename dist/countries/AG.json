@@ -1,0 +1,208 @@
+{
+  "countryCode": "AG",
+  "countryName": "Antigua and Barbuda",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Carnival Monday",
+        "en": "Carnival Monday",
+        "es": "Carnival Monday",
+        "fr": "Carnival Monday",
+        "ja": "Carnival Monday",
+        "ko": "Carnival Monday",
+        "pt": "Carnival Monday",
+        "zh": "Carnival Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-04",
+      "localizedNames": {
+        "de": "Carnival Tuesday",
+        "en": "Carnival Tuesday",
+        "es": "Carnival Tuesday",
+        "fr": "Carnival Tuesday",
+        "ja": "Carnival Tuesday",
+        "ko": "Carnival Tuesday",
+        "pt": "Carnival Tuesday",
+        "zh": "Carnival Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-09",
+      "localizedNames": {
+        "de": "Sir Vere Cornwall Bird Snr. Day",
+        "en": "Sir Vere Cornwall Bird Snr. Day",
+        "es": "Sir Vere Cornwall Bird Snr. Day",
+        "fr": "Sir Vere Cornwall Bird Snr. Day",
+        "ja": "Sir Vere Cornwall Bird Snr. Day",
+        "ko": "Sir Vere Cornwall Bird Snr. Day",
+        "pt": "Sir Vere Cornwall Bird Snr. Day",
+        "zh": "Sir Vere Cornwall Bird Snr. Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Carnival Monday",
+        "en": "Carnival Monday",
+        "es": "Carnival Monday",
+        "fr": "Carnival Monday",
+        "ja": "Carnival Monday",
+        "ko": "Carnival Monday",
+        "pt": "Carnival Monday",
+        "zh": "Carnival Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-03",
+      "localizedNames": {
+        "de": "Carnival Tuesday",
+        "en": "Carnival Tuesday",
+        "es": "Carnival Tuesday",
+        "fr": "Carnival Tuesday",
+        "ja": "Carnival Tuesday",
+        "ko": "Carnival Tuesday",
+        "pt": "Carnival Tuesday",
+        "zh": "Carnival Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-09",
+      "localizedNames": {
+        "de": "Sir Vere Cornwall Bird Snr. Day",
+        "en": "Sir Vere Cornwall Bird Snr. Day",
+        "es": "Sir Vere Cornwall Bird Snr. Day",
+        "fr": "Sir Vere Cornwall Bird Snr. Day",
+        "ja": "Sir Vere Cornwall Bird Snr. Day",
+        "ko": "Sir Vere Cornwall Bird Snr. Day",
+        "pt": "Sir Vere Cornwall Bird Snr. Day",
+        "zh": "Sir Vere Cornwall Bird Snr. Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Antigua",
+  "years": [
+    2026,
+    2027
+  ]
+}

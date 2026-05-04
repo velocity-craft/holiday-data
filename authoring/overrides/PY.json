@@ -1,0 +1,47 @@
+{
+  "countryCode": "PY",
+  "countryName": "Paraguay",
+  "timeZone": "America/Asuncion",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "cl_national_holiday",
+      "rule": "fixed_may_14"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_may_15"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "py_asuncion_foundation_s_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "py_caacupe_virgin_day",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "countryCode": "VN",
+  "countryName": "Viet Nam",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-18",
+      "localizedNames": {
+        "de": "Fifth Day of Lunar New Year",
+        "en": "Fifth Day of Lunar New Year",
+        "es": "Fifth Day of Lunar New Year",
+        "fr": "Fifth Day of Lunar New Year",
+        "ja": "Fifth Day of Lunar New Year",
+        "ko": "Fifth Day of Lunar New Year",
+        "pt": "Fifth Day of Lunar New Year",
+        "zh": "Fifth Day of Lunar New Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-30",
+      "localizedNames": {
+        "de": "Liberation Day/Reunification Day",
+        "en": "Liberation Day/Reunification Day",
+        "es": "Liberation Day/Reunification Day",
+        "fr": "Liberation Day/Reunification Day",
+        "ja": "Liberation Day/Reunification Day",
+        "ko": "Liberation Day/Reunification Day",
+        "pt": "Liberation Day/Reunification Day",
+        "zh": "Liberation Day/Reunification Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-10",
+      "localizedNames": {
+        "de": "Fifth Day of Lunar New Year",
+        "en": "Fifth Day of Lunar New Year",
+        "es": "Fifth Day of Lunar New Year",
+        "fr": "Fifth Day of Lunar New Year",
+        "ja": "Fifth Day of Lunar New Year",
+        "ko": "Fifth Day of Lunar New Year",
+        "pt": "Fifth Day of Lunar New Year",
+        "zh": "Fifth Day of Lunar New Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-30",
+      "localizedNames": {
+        "de": "Liberation Day/Reunification Day",
+        "en": "Liberation Day/Reunification Day",
+        "es": "Liberation Day/Reunification Day",
+        "fr": "Liberation Day/Reunification Day",
+        "ja": "Liberation Day/Reunification Day",
+        "ko": "Liberation Day/Reunification Day",
+        "pt": "Liberation Day/Reunification Day",
+        "zh": "Liberation Day/Reunification Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Ho_Chi_Minh",
+  "years": [
+    2026,
+    2027
+  ]
+}

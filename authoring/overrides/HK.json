@@ -1,0 +1,51 @@
+{
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "timeZone": "Asia/Hong_Kong",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "hk_the_fourth_day_of_chinese_new_year",
+      "rule": "offset_computus_western_neg47"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "qingming",
+      "rule": "solar_term_qingming"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "dragon_boat_festival",
+      "rule": "chinese_lunar_5_5"
+    },
+    {
+      "template": "hk_hong_kong_s_a_r_establishment_day",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_oct_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "hk_the_first_weekday_after_christmas_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

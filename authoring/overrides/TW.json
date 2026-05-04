@@ -1,0 +1,63 @@
+{
+  "countryCode": "TW",
+  "countryName": "Taiwan, Province of China",
+  "timeZone": "Asia/Taipei",
+  "holidays": [
+    {
+      "template": "tw_founding_day_of_the_republic_of_china",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "chinese_new_year_eve",
+      "rule": "chinese_lunar_12_last"
+    },
+    {
+      "template": "tw_peace_memorial_day",
+      "rule": "fixed_feb_28"
+    },
+    {
+      "template": "korea_childrens_day",
+      "rule": "fixed_apr_4"
+    },
+    {
+      "template": "qingming",
+      "rule": "solar_term_qingming"
+    },
+    {
+      "template": "tw_children_s_day_tomb_sweeping_day",
+      "rule": "fixed_apr_4"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "dragon_boat_festival",
+      "rule": "chinese_lunar_5_5"
+    },
+    {
+      "template": "mid_autumn_festival",
+      "rule": "chinese_lunar_8_15"
+    },
+    {
+      "template": "tw_confucius_birthday",
+      "rule": "fixed_sep_28"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "tw_taiwan_restoration_and_guningtou_victory",
+      "rule": "fixed_oct_25"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "timeZone": "Pacific/Efate",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "vu_father_lini_day",
+      "rule": "fixed_feb_21"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "vu_custom_chief_s_day",
+      "rule": "fixed_mar_5"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_30"
+    },
+    {
+      "template": "korea_childrens_day",
+      "rule": "fixed_jul_24"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_oct_5"
+    },
+    {
+      "template": "bi_unity_day",
+      "rule": "fixed_nov_29"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "mz_family_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

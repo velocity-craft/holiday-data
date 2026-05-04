@@ -1,0 +1,264 @@
+{
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-08",
+      "localizedNames": {
+        "de": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "en": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "es": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "fr": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "ja": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "ko": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "pt": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "zh": "Prešeren's Day, the Slovenian Cultural Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-27",
+      "localizedNames": {
+        "de": "Day of Uprising Against Occupation",
+        "en": "Day of Uprising Against Occupation",
+        "es": "Day of Uprising Against Occupation",
+        "fr": "Day of Uprising Against Occupation",
+        "ja": "Day of Uprising Against Occupation",
+        "ko": "Day of Uprising Against Occupation",
+        "pt": "Day of Uprising Against Occupation",
+        "zh": "Day of Uprising Against Occupation"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-25",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-31",
+      "localizedNames": {
+        "de": "Reformation Day",
+        "en": "Reformation Day",
+        "es": "Reformation Day",
+        "fr": "Reformation Day",
+        "ja": "Reformation Day",
+        "ko": "Reformation Day",
+        "pt": "Reformation Day",
+        "zh": "Reformation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Day of Remembrance for the Dead",
+        "en": "Day of Remembrance for the Dead",
+        "es": "Day of Remembrance for the Dead",
+        "fr": "Day of Remembrance for the Dead",
+        "ja": "Day of Remembrance for the Dead",
+        "ko": "Day of Remembrance for the Dead",
+        "pt": "Day of Remembrance for the Dead",
+        "zh": "Day of Remembrance for the Dead"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Independence and Unity Day",
+        "en": "Independence and Unity Day",
+        "es": "Independence and Unity Day",
+        "fr": "Independence and Unity Day",
+        "ja": "Independence and Unity Day",
+        "ko": "Independence and Unity Day",
+        "pt": "Independence and Unity Day",
+        "zh": "Independence and Unity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-08",
+      "localizedNames": {
+        "de": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "en": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "es": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "fr": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "ja": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "ko": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "pt": "Prešeren's Day, the Slovenian Cultural Holiday",
+        "zh": "Prešeren's Day, the Slovenian Cultural Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-27",
+      "localizedNames": {
+        "de": "Day of Uprising Against Occupation",
+        "en": "Day of Uprising Against Occupation",
+        "es": "Day of Uprising Against Occupation",
+        "fr": "Day of Uprising Against Occupation",
+        "ja": "Day of Uprising Against Occupation",
+        "ko": "Day of Uprising Against Occupation",
+        "pt": "Day of Uprising Against Occupation",
+        "zh": "Day of Uprising Against Occupation"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-25",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-31",
+      "localizedNames": {
+        "de": "Reformation Day",
+        "en": "Reformation Day",
+        "es": "Reformation Day",
+        "fr": "Reformation Day",
+        "ja": "Reformation Day",
+        "ko": "Reformation Day",
+        "pt": "Reformation Day",
+        "zh": "Reformation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Day of Remembrance for the Dead",
+        "en": "Day of Remembrance for the Dead",
+        "es": "Day of Remembrance for the Dead",
+        "fr": "Day of Remembrance for the Dead",
+        "ja": "Day of Remembrance for the Dead",
+        "ko": "Day of Remembrance for the Dead",
+        "pt": "Day of Remembrance for the Dead",
+        "zh": "Day of Remembrance for the Dead"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Independence and Unity Day",
+        "en": "Independence and Unity Day",
+        "es": "Independence and Unity Day",
+        "fr": "Independence and Unity Day",
+        "ja": "Independence and Unity Day",
+        "ko": "Independence and Unity Day",
+        "pt": "Independence and Unity Day",
+        "zh": "Independence and Unity Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Ljubljana",
+  "years": [
+    2026,
+    2027
+  ]
+}

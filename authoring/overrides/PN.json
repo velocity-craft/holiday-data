@@ -1,0 +1,39 @@
+{
+  "countryCode": "PN",
+  "countryName": "Pitcairn",
+  "timeZone": "Pacific/Pitcairn",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "nf_bounty_day",
+      "rule": "fixed_jan_23"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ai_king_s_birthday",
+      "rule": "nth_mon_jun_1"
+    },
+    {
+      "template": "pn_pitcairn_day",
+      "rule": "fixed_jul_2"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

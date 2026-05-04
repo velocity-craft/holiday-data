@@ -1,0 +1,91 @@
+{
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "timeZone": "Asia/Manila",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ph_black_saturday",
+      "rule": "offset_computus_western_neg1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "ph_day_of_valor",
+      "rule": "fixed_apr_9"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ph_elections_special_non_working_day",
+      "rule": "fixed_may_12"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jun_12"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "last_mon_aug"
+    },
+    {
+      "template": "ph_all_saints_day_eve",
+      "rule": "fixed_oct_31"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "all_souls_day",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "ph_bonifacio_day",
+      "rule": "fixed_nov_30"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_eve",
+      "rule": "fixed_dec_24"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    },
+    {
+      "template": "new_year_eve",
+      "rule": "fixed_dec_31"
+    },
+    {
+      "template": "ph_rizal_day",
+      "rule": "fixed_dec_30"
+    }
+  ]
+}

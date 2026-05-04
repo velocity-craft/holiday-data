@@ -1,0 +1,63 @@
+{
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "timeZone": "Europe/Bucharest",
+  "holidays": [
+    {
+      "template": "epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ro_saint_john_the_baptist",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "ro_unification_of_the_romanian_principaliti",
+      "rule": "fixed_jan_24"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_eastern_neg2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "korea_childrens_day",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "ro_children_s_day_pentecost",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "whit_sunday",
+      "rule": "offset_computus_eastern_pos49"
+    },
+    {
+      "template": "ge_dormition_of_the_mother_of_god",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "ge_saint_andrew_s_day",
+      "rule": "fixed_nov_30"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_dec_1"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "countryCode": "CD",
+  "countryName": "Congo, The Democratic Republic of the",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-04",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-16",
+      "localizedNames": {
+        "de": "National Hero Laurent Désiré Kabila Day",
+        "en": "National Hero Laurent Désiré Kabila Day",
+        "es": "National Hero Laurent Désiré Kabila Day",
+        "fr": "National Hero Laurent Désiré Kabila Day",
+        "ja": "National Hero Laurent Désiré Kabila Day",
+        "ko": "National Hero Laurent Désiré Kabila Day",
+        "pt": "National Hero Laurent Désiré Kabila Day",
+        "zh": "National Hero Laurent Désiré Kabila Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-17",
+      "localizedNames": {
+        "de": "National Hero Patrice Emery Lumumba Day",
+        "en": "National Hero Patrice Emery Lumumba Day",
+        "es": "National Hero Patrice Emery Lumumba Day",
+        "fr": "National Hero Patrice Emery Lumumba Day",
+        "ja": "National Hero Patrice Emery Lumumba Day",
+        "ko": "National Hero Patrice Emery Lumumba Day",
+        "pt": "National Hero Patrice Emery Lumumba Day",
+        "zh": "National Hero Patrice Emery Lumumba Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-06",
+      "localizedNames": {
+        "de": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "en": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "es": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "fr": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "ja": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "ko": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "pt": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "zh": "Day of the Struggle of Simon Kimbangu and African Consciousness"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-17",
+      "localizedNames": {
+        "de": "Revolution and Armed Forces Day",
+        "en": "Revolution and Armed Forces Day",
+        "es": "Revolution and Armed Forces Day",
+        "fr": "Revolution and Armed Forces Day",
+        "ja": "Revolution and Armed Forces Day",
+        "ko": "Revolution and Armed Forces Day",
+        "pt": "Revolution and Armed Forces Day",
+        "zh": "Revolution and Armed Forces Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-30",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-01",
+      "localizedNames": {
+        "de": "Parents' Day",
+        "en": "Parents' Day",
+        "es": "Parents' Day",
+        "fr": "Parents' Day",
+        "ja": "Parents' Day",
+        "ko": "Parents' Day",
+        "pt": "Parents' Day",
+        "zh": "Parents' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-02",
+      "localizedNames": {
+        "de": "Congolese Genocide Memorial Day",
+        "en": "Congolese Genocide Memorial Day",
+        "es": "Congolese Genocide Memorial Day",
+        "fr": "Congolese Genocide Memorial Day",
+        "ja": "Congolese Genocide Memorial Day",
+        "ko": "Congolese Genocide Memorial Day",
+        "pt": "Congolese Genocide Memorial Day",
+        "zh": "Congolese Genocide Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-04",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-16",
+      "localizedNames": {
+        "de": "National Hero Laurent Désiré Kabila Day",
+        "en": "National Hero Laurent Désiré Kabila Day",
+        "es": "National Hero Laurent Désiré Kabila Day",
+        "fr": "National Hero Laurent Désiré Kabila Day",
+        "ja": "National Hero Laurent Désiré Kabila Day",
+        "ko": "National Hero Laurent Désiré Kabila Day",
+        "pt": "National Hero Laurent Désiré Kabila Day",
+        "zh": "National Hero Laurent Désiré Kabila Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-17",
+      "localizedNames": {
+        "de": "National Hero Patrice Emery Lumumba Day",
+        "en": "National Hero Patrice Emery Lumumba Day",
+        "es": "National Hero Patrice Emery Lumumba Day",
+        "fr": "National Hero Patrice Emery Lumumba Day",
+        "ja": "National Hero Patrice Emery Lumumba Day",
+        "ko": "National Hero Patrice Emery Lumumba Day",
+        "pt": "National Hero Patrice Emery Lumumba Day",
+        "zh": "National Hero Patrice Emery Lumumba Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-06",
+      "localizedNames": {
+        "de": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "en": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "es": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "fr": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "ja": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "ko": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "pt": "Day of the Struggle of Simon Kimbangu and African Consciousness",
+        "zh": "Day of the Struggle of Simon Kimbangu and African Consciousness"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Revolution and Armed Forces Day",
+        "en": "Revolution and Armed Forces Day",
+        "es": "Revolution and Armed Forces Day",
+        "fr": "Revolution and Armed Forces Day",
+        "ja": "Revolution and Armed Forces Day",
+        "ko": "Revolution and Armed Forces Day",
+        "pt": "Revolution and Armed Forces Day",
+        "zh": "Revolution and Armed Forces Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-30",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-01",
+      "localizedNames": {
+        "de": "Parents' Day",
+        "en": "Parents' Day",
+        "es": "Parents' Day",
+        "fr": "Parents' Day",
+        "ja": "Parents' Day",
+        "ko": "Parents' Day",
+        "pt": "Parents' Day",
+        "zh": "Parents' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Congolese Genocide Memorial Day",
+        "en": "Congolese Genocide Memorial Day",
+        "es": "Congolese Genocide Memorial Day",
+        "fr": "Congolese Genocide Memorial Day",
+        "ja": "Congolese Genocide Memorial Day",
+        "ko": "Congolese Genocide Memorial Day",
+        "pt": "Congolese Genocide Memorial Day",
+        "zh": "Congolese Genocide Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Kinshasa",
+  "years": [
+    2026,
+    2027
+  ]
+}

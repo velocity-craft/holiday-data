@@ -1,0 +1,59 @@
+{
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "timeZone": "Europe/Ljubljana",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "si_pre_eren_s_day_the_slovenian_cultural_ho",
+      "rule": "fixed_feb_8"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "si_day_of_uprising_against_occupation",
+      "rule": "fixed_apr_27"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "whit_sunday",
+      "rule": "offset_computus_western_pos49"
+    },
+    {
+      "template": "cz_statehood_day",
+      "rule": "fixed_jun_25"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "cl_reformation_day",
+      "rule": "fixed_oct_31"
+    },
+    {
+      "template": "si_day_of_remembrance_for_the_dead",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "si_independence_and_unity_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

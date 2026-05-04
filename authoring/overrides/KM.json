@@ -1,0 +1,63 @@
+{
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "timeZone": "Indian/Comoro",
+  "holidays": [
+    {
+      "template": "km_election_partial_day_holiday",
+      "rule": "fixed_jan_30"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "km_cheikh_al_maarouf_day",
+      "rule": "fixed_mar_18"
+    },
+    {
+      "template": "cl_national_holiday",
+      "rule": "fixed_apr_13"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_jul_6"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "km_maore_day",
+      "rule": "fixed_nov_12"
+    },
+    {
+      "template": "bn_christmas_day_isra_and_mi_raj_estimated",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

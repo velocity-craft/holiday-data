@@ -1,0 +1,83 @@
+{
+  "countryCode": "VI",
+  "countryName": "Virgin Islands, U.S.",
+  "timeZone": "America/St_Thomas",
+  "holidays": [
+    {
+      "template": "epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "us_mlk_day",
+      "rule": "nth_mon_jan_3"
+    },
+    {
+      "template": "us_presidents_day",
+      "rule": "nth_mon_feb_3"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "vi_holy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "vi_transfer_day",
+      "rule": "fixed_mar_31"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "us_memorial_day",
+      "rule": "last_mon_may"
+    },
+    {
+      "template": "us_juneteenth",
+      "rule": "fixed_jun_19"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "fixed_jul_3"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_4"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_sep_1"
+    },
+    {
+      "template": "vi_columbus_day_and_puerto_rico_friendship_",
+      "rule": "nth_mon_oct_2"
+    },
+    {
+      "template": "armistice_day_generic",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "thanksgiving_day_generic",
+      "rule": "last_thu_nov"
+    },
+    {
+      "template": "vi_liberty_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "vi_christmas_second_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

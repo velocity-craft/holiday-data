@@ -1,0 +1,236 @@
+{
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-23",
+      "localizedNames": {
+        "de": "Green Monday",
+        "en": "Green Monday",
+        "es": "Green Monday",
+        "fr": "Green Monday",
+        "ja": "Green Monday",
+        "ko": "Green Monday",
+        "pt": "Green Monday",
+        "zh": "Green Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-25",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Dormition of the Mother of God",
+        "en": "Dormition of the Mother of God",
+        "es": "Dormition of the Mother of God",
+        "fr": "Dormition of the Mother of God",
+        "ja": "Dormition of the Mother of God",
+        "ko": "Dormition of the Mother of God",
+        "pt": "Dormition of the Mother of God",
+        "zh": "Dormition of the Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-28",
+      "localizedNames": {
+        "de": "Ochi Day",
+        "en": "Ochi Day",
+        "es": "Ochi Day",
+        "fr": "Ochi Day",
+        "ja": "Ochi Day",
+        "ko": "Ochi Day",
+        "pt": "Ochi Day",
+        "zh": "Ochi Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Glorifying Mother of God",
+        "en": "Glorifying Mother of God",
+        "es": "Glorifying Mother of God",
+        "fr": "Glorifying Mother of God",
+        "ja": "Glorifying Mother of God",
+        "ko": "Glorifying Mother of God",
+        "pt": "Glorifying Mother of God",
+        "zh": "Glorifying Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-15",
+      "localizedNames": {
+        "de": "Green Monday",
+        "en": "Green Monday",
+        "es": "Green Monday",
+        "fr": "Green Monday",
+        "ja": "Green Monday",
+        "ko": "Green Monday",
+        "pt": "Green Monday",
+        "zh": "Green Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Dormition of the Mother of God",
+        "en": "Dormition of the Mother of God",
+        "es": "Dormition of the Mother of God",
+        "fr": "Dormition of the Mother of God",
+        "ja": "Dormition of the Mother of God",
+        "ko": "Dormition of the Mother of God",
+        "pt": "Dormition of the Mother of God",
+        "zh": "Dormition of the Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-28",
+      "localizedNames": {
+        "de": "Ochi Day",
+        "en": "Ochi Day",
+        "es": "Ochi Day",
+        "fr": "Ochi Day",
+        "ja": "Ochi Day",
+        "ko": "Ochi Day",
+        "pt": "Ochi Day",
+        "zh": "Ochi Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Glorifying Mother of God",
+        "en": "Glorifying Mother of God",
+        "es": "Glorifying Mother of God",
+        "fr": "Glorifying Mother of God",
+        "ja": "Glorifying Mother of God",
+        "ko": "Glorifying Mother of God",
+        "pt": "Glorifying Mother of God",
+        "zh": "Glorifying Mother of God"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Athens",
+  "years": [
+    2026,
+    2027
+  ]
+}

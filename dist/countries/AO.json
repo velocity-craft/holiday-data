@@ -1,0 +1,488 @@
+{
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Day off for New Year's Day",
+        "en": "Day off for New Year's Day",
+        "es": "Day off for New Year's Day",
+        "fr": "Day off for New Year's Day",
+        "ja": "Day off for New Year's Day",
+        "ko": "Day off for New Year's Day",
+        "pt": "Day off for New Year's Day",
+        "zh": "Day off for New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-04",
+      "localizedNames": {
+        "de": "Liberation Movement Day",
+        "en": "Liberation Movement Day",
+        "es": "Liberation Movement Day",
+        "fr": "Liberation Movement Day",
+        "ja": "Liberation Movement Day",
+        "ko": "Liberation Movement Day",
+        "pt": "Liberation Movement Day",
+        "zh": "Liberation Movement Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Day off for Carnival Day",
+        "en": "Day off for Carnival Day",
+        "es": "Day off for Carnival Day",
+        "fr": "Day off for Carnival Day",
+        "ja": "Day off for Carnival Day",
+        "ko": "Day off for Carnival Day",
+        "pt": "Day off for Carnival Day",
+        "zh": "Day off for Carnival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "Carnival Day",
+        "en": "Carnival Day",
+        "es": "Carnival Day",
+        "fr": "Carnival Day",
+        "ja": "Carnival Day",
+        "ko": "Carnival Day",
+        "pt": "Carnival Day",
+        "zh": "Carnival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-22",
+      "localizedNames": {
+        "de": "Day off for Southern Africa Liberation Day",
+        "en": "Day off for Southern Africa Liberation Day",
+        "es": "Day off for Southern Africa Liberation Day",
+        "fr": "Day off for Southern Africa Liberation Day",
+        "ja": "Day off for Southern Africa Liberation Day",
+        "ko": "Day off for Southern Africa Liberation Day",
+        "pt": "Day off for Southern Africa Liberation Day",
+        "zh": "Day off for Southern Africa Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-23",
+      "localizedNames": {
+        "de": "Southern Africa Liberation Day",
+        "en": "Southern Africa Liberation Day",
+        "es": "Southern Africa Liberation Day",
+        "fr": "Southern Africa Liberation Day",
+        "ja": "Southern Africa Liberation Day",
+        "ko": "Southern Africa Liberation Day",
+        "pt": "Southern Africa Liberation Day",
+        "zh": "Southern Africa Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Peace and National Reconciliation Day",
+        "en": "Peace and National Reconciliation Day",
+        "es": "Peace and National Reconciliation Day",
+        "fr": "Peace and National Reconciliation Day",
+        "ja": "Peace and National Reconciliation Day",
+        "ko": "Peace and National Reconciliation Day",
+        "pt": "Peace and National Reconciliation Day",
+        "zh": "Peace and National Reconciliation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Day off for Peace and National Reconciliation Day",
+        "en": "Day off for Peace and National Reconciliation Day",
+        "es": "Day off for Peace and National Reconciliation Day",
+        "fr": "Day off for Peace and National Reconciliation Day",
+        "ja": "Day off for Peace and National Reconciliation Day",
+        "ko": "Day off for Peace and National Reconciliation Day",
+        "pt": "Day off for Peace and National Reconciliation Day",
+        "zh": "Day off for Peace and National Reconciliation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "International Worker's Day",
+        "en": "International Worker's Day",
+        "es": "International Worker's Day",
+        "fr": "International Worker's Day",
+        "ja": "International Worker's Day",
+        "ko": "International Worker's Day",
+        "pt": "International Worker's Day",
+        "zh": "International Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-02",
+      "localizedNames": {
+        "de": "Day off for International Worker's Day",
+        "en": "Day off for International Worker's Day",
+        "es": "Day off for International Worker's Day",
+        "fr": "Day off for International Worker's Day",
+        "ja": "Day off for International Worker's Day",
+        "ko": "Day off for International Worker's Day",
+        "pt": "Day off for International Worker's Day",
+        "zh": "Day off for International Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-17",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Day off for All Souls' Day",
+        "en": "Day off for All Souls' Day",
+        "es": "Day off for All Souls' Day",
+        "fr": "Day off for All Souls' Day",
+        "ja": "Day off for All Souls' Day",
+        "ko": "Day off for All Souls' Day",
+        "pt": "Day off for All Souls' Day",
+        "zh": "Day off for All Souls' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-11",
+      "localizedNames": {
+        "de": "National Independence Day",
+        "en": "National Independence Day",
+        "es": "National Independence Day",
+        "fr": "National Independence Day",
+        "ja": "National Independence Day",
+        "ko": "National Independence Day",
+        "pt": "National Independence Day",
+        "zh": "National Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Christmas and Family Day",
+        "en": "Christmas and Family Day",
+        "es": "Christmas and Family Day",
+        "fr": "Christmas and Family Day",
+        "ja": "Christmas and Family Day",
+        "ko": "Christmas and Family Day",
+        "pt": "Christmas and Family Day",
+        "zh": "Christmas and Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Day off for Christmas and Family Day",
+        "en": "Day off for Christmas and Family Day",
+        "es": "Day off for Christmas and Family Day",
+        "fr": "Day off for Christmas and Family Day",
+        "ja": "Day off for Christmas and Family Day",
+        "ko": "Day off for Christmas and Family Day",
+        "pt": "Day off for Christmas and Family Day",
+        "zh": "Day off for Christmas and Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Day off for New Year's Day",
+        "en": "Day off for New Year's Day",
+        "es": "Day off for New Year's Day",
+        "fr": "Day off for New Year's Day",
+        "ja": "Day off for New Year's Day",
+        "ko": "Day off for New Year's Day",
+        "pt": "Day off for New Year's Day",
+        "zh": "Day off for New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-04",
+      "localizedNames": {
+        "de": "Liberation Movement Day",
+        "en": "Liberation Movement Day",
+        "es": "Liberation Movement Day",
+        "fr": "Liberation Movement Day",
+        "ja": "Liberation Movement Day",
+        "ko": "Liberation Movement Day",
+        "pt": "Liberation Movement Day",
+        "zh": "Liberation Movement Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-08",
+      "localizedNames": {
+        "de": "Day off for Carnival Day",
+        "en": "Day off for Carnival Day",
+        "es": "Day off for Carnival Day",
+        "fr": "Day off for Carnival Day",
+        "ja": "Day off for Carnival Day",
+        "ko": "Day off for Carnival Day",
+        "pt": "Day off for Carnival Day",
+        "zh": "Day off for Carnival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "Carnival Day",
+        "en": "Carnival Day",
+        "es": "Carnival Day",
+        "fr": "Carnival Day",
+        "ja": "Carnival Day",
+        "ko": "Carnival Day",
+        "pt": "Carnival Day",
+        "zh": "Carnival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-22",
+      "localizedNames": {
+        "de": "Day off for Southern Africa Liberation Day",
+        "en": "Day off for Southern Africa Liberation Day",
+        "es": "Day off for Southern Africa Liberation Day",
+        "fr": "Day off for Southern Africa Liberation Day",
+        "ja": "Day off for Southern Africa Liberation Day",
+        "ko": "Day off for Southern Africa Liberation Day",
+        "pt": "Day off for Southern Africa Liberation Day",
+        "zh": "Day off for Southern Africa Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-23",
+      "localizedNames": {
+        "de": "Southern Africa Liberation Day",
+        "en": "Southern Africa Liberation Day",
+        "es": "Southern Africa Liberation Day",
+        "fr": "Southern Africa Liberation Day",
+        "ja": "Southern Africa Liberation Day",
+        "ko": "Southern Africa Liberation Day",
+        "pt": "Southern Africa Liberation Day",
+        "zh": "Southern Africa Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-04",
+      "localizedNames": {
+        "de": "Peace and National Reconciliation Day",
+        "en": "Peace and National Reconciliation Day",
+        "es": "Peace and National Reconciliation Day",
+        "fr": "Peace and National Reconciliation Day",
+        "ja": "Peace and National Reconciliation Day",
+        "ko": "Peace and National Reconciliation Day",
+        "pt": "Peace and National Reconciliation Day",
+        "zh": "Peace and National Reconciliation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-05",
+      "localizedNames": {
+        "de": "Day off for Peace and National Reconciliation Day",
+        "en": "Day off for Peace and National Reconciliation Day",
+        "es": "Day off for Peace and National Reconciliation Day",
+        "fr": "Day off for Peace and National Reconciliation Day",
+        "ja": "Day off for Peace and National Reconciliation Day",
+        "ko": "Day off for Peace and National Reconciliation Day",
+        "pt": "Day off for Peace and National Reconciliation Day",
+        "zh": "Day off for Peace and National Reconciliation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "International Worker's Day",
+        "en": "International Worker's Day",
+        "es": "International Worker's Day",
+        "fr": "International Worker's Day",
+        "ja": "International Worker's Day",
+        "ko": "International Worker's Day",
+        "pt": "International Worker's Day",
+        "zh": "International Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-02",
+      "localizedNames": {
+        "de": "Day off for International Worker's Day",
+        "en": "Day off for International Worker's Day",
+        "es": "Day off for International Worker's Day",
+        "fr": "Day off for International Worker's Day",
+        "ja": "Day off for International Worker's Day",
+        "ko": "Day off for International Worker's Day",
+        "pt": "Day off for International Worker's Day",
+        "zh": "Day off for International Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-17",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Day off for All Souls' Day",
+        "en": "Day off for All Souls' Day",
+        "es": "Day off for All Souls' Day",
+        "fr": "Day off for All Souls' Day",
+        "ja": "Day off for All Souls' Day",
+        "ko": "Day off for All Souls' Day",
+        "pt": "Day off for All Souls' Day",
+        "zh": "Day off for All Souls' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-11",
+      "localizedNames": {
+        "de": "National Independence Day",
+        "en": "National Independence Day",
+        "es": "National Independence Day",
+        "fr": "National Independence Day",
+        "ja": "National Independence Day",
+        "ko": "National Independence Day",
+        "pt": "National Independence Day",
+        "zh": "National Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Christmas and Family Day",
+        "en": "Christmas and Family Day",
+        "es": "Christmas and Family Day",
+        "fr": "Christmas and Family Day",
+        "ja": "Christmas and Family Day",
+        "ko": "Christmas and Family Day",
+        "pt": "Christmas and Family Day",
+        "zh": "Christmas and Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Day off for Christmas and Family Day",
+        "en": "Day off for Christmas and Family Day",
+        "es": "Day off for Christmas and Family Day",
+        "fr": "Day off for Christmas and Family Day",
+        "ja": "Day off for Christmas and Family Day",
+        "ko": "Day off for Christmas and Family Day",
+        "pt": "Day off for Christmas and Family Day",
+        "zh": "Day off for Christmas and Family Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Luanda",
+  "years": [
+    2026,
+    2027
+  ]
+}

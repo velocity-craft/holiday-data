@@ -1,0 +1,75 @@
+{
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "timeZone": "America/Lima",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "co_saint_peter_and_saint_paul_s_day",
+      "rule": "fixed_jun_29"
+    },
+    {
+      "template": "pe_battle_of_arica_and_flag_day",
+      "rule": "fixed_jun_7"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_28"
+    },
+    {
+      "template": "pe_great_military_parade_day",
+      "rule": "fixed_jul_29"
+    },
+    {
+      "template": "pe_peruvian_air_force_day",
+      "rule": "fixed_jul_23"
+    },
+    {
+      "template": "pe_battle_of_jun_n_day",
+      "rule": "fixed_aug_6"
+    },
+    {
+      "template": "pe_rose_of_lima_day",
+      "rule": "fixed_aug_30"
+    },
+    {
+      "template": "pe_battle_of_angamos_day",
+      "rule": "fixed_oct_8"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    },
+    {
+      "template": "pe_battle_of_ayacucho_day",
+      "rule": "fixed_dec_9"
+    }
+  ]
+}

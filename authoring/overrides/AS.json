@@ -1,0 +1,63 @@
+{
+  "countryCode": "AS",
+  "countryName": "American Samoa",
+  "timeZone": "Pacific/Pago_Pago",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "us_mlk_day",
+      "rule": "nth_mon_jan_3"
+    },
+    {
+      "template": "as_washington_s_birthday",
+      "rule": "nth_mon_feb_3"
+    },
+    {
+      "template": "as_american_samoa_flag_day",
+      "rule": "fixed_apr_17"
+    },
+    {
+      "template": "us_memorial_day",
+      "rule": "last_mon_may"
+    },
+    {
+      "template": "us_juneteenth",
+      "rule": "fixed_jun_19"
+    },
+    {
+      "template": "as_manu_a_islands_cession_day",
+      "rule": "fixed_jul_16"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_4"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_sep_1"
+    },
+    {
+      "template": "as_white_sunday",
+      "rule": "nth_sun_oct_2"
+    },
+    {
+      "template": "us_columbus_day",
+      "rule": "nth_mon_oct_2"
+    },
+    {
+      "template": "armistice_day_generic",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "thanksgiving_day_generic",
+      "rule": "last_thu_nov"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

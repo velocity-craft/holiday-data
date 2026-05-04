@@ -1,0 +1,292 @@
+{
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "Freedom Day",
+        "en": "Freedom Day",
+        "es": "Freedom Day",
+        "fr": "Freedom Day",
+        "ja": "Freedom Day",
+        "ko": "Freedom Day",
+        "pt": "Freedom Day",
+        "zh": "Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-10",
+      "localizedNames": {
+        "de": "Day of Portugal, Camões, and the Portuguese Communities",
+        "en": "Day of Portugal, Camões, and the Portuguese Communities",
+        "es": "Day of Portugal, Camões, and the Portuguese Communities",
+        "fr": "Day of Portugal, Camões, and the Portuguese Communities",
+        "ja": "Day of Portugal, Camões, and the Portuguese Communities",
+        "ko": "Day of Portugal, Camões, and the Portuguese Communities",
+        "pt": "Day of Portugal, Camões, and the Portuguese Communities",
+        "zh": "Day of Portugal, Camões, and the Portuguese Communities"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-05",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-01",
+      "localizedNames": {
+        "de": "Restoration of Independence Day",
+        "en": "Restoration of Independence Day",
+        "es": "Restoration of Independence Day",
+        "fr": "Restoration of Independence Day",
+        "ja": "Restoration of Independence Day",
+        "ko": "Restoration of Independence Day",
+        "pt": "Restoration of Independence Day",
+        "zh": "Restoration of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "Freedom Day",
+        "en": "Freedom Day",
+        "es": "Freedom Day",
+        "fr": "Freedom Day",
+        "ja": "Freedom Day",
+        "ko": "Freedom Day",
+        "pt": "Freedom Day",
+        "zh": "Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-10",
+      "localizedNames": {
+        "de": "Day of Portugal, Camões, and the Portuguese Communities",
+        "en": "Day of Portugal, Camões, and the Portuguese Communities",
+        "es": "Day of Portugal, Camões, and the Portuguese Communities",
+        "fr": "Day of Portugal, Camões, and the Portuguese Communities",
+        "ja": "Day of Portugal, Camões, and the Portuguese Communities",
+        "ko": "Day of Portugal, Camões, and the Portuguese Communities",
+        "pt": "Day of Portugal, Camões, and the Portuguese Communities",
+        "zh": "Day of Portugal, Camões, and the Portuguese Communities"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-05",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-01",
+      "localizedNames": {
+        "de": "Restoration of Independence Day",
+        "en": "Restoration of Independence Day",
+        "es": "Restoration of Independence Day",
+        "fr": "Restoration of Independence Day",
+        "ja": "Restoration of Independence Day",
+        "ko": "Restoration of Independence Day",
+        "pt": "Restoration of Independence Day",
+        "zh": "Restoration of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Lisbon",
+  "years": [
+    2026,
+    2027
+  ]
+}

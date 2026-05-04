@@ -1,0 +1,39 @@
+{
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "timeZone": "Asia/Kabul",
+  "holidays": [
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_feb_15"
+    },
+    {
+      "template": "af_mojahedin_s_victory_day",
+      "rule": "fixed_apr_28"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "af_afghanistan_independence_day",
+      "rule": "fixed_aug_19"
+    },
+    {
+      "template": "af_american_withdrawal_day",
+      "rule": "fixed_aug_31"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    }
+  ]
+}

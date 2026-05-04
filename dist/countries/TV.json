@@ -1,0 +1,236 @@
+{
+  "countryCode": "TV",
+  "countryName": "Tuvalu",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-11",
+      "localizedNames": {
+        "de": "Gospel Day",
+        "en": "Gospel Day",
+        "es": "Gospel Day",
+        "fr": "Gospel Day",
+        "ja": "Gospel Day",
+        "ko": "Gospel Day",
+        "pt": "Gospel Day",
+        "zh": "Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-13",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Tuvalu Day",
+        "en": "Tuvalu Day",
+        "es": "Tuvalu Day",
+        "fr": "Tuvalu Day",
+        "ja": "Tuvalu Day",
+        "ko": "Tuvalu Day",
+        "pt": "Tuvalu Day",
+        "zh": "Tuvalu Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "National Children's Day",
+        "en": "National Children's Day",
+        "es": "National Children's Day",
+        "fr": "National Children's Day",
+        "ja": "National Children's Day",
+        "ko": "National Children's Day",
+        "pt": "National Children's Day",
+        "zh": "National Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-10",
+      "localizedNames": {
+        "de": "Gospel Day",
+        "en": "Gospel Day",
+        "es": "Gospel Day",
+        "fr": "Gospel Day",
+        "ja": "Gospel Day",
+        "ko": "Gospel Day",
+        "pt": "Gospel Day",
+        "zh": "Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-12",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Tuvalu Day",
+        "en": "Tuvalu Day",
+        "es": "Tuvalu Day",
+        "fr": "Tuvalu Day",
+        "ja": "Tuvalu Day",
+        "ko": "Tuvalu Day",
+        "pt": "Tuvalu Day",
+        "zh": "Tuvalu Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "National Children's Day",
+        "en": "National Children's Day",
+        "es": "National Children's Day",
+        "fr": "National Children's Day",
+        "ja": "National Children's Day",
+        "ko": "National Children's Day",
+        "pt": "National Children's Day",
+        "zh": "National Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Funafuti",
+  "years": [
+    2026,
+    2027
+  ]
+}

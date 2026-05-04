@@ -1,0 +1,75 @@
+{
+  "countryCode": "SM",
+  "countryName": "San Marino",
+  "timeZone": "Europe/San_Marino",
+  "holidays": [
+    {
+      "template": "epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "sm_anniversary_of_the_liberation_of_the_rep",
+      "rule": "fixed_feb_5"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "sm_anniversary_of_the_arengo",
+      "rule": "fixed_mar_25"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "sm_easter_monday_investiture_of_captains_re",
+      "rule": "fixed_apr_1"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "sm_anniversary_of_the_fall_of_fascism_and_f",
+      "rule": "fixed_jul_28"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "sm_saint_marinus_day_anniversary_of_the_fou",
+      "rule": "fixed_sep_3"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "sm_commemoration_of_the_dead",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "ad_saint_stephen_s_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

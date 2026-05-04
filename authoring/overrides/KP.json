@@ -1,0 +1,83 @@
+{
+  "countryCode": "KP",
+  "countryName": "Korea, Democratic People's Republic of",
+  "timeZone": "Asia/Pyongyang",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "korean_lunar_1_1"
+    },
+    {
+      "template": "kp_day_of_the_shining_star",
+      "rule": "fixed_feb_16"
+    },
+    {
+      "template": "kp_day_of_the_shining_star_korean_new_year",
+      "rule": "fixed_feb_17"
+    },
+    {
+      "template": "kp_founding_day_of_the_korean_people_s_army",
+      "rule": "fixed_feb_8"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "kp_day_of_the_sun",
+      "rule": "fixed_apr_15"
+    },
+    {
+      "template": "kp_founding_day_of_the_korean_people_s_revo",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "kp_foundation_day_of_the_korean_children_s_",
+      "rule": "fixed_jun_6"
+    },
+    {
+      "template": "kp_day_of_victory_in_the_great_fatherland_l",
+      "rule": "fixed_jul_27"
+    },
+    {
+      "template": "kp_day_of_songun",
+      "rule": "fixed_aug_25"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "youth_day",
+      "rule": "fixed_aug_28"
+    },
+    {
+      "template": "kp_founding_day_of_the_dprk",
+      "rule": "fixed_sep_9"
+    },
+    {
+      "template": "mid_autumn_festival",
+      "rule": "korean_lunar_8_15"
+    },
+    {
+      "template": "kp_foundation_day_of_the_workers_party_of_k",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "mothers_day",
+      "rule": "fixed_nov_16"
+    },
+    {
+      "template": "kp_socialist_constitution_day",
+      "rule": "fixed_dec_27"
+    }
+  ]
+}

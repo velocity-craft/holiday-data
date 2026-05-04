@@ -1,0 +1,292 @@
+{
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-23",
+      "localizedNames": {
+        "de": "Green Monday",
+        "en": "Green Monday",
+        "es": "Green Monday",
+        "fr": "Green Monday",
+        "ja": "Green Monday",
+        "ko": "Green Monday",
+        "pt": "Green Monday",
+        "zh": "Green Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-25",
+      "localizedNames": {
+        "de": "Greek Independence Day",
+        "en": "Greek Independence Day",
+        "es": "Greek Independence Day",
+        "fr": "Greek Independence Day",
+        "ja": "Greek Independence Day",
+        "ko": "Greek Independence Day",
+        "pt": "Greek Independence Day",
+        "zh": "Greek Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-01",
+      "localizedNames": {
+        "de": "Cyprus National Day",
+        "en": "Cyprus National Day",
+        "es": "Cyprus National Day",
+        "fr": "Cyprus National Day",
+        "ja": "Cyprus National Day",
+        "ko": "Cyprus National Day",
+        "pt": "Cyprus National Day",
+        "zh": "Cyprus National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Cyprus Independence Day",
+        "en": "Cyprus Independence Day",
+        "es": "Cyprus Independence Day",
+        "fr": "Cyprus Independence Day",
+        "ja": "Cyprus Independence Day",
+        "ko": "Cyprus Independence Day",
+        "pt": "Cyprus Independence Day",
+        "zh": "Cyprus Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-28",
+      "localizedNames": {
+        "de": "Greek National Day",
+        "en": "Greek National Day",
+        "es": "Greek National Day",
+        "fr": "Greek National Day",
+        "ja": "Greek National Day",
+        "ko": "Greek National Day",
+        "pt": "Greek National Day",
+        "zh": "Greek National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Day After Christmas",
+        "en": "Day After Christmas",
+        "es": "Day After Christmas",
+        "fr": "Day After Christmas",
+        "ja": "Day After Christmas",
+        "ko": "Day After Christmas",
+        "pt": "Day After Christmas",
+        "zh": "Day After Christmas"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-15",
+      "localizedNames": {
+        "de": "Green Monday",
+        "en": "Green Monday",
+        "es": "Green Monday",
+        "fr": "Green Monday",
+        "ja": "Green Monday",
+        "ko": "Green Monday",
+        "pt": "Green Monday",
+        "zh": "Green Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Greek Independence Day",
+        "en": "Greek Independence Day",
+        "es": "Greek Independence Day",
+        "fr": "Greek Independence Day",
+        "ja": "Greek Independence Day",
+        "ko": "Greek Independence Day",
+        "pt": "Greek Independence Day",
+        "zh": "Greek Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-01",
+      "localizedNames": {
+        "de": "Cyprus National Day",
+        "en": "Cyprus National Day",
+        "es": "Cyprus National Day",
+        "fr": "Cyprus National Day",
+        "ja": "Cyprus National Day",
+        "ko": "Cyprus National Day",
+        "pt": "Cyprus National Day",
+        "zh": "Cyprus National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Cyprus Independence Day",
+        "en": "Cyprus Independence Day",
+        "es": "Cyprus Independence Day",
+        "fr": "Cyprus Independence Day",
+        "ja": "Cyprus Independence Day",
+        "ko": "Cyprus Independence Day",
+        "pt": "Cyprus Independence Day",
+        "zh": "Cyprus Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-28",
+      "localizedNames": {
+        "de": "Greek National Day",
+        "en": "Greek National Day",
+        "es": "Greek National Day",
+        "fr": "Greek National Day",
+        "ja": "Greek National Day",
+        "ko": "Greek National Day",
+        "pt": "Greek National Day",
+        "zh": "Greek National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Day After Christmas",
+        "en": "Day After Christmas",
+        "es": "Day After Christmas",
+        "fr": "Day After Christmas",
+        "ja": "Day After Christmas",
+        "ko": "Day After Christmas",
+        "pt": "Day After Christmas",
+        "zh": "Day After Christmas"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Nicosia",
+  "years": [
+    2026,
+    2027
+  ]
+}

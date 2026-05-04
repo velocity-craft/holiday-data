@@ -1,0 +1,306 @@
+{
+  "countryCode": "IR",
+  "countryName": "Iran, Islamic Republic of",
+  "holidays": [
+    {
+      "date": "2026-01-16",
+      "localizedNames": {
+        "de": "Lailat al-Mi'radsch",
+        "en": "Isra Mi'raj",
+        "es": "Isra Mi'raj",
+        "fr": "Isra et Mi'raj",
+        "ja": "イスラー・ミウラージュ",
+        "ko": "이스라 미라지",
+        "pt": "Isra e Mi'raj",
+        "zh": "登霄节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-01",
+      "localizedNames": {
+        "de": "Public Holiday",
+        "en": "Public Holiday",
+        "es": "Public Holiday",
+        "fr": "Public Holiday",
+        "ja": "Public Holiday",
+        "ko": "Public Holiday",
+        "pt": "Public Holiday",
+        "zh": "Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Last Day of Year",
+        "en": "Last Day of Year",
+        "es": "Last Day of Year",
+        "fr": "Last Day of Year",
+        "ja": "Last Day of Year",
+        "ko": "Last Day of Year",
+        "pt": "Last Day of Year",
+        "zh": "Last Day of Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-21",
+      "localizedNames": {
+        "de": "Eid al-Fitr (estimated); Nowruz",
+        "en": "Eid al-Fitr (estimated); Nowruz",
+        "es": "Eid al-Fitr (estimated); Nowruz",
+        "fr": "Eid al-Fitr (estimated); Nowruz",
+        "ja": "Eid al-Fitr (estimated); Nowruz",
+        "ko": "Eid al-Fitr (estimated); Nowruz",
+        "pt": "Eid al-Fitr (estimated); Nowruz",
+        "zh": "Eid al-Fitr (estimated); Nowruz"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-22",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "en": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "es": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "fr": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "ja": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "ko": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "pt": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "zh": "Eid al-Fitr Holiday (estimated); Nowruz Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-01",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "en": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "es": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "fr": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "ja": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "ko": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "pt": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "zh": "Eid al-Fitr Holiday; Islamic Republic Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Nature's Day",
+        "en": "Nature's Day",
+        "es": "Nature's Day",
+        "fr": "Nature's Day",
+        "ja": "Nature's Day",
+        "ko": "Nature's Day",
+        "pt": "Nature's Day",
+        "zh": "Nature's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-05",
+      "localizedNames": {
+        "de": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "en": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "es": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "fr": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "ja": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "ko": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "pt": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "zh": "15 Khordad Uprising; Eid al-Ghadeer (estimated)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Lailat al-Mi'radsch",
+        "en": "Isra Mi'raj",
+        "es": "Isra Mi'raj",
+        "fr": "Isra et Mi'raj",
+        "ja": "イスラー・ミウラージュ",
+        "ko": "이스라 미라지",
+        "pt": "Isra e Mi'raj",
+        "zh": "登霄节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-01",
+      "localizedNames": {
+        "de": "Public Holiday",
+        "en": "Public Holiday",
+        "es": "Public Holiday",
+        "fr": "Public Holiday",
+        "ja": "Public Holiday",
+        "ko": "Public Holiday",
+        "pt": "Public Holiday",
+        "zh": "Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-20",
+      "localizedNames": {
+        "de": "Last Day of Year",
+        "en": "Last Day of Year",
+        "es": "Last Day of Year",
+        "fr": "Last Day of Year",
+        "ja": "Last Day of Year",
+        "ko": "Last Day of Year",
+        "pt": "Last Day of Year",
+        "zh": "Last Day of Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-21",
+      "localizedNames": {
+        "de": "Eid al-Fitr (estimated); Nowruz",
+        "en": "Eid al-Fitr (estimated); Nowruz",
+        "es": "Eid al-Fitr (estimated); Nowruz",
+        "fr": "Eid al-Fitr (estimated); Nowruz",
+        "ja": "Eid al-Fitr (estimated); Nowruz",
+        "ko": "Eid al-Fitr (estimated); Nowruz",
+        "pt": "Eid al-Fitr (estimated); Nowruz",
+        "zh": "Eid al-Fitr (estimated); Nowruz"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-22",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "en": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "es": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "fr": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "ja": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "ko": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "pt": "Eid al-Fitr Holiday (estimated); Nowruz Holiday",
+        "zh": "Eid al-Fitr Holiday (estimated); Nowruz Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-01",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "en": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "es": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "fr": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "ja": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "ko": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "pt": "Eid al-Fitr Holiday; Islamic Republic Day",
+        "zh": "Eid al-Fitr Holiday; Islamic Republic Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-02",
+      "localizedNames": {
+        "de": "Nature's Day",
+        "en": "Nature's Day",
+        "es": "Nature's Day",
+        "fr": "Nature's Day",
+        "ja": "Nature's Day",
+        "ko": "Nature's Day",
+        "pt": "Nature's Day",
+        "zh": "Nature's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-05",
+      "localizedNames": {
+        "de": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "en": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "es": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "fr": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "ja": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "ko": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "pt": "15 Khordad Uprising; Eid al-Ghadeer (estimated)",
+        "zh": "15 Khordad Uprising; Eid al-Ghadeer (estimated)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-15",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Tehran",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "timeZone": "Asia/Jerusalem",
+  "holidays": [
+    {
+      "template": "independence_day_generic",
+      "rule": "offset_computus_eastern_pos10"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "countryCode": "TM",
+  "countryName": "Turkmenistan",
+  "timeZone": "Asia/Ashgabat",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "tm_constitution_and_state_flag_day",
+      "rule": "fixed_may_18"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_27"
+    },
+    {
+      "template": "us_memorial_day",
+      "rule": "fixed_oct_6"
+    },
+    {
+      "template": "tm_international_neutrality_day",
+      "rule": "fixed_dec_12"
+    }
+  ]
+}

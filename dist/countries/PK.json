@@ -1,0 +1,292 @@
+{
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "holidays": [
+    {
+      "date": "2026-02-05",
+      "localizedNames": {
+        "de": "Kashmir Solidarity Day",
+        "en": "Kashmir Solidarity Day",
+        "es": "Kashmir Solidarity Day",
+        "fr": "Kashmir Solidarity Day",
+        "ja": "Kashmir Solidarity Day",
+        "ko": "Kashmir Solidarity Day",
+        "pt": "Kashmir Solidarity Day",
+        "zh": "Kashmir Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-23",
+      "localizedNames": {
+        "de": "Pakistan Day",
+        "en": "Pakistan Day",
+        "es": "Pakistan Day",
+        "fr": "Pakistan Day",
+        "ja": "Pakistan Day",
+        "ko": "Pakistan Day",
+        "pt": "Pakistan Day",
+        "zh": "Pakistan Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-28",
+      "localizedNames": {
+        "de": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "en": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "es": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "fr": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "ja": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "ko": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "pt": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "zh": "Eid al-Adha (estimated); Youm-e-Takbeer"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-14",
+      "localizedNames": {
+        "de": "Independence Day; Prophet's Birthday (estimated)",
+        "en": "Independence Day; Prophet's Birthday (estimated)",
+        "es": "Independence Day; Prophet's Birthday (estimated)",
+        "fr": "Independence Day; Prophet's Birthday (estimated)",
+        "ja": "Independence Day; Prophet's Birthday (estimated)",
+        "ko": "Independence Day; Prophet's Birthday (estimated)",
+        "pt": "Independence Day; Prophet's Birthday (estimated)",
+        "zh": "Independence Day; Prophet's Birthday (estimated)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-09",
+      "localizedNames": {
+        "de": "Iqbal Day",
+        "en": "Iqbal Day",
+        "es": "Iqbal Day",
+        "fr": "Iqbal Day",
+        "ja": "Iqbal Day",
+        "ko": "Iqbal Day",
+        "pt": "Iqbal Day",
+        "zh": "Iqbal Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Quaid-e-Azam Day",
+        "en": "Quaid-e-Azam Day",
+        "es": "Quaid-e-Azam Day",
+        "fr": "Quaid-e-Azam Day",
+        "ja": "Quaid-e-Azam Day",
+        "ko": "Quaid-e-Azam Day",
+        "pt": "Quaid-e-Azam Day",
+        "zh": "Quaid-e-Azam Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-05",
+      "localizedNames": {
+        "de": "Kashmir Solidarity Day",
+        "en": "Kashmir Solidarity Day",
+        "es": "Kashmir Solidarity Day",
+        "fr": "Kashmir Solidarity Day",
+        "ja": "Kashmir Solidarity Day",
+        "ko": "Kashmir Solidarity Day",
+        "pt": "Kashmir Solidarity Day",
+        "zh": "Kashmir Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-23",
+      "localizedNames": {
+        "de": "Pakistan Day",
+        "en": "Pakistan Day",
+        "es": "Pakistan Day",
+        "fr": "Pakistan Day",
+        "ja": "Pakistan Day",
+        "ko": "Pakistan Day",
+        "pt": "Pakistan Day",
+        "zh": "Pakistan Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-28",
+      "localizedNames": {
+        "de": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "en": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "es": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "fr": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "ja": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "ko": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "pt": "Eid al-Adha (estimated); Youm-e-Takbeer",
+        "zh": "Eid al-Adha (estimated); Youm-e-Takbeer"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-15",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-14",
+      "localizedNames": {
+        "de": "Independence Day; Prophet's Birthday (estimated)",
+        "en": "Independence Day; Prophet's Birthday (estimated)",
+        "es": "Independence Day; Prophet's Birthday (estimated)",
+        "fr": "Independence Day; Prophet's Birthday (estimated)",
+        "ja": "Independence Day; Prophet's Birthday (estimated)",
+        "ko": "Independence Day; Prophet's Birthday (estimated)",
+        "pt": "Independence Day; Prophet's Birthday (estimated)",
+        "zh": "Independence Day; Prophet's Birthday (estimated)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-09",
+      "localizedNames": {
+        "de": "Iqbal Day",
+        "en": "Iqbal Day",
+        "es": "Iqbal Day",
+        "fr": "Iqbal Day",
+        "ja": "Iqbal Day",
+        "ko": "Iqbal Day",
+        "pt": "Iqbal Day",
+        "zh": "Iqbal Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Quaid-e-Azam Day",
+        "en": "Quaid-e-Azam Day",
+        "es": "Quaid-e-Azam Day",
+        "fr": "Quaid-e-Azam Day",
+        "ja": "Quaid-e-Azam Day",
+        "ko": "Quaid-e-Azam Day",
+        "pt": "Quaid-e-Azam Day",
+        "zh": "Quaid-e-Azam Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Karachi",
+  "years": [
+    2026,
+    2027
+  ]
+}

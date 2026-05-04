@@ -1,0 +1,292 @@
+{
+  "countryCode": "XK",
+  "countryName": "XK",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Catholic Easter",
+        "en": "Catholic Easter",
+        "es": "Catholic Easter",
+        "fr": "Catholic Easter",
+        "ja": "Catholic Easter",
+        "ko": "Catholic Easter",
+        "pt": "Catholic Easter",
+        "zh": "Catholic Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-09",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-12",
+      "localizedNames": {
+        "de": "Orthodox Easter",
+        "en": "Orthodox Easter",
+        "es": "Orthodox Easter",
+        "fr": "Orthodox Easter",
+        "ja": "Orthodox Easter",
+        "ko": "Orthodox Easter",
+        "pt": "Orthodox Easter",
+        "zh": "Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-20",
+      "localizedNames": {
+        "de": "Catholic Easter; Orthodox Easter",
+        "en": "Catholic Easter; Orthodox Easter",
+        "es": "Catholic Easter; Orthodox Easter",
+        "fr": "Catholic Easter; Orthodox Easter",
+        "ja": "Catholic Easter; Orthodox Easter",
+        "ko": "Catholic Easter; Orthodox Easter",
+        "pt": "Catholic Easter; Orthodox Easter",
+        "zh": "Catholic Easter; Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Catholic Christmas Day",
+        "en": "Catholic Christmas Day",
+        "es": "Catholic Christmas Day",
+        "fr": "Catholic Christmas Day",
+        "ja": "Catholic Christmas Day",
+        "ko": "Catholic Christmas Day",
+        "pt": "Catholic Christmas Day",
+        "zh": "Catholic Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-17",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-28",
+      "localizedNames": {
+        "de": "Catholic Easter",
+        "en": "Catholic Easter",
+        "es": "Catholic Easter",
+        "fr": "Catholic Easter",
+        "ja": "Catholic Easter",
+        "ko": "Catholic Easter",
+        "pt": "Catholic Easter",
+        "zh": "Catholic Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-09",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-20",
+      "localizedNames": {
+        "de": "Catholic Easter; Orthodox Easter",
+        "en": "Catholic Easter; Orthodox Easter",
+        "es": "Catholic Easter; Orthodox Easter",
+        "fr": "Catholic Easter; Orthodox Easter",
+        "ja": "Catholic Easter; Orthodox Easter",
+        "ko": "Catholic Easter; Orthodox Easter",
+        "pt": "Catholic Easter; Orthodox Easter",
+        "zh": "Catholic Easter; Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-02",
+      "localizedNames": {
+        "de": "Orthodox Easter",
+        "en": "Orthodox Easter",
+        "es": "Orthodox Easter",
+        "fr": "Orthodox Easter",
+        "ja": "Orthodox Easter",
+        "ko": "Orthodox Easter",
+        "pt": "Orthodox Easter",
+        "zh": "Orthodox Easter"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Catholic Christmas Day",
+        "en": "Catholic Christmas Day",
+        "es": "Catholic Christmas Day",
+        "fr": "Catholic Christmas Day",
+        "ja": "Catholic Christmas Day",
+        "ko": "Catholic Christmas Day",
+        "pt": "Catholic Christmas Day",
+        "zh": "Catholic Christmas Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "UTC",
+  "years": [
+    2026,
+    2027
+  ]
+}

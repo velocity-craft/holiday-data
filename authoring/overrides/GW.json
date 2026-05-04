@@ -1,0 +1,51 @@
+{
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "timeZone": "Africa/Bissau",
+  "holidays": [
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "fixed_jan_20"
+    },
+    {
+      "template": "gw_day_of_the_beginning_of_the_armed_strugg",
+      "rule": "fixed_jan_23"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "br_worker_s_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "gw_pidjiguiti_day",
+      "rule": "fixed_aug_3"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_24"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "timeZone": "America/Costa_Rica",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "cr_juan_santamar_a_day",
+      "rule": "fixed_apr_11"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "cr_annexation_of_the_party_of_nicoya_to_cos",
+      "rule": "fixed_jul_25"
+    },
+    {
+      "template": "mothers_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_15"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

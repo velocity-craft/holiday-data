@@ -1,0 +1,334 @@
+{
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Carnival Monday",
+        "en": "Carnival Monday",
+        "es": "Carnival Monday",
+        "fr": "Carnival Monday",
+        "ja": "Carnival Monday",
+        "ko": "Carnival Monday",
+        "pt": "Carnival Monday",
+        "zh": "Carnival Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "Carnival Tuesday",
+        "en": "Carnival Tuesday",
+        "es": "Carnival Tuesday",
+        "fr": "Carnival Tuesday",
+        "ja": "Carnival Tuesday",
+        "ko": "Carnival Tuesday",
+        "pt": "Carnival Tuesday",
+        "zh": "Carnival Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-24",
+      "localizedNames": {
+        "de": "National Day of Remembrance for Truth and Justice",
+        "en": "National Day of Remembrance for Truth and Justice",
+        "es": "National Day of Remembrance for Truth and Justice",
+        "fr": "National Day of Remembrance for Truth and Justice",
+        "ja": "National Day of Remembrance for Truth and Justice",
+        "ko": "National Day of Remembrance for Truth and Justice",
+        "pt": "National Day of Remembrance for Truth and Justice",
+        "zh": "National Day of Remembrance for Truth and Justice"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "May Revolution Day",
+        "en": "May Revolution Day",
+        "es": "May Revolution Day",
+        "fr": "May Revolution Day",
+        "ja": "May Revolution Day",
+        "ko": "May Revolution Day",
+        "pt": "May Revolution Day",
+        "zh": "May Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-15",
+      "localizedNames": {
+        "de": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "en": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "es": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "fr": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ja": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ko": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "pt": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "zh": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-20",
+      "localizedNames": {
+        "de": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "en": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "es": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "fr": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ja": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ko": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "pt": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "zh": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-09",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-08",
+      "localizedNames": {
+        "de": "Carnival Monday",
+        "en": "Carnival Monday",
+        "es": "Carnival Monday",
+        "fr": "Carnival Monday",
+        "ja": "Carnival Monday",
+        "ko": "Carnival Monday",
+        "pt": "Carnival Monday",
+        "zh": "Carnival Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "Carnival Tuesday",
+        "en": "Carnival Tuesday",
+        "es": "Carnival Tuesday",
+        "fr": "Carnival Tuesday",
+        "ja": "Carnival Tuesday",
+        "ko": "Carnival Tuesday",
+        "pt": "Carnival Tuesday",
+        "zh": "Carnival Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-24",
+      "localizedNames": {
+        "de": "National Day of Remembrance for Truth and Justice",
+        "en": "National Day of Remembrance for Truth and Justice",
+        "es": "National Day of Remembrance for Truth and Justice",
+        "fr": "National Day of Remembrance for Truth and Justice",
+        "ja": "National Day of Remembrance for Truth and Justice",
+        "ko": "National Day of Remembrance for Truth and Justice",
+        "pt": "National Day of Remembrance for Truth and Justice",
+        "zh": "National Day of Remembrance for Truth and Justice"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "en": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "es": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "fr": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "ja": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "ko": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "pt": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War",
+        "zh": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-25",
+      "localizedNames": {
+        "de": "May Revolution Day",
+        "en": "May Revolution Day",
+        "es": "May Revolution Day",
+        "fr": "May Revolution Day",
+        "ja": "May Revolution Day",
+        "ko": "May Revolution Day",
+        "pt": "May Revolution Day",
+        "zh": "May Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-20",
+      "localizedNames": {
+        "de": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "en": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "es": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "fr": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ja": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ko": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "pt": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "zh": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-21",
+      "localizedNames": {
+        "de": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "en": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "es": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "fr": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ja": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "ko": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "pt": "Pass to the Immortality of General Don Martín Miguel de Güemes",
+        "zh": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-09",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Argentina/Buenos_Aires",
+  "years": [
+    2026,
+    2027
+  ]
+}

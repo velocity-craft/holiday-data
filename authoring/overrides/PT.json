@@ -1,0 +1,59 @@
+{
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "timeZone": "Europe/Lisbon",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "mt_freedom_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "pt_day_of_portugal_cam_es_and_the_portugues",
+      "rule": "fixed_jun_10"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_oct_5"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    },
+    {
+      "template": "lv_restoration_of_independence_day",
+      "rule": "fixed_dec_1"
+    }
+  ]
+}

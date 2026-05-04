@@ -1,0 +1,71 @@
+{
+  "countryCode": "TT",
+  "countryName": "Trinidad and Tobago",
+  "timeZone": "America/Port_of_Spain",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "tt_spiritual_baptist_liberation_day",
+      "rule": "fixed_mar_30"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "tt_corpus_christi_indian_arrival_day",
+      "rule": "fixed_may_30"
+    },
+    {
+      "template": "tt_indian_arrival_day",
+      "rule": "fixed_may_30"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_jun_19"
+    },
+    {
+      "template": "tt_corpus_christi_labor_day",
+      "rule": "fixed_jun_19"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_31"
+    },
+    {
+      "template": "tt_african_emancipation_day",
+      "rule": "fixed_aug_1"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_sep_24"
+    },
+    {
+      "template": "diwali",
+      "rule": "hindu_diwali"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

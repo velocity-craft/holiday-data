@@ -1,0 +1,208 @@
+{
+  "countryCode": "MC",
+  "countryName": "Monaco",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-27",
+      "localizedNames": {
+        "de": "Saint Devote's Day",
+        "en": "Saint Devote's Day",
+        "es": "Saint Devote's Day",
+        "fr": "Saint Devote's Day",
+        "ja": "Saint Devote's Day",
+        "ko": "Saint Devote's Day",
+        "pt": "Saint Devote's Day",
+        "zh": "Saint Devote's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-19",
+      "localizedNames": {
+        "de": "Prince's Day",
+        "en": "Prince's Day",
+        "es": "Prince's Day",
+        "fr": "Prince's Day",
+        "ja": "Prince's Day",
+        "ko": "Prince's Day",
+        "pt": "Prince's Day",
+        "zh": "Prince's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-27",
+      "localizedNames": {
+        "de": "Saint Devote's Day",
+        "en": "Saint Devote's Day",
+        "es": "Saint Devote's Day",
+        "fr": "Saint Devote's Day",
+        "ja": "Saint Devote's Day",
+        "ko": "Saint Devote's Day",
+        "pt": "Saint Devote's Day",
+        "zh": "Saint Devote's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-19",
+      "localizedNames": {
+        "de": "Prince's Day",
+        "en": "Prince's Day",
+        "es": "Prince's Day",
+        "fr": "Prince's Day",
+        "ja": "Prince's Day",
+        "ko": "Prince's Day",
+        "pt": "Prince's Day",
+        "zh": "Prince's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Monaco",
+  "years": [
+    2026,
+    2027
+  ]
+}

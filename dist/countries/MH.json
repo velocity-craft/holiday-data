@@ -1,0 +1,404 @@
+{
+  "countryCode": "MH",
+  "countryName": "Marshall Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-01",
+      "localizedNames": {
+        "de": "Nuclear Victims Remembrance Day",
+        "en": "Nuclear Victims Remembrance Day",
+        "es": "Nuclear Victims Remembrance Day",
+        "fr": "Nuclear Victims Remembrance Day",
+        "ja": "Nuclear Victims Remembrance Day",
+        "ko": "Nuclear Victims Remembrance Day",
+        "pt": "Nuclear Victims Remembrance Day",
+        "zh": "Nuclear Victims Remembrance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-30",
+      "localizedNames": {
+        "de": "Constitution Day Holiday",
+        "en": "Constitution Day Holiday",
+        "es": "Constitution Day Holiday",
+        "fr": "Constitution Day Holiday",
+        "ja": "Constitution Day Holiday",
+        "ko": "Constitution Day Holiday",
+        "pt": "Constitution Day Holiday",
+        "zh": "Constitution Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-03",
+      "localizedNames": {
+        "de": "Fisherman's Day",
+        "en": "Fisherman's Day",
+        "es": "Fisherman's Day",
+        "fr": "Fisherman's Day",
+        "ja": "Fisherman's Day",
+        "ko": "Fisherman's Day",
+        "pt": "Fisherman's Day",
+        "zh": "Fisherman's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-04",
+      "localizedNames": {
+        "de": "Dri-jerbal Day",
+        "en": "Dri-jerbal Day",
+        "es": "Dri-jerbal Day",
+        "fr": "Dri-jerbal Day",
+        "ja": "Dri-jerbal Day",
+        "ko": "Dri-jerbal Day",
+        "pt": "Dri-jerbal Day",
+        "zh": "Dri-jerbal Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-25",
+      "localizedNames": {
+        "de": "Manit Day",
+        "en": "Manit Day",
+        "es": "Manit Day",
+        "fr": "Manit Day",
+        "ja": "Manit Day",
+        "ko": "Manit Day",
+        "pt": "Manit Day",
+        "zh": "Manit Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-15",
+      "localizedNames": {
+        "de": "General Election Day",
+        "en": "General Election Day",
+        "es": "General Election Day",
+        "fr": "General Election Day",
+        "ja": "General Election Day",
+        "ko": "General Election Day",
+        "pt": "General Election Day",
+        "zh": "General Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-17",
+      "localizedNames": {
+        "de": "President's Day",
+        "en": "President's Day",
+        "es": "President's Day",
+        "fr": "President's Day",
+        "ja": "President's Day",
+        "ko": "President's Day",
+        "pt": "President's Day",
+        "zh": "President's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-18",
+      "localizedNames": {
+        "de": "President's Day Holiday",
+        "en": "President's Day Holiday",
+        "es": "President's Day Holiday",
+        "fr": "President's Day Holiday",
+        "ja": "President's Day Holiday",
+        "ko": "President's Day Holiday",
+        "pt": "President's Day Holiday",
+        "zh": "President's Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-04",
+      "localizedNames": {
+        "de": "Gospel Day",
+        "en": "Gospel Day",
+        "es": "Gospel Day",
+        "fr": "Gospel Day",
+        "ja": "Gospel Day",
+        "ko": "Gospel Day",
+        "pt": "Gospel Day",
+        "zh": "Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Christmas Day Holiday",
+        "en": "Christmas Day Holiday",
+        "es": "Christmas Day Holiday",
+        "fr": "Christmas Day Holiday",
+        "ja": "Christmas Day Holiday",
+        "ko": "Christmas Day Holiday",
+        "pt": "Christmas Day Holiday",
+        "zh": "Christmas Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "New Year's Day Holiday",
+        "en": "New Year's Day Holiday",
+        "es": "New Year's Day Holiday",
+        "fr": "New Year's Day Holiday",
+        "ja": "New Year's Day Holiday",
+        "ko": "New Year's Day Holiday",
+        "pt": "New Year's Day Holiday",
+        "zh": "New Year's Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-01",
+      "localizedNames": {
+        "de": "Nuclear Victims Remembrance Day",
+        "en": "Nuclear Victims Remembrance Day",
+        "es": "Nuclear Victims Remembrance Day",
+        "fr": "Nuclear Victims Remembrance Day",
+        "ja": "Nuclear Victims Remembrance Day",
+        "ko": "Nuclear Victims Remembrance Day",
+        "pt": "Nuclear Victims Remembrance Day",
+        "zh": "Nuclear Victims Remembrance Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-30",
+      "localizedNames": {
+        "de": "Constitution Day Holiday",
+        "en": "Constitution Day Holiday",
+        "es": "Constitution Day Holiday",
+        "fr": "Constitution Day Holiday",
+        "ja": "Constitution Day Holiday",
+        "ko": "Constitution Day Holiday",
+        "pt": "Constitution Day Holiday",
+        "zh": "Constitution Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-02",
+      "localizedNames": {
+        "de": "Fisherman's Day",
+        "en": "Fisherman's Day",
+        "es": "Fisherman's Day",
+        "fr": "Fisherman's Day",
+        "ja": "Fisherman's Day",
+        "ko": "Fisherman's Day",
+        "pt": "Fisherman's Day",
+        "zh": "Fisherman's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-03",
+      "localizedNames": {
+        "de": "Dri-jerbal Day",
+        "en": "Dri-jerbal Day",
+        "es": "Dri-jerbal Day",
+        "fr": "Dri-jerbal Day",
+        "ja": "Dri-jerbal Day",
+        "ko": "Dri-jerbal Day",
+        "pt": "Dri-jerbal Day",
+        "zh": "Dri-jerbal Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-24",
+      "localizedNames": {
+        "de": "Manit Day",
+        "en": "Manit Day",
+        "es": "Manit Day",
+        "fr": "Manit Day",
+        "ja": "Manit Day",
+        "ko": "Manit Day",
+        "pt": "Manit Day",
+        "zh": "Manit Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-15",
+      "localizedNames": {
+        "de": "General Election Day",
+        "en": "General Election Day",
+        "es": "General Election Day",
+        "fr": "General Election Day",
+        "ja": "General Election Day",
+        "ko": "General Election Day",
+        "pt": "General Election Day",
+        "zh": "General Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-17",
+      "localizedNames": {
+        "de": "President's Day",
+        "en": "President's Day",
+        "es": "President's Day",
+        "fr": "President's Day",
+        "ja": "President's Day",
+        "ko": "President's Day",
+        "pt": "President's Day",
+        "zh": "President's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-18",
+      "localizedNames": {
+        "de": "President's Day Holiday",
+        "en": "President's Day Holiday",
+        "es": "President's Day Holiday",
+        "fr": "President's Day Holiday",
+        "ja": "President's Day Holiday",
+        "ko": "President's Day Holiday",
+        "pt": "President's Day Holiday",
+        "zh": "President's Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-03",
+      "localizedNames": {
+        "de": "Gospel Day",
+        "en": "Gospel Day",
+        "es": "Gospel Day",
+        "fr": "Gospel Day",
+        "ja": "Gospel Day",
+        "ko": "Gospel Day",
+        "pt": "Gospel Day",
+        "zh": "Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Christmas Day Holiday",
+        "en": "Christmas Day Holiday",
+        "es": "Christmas Day Holiday",
+        "fr": "Christmas Day Holiday",
+        "ja": "Christmas Day Holiday",
+        "ko": "Christmas Day Holiday",
+        "pt": "Christmas Day Holiday",
+        "zh": "Christmas Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "New Year's Day Holiday",
+        "en": "New Year's Day Holiday",
+        "es": "New Year's Day Holiday",
+        "fr": "New Year's Day Holiday",
+        "ja": "New Year's Day Holiday",
+        "ko": "New Year's Day Holiday",
+        "pt": "New Year's Day Holiday",
+        "zh": "New Year's Day Holiday"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Majuro",
+  "years": [
+    2026,
+    2027
+  ]
+}

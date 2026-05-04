@@ -1,0 +1,208 @@
+{
+  "countryCode": "UM",
+  "countryName": "United States Minor Outlying Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-19",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Washington's Birthday",
+        "en": "Washington's Birthday",
+        "es": "Washington's Birthday",
+        "fr": "Washington's Birthday",
+        "ja": "Washington's Birthday",
+        "ko": "Washington's Birthday",
+        "pt": "Washington's Birthday",
+        "zh": "Washington's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-18",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-15",
+      "localizedNames": {
+        "de": "Washington's Birthday",
+        "en": "Washington's Birthday",
+        "es": "Washington's Birthday",
+        "fr": "Washington's Birthday",
+        "ja": "Washington's Birthday",
+        "ko": "Washington's Birthday",
+        "pt": "Washington's Birthday",
+        "zh": "Washington's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-31",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Midway",
+  "years": [
+    2026,
+    2027
+  ]
+}

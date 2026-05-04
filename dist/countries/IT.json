@@ -1,0 +1,306 @@
+{
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-02",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Of Mary Day",
+        "en": "Assumption Of Mary Day",
+        "es": "Assumption Of Mary Day",
+        "fr": "Assumption Of Mary Day",
+        "ja": "Assumption Of Mary Day",
+        "ko": "Assumption Of Mary Day",
+        "pt": "Assumption Of Mary Day",
+        "zh": "Assumption Of Mary Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-04",
+      "localizedNames": {
+        "de": "Saint Francis of Assisi, Patron Saint of Italy",
+        "en": "Saint Francis of Assisi, Patron Saint of Italy",
+        "es": "Saint Francis of Assisi, Patron Saint of Italy",
+        "fr": "Saint Francis of Assisi, Patron Saint of Italy",
+        "ja": "Saint Francis of Assisi, Patron Saint of Italy",
+        "ko": "Saint Francis of Assisi, Patron Saint of Italy",
+        "pt": "Saint Francis of Assisi, Patron Saint of Italy",
+        "zh": "Saint Francis of Assisi, Patron Saint of Italy"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-02",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Of Mary Day",
+        "en": "Assumption Of Mary Day",
+        "es": "Assumption Of Mary Day",
+        "fr": "Assumption Of Mary Day",
+        "ja": "Assumption Of Mary Day",
+        "ko": "Assumption Of Mary Day",
+        "pt": "Assumption Of Mary Day",
+        "zh": "Assumption Of Mary Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-04",
+      "localizedNames": {
+        "de": "Saint Francis of Assisi, Patron Saint of Italy",
+        "en": "Saint Francis of Assisi, Patron Saint of Italy",
+        "es": "Saint Francis of Assisi, Patron Saint of Italy",
+        "fr": "Saint Francis of Assisi, Patron Saint of Italy",
+        "ja": "Saint Francis of Assisi, Patron Saint of Italy",
+        "ko": "Saint Francis of Assisi, Patron Saint of Italy",
+        "pt": "Saint Francis of Assisi, Patron Saint of Italy",
+        "zh": "Saint Francis of Assisi, Patron Saint of Italy"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-07",
+      "localizedNames": {
+        "de": "Tag der nationalen Einheit",
+        "en": "National Unity Day",
+        "es": "Día de la Unidad Nacional",
+        "fr": "Journée de l'Unité nationale",
+        "ja": "国家統一記念日",
+        "ko": "국가통합의 날",
+        "pt": "Dia da Unidade Nacional",
+        "zh": "国家统一日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Rome",
+  "years": [
+    2026,
+    2027
+  ]
+}

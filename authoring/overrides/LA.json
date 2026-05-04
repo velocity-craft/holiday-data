@@ -1,0 +1,23 @@
+{
+  "countryCode": "LA",
+  "countryName": "Lao People's Democratic Republic",
+  "timeZone": "Asia/Vientiane",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "kh_international_women_s_rights_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "la_lao_national_day",
+      "rule": "fixed_dec_2"
+    }
+  ]
+}

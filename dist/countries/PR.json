@@ -1,0 +1,348 @@
+{
+  "countryCode": "PR",
+  "countryName": "Puerto Rico",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-19",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "en": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "es": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "fr": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "ja": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "ko": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "pt": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "zh": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-22",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-25",
+      "localizedNames": {
+        "de": "Puerto Rico Constitution Day",
+        "en": "Puerto Rico Constitution Day",
+        "es": "Puerto Rico Constitution Day",
+        "fr": "Puerto Rico Constitution Day",
+        "ja": "Puerto Rico Constitution Day",
+        "ko": "Puerto Rico Constitution Day",
+        "pt": "Puerto Rico Constitution Day",
+        "zh": "Puerto Rico Constitution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Kolumbustag",
+        "en": "Columbus Day",
+        "es": "Día de la Hispanidad",
+        "fr": "Jour de Christophe Colomb",
+        "ja": "コロンブスデー",
+        "ko": "콜럼버스의 날",
+        "pt": "Dia de Colombo",
+        "zh": "哥伦布日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-19",
+      "localizedNames": {
+        "de": "Puerto Rican Identity Day",
+        "en": "Puerto Rican Identity Day",
+        "es": "Puerto Rican Identity Day",
+        "fr": "Puerto Rican Identity Day",
+        "ja": "Puerto Rican Identity Day",
+        "ko": "Puerto Rican Identity Day",
+        "pt": "Puerto Rican Identity Day",
+        "zh": "Puerto Rican Identity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-18",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-15",
+      "localizedNames": {
+        "de": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "en": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "es": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "fr": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "ja": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "ko": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "pt": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico",
+        "zh": "George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-22",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-31",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-25",
+      "localizedNames": {
+        "de": "Puerto Rico Constitution Day",
+        "en": "Puerto Rico Constitution Day",
+        "es": "Puerto Rico Constitution Day",
+        "fr": "Puerto Rico Constitution Day",
+        "ja": "Puerto Rico Constitution Day",
+        "ko": "Puerto Rico Constitution Day",
+        "pt": "Puerto Rico Constitution Day",
+        "zh": "Puerto Rico Constitution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "Kolumbustag",
+        "en": "Columbus Day",
+        "es": "Día de la Hispanidad",
+        "fr": "Jour de Christophe Colomb",
+        "ja": "コロンブスデー",
+        "ko": "콜럼버스의 날",
+        "pt": "Dia de Colombo",
+        "zh": "哥伦布日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-19",
+      "localizedNames": {
+        "de": "Puerto Rican Identity Day",
+        "en": "Puerto Rican Identity Day",
+        "es": "Puerto Rican Identity Day",
+        "fr": "Puerto Rican Identity Day",
+        "ja": "Puerto Rican Identity Day",
+        "ko": "Puerto Rican Identity Day",
+        "pt": "Puerto Rican Identity Day",
+        "zh": "Puerto Rican Identity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Puerto_Rico",
+  "years": [
+    2026,
+    2027
+  ]
+}

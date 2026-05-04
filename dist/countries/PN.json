@@ -1,0 +1,180 @@
+{
+  "countryCode": "PN",
+  "countryName": "Pitcairn",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-23",
+      "localizedNames": {
+        "de": "Bounty Day",
+        "en": "Bounty Day",
+        "es": "Bounty Day",
+        "fr": "Bounty Day",
+        "ja": "Bounty Day",
+        "ko": "Bounty Day",
+        "pt": "Bounty Day",
+        "zh": "Bounty Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-02",
+      "localizedNames": {
+        "de": "Pitcairn Day",
+        "en": "Pitcairn Day",
+        "es": "Pitcairn Day",
+        "fr": "Pitcairn Day",
+        "ja": "Pitcairn Day",
+        "ko": "Pitcairn Day",
+        "pt": "Pitcairn Day",
+        "zh": "Pitcairn Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-23",
+      "localizedNames": {
+        "de": "Bounty Day",
+        "en": "Bounty Day",
+        "es": "Bounty Day",
+        "fr": "Bounty Day",
+        "ja": "Bounty Day",
+        "ko": "Bounty Day",
+        "pt": "Bounty Day",
+        "zh": "Bounty Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-07",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-02",
+      "localizedNames": {
+        "de": "Pitcairn Day",
+        "en": "Pitcairn Day",
+        "es": "Pitcairn Day",
+        "fr": "Pitcairn Day",
+        "ja": "Pitcairn Day",
+        "ko": "Pitcairn Day",
+        "pt": "Pitcairn Day",
+        "zh": "Pitcairn Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Pitcairn",
+  "years": [
+    2026,
+    2027
+  ]
+}

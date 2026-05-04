@@ -1,0 +1,292 @@
+{
+  "countryCode": "LR",
+  "countryName": "Liberia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Inauguration Day; New Year's Day",
+        "en": "Inauguration Day; New Year's Day",
+        "es": "Inauguration Day; New Year's Day",
+        "fr": "Inauguration Day; New Year's Day",
+        "ja": "Inauguration Day; New Year's Day",
+        "ko": "Inauguration Day; New Year's Day",
+        "pt": "Inauguration Day; New Year's Day",
+        "zh": "Inauguration Day; New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-11",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-11",
+      "localizedNames": {
+        "de": "Decoration Day",
+        "en": "Decoration Day",
+        "es": "Decoration Day",
+        "fr": "Decoration Day",
+        "ja": "Decoration Day",
+        "ko": "Decoration Day",
+        "pt": "Decoration Day",
+        "zh": "Decoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-15",
+      "localizedNames": {
+        "de": "J. J. Roberts Memorial Birthday",
+        "en": "J. J. Roberts Memorial Birthday",
+        "es": "J. J. Roberts Memorial Birthday",
+        "fr": "J. J. Roberts Memorial Birthday",
+        "ja": "J. J. Roberts Memorial Birthday",
+        "ko": "J. J. Roberts Memorial Birthday",
+        "pt": "J. J. Roberts Memorial Birthday",
+        "zh": "J. J. Roberts Memorial Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-10",
+      "localizedNames": {
+        "de": "Fasting and Prayer Day",
+        "en": "Fasting and Prayer Day",
+        "es": "Fasting and Prayer Day",
+        "fr": "Fasting and Prayer Day",
+        "ja": "Fasting and Prayer Day",
+        "ko": "Fasting and Prayer Day",
+        "pt": "Fasting and Prayer Day",
+        "zh": "Fasting and Prayer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-14",
+      "localizedNames": {
+        "de": "National Unification and Integration Day",
+        "en": "National Unification and Integration Day",
+        "es": "National Unification and Integration Day",
+        "fr": "National Unification and Integration Day",
+        "ja": "National Unification and Integration Day",
+        "ko": "National Unification and Integration Day",
+        "pt": "National Unification and Integration Day",
+        "zh": "National Unification and Integration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-24",
+      "localizedNames": {
+        "de": "National Flag Day",
+        "en": "National Flag Day",
+        "es": "National Flag Day",
+        "fr": "National Flag Day",
+        "ja": "National Flag Day",
+        "ko": "National Flag Day",
+        "pt": "National Flag Day",
+        "zh": "National Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-29",
+      "localizedNames": {
+        "de": "Tubman Administration Goodwill Day",
+        "en": "Tubman Administration Goodwill Day",
+        "es": "Tubman Administration Goodwill Day",
+        "fr": "Tubman Administration Goodwill Day",
+        "ja": "Tubman Administration Goodwill Day",
+        "ko": "Tubman Administration Goodwill Day",
+        "pt": "Tubman Administration Goodwill Day",
+        "zh": "Tubman Administration Goodwill Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Inauguration Day; New Year's Day",
+        "en": "Inauguration Day; New Year's Day",
+        "es": "Inauguration Day; New Year's Day",
+        "fr": "Inauguration Day; New Year's Day",
+        "ja": "Inauguration Day; New Year's Day",
+        "ko": "Inauguration Day; New Year's Day",
+        "pt": "Inauguration Day; New Year's Day",
+        "zh": "Inauguration Day; New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-11",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Decoration Day",
+        "en": "Decoration Day",
+        "es": "Decoration Day",
+        "fr": "Decoration Day",
+        "ja": "Decoration Day",
+        "ko": "Decoration Day",
+        "pt": "Decoration Day",
+        "zh": "Decoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-15",
+      "localizedNames": {
+        "de": "J. J. Roberts Memorial Birthday",
+        "en": "J. J. Roberts Memorial Birthday",
+        "es": "J. J. Roberts Memorial Birthday",
+        "fr": "J. J. Roberts Memorial Birthday",
+        "ja": "J. J. Roberts Memorial Birthday",
+        "ko": "J. J. Roberts Memorial Birthday",
+        "pt": "J. J. Roberts Memorial Birthday",
+        "zh": "J. J. Roberts Memorial Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-09",
+      "localizedNames": {
+        "de": "Fasting and Prayer Day",
+        "en": "Fasting and Prayer Day",
+        "es": "Fasting and Prayer Day",
+        "fr": "Fasting and Prayer Day",
+        "ja": "Fasting and Prayer Day",
+        "ko": "Fasting and Prayer Day",
+        "pt": "Fasting and Prayer Day",
+        "zh": "Fasting and Prayer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-14",
+      "localizedNames": {
+        "de": "National Unification and Integration Day",
+        "en": "National Unification and Integration Day",
+        "es": "National Unification and Integration Day",
+        "fr": "National Unification and Integration Day",
+        "ja": "National Unification and Integration Day",
+        "ko": "National Unification and Integration Day",
+        "pt": "National Unification and Integration Day",
+        "zh": "National Unification and Integration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-24",
+      "localizedNames": {
+        "de": "National Flag Day",
+        "en": "National Flag Day",
+        "es": "National Flag Day",
+        "fr": "National Flag Day",
+        "ja": "National Flag Day",
+        "ko": "National Flag Day",
+        "pt": "National Flag Day",
+        "zh": "National Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-29",
+      "localizedNames": {
+        "de": "Tubman Administration Goodwill Day",
+        "en": "Tubman Administration Goodwill Day",
+        "es": "Tubman Administration Goodwill Day",
+        "fr": "Tubman Administration Goodwill Day",
+        "ja": "Tubman Administration Goodwill Day",
+        "ko": "Tubman Administration Goodwill Day",
+        "pt": "Tubman Administration Goodwill Day",
+        "zh": "Tubman Administration Goodwill Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Monrovia",
+  "years": [
+    2026,
+    2027
+  ]
+}

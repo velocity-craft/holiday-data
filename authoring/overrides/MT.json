@@ -1,0 +1,63 @@
+{
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "timeZone": "Europe/Malta",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "mt_feast_of_saint_paul_s_shipwreck",
+      "rule": "fixed_feb_10"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "mt_feast_of_saint_joseph",
+      "rule": "fixed_mar_19"
+    },
+    {
+      "template": "mt_freedom_day",
+      "rule": "fixed_mar_31"
+    },
+    {
+      "template": "br_worker_s_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "mt_feast_of_saint_peter_and_saint_paul",
+      "rule": "fixed_jun_29"
+    },
+    {
+      "template": "mt_sette_giugno",
+      "rule": "fixed_jun_7"
+    },
+    {
+      "template": "mt_feast_of_the_assumption",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_21"
+    },
+    {
+      "template": "mt_feast_of_our_lady_of_victories",
+      "rule": "fixed_sep_8"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "mt_feast_of_the_immaculate_conception",
+      "rule": "fixed_dec_8"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_dec_13"
+    }
+  ]
+}

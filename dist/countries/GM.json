@@ -1,0 +1,334 @@
+{
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-18",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-16",
+      "localizedNames": {
+        "de": "Nacht der Bestimmung",
+        "en": "Night of Power",
+        "es": "Noche del Destino",
+        "fr": "Nuit du Destin",
+        "ja": "カドルの夜",
+        "ko": "권능의 밤",
+        "pt": "Noite do Poder",
+        "zh": "盖德尔夜"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Africa Liberation Day",
+        "en": "Africa Liberation Day",
+        "es": "Africa Liberation Day",
+        "fr": "Africa Liberation Day",
+        "ja": "Africa Liberation Day",
+        "ko": "Africa Liberation Day",
+        "pt": "Africa Liberation Day",
+        "zh": "Africa Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-22",
+      "localizedNames": {
+        "de": "July 22 Revolution Day",
+        "en": "July 22 Revolution Day",
+        "es": "July 22 Revolution Day",
+        "fr": "July 22 Revolution Day",
+        "ja": "July 22 Revolution Day",
+        "ko": "July 22 Revolution Day",
+        "pt": "July 22 Revolution Day",
+        "zh": "July 22 Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-18",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-06",
+      "localizedNames": {
+        "de": "Nacht der Bestimmung",
+        "en": "Night of Power",
+        "es": "Noche del Destino",
+        "fr": "Nuit du Destin",
+        "ja": "カドルの夜",
+        "ko": "권능의 밤",
+        "pt": "Noite do Poder",
+        "zh": "盖德尔夜"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-25",
+      "localizedNames": {
+        "de": "Africa Liberation Day",
+        "en": "Africa Liberation Day",
+        "es": "Africa Liberation Day",
+        "fr": "Africa Liberation Day",
+        "ja": "Africa Liberation Day",
+        "ko": "Africa Liberation Day",
+        "pt": "Africa Liberation Day",
+        "zh": "Africa Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-15",
+      "localizedNames": {
+        "de": "Ashura",
+        "en": "Ashura",
+        "es": "Ashura",
+        "fr": "Ashura",
+        "ja": "Ashura",
+        "ko": "Ashura",
+        "pt": "Ashura",
+        "zh": "Ashura"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-22",
+      "localizedNames": {
+        "de": "July 22 Revolution Day",
+        "en": "July 22 Revolution Day",
+        "es": "July 22 Revolution Day",
+        "fr": "July 22 Revolution Day",
+        "ja": "July 22 Revolution Day",
+        "ko": "July 22 Revolution Day",
+        "pt": "July 22 Revolution Day",
+        "zh": "July 22 Revolution Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Banjul",
+  "years": [
+    2026,
+    2027
+  ]
+}

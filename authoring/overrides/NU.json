@@ -1,0 +1,51 @@
+{
+  "countryCode": "NU",
+  "countryName": "Niue",
+  "timeZone": "Pacific/Niue",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "nu_takai_commission_holiday",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "anzac_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ai_king_s_birthday",
+      "rule": "nth_mon_jun_1"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_oct_19"
+    },
+    {
+      "template": "mh_constitution_day_holiday",
+      "rule": "fixed_oct_20"
+    },
+    {
+      "template": "nu_peniamina_gospel_day",
+      "rule": "last_mon_oct"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

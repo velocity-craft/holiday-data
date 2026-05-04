@@ -1,0 +1,55 @@
+{
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "timeZone": "Europe/Skopje",
+  "holidays": [
+    {
+      "template": "christmas",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "mk_election_day",
+      "rule": "fixed_apr_24"
+    },
+    {
+      "template": "cz_saints_cyril_and_methodius_day",
+      "rule": "fixed_may_24"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_eastern_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_aug_2"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_8"
+    },
+    {
+      "template": "mk_macedonian_revolutionary_struggle_day",
+      "rule": "fixed_oct_23"
+    },
+    {
+      "template": "mk_national_uprising_day",
+      "rule": "fixed_oct_11"
+    },
+    {
+      "template": "mk_saint_clement_of_ohrid_day",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

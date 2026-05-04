@@ -1,0 +1,236 @@
+{
+  "countryCode": "CZ",
+  "countryName": "Czechia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Independent Czech State Restoration Day; New Year's Day",
+        "en": "Independent Czech State Restoration Day; New Year's Day",
+        "es": "Independent Czech State Restoration Day; New Year's Day",
+        "fr": "Independent Czech State Restoration Day; New Year's Day",
+        "ja": "Independent Czech State Restoration Day; New Year's Day",
+        "ko": "Independent Czech State Restoration Day; New Year's Day",
+        "pt": "Independent Czech State Restoration Day; New Year's Day",
+        "zh": "Independent Czech State Restoration Day; New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-05",
+      "localizedNames": {
+        "de": "Saints Cyril and Methodius Day",
+        "en": "Saints Cyril and Methodius Day",
+        "es": "Saints Cyril and Methodius Day",
+        "fr": "Saints Cyril and Methodius Day",
+        "ja": "Saints Cyril and Methodius Day",
+        "ko": "Saints Cyril and Methodius Day",
+        "pt": "Saints Cyril and Methodius Day",
+        "zh": "Saints Cyril and Methodius Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Jan Hus Day",
+        "en": "Jan Hus Day",
+        "es": "Jan Hus Day",
+        "fr": "Jan Hus Day",
+        "ja": "Jan Hus Day",
+        "ko": "Jan Hus Day",
+        "pt": "Jan Hus Day",
+        "zh": "Jan Hus Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-28",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-28",
+      "localizedNames": {
+        "de": "Independent Czechoslovak State Day",
+        "en": "Independent Czechoslovak State Day",
+        "es": "Independent Czechoslovak State Day",
+        "fr": "Independent Czechoslovak State Day",
+        "ja": "Independent Czechoslovak State Day",
+        "ko": "Independent Czechoslovak State Day",
+        "pt": "Independent Czechoslovak State Day",
+        "zh": "Independent Czechoslovak State Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-17",
+      "localizedNames": {
+        "de": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "en": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "es": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "fr": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "ja": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "ko": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "pt": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "zh": "Struggle for Freedom and Democracy Day and International Students' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Independent Czech State Restoration Day; New Year's Day",
+        "en": "Independent Czech State Restoration Day; New Year's Day",
+        "es": "Independent Czech State Restoration Day; New Year's Day",
+        "fr": "Independent Czech State Restoration Day; New Year's Day",
+        "ja": "Independent Czech State Restoration Day; New Year's Day",
+        "ko": "Independent Czech State Restoration Day; New Year's Day",
+        "pt": "Independent Czech State Restoration Day; New Year's Day",
+        "zh": "Independent Czech State Restoration Day; New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Saints Cyril and Methodius Day",
+        "en": "Saints Cyril and Methodius Day",
+        "es": "Saints Cyril and Methodius Day",
+        "fr": "Saints Cyril and Methodius Day",
+        "ja": "Saints Cyril and Methodius Day",
+        "ko": "Saints Cyril and Methodius Day",
+        "pt": "Saints Cyril and Methodius Day",
+        "zh": "Saints Cyril and Methodius Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-06",
+      "localizedNames": {
+        "de": "Jan Hus Day",
+        "en": "Jan Hus Day",
+        "es": "Jan Hus Day",
+        "fr": "Jan Hus Day",
+        "ja": "Jan Hus Day",
+        "ko": "Jan Hus Day",
+        "pt": "Jan Hus Day",
+        "zh": "Jan Hus Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-28",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-28",
+      "localizedNames": {
+        "de": "Independent Czechoslovak State Day",
+        "en": "Independent Czechoslovak State Day",
+        "es": "Independent Czechoslovak State Day",
+        "fr": "Independent Czechoslovak State Day",
+        "ja": "Independent Czechoslovak State Day",
+        "ko": "Independent Czechoslovak State Day",
+        "pt": "Independent Czechoslovak State Day",
+        "zh": "Independent Czechoslovak State Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-17",
+      "localizedNames": {
+        "de": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "en": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "es": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "fr": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "ja": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "ko": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "pt": "Struggle for Freedom and Democracy Day and International Students' Day",
+        "zh": "Struggle for Freedom and Democracy Day and International Students' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Prague",
+  "years": [
+    2026,
+    2027
+  ]
+}

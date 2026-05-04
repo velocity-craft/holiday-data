@@ -1,0 +1,59 @@
+{
+  "countryCode": "CZ",
+  "countryName": "Czechia",
+  "timeZone": "Europe/Prague",
+  "holidays": [
+    {
+      "template": "cz_independent_czech_state_restoration_day_",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_may_8"
+    },
+    {
+      "template": "cz_jan_hus_day",
+      "rule": "fixed_jul_6"
+    },
+    {
+      "template": "cz_saints_cyril_and_methodius_day",
+      "rule": "fixed_jul_5"
+    },
+    {
+      "template": "cz_statehood_day",
+      "rule": "fixed_sep_28"
+    },
+    {
+      "template": "cz_independent_czechoslovak_state_day",
+      "rule": "fixed_oct_28"
+    },
+    {
+      "template": "cz_struggle_for_freedom_and_democracy_day_a",
+      "rule": "fixed_nov_17"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_2nd_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas_eve",
+      "rule": "fixed_dec_24"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "timeZone": "Africa/Windhoek",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "na_burial_ceremony_of_dr_hage_gottfried_gei",
+      "rule": "fixed_feb_25"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_mar_21"
+    },
+    {
+      "template": "na_burial_ceremony_of_dr_sam_shafiishuna_nu",
+      "rule": "fixed_mar_1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "africa_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "na_cassinga_day",
+      "rule": "fixed_may_4"
+    },
+    {
+      "template": "na_genocide_remembrance_day",
+      "rule": "fixed_may_28"
+    },
+    {
+      "template": "mz_heroes_day",
+      "rule": "fixed_aug_26"
+    },
+    {
+      "template": "na_day_of_the_namibian_women_and_internatio",
+      "rule": "fixed_sep_10"
+    },
+    {
+      "template": "id_general_election_day",
+      "rule": "fixed_nov_27"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "mz_family_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

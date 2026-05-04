@@ -1,0 +1,59 @@
+{
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "timeZone": "Africa/Accra",
+  "holidays": [
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_mar_6"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "gh_founders_day",
+      "rule": "fixed_aug_4"
+    },
+    {
+      "template": "gh_kwame_nkrumah_memorial_day",
+      "rule": "fixed_sep_21"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "gh_farmer_s_day",
+      "rule": "nth_fri_dec_1"
+    }
+  ]
+}

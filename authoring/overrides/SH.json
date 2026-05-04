@@ -1,0 +1,23 @@
+{
+  "countryCode": "SH",
+  "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+  "timeZone": "Atlantic/St_Helena",
+  "holidays": [
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Day after New Year's Day",
+        "en": "Day after New Year's Day",
+        "es": "Day after New Year's Day",
+        "fr": "Day after New Year's Day",
+        "ja": "Day after New Year's Day",
+        "ko": "Day after New Year's Day",
+        "pt": "Day after New Year's Day",
+        "zh": "Day after New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-06",
+      "localizedNames": {
+        "de": "Waitangi-Tag",
+        "en": "Waitangi Day",
+        "es": "Día de Waitangi",
+        "fr": "Jour de Waitangi",
+        "ja": "ワイタンギ・デー",
+        "ko": "와이탕이 날",
+        "pt": "Dia de Waitangi",
+        "zh": "怀唐伊日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Day after New Year's Day",
+        "en": "Day after New Year's Day",
+        "es": "Day after New Year's Day",
+        "fr": "Day after New Year's Day",
+        "ja": "Day after New Year's Day",
+        "ko": "Day after New Year's Day",
+        "pt": "Day after New Year's Day",
+        "zh": "Day after New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-06",
+      "localizedNames": {
+        "de": "Waitangi-Tag",
+        "en": "Waitangi Day",
+        "es": "Día de Waitangi",
+        "fr": "Jour de Waitangi",
+        "ja": "ワイタンギ・デー",
+        "ko": "와이탕이 날",
+        "pt": "Dia de Waitangi",
+        "zh": "怀唐伊日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-07",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Auckland",
+  "years": [
+    2026,
+    2027
+  ]
+}

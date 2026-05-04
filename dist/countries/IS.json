@@ -1,0 +1,180 @@
+{
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-23",
+      "localizedNames": {
+        "de": "First Day of Summer",
+        "en": "First Day of Summer",
+        "es": "First Day of Summer",
+        "fr": "First Day of Summer",
+        "ja": "First Day of Summer",
+        "ko": "First Day of Summer",
+        "pt": "First Day of Summer",
+        "zh": "First Day of Summer"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Commerce Day",
+        "en": "Commerce Day",
+        "es": "Commerce Day",
+        "fr": "Commerce Day",
+        "ja": "Commerce Day",
+        "ko": "Commerce Day",
+        "pt": "Commerce Day",
+        "zh": "Commerce Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-22",
+      "localizedNames": {
+        "de": "First Day of Summer",
+        "en": "First Day of Summer",
+        "es": "First Day of Summer",
+        "fr": "First Day of Summer",
+        "ja": "First Day of Summer",
+        "ko": "First Day of Summer",
+        "pt": "First Day of Summer",
+        "zh": "First Day of Summer"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-17",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Commerce Day",
+        "en": "Commerce Day",
+        "es": "Commerce Day",
+        "fr": "Commerce Day",
+        "ja": "Commerce Day",
+        "ko": "Commerce Day",
+        "pt": "Commerce Day",
+        "zh": "Commerce Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Atlantic/Reykjavik",
+  "years": [
+    2026,
+    2027
+  ]
+}

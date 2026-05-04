@@ -1,0 +1,208 @@
+{
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-29",
+      "localizedNames": {
+        "de": "Ratu Sir Lala Sukuna Day",
+        "en": "Ratu Sir Lala Sukuna Day",
+        "es": "Ratu Sir Lala Sukuna Day",
+        "fr": "Ratu Sir Lala Sukuna Day",
+        "ja": "Ratu Sir Lala Sukuna Day",
+        "ko": "Ratu Sir Lala Sukuna Day",
+        "pt": "Ratu Sir Lala Sukuna Day",
+        "zh": "Ratu Sir Lala Sukuna Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-10",
+      "localizedNames": {
+        "de": "Fiji Day",
+        "en": "Fiji Day",
+        "es": "Fiji Day",
+        "fr": "Fiji Day",
+        "ja": "Fiji Day",
+        "ko": "Fiji Day",
+        "pt": "Fiji Day",
+        "zh": "Fiji Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-08",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-27",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-28",
+      "localizedNames": {
+        "de": "Ratu Sir Lala Sukuna Day",
+        "en": "Ratu Sir Lala Sukuna Day",
+        "es": "Ratu Sir Lala Sukuna Day",
+        "fr": "Ratu Sir Lala Sukuna Day",
+        "ja": "Ratu Sir Lala Sukuna Day",
+        "ko": "Ratu Sir Lala Sukuna Day",
+        "pt": "Ratu Sir Lala Sukuna Day",
+        "zh": "Ratu Sir Lala Sukuna Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-10",
+      "localizedNames": {
+        "de": "Fiji Day",
+        "en": "Fiji Day",
+        "es": "Fiji Day",
+        "fr": "Fiji Day",
+        "ja": "Fiji Day",
+        "ko": "Fiji Day",
+        "pt": "Fiji Day",
+        "zh": "Fiji Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "Diwali",
+        "en": "Diwali",
+        "es": "Diwali",
+        "fr": "Diwali",
+        "ja": "Diwali",
+        "ko": "Diwali",
+        "pt": "Diwali",
+        "zh": "Diwali"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Fiji",
+  "years": [
+    2026,
+    2027
+  ]
+}

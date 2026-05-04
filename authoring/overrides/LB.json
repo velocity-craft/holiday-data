@@ -1,0 +1,83 @@
+{
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "timeZone": "Asia/Beirut",
+  "holidays": [
+    {
+      "template": "lb_armenian_orthodox_christmas_day",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "lb_saint_maron_s_day",
+      "rule": "fixed_feb_9"
+    },
+    {
+      "template": "lb_catholic_good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "lb_feast_of_the_annunciation",
+      "rule": "fixed_mar_25"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "lb_catholic_good_friday_orthodox_good_frida",
+      "rule": "fixed_apr_18"
+    },
+    {
+      "template": "lb_orthodox_holy_saturday",
+      "rule": "fixed_apr_19"
+    },
+    {
+      "template": "ba_orthodox_good_friday",
+      "rule": "offset_computus_eastern_neg2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "lb_resistance_and_liberation_day",
+      "rule": "nth_sun_may_2"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "nth_sun_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "day_of_ashura",
+      "rule": "islamic_muharram_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_22"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

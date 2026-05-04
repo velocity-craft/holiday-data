@@ -1,0 +1,71 @@
+{
+  "countryCode": "VE",
+  "countryName": "Venezuela, Bolivarian Republic of",
+  "timeZone": "America/Caracas",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ag_carnival_monday",
+      "rule": "offset_computus_western_neg48"
+    },
+    {
+      "template": "ag_carnival_tuesday",
+      "rule": "offset_computus_western_neg47"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ve_declaration_of_independence",
+      "rule": "fixed_apr_19"
+    },
+    {
+      "template": "ao_international_worker_s_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "mz_family_day",
+      "rule": "fixed_may_15"
+    },
+    {
+      "template": "ve_battle_of_carabobo",
+      "rule": "fixed_jun_24"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_5"
+    },
+    {
+      "template": "ve_birthday_of_simon_bolivar",
+      "rule": "fixed_jul_24"
+    },
+    {
+      "template": "ve_canonization_of_jos_gregorio_hern_ndez_a",
+      "rule": "fixed_oct_19"
+    },
+    {
+      "template": "ve_day_of_indigenous_resistance",
+      "rule": "fixed_oct_12"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_eve",
+      "rule": "fixed_dec_24"
+    },
+    {
+      "template": "new_year_eve",
+      "rule": "fixed_dec_31"
+    }
+  ]
+}

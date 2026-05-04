@@ -1,0 +1,264 @@
+{
+  "countryCode": "CK",
+  "countryName": "Cook Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Day after New Year's Day",
+        "en": "Day after New Year's Day",
+        "es": "Day after New Year's Day",
+        "fr": "Day after New Year's Day",
+        "ja": "Day after New Year's Day",
+        "ko": "Day after New Year's Day",
+        "pt": "Day after New Year's Day",
+        "zh": "Day after New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "Sovereign's Birthday",
+        "en": "Sovereign's Birthday",
+        "es": "Sovereign's Birthday",
+        "fr": "Sovereign's Birthday",
+        "ja": "Sovereign's Birthday",
+        "ko": "Sovereign's Birthday",
+        "pt": "Sovereign's Birthday",
+        "zh": "Sovereign's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-03",
+      "localizedNames": {
+        "de": "Day of the House of Ariki",
+        "en": "Day of the House of Ariki",
+        "es": "Day of the House of Ariki",
+        "fr": "Day of the House of Ariki",
+        "ja": "Day of the House of Ariki",
+        "ko": "Day of the House of Ariki",
+        "pt": "Day of the House of Ariki",
+        "zh": "Day of the House of Ariki"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-04",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-26",
+      "localizedNames": {
+        "de": "Cook Islands Gospel Day",
+        "en": "Cook Islands Gospel Day",
+        "es": "Cook Islands Gospel Day",
+        "fr": "Cook Islands Gospel Day",
+        "ja": "Cook Islands Gospel Day",
+        "ko": "Cook Islands Gospel Day",
+        "pt": "Cook Islands Gospel Day",
+        "zh": "Cook Islands Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Day after New Year's Day",
+        "en": "Day after New Year's Day",
+        "es": "Day after New Year's Day",
+        "fr": "Day after New Year's Day",
+        "ja": "Day after New Year's Day",
+        "ko": "Day after New Year's Day",
+        "pt": "Day after New Year's Day",
+        "zh": "Day after New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-07",
+      "localizedNames": {
+        "de": "Sovereign's Birthday",
+        "en": "Sovereign's Birthday",
+        "es": "Sovereign's Birthday",
+        "fr": "Sovereign's Birthday",
+        "ja": "Sovereign's Birthday",
+        "ko": "Sovereign's Birthday",
+        "pt": "Sovereign's Birthday",
+        "zh": "Sovereign's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-02",
+      "localizedNames": {
+        "de": "Day of the House of Ariki",
+        "en": "Day of the House of Ariki",
+        "es": "Day of the House of Ariki",
+        "fr": "Day of the House of Ariki",
+        "ja": "Day of the House of Ariki",
+        "ko": "Day of the House of Ariki",
+        "pt": "Day of the House of Ariki",
+        "zh": "Day of the House of Ariki"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-04",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-26",
+      "localizedNames": {
+        "de": "Cook Islands Gospel Day",
+        "en": "Cook Islands Gospel Day",
+        "es": "Cook Islands Gospel Day",
+        "fr": "Cook Islands Gospel Day",
+        "ja": "Cook Islands Gospel Day",
+        "ko": "Cook Islands Gospel Day",
+        "pt": "Cook Islands Gospel Day",
+        "zh": "Cook Islands Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Rarotonga",
+  "years": [
+    2026,
+    2027
+  ]
+}

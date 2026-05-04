@@ -1,0 +1,47 @@
+{
+  "countryCode": "GG",
+  "countryName": "Guernsey",
+  "timeZone": "Europe/Guernsey",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "gb_spring_bank_holiday",
+      "rule": "last_mon_may"
+    },
+    {
+      "template": "gg_may_day_bank_holiday",
+      "rule": "nth_mon_may_1"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "gg_the_visit_of_his_majesty_king_charles_ii",
+      "rule": "fixed_jul_16"
+    },
+    {
+      "template": "gg_summer_bank_holiday",
+      "rule": "last_mon_aug"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

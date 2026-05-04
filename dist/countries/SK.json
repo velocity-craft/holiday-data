@@ -1,0 +1,292 @@
+{
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Day of the Establishment of the Slovak Republic",
+        "en": "Day of the Establishment of the Slovak Republic",
+        "es": "Day of the Establishment of the Slovak Republic",
+        "fr": "Day of the Establishment of the Slovak Republic",
+        "ja": "Day of the Establishment of the Slovak Republic",
+        "ko": "Day of the Establishment of the Slovak Republic",
+        "pt": "Day of the Establishment of the Slovak Republic",
+        "zh": "Day of the Establishment of the Slovak Republic"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "es": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "fr": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "ja": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "ko": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "pt": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "zh": "Epiphany (Three Kings' Day and Orthodox Christmas)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-08",
+      "localizedNames": {
+        "de": "Day of Victory over Fascism",
+        "en": "Day of Victory over Fascism",
+        "es": "Day of Victory over Fascism",
+        "fr": "Day of Victory over Fascism",
+        "ja": "Day of Victory over Fascism",
+        "ko": "Day of Victory over Fascism",
+        "pt": "Day of Victory over Fascism",
+        "zh": "Day of Victory over Fascism"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-05",
+      "localizedNames": {
+        "de": "Saints Cyril and Methodius Day",
+        "en": "Saints Cyril and Methodius Day",
+        "es": "Saints Cyril and Methodius Day",
+        "fr": "Saints Cyril and Methodius Day",
+        "ja": "Saints Cyril and Methodius Day",
+        "ko": "Saints Cyril and Methodius Day",
+        "pt": "Saints Cyril and Methodius Day",
+        "zh": "Saints Cyril and Methodius Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-29",
+      "localizedNames": {
+        "de": "Slovak National Uprising Anniversary",
+        "en": "Slovak National Uprising Anniversary",
+        "es": "Slovak National Uprising Anniversary",
+        "fr": "Slovak National Uprising Anniversary",
+        "ja": "Slovak National Uprising Anniversary",
+        "ko": "Slovak National Uprising Anniversary",
+        "pt": "Slovak National Uprising Anniversary",
+        "zh": "Slovak National Uprising Anniversary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-15",
+      "localizedNames": {
+        "de": "Day of Our Lady of the Seven Sorrows",
+        "en": "Day of Our Lady of the Seven Sorrows",
+        "es": "Day of Our Lady of the Seven Sorrows",
+        "fr": "Day of Our Lady of the Seven Sorrows",
+        "ja": "Day of Our Lady of the Seven Sorrows",
+        "ko": "Day of Our Lady of the Seven Sorrows",
+        "pt": "Day of Our Lady of the Seven Sorrows",
+        "zh": "Day of Our Lady of the Seven Sorrows"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-17",
+      "localizedNames": {
+        "de": "Struggle for Freedom and Democracy Day",
+        "en": "Struggle for Freedom and Democracy Day",
+        "es": "Struggle for Freedom and Democracy Day",
+        "fr": "Struggle for Freedom and Democracy Day",
+        "ja": "Struggle for Freedom and Democracy Day",
+        "ko": "Struggle for Freedom and Democracy Day",
+        "pt": "Struggle for Freedom and Democracy Day",
+        "zh": "Struggle for Freedom and Democracy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Day of the Establishment of the Slovak Republic",
+        "en": "Day of the Establishment of the Slovak Republic",
+        "es": "Day of the Establishment of the Slovak Republic",
+        "fr": "Day of the Establishment of the Slovak Republic",
+        "ja": "Day of the Establishment of the Slovak Republic",
+        "ko": "Day of the Establishment of the Slovak Republic",
+        "pt": "Day of the Establishment of the Slovak Republic",
+        "zh": "Day of the Establishment of the Slovak Republic"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "es": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "fr": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "ja": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "ko": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "pt": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+        "zh": "Epiphany (Three Kings' Day and Orthodox Christmas)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-08",
+      "localizedNames": {
+        "de": "Day of Victory over Fascism",
+        "en": "Day of Victory over Fascism",
+        "es": "Day of Victory over Fascism",
+        "fr": "Day of Victory over Fascism",
+        "ja": "Day of Victory over Fascism",
+        "ko": "Day of Victory over Fascism",
+        "pt": "Day of Victory over Fascism",
+        "zh": "Day of Victory over Fascism"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Saints Cyril and Methodius Day",
+        "en": "Saints Cyril and Methodius Day",
+        "es": "Saints Cyril and Methodius Day",
+        "fr": "Saints Cyril and Methodius Day",
+        "ja": "Saints Cyril and Methodius Day",
+        "ko": "Saints Cyril and Methodius Day",
+        "pt": "Saints Cyril and Methodius Day",
+        "zh": "Saints Cyril and Methodius Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-29",
+      "localizedNames": {
+        "de": "Slovak National Uprising Anniversary",
+        "en": "Slovak National Uprising Anniversary",
+        "es": "Slovak National Uprising Anniversary",
+        "fr": "Slovak National Uprising Anniversary",
+        "ja": "Slovak National Uprising Anniversary",
+        "ko": "Slovak National Uprising Anniversary",
+        "pt": "Slovak National Uprising Anniversary",
+        "zh": "Slovak National Uprising Anniversary"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-15",
+      "localizedNames": {
+        "de": "Day of Our Lady of the Seven Sorrows",
+        "en": "Day of Our Lady of the Seven Sorrows",
+        "es": "Day of Our Lady of the Seven Sorrows",
+        "fr": "Day of Our Lady of the Seven Sorrows",
+        "ja": "Day of Our Lady of the Seven Sorrows",
+        "ko": "Day of Our Lady of the Seven Sorrows",
+        "pt": "Day of Our Lady of the Seven Sorrows",
+        "zh": "Day of Our Lady of the Seven Sorrows"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-17",
+      "localizedNames": {
+        "de": "Struggle for Freedom and Democracy Day",
+        "en": "Struggle for Freedom and Democracy Day",
+        "es": "Struggle for Freedom and Democracy Day",
+        "fr": "Struggle for Freedom and Democracy Day",
+        "ja": "Struggle for Freedom and Democracy Day",
+        "ko": "Struggle for Freedom and Democracy Day",
+        "pt": "Struggle for Freedom and Democracy Day",
+        "zh": "Struggle for Freedom and Democracy Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Bratislava",
+  "years": [
+    2026,
+    2027
+  ]
+}

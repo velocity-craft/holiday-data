@@ -1,0 +1,488 @@
+{
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-12",
+      "localizedNames": {
+        "de": "Tag des Erwachsenwerdens",
+        "en": "Coming of Age Day",
+        "es": "Día de la Mayoría de Edad",
+        "fr": "Journée de l'Âge Adulte",
+        "ja": "成人の日",
+        "ko": "일본 성인의 날",
+        "pt": "Dia da Maioridade",
+        "zh": "成人节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-11",
+      "localizedNames": {
+        "de": "Foundation Day",
+        "en": "Foundation Day",
+        "es": "Foundation Day",
+        "fr": "Foundation Day",
+        "ja": "Foundation Day",
+        "ko": "Foundation Day",
+        "pt": "Foundation Day",
+        "zh": "Foundation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-23",
+      "localizedNames": {
+        "de": "Geburtstag des Kaisers",
+        "en": "Emperor's Birthday",
+        "es": "Cumpleaños del Emperador",
+        "fr": "Anniversaire de l'Empereur",
+        "ja": "天皇誕生日",
+        "ko": "일본 천황 탄생일",
+        "pt": "Aniversário do Imperador",
+        "zh": "天皇诞生日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Vernal Equinox Day",
+        "en": "Vernal Equinox Day",
+        "es": "Vernal Equinox Day",
+        "fr": "Vernal Equinox Day",
+        "ja": "Vernal Equinox Day",
+        "ko": "Vernal Equinox Day",
+        "pt": "Vernal Equinox Day",
+        "zh": "Vernal Equinox Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-29",
+      "localizedNames": {
+        "de": "Shōwa-Tag",
+        "en": "Showa Day",
+        "es": "Día de Shōwa",
+        "fr": "Journée Shōwa",
+        "ja": "昭和の日",
+        "ko": "쇼와의 날",
+        "pt": "Dia Shōwa",
+        "zh": "昭和日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-03",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-04",
+      "localizedNames": {
+        "de": "Tag des Grüns",
+        "en": "Greenery Day",
+        "es": "Día del Verdor",
+        "fr": "Journée des Espaces Verts",
+        "ja": "みどりの日",
+        "ko": "녹색의 날",
+        "pt": "Dia da Natureza",
+        "zh": "绿之日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-05",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-20",
+      "localizedNames": {
+        "de": "Meerestag",
+        "en": "Marine Day",
+        "es": "Día del Mar",
+        "fr": "Journée Maritime",
+        "ja": "海の日",
+        "ko": "바다의 날",
+        "pt": "Dia do Mar",
+        "zh": "海洋日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-11",
+      "localizedNames": {
+        "de": "Bergtag",
+        "en": "Mountain Day",
+        "es": "Día de la Montaña",
+        "fr": "Journée de la Montagne",
+        "ja": "山の日",
+        "ko": "산의 날",
+        "pt": "Dia da Montanha",
+        "zh": "山之日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-21",
+      "localizedNames": {
+        "de": "Tag der Ehrerbietung gegenüber Älteren",
+        "en": "Respect for the Aged Day",
+        "es": "Día del Respeto a los Mayores",
+        "fr": "Journée du Respect des Personnes Âgées",
+        "ja": "敬老の日",
+        "ko": "경로의 날",
+        "pt": "Dia do Respeito aos Idosos",
+        "zh": "敬老日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-22",
+      "localizedNames": {
+        "de": "National Holiday",
+        "en": "National Holiday",
+        "es": "National Holiday",
+        "fr": "National Holiday",
+        "ja": "National Holiday",
+        "ko": "National Holiday",
+        "pt": "National Holiday",
+        "zh": "National Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-23",
+      "localizedNames": {
+        "de": "Herbst-Tagundnachtgleiche",
+        "en": "Autumnal Equinox Day",
+        "es": "Día del Equinoccio de Otoño",
+        "fr": "Journée de l'Équinoxe d'Automne",
+        "ja": "秋分の日",
+        "ko": "추분",
+        "pt": "Dia do Equinócio de Outono",
+        "zh": "秋分日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Sports Day",
+        "en": "Sports Day",
+        "es": "Sports Day",
+        "fr": "Sports Day",
+        "ja": "Sports Day",
+        "ko": "Sports Day",
+        "pt": "Sports Day",
+        "zh": "Sports Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-03",
+      "localizedNames": {
+        "de": "Kulturtag",
+        "en": "Culture Day",
+        "es": "Día de la Cultura",
+        "fr": "Journée Culturelle",
+        "ja": "文化の日",
+        "ko": "문화의 날",
+        "pt": "Dia da Cultura",
+        "zh": "文化日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-23",
+      "localizedNames": {
+        "de": "Tag der Dankbarkeit für Arbeit",
+        "en": "Labor Thanksgiving Day",
+        "es": "Día de Acción de Gracias por el Trabajo",
+        "fr": "Journée d'Action de Grâce pour le Travail",
+        "ja": "勤労感謝の日",
+        "ko": "일본 근로감사절",
+        "pt": "Dia de Ação de Graças pelo Trabalho",
+        "zh": "劳动感谢日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-11",
+      "localizedNames": {
+        "de": "Tag des Erwachsenwerdens",
+        "en": "Coming of Age Day",
+        "es": "Día de la Mayoría de Edad",
+        "fr": "Journée de l'Âge Adulte",
+        "ja": "成人の日",
+        "ko": "일본 성인의 날",
+        "pt": "Dia da Maioridade",
+        "zh": "成人节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-11",
+      "localizedNames": {
+        "de": "Foundation Day",
+        "en": "Foundation Day",
+        "es": "Foundation Day",
+        "fr": "Foundation Day",
+        "ja": "Foundation Day",
+        "ko": "Foundation Day",
+        "pt": "Foundation Day",
+        "zh": "Foundation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-23",
+      "localizedNames": {
+        "de": "Geburtstag des Kaisers",
+        "en": "Emperor's Birthday",
+        "es": "Cumpleaños del Emperador",
+        "fr": "Anniversaire de l'Empereur",
+        "ja": "天皇誕生日",
+        "ko": "일본 천황 탄생일",
+        "pt": "Aniversário do Imperador",
+        "zh": "天皇诞生日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-20",
+      "localizedNames": {
+        "de": "Vernal Equinox Day",
+        "en": "Vernal Equinox Day",
+        "es": "Vernal Equinox Day",
+        "fr": "Vernal Equinox Day",
+        "ja": "Vernal Equinox Day",
+        "ko": "Vernal Equinox Day",
+        "pt": "Vernal Equinox Day",
+        "zh": "Vernal Equinox Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-29",
+      "localizedNames": {
+        "de": "Shōwa-Tag",
+        "en": "Showa Day",
+        "es": "Día de Shōwa",
+        "fr": "Journée Shōwa",
+        "ja": "昭和の日",
+        "ko": "쇼와의 날",
+        "pt": "Dia Shōwa",
+        "zh": "昭和日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-03",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-04",
+      "localizedNames": {
+        "de": "Tag des Grüns",
+        "en": "Greenery Day",
+        "es": "Día del Verdor",
+        "fr": "Journée des Espaces Verts",
+        "ja": "みどりの日",
+        "ko": "녹색의 날",
+        "pt": "Dia da Natureza",
+        "zh": "绿之日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-05",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-19",
+      "localizedNames": {
+        "de": "Meerestag",
+        "en": "Marine Day",
+        "es": "Día del Mar",
+        "fr": "Journée Maritime",
+        "ja": "海の日",
+        "ko": "바다의 날",
+        "pt": "Dia do Mar",
+        "zh": "海洋日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-11",
+      "localizedNames": {
+        "de": "Bergtag",
+        "en": "Mountain Day",
+        "es": "Día de la Montaña",
+        "fr": "Journée de la Montagne",
+        "ja": "山の日",
+        "ko": "산의 날",
+        "pt": "Dia da Montanha",
+        "zh": "山之日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-20",
+      "localizedNames": {
+        "de": "Tag der Ehrerbietung gegenüber Älteren",
+        "en": "Respect for the Aged Day",
+        "es": "Día del Respeto a los Mayores",
+        "fr": "Journée du Respect des Personnes Âgées",
+        "ja": "敬老の日",
+        "ko": "경로의 날",
+        "pt": "Dia do Respeito aos Idosos",
+        "zh": "敬老日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-22",
+      "localizedNames": {
+        "de": "National Holiday",
+        "en": "National Holiday",
+        "es": "National Holiday",
+        "fr": "National Holiday",
+        "ja": "National Holiday",
+        "ko": "National Holiday",
+        "pt": "National Holiday",
+        "zh": "National Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-23",
+      "localizedNames": {
+        "de": "Herbst-Tagundnachtgleiche",
+        "en": "Autumnal Equinox Day",
+        "es": "Día del Equinoccio de Otoño",
+        "fr": "Journée de l'Équinoxe d'Automne",
+        "ja": "秋分の日",
+        "ko": "추분",
+        "pt": "Dia do Equinócio de Outono",
+        "zh": "秋分日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "Sports Day",
+        "en": "Sports Day",
+        "es": "Sports Day",
+        "fr": "Sports Day",
+        "ja": "Sports Day",
+        "ko": "Sports Day",
+        "pt": "Sports Day",
+        "zh": "Sports Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-03",
+      "localizedNames": {
+        "de": "Kulturtag",
+        "en": "Culture Day",
+        "es": "Día de la Cultura",
+        "fr": "Journée Culturelle",
+        "ja": "文化の日",
+        "ko": "문화의 날",
+        "pt": "Dia da Cultura",
+        "zh": "文化日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-23",
+      "localizedNames": {
+        "de": "Tag der Dankbarkeit für Arbeit",
+        "en": "Labor Thanksgiving Day",
+        "es": "Día de Acción de Gracias por el Trabajo",
+        "fr": "Journée d'Action de Grâce pour le Travail",
+        "ja": "勤労感謝の日",
+        "ko": "일본 근로감사절",
+        "pt": "Dia de Ação de Graças pelo Trabalho",
+        "zh": "劳动感谢日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Tokyo",
+  "years": [
+    2026,
+    2027
+  ]
+}

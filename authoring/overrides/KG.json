@@ -1,0 +1,67 @@
+{
+  "countryCode": "KG",
+  "countryName": "Kyrgyzstan",
+  "timeZone": "Asia/Bishkek",
+  "holidays": [
+    {
+      "template": "christmas",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "kg_new_year_holidays",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "kg_fatherland_defender_s_day",
+      "rule": "fixed_feb_23"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "kg_nooruz_holiday",
+      "rule": "fixed_mar_21"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "kg_day_of_the_people_s_april_revolution",
+      "rule": "fixed_apr_7"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_may_5"
+    },
+    {
+      "template": "kg_may_holidays",
+      "rule": "fixed_may_2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_31"
+    },
+    {
+      "template": "kg_days_of_history_and_commemoration_of_anc",
+      "rule": "fixed_nov_7"
+    }
+  ]
+}

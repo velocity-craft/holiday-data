@@ -1,0 +1,51 @@
+{
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "timeZone": "Africa/Bamako",
+  "holidays": [
+    {
+      "template": "armed_forces_day_generic",
+      "rule": "fixed_jan_20"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_mar_26"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "africa_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "ml_national_day_of_the_republic_of_mali",
+      "rule": "fixed_sep_22"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

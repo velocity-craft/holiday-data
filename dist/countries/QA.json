@@ -1,0 +1,152 @@
+{
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "holidays": [
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "New Year's Holiday",
+        "en": "New Year's Holiday",
+        "es": "New Year's Holiday",
+        "fr": "New Year's Holiday",
+        "ja": "New Year's Holiday",
+        "ko": "New Year's Holiday",
+        "pt": "New Year's Holiday",
+        "zh": "New Year's Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-10",
+      "localizedNames": {
+        "de": "National Sports Day",
+        "en": "National Sports Day",
+        "es": "National Sports Day",
+        "fr": "National Sports Day",
+        "ja": "National Sports Day",
+        "ko": "National Sports Day",
+        "pt": "National Sports Day",
+        "zh": "National Sports Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-18",
+      "localizedNames": {
+        "de": "Qatar National Day",
+        "en": "Qatar National Day",
+        "es": "Qatar National Day",
+        "fr": "Qatar National Day",
+        "ja": "Qatar National Day",
+        "ko": "Qatar National Day",
+        "pt": "Qatar National Day",
+        "zh": "Qatar National Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "New Year's Holiday",
+        "en": "New Year's Holiday",
+        "es": "New Year's Holiday",
+        "fr": "New Year's Holiday",
+        "ja": "New Year's Holiday",
+        "ko": "New Year's Holiday",
+        "pt": "New Year's Holiday",
+        "zh": "New Year's Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "National Sports Day",
+        "en": "National Sports Day",
+        "es": "National Sports Day",
+        "fr": "National Sports Day",
+        "ja": "National Sports Day",
+        "ko": "National Sports Day",
+        "pt": "National Sports Day",
+        "zh": "National Sports Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-18",
+      "localizedNames": {
+        "de": "Qatar National Day",
+        "en": "Qatar National Day",
+        "es": "Qatar National Day",
+        "fr": "Qatar National Day",
+        "ja": "Qatar National Day",
+        "ko": "Qatar National Day",
+        "pt": "Qatar National Day",
+        "zh": "Qatar National Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Qatar",
+  "years": [
+    2026,
+    2027
+  ]
+}

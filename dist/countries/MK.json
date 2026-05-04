@@ -1,0 +1,292 @@
+{
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-24",
+      "localizedNames": {
+        "de": "Election Day",
+        "en": "Election Day",
+        "es": "Election Day",
+        "fr": "Election Day",
+        "ja": "Election Day",
+        "ko": "Election Day",
+        "pt": "Election Day",
+        "zh": "Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-24",
+      "localizedNames": {
+        "de": "Saints Cyril and Methodius Day",
+        "en": "Saints Cyril and Methodius Day",
+        "es": "Saints Cyril and Methodius Day",
+        "fr": "Saints Cyril and Methodius Day",
+        "ja": "Saints Cyril and Methodius Day",
+        "ko": "Saints Cyril and Methodius Day",
+        "pt": "Saints Cyril and Methodius Day",
+        "zh": "Saints Cyril and Methodius Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-02",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-08",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-11",
+      "localizedNames": {
+        "de": "National Uprising Day",
+        "en": "National Uprising Day",
+        "es": "National Uprising Day",
+        "fr": "National Uprising Day",
+        "ja": "National Uprising Day",
+        "ko": "National Uprising Day",
+        "pt": "National Uprising Day",
+        "zh": "National Uprising Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-23",
+      "localizedNames": {
+        "de": "Macedonian Revolutionary Struggle Day",
+        "en": "Macedonian Revolutionary Struggle Day",
+        "es": "Macedonian Revolutionary Struggle Day",
+        "fr": "Macedonian Revolutionary Struggle Day",
+        "ja": "Macedonian Revolutionary Struggle Day",
+        "ko": "Macedonian Revolutionary Struggle Day",
+        "pt": "Macedonian Revolutionary Struggle Day",
+        "zh": "Macedonian Revolutionary Struggle Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Saint Clement of Ohrid Day",
+        "en": "Saint Clement of Ohrid Day",
+        "es": "Saint Clement of Ohrid Day",
+        "fr": "Saint Clement of Ohrid Day",
+        "ja": "Saint Clement of Ohrid Day",
+        "ko": "Saint Clement of Ohrid Day",
+        "pt": "Saint Clement of Ohrid Day",
+        "zh": "Saint Clement of Ohrid Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-24",
+      "localizedNames": {
+        "de": "Election Day",
+        "en": "Election Day",
+        "es": "Election Day",
+        "fr": "Election Day",
+        "ja": "Election Day",
+        "ko": "Election Day",
+        "pt": "Election Day",
+        "zh": "Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-24",
+      "localizedNames": {
+        "de": "Saints Cyril and Methodius Day",
+        "en": "Saints Cyril and Methodius Day",
+        "es": "Saints Cyril and Methodius Day",
+        "fr": "Saints Cyril and Methodius Day",
+        "ja": "Saints Cyril and Methodius Day",
+        "ko": "Saints Cyril and Methodius Day",
+        "pt": "Saints Cyril and Methodius Day",
+        "zh": "Saints Cyril and Methodius Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-08",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "National Uprising Day",
+        "en": "National Uprising Day",
+        "es": "National Uprising Day",
+        "fr": "National Uprising Day",
+        "ja": "National Uprising Day",
+        "ko": "National Uprising Day",
+        "pt": "National Uprising Day",
+        "zh": "National Uprising Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-23",
+      "localizedNames": {
+        "de": "Macedonian Revolutionary Struggle Day",
+        "en": "Macedonian Revolutionary Struggle Day",
+        "es": "Macedonian Revolutionary Struggle Day",
+        "fr": "Macedonian Revolutionary Struggle Day",
+        "ja": "Macedonian Revolutionary Struggle Day",
+        "ko": "Macedonian Revolutionary Struggle Day",
+        "pt": "Macedonian Revolutionary Struggle Day",
+        "zh": "Macedonian Revolutionary Struggle Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Saint Clement of Ohrid Day",
+        "en": "Saint Clement of Ohrid Day",
+        "es": "Saint Clement of Ohrid Day",
+        "fr": "Saint Clement of Ohrid Day",
+        "ja": "Saint Clement of Ohrid Day",
+        "ko": "Saint Clement of Ohrid Day",
+        "pt": "Saint Clement of Ohrid Day",
+        "zh": "Saint Clement of Ohrid Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Skopje",
+  "years": [
+    2026,
+    2027
+  ]
+}

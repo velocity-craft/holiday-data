@@ -1,0 +1,47 @@
+{
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "timeZone": "Asia/Colombo",
+  "holidays": [
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_feb_4"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ai_special_public_holiday",
+      "rule": "fixed_apr_15"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "lk_adhi_poson_full_moon_poya_day",
+      "rule": "fixed_may_30"
+    },
+    {
+      "template": "lk_international_workers_day_vesak_full_moo",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

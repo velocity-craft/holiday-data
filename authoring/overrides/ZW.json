@@ -1,0 +1,63 @@
+{
+  "countryCode": "ZW",
+  "countryName": "Zimbabwe",
+  "timeZone": "Africa/Harare",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "zw_robert_gabriel_mugabe_national_youth_day",
+      "rule": "fixed_feb_21"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "holy_saturday",
+      "rule": "offset_computus_western_neg1"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_apr_18"
+    },
+    {
+      "template": "zw_good_friday_independence_day",
+      "rule": "fixed_apr_18"
+    },
+    {
+      "template": "africa_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "zw_defense_forces_day",
+      "rule": "nth_tue_aug_2"
+    },
+    {
+      "template": "zw_zimbabwe_heroes_day",
+      "rule": "nth_mon_aug_2"
+    },
+    {
+      "template": "bi_unity_day",
+      "rule": "fixed_dec_22"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "timeZone": "Asia/Bangkok",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "th_national_children_s_day",
+      "rule": "nth_sat_jan_2"
+    },
+    {
+      "template": "th_chakri_memorial_day",
+      "rule": "fixed_apr_6"
+    },
+    {
+      "template": "th_songkran_festival",
+      "rule": "fixed_apr_13"
+    },
+    {
+      "template": "th_coronation_day",
+      "rule": "fixed_may_4"
+    },
+    {
+      "template": "th_national_labor_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "th_hm_queen_suthida_s_birthday",
+      "rule": "fixed_jun_3"
+    },
+    {
+      "template": "th_hm_king_maha_vajiralongkorn_s_birthday",
+      "rule": "fixed_jul_28"
+    },
+    {
+      "template": "th_hm_queen_sirikit_the_queen_mother_s_birt",
+      "rule": "fixed_aug_12"
+    },
+    {
+      "template": "th_hm_king_bhumibol_adulyadej_memorial_day",
+      "rule": "fixed_oct_13"
+    },
+    {
+      "template": "th_hm_king_chulalongkorn_memorial_day",
+      "rule": "fixed_oct_23"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "fixed_dec_10"
+    },
+    {
+      "template": "new_year_eve",
+      "rule": "fixed_dec_31"
+    },
+    {
+      "template": "th_hm_king_bhumibol_adulyadej_the_great_s_b",
+      "rule": "fixed_dec_5"
+    }
+  ]
+}

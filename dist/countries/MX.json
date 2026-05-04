@@ -1,0 +1,208 @@
+{
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-02",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-16",
+      "localizedNames": {
+        "de": "Benito Juárez's birthday",
+        "en": "Benito Juárez's birthday",
+        "es": "Benito Juárez's birthday",
+        "fr": "Benito Juárez's birthday",
+        "ja": "Benito Juárez's birthday",
+        "ko": "Benito Juárez's birthday",
+        "pt": "Benito Juárez's birthday",
+        "zh": "Benito Juárez's birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-16",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Change of Federal Government",
+        "en": "Change of Federal Government",
+        "es": "Change of Federal Government",
+        "fr": "Change of Federal Government",
+        "ja": "Change of Federal Government",
+        "ko": "Change of Federal Government",
+        "pt": "Change of Federal Government",
+        "zh": "Change of Federal Government"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-16",
+      "localizedNames": {
+        "de": "Revolutionstag",
+        "en": "Revolution Day",
+        "es": "Día de la Revolución",
+        "fr": "Fête de la Révolution",
+        "ja": "革命記念日",
+        "ko": "혁명기념일",
+        "pt": "Dia da Revolução",
+        "zh": "革命纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-01",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-15",
+      "localizedNames": {
+        "de": "Benito Juárez's birthday",
+        "en": "Benito Juárez's birthday",
+        "es": "Benito Juárez's birthday",
+        "fr": "Benito Juárez's birthday",
+        "ja": "Benito Juárez's birthday",
+        "ko": "Benito Juárez's birthday",
+        "pt": "Benito Juárez's birthday",
+        "zh": "Benito Juárez's birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-16",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Change of Federal Government",
+        "en": "Change of Federal Government",
+        "es": "Change of Federal Government",
+        "fr": "Change of Federal Government",
+        "ja": "Change of Federal Government",
+        "ko": "Change of Federal Government",
+        "pt": "Change of Federal Government",
+        "zh": "Change of Federal Government"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-15",
+      "localizedNames": {
+        "de": "Revolutionstag",
+        "en": "Revolution Day",
+        "es": "Día de la Revolución",
+        "fr": "Fête de la Révolution",
+        "ja": "革命記念日",
+        "ko": "혁명기념일",
+        "pt": "Dia da Revolução",
+        "zh": "革命纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Mexico_City",
+  "years": [
+    2026,
+    2027
+  ]
+}

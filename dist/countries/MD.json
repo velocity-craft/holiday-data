@@ -1,0 +1,264 @@
+{
+  "countryCode": "MD",
+  "countryName": "Moldova, Republic of",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Christmas Day (by old style)",
+        "en": "Christmas Day (by old style)",
+        "es": "Christmas Day (by old style)",
+        "fr": "Christmas Day (by old style)",
+        "ja": "Christmas Day (by old style)",
+        "ko": "Christmas Day (by old style)",
+        "pt": "Christmas Day (by old style)",
+        "zh": "Christmas Day (by old style)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-20",
+      "localizedNames": {
+        "de": "Day of Rejoicing",
+        "en": "Day of Rejoicing",
+        "es": "Day of Rejoicing",
+        "fr": "Day of Rejoicing",
+        "ja": "Day of Rejoicing",
+        "ko": "Day of Rejoicing",
+        "pt": "Day of Rejoicing",
+        "zh": "Day of Rejoicing"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "International Workers' Solidarity Day",
+        "en": "International Workers' Solidarity Day",
+        "es": "International Workers' Solidarity Day",
+        "fr": "International Workers' Solidarity Day",
+        "ja": "International Workers' Solidarity Day",
+        "ko": "International Workers' Solidarity Day",
+        "pt": "International Workers' Solidarity Day",
+        "zh": "International Workers' Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-09",
+      "localizedNames": {
+        "de": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "en": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "es": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "fr": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "ja": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "ko": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "pt": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "zh": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "International Children's Day",
+        "en": "International Children's Day",
+        "es": "International Children's Day",
+        "fr": "International Children's Day",
+        "ja": "International Children's Day",
+        "ko": "International Children's Day",
+        "pt": "International Children's Day",
+        "zh": "International Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-27",
+      "localizedNames": {
+        "de": "Republic of Moldova Independence Day",
+        "en": "Republic of Moldova Independence Day",
+        "es": "Republic of Moldova Independence Day",
+        "fr": "Republic of Moldova Independence Day",
+        "ja": "Republic of Moldova Independence Day",
+        "ko": "Republic of Moldova Independence Day",
+        "pt": "Republic of Moldova Independence Day",
+        "zh": "Republic of Moldova Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-31",
+      "localizedNames": {
+        "de": "National Language Day",
+        "en": "National Language Day",
+        "es": "National Language Day",
+        "fr": "National Language Day",
+        "ja": "National Language Day",
+        "ko": "National Language Day",
+        "pt": "National Language Day",
+        "zh": "National Language Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Christmas Day (by new style)",
+        "en": "Christmas Day (by new style)",
+        "es": "Christmas Day (by new style)",
+        "fr": "Christmas Day (by new style)",
+        "ja": "Christmas Day (by new style)",
+        "ko": "Christmas Day (by new style)",
+        "pt": "Christmas Day (by new style)",
+        "zh": "Christmas Day (by new style)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Christmas Day (by old style)",
+        "en": "Christmas Day (by old style)",
+        "es": "Christmas Day (by old style)",
+        "fr": "Christmas Day (by old style)",
+        "ja": "Christmas Day (by old style)",
+        "ko": "Christmas Day (by old style)",
+        "pt": "Christmas Day (by old style)",
+        "zh": "Christmas Day (by old style)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "International Workers' Solidarity Day",
+        "en": "International Workers' Solidarity Day",
+        "es": "International Workers' Solidarity Day",
+        "fr": "International Workers' Solidarity Day",
+        "ja": "International Workers' Solidarity Day",
+        "ko": "International Workers' Solidarity Day",
+        "pt": "International Workers' Solidarity Day",
+        "zh": "International Workers' Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-09",
+      "localizedNames": {
+        "de": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "en": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "es": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "fr": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "ja": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "ko": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "pt": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland",
+        "zh": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-10",
+      "localizedNames": {
+        "de": "Day of Rejoicing",
+        "en": "Day of Rejoicing",
+        "es": "Day of Rejoicing",
+        "fr": "Day of Rejoicing",
+        "ja": "Day of Rejoicing",
+        "ko": "Day of Rejoicing",
+        "pt": "Day of Rejoicing",
+        "zh": "Day of Rejoicing"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "International Children's Day",
+        "en": "International Children's Day",
+        "es": "International Children's Day",
+        "fr": "International Children's Day",
+        "ja": "International Children's Day",
+        "ko": "International Children's Day",
+        "pt": "International Children's Day",
+        "zh": "International Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-27",
+      "localizedNames": {
+        "de": "Republic of Moldova Independence Day",
+        "en": "Republic of Moldova Independence Day",
+        "es": "Republic of Moldova Independence Day",
+        "fr": "Republic of Moldova Independence Day",
+        "ja": "Republic of Moldova Independence Day",
+        "ko": "Republic of Moldova Independence Day",
+        "pt": "Republic of Moldova Independence Day",
+        "zh": "Republic of Moldova Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-31",
+      "localizedNames": {
+        "de": "National Language Day",
+        "en": "National Language Day",
+        "es": "National Language Day",
+        "fr": "National Language Day",
+        "ja": "National Language Day",
+        "ko": "National Language Day",
+        "pt": "National Language Day",
+        "zh": "National Language Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Christmas Day (by new style)",
+        "en": "Christmas Day (by new style)",
+        "es": "Christmas Day (by new style)",
+        "fr": "Christmas Day (by new style)",
+        "ja": "Christmas Day (by new style)",
+        "ko": "Christmas Day (by new style)",
+        "pt": "Christmas Day (by new style)",
+        "zh": "Christmas Day (by new style)"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Chisinau",
+  "years": [
+    2026,
+    2027
+  ]
+}

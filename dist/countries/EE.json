@@ -1,0 +1,180 @@
+{
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-24",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-24",
+      "localizedNames": {
+        "de": "Midsummer Day",
+        "en": "Midsummer Day",
+        "es": "Midsummer Day",
+        "fr": "Midsummer Day",
+        "ja": "Midsummer Day",
+        "ko": "Midsummer Day",
+        "pt": "Midsummer Day",
+        "zh": "Midsummer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-20",
+      "localizedNames": {
+        "de": "Independence Restoration Day",
+        "en": "Independence Restoration Day",
+        "es": "Independence Restoration Day",
+        "fr": "Independence Restoration Day",
+        "ja": "Independence Restoration Day",
+        "ko": "Independence Restoration Day",
+        "pt": "Independence Restoration Day",
+        "zh": "Independence Restoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-24",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-24",
+      "localizedNames": {
+        "de": "Midsummer Day",
+        "en": "Midsummer Day",
+        "es": "Midsummer Day",
+        "fr": "Midsummer Day",
+        "ja": "Midsummer Day",
+        "ko": "Midsummer Day",
+        "pt": "Midsummer Day",
+        "zh": "Midsummer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-20",
+      "localizedNames": {
+        "de": "Independence Restoration Day",
+        "en": "Independence Restoration Day",
+        "es": "Independence Restoration Day",
+        "fr": "Independence Restoration Day",
+        "ja": "Independence Restoration Day",
+        "ko": "Independence Restoration Day",
+        "pt": "Independence Restoration Day",
+        "zh": "Independence Restoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Heiligabend",
+        "en": "Christmas Eve",
+        "es": "Nochebuena",
+        "fr": "Veille de Noël",
+        "ja": "クリスマス・イブ",
+        "ko": "크리스마스 이브",
+        "pt": "Véspera de Natal",
+        "zh": "圣诞节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Tallinn",
+  "years": [
+    2026,
+    2027
+  ]
+}

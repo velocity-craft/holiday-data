@@ -1,0 +1,51 @@
+{
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "timeZone": "Africa/Mogadishu",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "isra_miraj",
+      "rule": "islamic_rajab_27"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jun_26"
+    },
+    {
+      "template": "so_independence_day_islamic_new_year_estima",
+      "rule": "fixed_jun_26"
+    },
+    {
+      "template": "day_of_ashura",
+      "rule": "islamic_muharram_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    }
+  ]
+}

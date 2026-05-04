@@ -1,0 +1,236 @@
+{
+  "countryCode": "TR",
+  "countryName": "Türkiye",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-23",
+      "localizedNames": {
+        "de": "National Sovereignty and Children's Day",
+        "en": "National Sovereignty and Children's Day",
+        "es": "National Sovereignty and Children's Day",
+        "fr": "National Sovereignty and Children's Day",
+        "ja": "National Sovereignty and Children's Day",
+        "ko": "National Sovereignty and Children's Day",
+        "pt": "National Sovereignty and Children's Day",
+        "zh": "National Sovereignty and Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Labour and Solidarity Day",
+        "en": "Labour and Solidarity Day",
+        "es": "Labour and Solidarity Day",
+        "fr": "Labour and Solidarity Day",
+        "ja": "Labour and Solidarity Day",
+        "ko": "Labour and Solidarity Day",
+        "pt": "Labour and Solidarity Day",
+        "zh": "Labour and Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-19",
+      "localizedNames": {
+        "de": "Commemoration of Atatürk, Youth and Sports Day",
+        "en": "Commemoration of Atatürk, Youth and Sports Day",
+        "es": "Commemoration of Atatürk, Youth and Sports Day",
+        "fr": "Commemoration of Atatürk, Youth and Sports Day",
+        "ja": "Commemoration of Atatürk, Youth and Sports Day",
+        "ko": "Commemoration of Atatürk, Youth and Sports Day",
+        "pt": "Commemoration of Atatürk, Youth and Sports Day",
+        "zh": "Commemoration of Atatürk, Youth and Sports Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-15",
+      "localizedNames": {
+        "de": "Democracy and National Unity Day",
+        "en": "Democracy and National Unity Day",
+        "es": "Democracy and National Unity Day",
+        "fr": "Democracy and National Unity Day",
+        "ja": "Democracy and National Unity Day",
+        "ko": "Democracy and National Unity Day",
+        "pt": "Democracy and National Unity Day",
+        "zh": "Democracy and National Unity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-29",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-23",
+      "localizedNames": {
+        "de": "National Sovereignty and Children's Day",
+        "en": "National Sovereignty and Children's Day",
+        "es": "National Sovereignty and Children's Day",
+        "fr": "National Sovereignty and Children's Day",
+        "ja": "National Sovereignty and Children's Day",
+        "ko": "National Sovereignty and Children's Day",
+        "pt": "National Sovereignty and Children's Day",
+        "zh": "National Sovereignty and Children's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Labour and Solidarity Day",
+        "en": "Labour and Solidarity Day",
+        "es": "Labour and Solidarity Day",
+        "fr": "Labour and Solidarity Day",
+        "ja": "Labour and Solidarity Day",
+        "ko": "Labour and Solidarity Day",
+        "pt": "Labour and Solidarity Day",
+        "zh": "Labour and Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-19",
+      "localizedNames": {
+        "de": "Commemoration of Atatürk, Youth and Sports Day",
+        "en": "Commemoration of Atatürk, Youth and Sports Day",
+        "es": "Commemoration of Atatürk, Youth and Sports Day",
+        "fr": "Commemoration of Atatürk, Youth and Sports Day",
+        "ja": "Commemoration of Atatürk, Youth and Sports Day",
+        "ko": "Commemoration of Atatürk, Youth and Sports Day",
+        "pt": "Commemoration of Atatürk, Youth and Sports Day",
+        "zh": "Commemoration of Atatürk, Youth and Sports Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-15",
+      "localizedNames": {
+        "de": "Democracy and National Unity Day",
+        "en": "Democracy and National Unity Day",
+        "es": "Democracy and National Unity Day",
+        "fr": "Democracy and National Unity Day",
+        "ja": "Democracy and National Unity Day",
+        "ko": "Democracy and National Unity Day",
+        "pt": "Democracy and National Unity Day",
+        "zh": "Democracy and National Unity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-29",
+      "localizedNames": {
+        "de": "Tag der Republik",
+        "en": "Republic Day",
+        "es": "Día de la República",
+        "fr": "Fête de la République",
+        "ja": "共和国記念日",
+        "ko": "공화국의 날",
+        "pt": "Dia da República",
+        "zh": "共和国日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Istanbul",
+  "years": [
+    2026,
+    2027
+  ]
+}

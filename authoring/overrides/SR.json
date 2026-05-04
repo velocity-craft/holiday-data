@@ -1,0 +1,67 @@
+{
+  "countryCode": "SR",
+  "countryName": "Suriname",
+  "timeZone": "America/Paramaribo",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "holi",
+      "rule": "hindu_holi"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "sr_day_of_freedoms",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "sr_indigenous_people_day",
+      "rule": "fixed_aug_9"
+    },
+    {
+      "template": "diwali",
+      "rule": "hindu_diwali"
+    },
+    {
+      "template": "sr_day_of_the_maroons",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_25"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_2nd_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

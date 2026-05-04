@@ -1,0 +1,236 @@
+{
+  "countryCode": "KN",
+  "countryName": "Saint Kitts and Nevis",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Carnival Day",
+        "en": "Carnival Day",
+        "es": "Carnival Day",
+        "fr": "Carnival Day",
+        "ja": "Carnival Day",
+        "ko": "Carnival Day",
+        "pt": "Carnival Day",
+        "zh": "Carnival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Carnival Day - Last Lap",
+        "en": "Carnival Day - Last Lap",
+        "es": "Carnival Day - Last Lap",
+        "fr": "Carnival Day - Last Lap",
+        "ja": "Carnival Day - Last Lap",
+        "ko": "Carnival Day - Last Lap",
+        "pt": "Carnival Day - Last Lap",
+        "zh": "Carnival Day - Last Lap"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-04",
+      "localizedNames": {
+        "de": "Culturama Day - Last Lap",
+        "en": "Culturama Day - Last Lap",
+        "es": "Culturama Day - Last Lap",
+        "fr": "Culturama Day - Last Lap",
+        "ja": "Culturama Day - Last Lap",
+        "ko": "Culturama Day - Last Lap",
+        "pt": "Culturama Day - Last Lap",
+        "zh": "Culturama Day - Last Lap"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-16",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-19",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Carnival Day",
+        "en": "Carnival Day",
+        "es": "Carnival Day",
+        "fr": "Carnival Day",
+        "ja": "Carnival Day",
+        "ko": "Carnival Day",
+        "pt": "Carnival Day",
+        "zh": "Carnival Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Carnival Day - Last Lap",
+        "en": "Carnival Day - Last Lap",
+        "es": "Carnival Day - Last Lap",
+        "fr": "Carnival Day - Last Lap",
+        "ja": "Carnival Day - Last Lap",
+        "ko": "Carnival Day - Last Lap",
+        "pt": "Carnival Day - Last Lap",
+        "zh": "Carnival Day - Last Lap"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-03",
+      "localizedNames": {
+        "de": "Culturama Day - Last Lap",
+        "en": "Culturama Day - Last Lap",
+        "es": "Culturama Day - Last Lap",
+        "fr": "Culturama Day - Last Lap",
+        "ja": "Culturama Day - Last Lap",
+        "ko": "Culturama Day - Last Lap",
+        "pt": "Culturama Day - Last Lap",
+        "zh": "Culturama Day - Last Lap"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-16",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-19",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/St_Kitts",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "countryCode": "SM",
+  "countryName": "San Marino",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-05",
+      "localizedNames": {
+        "de": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "en": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "es": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "fr": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "ja": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "ko": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "pt": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "zh": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-25",
+      "localizedNames": {
+        "de": "Anniversary of the Arengo",
+        "en": "Anniversary of the Arengo",
+        "es": "Anniversary of the Arengo",
+        "fr": "Anniversary of the Arengo",
+        "ja": "Anniversary of the Arengo",
+        "ko": "Anniversary of the Arengo",
+        "pt": "Anniversary of the Arengo",
+        "zh": "Anniversary of the Arengo"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-01",
+      "localizedNames": {
+        "de": "Easter Monday; Investiture of Captains Regent",
+        "en": "Easter Monday; Investiture of Captains Regent",
+        "es": "Easter Monday; Investiture of Captains Regent",
+        "fr": "Easter Monday; Investiture of Captains Regent",
+        "ja": "Easter Monday; Investiture of Captains Regent",
+        "ko": "Easter Monday; Investiture of Captains Regent",
+        "pt": "Easter Monday; Investiture of Captains Regent",
+        "zh": "Easter Monday; Investiture of Captains Regent"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-28",
+      "localizedNames": {
+        "de": "Anniversary of the Fall of Fascism and Freedom Day",
+        "en": "Anniversary of the Fall of Fascism and Freedom Day",
+        "es": "Anniversary of the Fall of Fascism and Freedom Day",
+        "fr": "Anniversary of the Fall of Fascism and Freedom Day",
+        "ja": "Anniversary of the Fall of Fascism and Freedom Day",
+        "ko": "Anniversary of the Fall of Fascism and Freedom Day",
+        "pt": "Anniversary of the Fall of Fascism and Freedom Day",
+        "zh": "Anniversary of the Fall of Fascism and Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-03",
+      "localizedNames": {
+        "de": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "en": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "es": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "fr": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "ja": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "ko": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "pt": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "zh": "Saint Marinus' Day, Anniversary of the Founding of the Republic"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Commemoration of the Dead",
+        "en": "Commemoration of the Dead",
+        "es": "Commemoration of the Dead",
+        "fr": "Commemoration of the Dead",
+        "ja": "Commemoration of the Dead",
+        "ko": "Commemoration of the Dead",
+        "pt": "Commemoration of the Dead",
+        "zh": "Commemoration of the Dead"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-05",
+      "localizedNames": {
+        "de": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "en": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "es": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "fr": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "ja": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "ko": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "pt": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha",
+        "zh": "Anniversary of the Liberation of the Republic and Feast of Saint Agatha"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Anniversary of the Arengo",
+        "en": "Anniversary of the Arengo",
+        "es": "Anniversary of the Arengo",
+        "fr": "Anniversary of the Arengo",
+        "ja": "Anniversary of the Arengo",
+        "ko": "Anniversary of the Arengo",
+        "pt": "Anniversary of the Arengo",
+        "zh": "Anniversary of the Arengo"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-01",
+      "localizedNames": {
+        "de": "Easter Monday; Investiture of Captains Regent",
+        "en": "Easter Monday; Investiture of Captains Regent",
+        "es": "Easter Monday; Investiture of Captains Regent",
+        "fr": "Easter Monday; Investiture of Captains Regent",
+        "ja": "Easter Monday; Investiture of Captains Regent",
+        "ko": "Easter Monday; Investiture of Captains Regent",
+        "pt": "Easter Monday; Investiture of Captains Regent",
+        "zh": "Easter Monday; Investiture of Captains Regent"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-28",
+      "localizedNames": {
+        "de": "Anniversary of the Fall of Fascism and Freedom Day",
+        "en": "Anniversary of the Fall of Fascism and Freedom Day",
+        "es": "Anniversary of the Fall of Fascism and Freedom Day",
+        "fr": "Anniversary of the Fall of Fascism and Freedom Day",
+        "ja": "Anniversary of the Fall of Fascism and Freedom Day",
+        "ko": "Anniversary of the Fall of Fascism and Freedom Day",
+        "pt": "Anniversary of the Fall of Fascism and Freedom Day",
+        "zh": "Anniversary of the Fall of Fascism and Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-03",
+      "localizedNames": {
+        "de": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "en": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "es": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "fr": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "ja": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "ko": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "pt": "Saint Marinus' Day, Anniversary of the Founding of the Republic",
+        "zh": "Saint Marinus' Day, Anniversary of the Founding of the Republic"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Commemoration of the Dead",
+        "en": "Commemoration of the Dead",
+        "es": "Commemoration of the Dead",
+        "fr": "Commemoration of the Dead",
+        "ja": "Commemoration of the Dead",
+        "ko": "Commemoration of the Dead",
+        "pt": "Commemoration of the Dead",
+        "zh": "Commemoration of the Dead"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Saint Stephen's Day",
+        "en": "Saint Stephen's Day",
+        "es": "Saint Stephen's Day",
+        "fr": "Saint Stephen's Day",
+        "ja": "Saint Stephen's Day",
+        "ko": "Saint Stephen's Day",
+        "pt": "Saint Stephen's Day",
+        "zh": "Saint Stephen's Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/San_Marino",
+  "years": [
+    2026,
+    2027
+  ]
+}

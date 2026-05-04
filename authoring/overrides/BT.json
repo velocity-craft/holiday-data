@@ -1,0 +1,43 @@
+{
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "timeZone": "Asia/Thimphu",
+  "holidays": [
+    {
+      "template": "bt_winter_solstice",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "bt_birth_anniversary_of_his_majesty_the_kin",
+      "rule": "fixed_feb_21"
+    },
+    {
+      "template": "bt_birth_anniversary_of_the_3rd_druk_gyalpo",
+      "rule": "fixed_may_2"
+    },
+    {
+      "template": "bt_blessed_rainy_day",
+      "rule": "fixed_sep_23"
+    },
+    {
+      "template": "bt_birth_anniversary_of_the_4th_druk_gyalpo",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "bt_birth_anniversary_of_the_4th_druk_gyalpo",
+      "rule": "fixed_nov_11"
+    },
+    {
+      "template": "bt_coronation_of_his_majesty_the_king",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "bt_coronation_of_his_majesty_the_king_desce",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_dec_17"
+    }
+  ]
+}

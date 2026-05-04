@@ -1,0 +1,334 @@
+{
+  "countryCode": "CI",
+  "countryName": "Côte d'Ivoire",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-12",
+      "localizedNames": {
+        "de": "2024 African Cup of Nations Victory",
+        "en": "2024 African Cup of Nations Victory",
+        "es": "2024 African Cup of Nations Victory",
+        "fr": "2024 African Cup of Nations Victory",
+        "ja": "2024 African Cup of Nations Victory",
+        "ko": "2024 African Cup of Nations Victory",
+        "pt": "2024 African Cup of Nations Victory",
+        "zh": "2024 African Cup of Nations Victory"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-31",
+      "localizedNames": {
+        "de": "Day after the Eid al-Fitr",
+        "en": "Day after the Eid al-Fitr",
+        "es": "Day after the Eid al-Fitr",
+        "fr": "Day after the Eid al-Fitr",
+        "ja": "Day after the Eid al-Fitr",
+        "ko": "Day after the Eid al-Fitr",
+        "pt": "Day after the Eid al-Fitr",
+        "zh": "Day after the Eid al-Fitr"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-17",
+      "localizedNames": {
+        "de": "Day after the Eid al-Adha; Whit Monday",
+        "en": "Day after the Eid al-Adha; Whit Monday",
+        "es": "Day after the Eid al-Adha; Whit Monday",
+        "fr": "Day after the Eid al-Adha; Whit Monday",
+        "ja": "Day after the Eid al-Adha; Whit Monday",
+        "ko": "Day after the Eid al-Adha; Whit Monday",
+        "pt": "Day after the Eid al-Adha; Whit Monday",
+        "zh": "Day after the Eid al-Adha; Whit Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Day after the Eid al-Adha",
+        "en": "Day after the Eid al-Adha",
+        "es": "Day after the Eid al-Adha",
+        "fr": "Day after the Eid al-Adha",
+        "ja": "Day after the Eid al-Adha",
+        "ko": "Day after the Eid al-Adha",
+        "pt": "Day after the Eid al-Adha",
+        "zh": "Day after the Eid al-Adha"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-07",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-15",
+      "localizedNames": {
+        "de": "National Peace Day",
+        "en": "National Peace Day",
+        "es": "National Peace Day",
+        "fr": "National Peace Day",
+        "ja": "National Peace Day",
+        "ko": "National Peace Day",
+        "pt": "National Peace Day",
+        "zh": "National Peace Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-12",
+      "localizedNames": {
+        "de": "2024 African Cup of Nations Victory",
+        "en": "2024 African Cup of Nations Victory",
+        "es": "2024 African Cup of Nations Victory",
+        "fr": "2024 African Cup of Nations Victory",
+        "ja": "2024 African Cup of Nations Victory",
+        "ko": "2024 African Cup of Nations Victory",
+        "pt": "2024 African Cup of Nations Victory",
+        "zh": "2024 African Cup of Nations Victory"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-31",
+      "localizedNames": {
+        "de": "Day after the Eid al-Fitr",
+        "en": "Day after the Eid al-Fitr",
+        "es": "Day after the Eid al-Fitr",
+        "fr": "Day after the Eid al-Fitr",
+        "ja": "Day after the Eid al-Fitr",
+        "ko": "Day after the Eid al-Fitr",
+        "pt": "Day after the Eid al-Fitr",
+        "zh": "Day after the Eid al-Fitr"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Day after the Eid al-Adha; Whit Monday",
+        "en": "Day after the Eid al-Adha; Whit Monday",
+        "es": "Day after the Eid al-Adha; Whit Monday",
+        "fr": "Day after the Eid al-Adha; Whit Monday",
+        "ja": "Day after the Eid al-Adha; Whit Monday",
+        "ko": "Day after the Eid al-Adha; Whit Monday",
+        "pt": "Day after the Eid al-Adha; Whit Monday",
+        "zh": "Day after the Eid al-Adha; Whit Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-17",
+      "localizedNames": {
+        "de": "Day after the Eid al-Adha",
+        "en": "Day after the Eid al-Adha",
+        "es": "Day after the Eid al-Adha",
+        "fr": "Day after the Eid al-Adha",
+        "ja": "Day after the Eid al-Adha",
+        "ko": "Day after the Eid al-Adha",
+        "pt": "Day after the Eid al-Adha",
+        "zh": "Day after the Eid al-Adha"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-07",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-15",
+      "localizedNames": {
+        "de": "National Peace Day",
+        "en": "National Peace Day",
+        "es": "National Peace Day",
+        "fr": "National Peace Day",
+        "ja": "National Peace Day",
+        "ko": "National Peace Day",
+        "pt": "National Peace Day",
+        "zh": "National Peace Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Abidjan",
+  "years": [
+    2026,
+    2027
+  ]
+}

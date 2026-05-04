@@ -1,0 +1,59 @@
+{
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "timeZone": "America/Panama",
+  "holidays": [
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_jan_9"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ag_carnival_tuesday",
+      "rule": "offset_computus_western_neg47"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ng_presidential_inauguration_day",
+      "rule": "fixed_jul_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_28"
+    },
+    {
+      "template": "pa_colon_day",
+      "rule": "fixed_nov_5"
+    },
+    {
+      "template": "pa_los_santos_uprising_day",
+      "rule": "fixed_nov_10"
+    },
+    {
+      "template": "pa_separation_day",
+      "rule": "fixed_nov_3"
+    },
+    {
+      "template": "bd_national_mourning_day",
+      "rule": "fixed_dec_20"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "mothers_day",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "timeZone": "Asia/Qatar",
+  "holidays": [
+    {
+      "template": "lc_new_year_s_holiday",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "qa_national_sports_day",
+      "rule": "nth_tue_feb_2"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "qa_qatar_national_day",
+      "rule": "fixed_dec_18"
+    }
+  ]
+}

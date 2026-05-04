@@ -1,0 +1,59 @@
+{
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "timeZone": "Africa/Cairo",
+  "holidays": [
+    {
+      "template": "eg_coptic_christmas_day",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "eg_january_25th_revolution_and_national_pol",
+      "rule": "fixed_jan_25"
+    },
+    {
+      "template": "eg_sinai_liberation_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "eg_june_30_revolution_day",
+      "rule": "fixed_jun_30"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "eg_july_23_revolution_day",
+      "rule": "fixed_jul_23"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "armed_forces_day_generic",
+      "rule": "fixed_oct_6"
+    }
+  ]
+}

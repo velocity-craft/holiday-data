@@ -1,0 +1,208 @@
+{
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "The Day After New Year's Day",
+        "en": "The Day After New Year's Day",
+        "es": "The Day After New Year's Day",
+        "fr": "The Day After New Year's Day",
+        "ja": "The Day After New Year's Day",
+        "ko": "The Day After New Year's Day",
+        "pt": "The Day After New Year's Day",
+        "zh": "The Day After New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Day After Good Friday",
+        "en": "Day After Good Friday",
+        "es": "Day After Good Friday",
+        "fr": "Day After Good Friday",
+        "ja": "Day After Good Friday",
+        "ko": "Day After Good Friday",
+        "pt": "Day After Good Friday",
+        "zh": "Day After Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "White Sunday (Lotu a Tamaiti)",
+        "en": "White Sunday (Lotu a Tamaiti)",
+        "es": "White Sunday (Lotu a Tamaiti)",
+        "fr": "White Sunday (Lotu a Tamaiti)",
+        "ja": "White Sunday (Lotu a Tamaiti)",
+        "ko": "White Sunday (Lotu a Tamaiti)",
+        "pt": "White Sunday (Lotu a Tamaiti)",
+        "zh": "White Sunday (Lotu a Tamaiti)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "The Day After New Year's Day",
+        "en": "The Day After New Year's Day",
+        "es": "The Day After New Year's Day",
+        "fr": "The Day After New Year's Day",
+        "ja": "The Day After New Year's Day",
+        "ko": "The Day After New Year's Day",
+        "pt": "The Day After New Year's Day",
+        "zh": "The Day After New Year's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-27",
+      "localizedNames": {
+        "de": "Day After Good Friday",
+        "en": "Day After Good Friday",
+        "es": "Day After Good Friday",
+        "fr": "Day After Good Friday",
+        "ja": "Day After Good Friday",
+        "ko": "Day After Good Friday",
+        "pt": "Day After Good Friday",
+        "zh": "Day After Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "White Sunday (Lotu a Tamaiti)",
+        "en": "White Sunday (Lotu a Tamaiti)",
+        "es": "White Sunday (Lotu a Tamaiti)",
+        "fr": "White Sunday (Lotu a Tamaiti)",
+        "ja": "White Sunday (Lotu a Tamaiti)",
+        "ko": "White Sunday (Lotu a Tamaiti)",
+        "pt": "White Sunday (Lotu a Tamaiti)",
+        "zh": "White Sunday (Lotu a Tamaiti)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Apia",
+  "years": [
+    2026,
+    2027
+  ]
+}

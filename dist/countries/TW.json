@@ -1,0 +1,236 @@
+{
+  "countryCode": "TW",
+  "countryName": "Taiwan, Province of China",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Founding Day of the Republic of China",
+        "en": "Founding Day of the Republic of China",
+        "es": "Founding Day of the Republic of China",
+        "fr": "Founding Day of the Republic of China",
+        "ja": "Founding Day of the Republic of China",
+        "ko": "Founding Day of the Republic of China",
+        "pt": "Founding Day of the Republic of China",
+        "zh": "Founding Day of the Republic of China"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-28",
+      "localizedNames": {
+        "de": "Peace Memorial Day",
+        "en": "Peace Memorial Day",
+        "es": "Peace Memorial Day",
+        "fr": "Peace Memorial Day",
+        "ja": "Peace Memorial Day",
+        "ko": "Peace Memorial Day",
+        "pt": "Peace Memorial Day",
+        "zh": "Peace Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-04",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Tomb-Sweeping Day",
+        "en": "Tomb-Sweeping Day",
+        "es": "Tomb-Sweeping Day",
+        "fr": "Tomb-Sweeping Day",
+        "ja": "Tomb-Sweeping Day",
+        "ko": "Tomb-Sweeping Day",
+        "pt": "Tomb-Sweeping Day",
+        "zh": "Tomb-Sweeping Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-28",
+      "localizedNames": {
+        "de": "Confucius' Birthday",
+        "en": "Confucius' Birthday",
+        "es": "Confucius' Birthday",
+        "fr": "Confucius' Birthday",
+        "ja": "Confucius' Birthday",
+        "ko": "Confucius' Birthday",
+        "pt": "Confucius' Birthday",
+        "zh": "Confucius' Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-10",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-25",
+      "localizedNames": {
+        "de": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "en": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "es": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "fr": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "ja": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "ko": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "pt": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "zh": "Taiwan Restoration and Guningtou Victory Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Founding Day of the Republic of China",
+        "en": "Founding Day of the Republic of China",
+        "es": "Founding Day of the Republic of China",
+        "fr": "Founding Day of the Republic of China",
+        "ja": "Founding Day of the Republic of China",
+        "ko": "Founding Day of the Republic of China",
+        "pt": "Founding Day of the Republic of China",
+        "zh": "Founding Day of the Republic of China"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-28",
+      "localizedNames": {
+        "de": "Peace Memorial Day",
+        "en": "Peace Memorial Day",
+        "es": "Peace Memorial Day",
+        "fr": "Peace Memorial Day",
+        "ja": "Peace Memorial Day",
+        "ko": "Peace Memorial Day",
+        "pt": "Peace Memorial Day",
+        "zh": "Peace Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-04",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-05",
+      "localizedNames": {
+        "de": "Tomb-Sweeping Day",
+        "en": "Tomb-Sweeping Day",
+        "es": "Tomb-Sweeping Day",
+        "fr": "Tomb-Sweeping Day",
+        "ja": "Tomb-Sweeping Day",
+        "ko": "Tomb-Sweeping Day",
+        "pt": "Tomb-Sweeping Day",
+        "zh": "Tomb-Sweeping Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-28",
+      "localizedNames": {
+        "de": "Confucius' Birthday",
+        "en": "Confucius' Birthday",
+        "es": "Confucius' Birthday",
+        "fr": "Confucius' Birthday",
+        "ja": "Confucius' Birthday",
+        "ko": "Confucius' Birthday",
+        "pt": "Confucius' Birthday",
+        "zh": "Confucius' Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-10",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-25",
+      "localizedNames": {
+        "de": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "en": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "es": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "fr": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "ja": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "ko": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "pt": "Taiwan Restoration and Guningtou Victory Memorial Day",
+        "zh": "Taiwan Restoration and Guningtou Victory Memorial Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Taipei",
+  "years": [
+    2026,
+    2027
+  ]
+}

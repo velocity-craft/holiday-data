@@ -1,0 +1,152 @@
+{
+  "countryCode": "AW",
+  "countryName": "Aruba",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-25",
+      "localizedNames": {
+        "de": "Betico Day",
+        "en": "Betico Day",
+        "es": "Betico Day",
+        "fr": "Betico Day",
+        "ja": "Betico Day",
+        "ko": "Betico Day",
+        "pt": "Betico Day",
+        "zh": "Betico Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Monday before Ash Wednesday",
+        "en": "Monday before Ash Wednesday",
+        "es": "Monday before Ash Wednesday",
+        "fr": "Monday before Ash Wednesday",
+        "ja": "Monday before Ash Wednesday",
+        "ko": "Monday before Ash Wednesday",
+        "pt": "Monday before Ash Wednesday",
+        "zh": "Monday before Ash Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-18",
+      "localizedNames": {
+        "de": "National Anthem and Flag Day",
+        "en": "National Anthem and Flag Day",
+        "es": "National Anthem and Flag Day",
+        "fr": "National Anthem and Flag Day",
+        "ja": "National Anthem and Flag Day",
+        "ko": "National Anthem and Flag Day",
+        "pt": "National Anthem and Flag Day",
+        "zh": "National Anthem and Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-25",
+      "localizedNames": {
+        "de": "Betico Day",
+        "en": "Betico Day",
+        "es": "Betico Day",
+        "fr": "Betico Day",
+        "ja": "Betico Day",
+        "ko": "Betico Day",
+        "pt": "Betico Day",
+        "zh": "Betico Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-08",
+      "localizedNames": {
+        "de": "Monday before Ash Wednesday",
+        "en": "Monday before Ash Wednesday",
+        "es": "Monday before Ash Wednesday",
+        "fr": "Monday before Ash Wednesday",
+        "ja": "Monday before Ash Wednesday",
+        "ko": "Monday before Ash Wednesday",
+        "pt": "Monday before Ash Wednesday",
+        "zh": "Monday before Ash Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-18",
+      "localizedNames": {
+        "de": "National Anthem and Flag Day",
+        "en": "National Anthem and Flag Day",
+        "es": "National Anthem and Flag Day",
+        "fr": "National Anthem and Flag Day",
+        "ja": "National Anthem and Flag Day",
+        "ko": "National Anthem and Flag Day",
+        "pt": "National Anthem and Flag Day",
+        "zh": "National Anthem and Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Aruba",
+  "years": [
+    2026,
+    2027
+  ]
+}

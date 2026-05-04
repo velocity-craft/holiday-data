@@ -1,0 +1,27 @@
+{
+  "countryCode": "MO",
+  "countryName": "Macao",
+  "timeZone": "Asia/Macau",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "qingming",
+      "rule": "solar_term_qingming"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "mo_national_day_of_the_people_s_republic_of",
+      "rule": "fixed_oct_1"
+    },
+    {
+      "template": "mo_macao_s_a_r_establishment_day",
+      "rule": "fixed_dec_20"
+    }
+  ]
+}

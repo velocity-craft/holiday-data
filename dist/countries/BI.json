@@ -1,0 +1,348 @@
+{
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-05",
+      "localizedNames": {
+        "de": "Unity Day",
+        "en": "Unity Day",
+        "es": "Unity Day",
+        "fr": "Unity Day",
+        "ja": "Unity Day",
+        "ko": "Unity Day",
+        "pt": "Unity Day",
+        "zh": "Unity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-06",
+      "localizedNames": {
+        "de": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "en": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "es": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "fr": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ja": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ko": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "pt": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "zh": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-08",
+      "localizedNames": {
+        "de": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "en": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "es": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "fr": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "ja": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "ko": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "pt": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "zh": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-13",
+      "localizedNames": {
+        "de": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "en": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "es": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "fr": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "ja": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "ko": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "pt": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "zh": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-21",
+      "localizedNames": {
+        "de": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "en": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "es": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "fr": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ja": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ko": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "pt": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "zh": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-05",
+      "localizedNames": {
+        "de": "Unity Day",
+        "en": "Unity Day",
+        "es": "Unity Day",
+        "fr": "Unity Day",
+        "ja": "Unity Day",
+        "ko": "Unity Day",
+        "pt": "Unity Day",
+        "zh": "Unity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-06",
+      "localizedNames": {
+        "de": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "en": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "es": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "fr": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ja": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ko": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "pt": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "zh": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-08",
+      "localizedNames": {
+        "de": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "en": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "es": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "fr": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "ja": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "ko": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "pt": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza",
+        "zh": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Assumption Day",
+        "en": "Assumption Day",
+        "es": "Assumption Day",
+        "fr": "Assumption Day",
+        "ja": "Assumption Day",
+        "ko": "Assumption Day",
+        "pt": "Assumption Day",
+        "zh": "Assumption Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-13",
+      "localizedNames": {
+        "de": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "en": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "es": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "fr": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "ja": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "ko": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "pt": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore",
+        "zh": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-21",
+      "localizedNames": {
+        "de": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "en": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "es": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "fr": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ja": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "ko": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "pt": "Commemoration of the Assassination of President Cyprien Ntaryamira",
+        "zh": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Bujumbura",
+  "years": [
+    2026,
+    2027
+  ]
+}

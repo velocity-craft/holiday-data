@@ -1,0 +1,43 @@
+{
+  "countryCode": "CU",
+  "countryName": "Cuba",
+  "timeZone": "America/Havana",
+  "holidays": [
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "cu_commemoration_of_the_assault_of_the_monc",
+      "rule": "fixed_jul_25"
+    },
+    {
+      "template": "cu_day_of_the_national_rebellion",
+      "rule": "fixed_jul_26"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_oct_10"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "new_year_eve",
+      "rule": "fixed_dec_31"
+    }
+  ]
+}

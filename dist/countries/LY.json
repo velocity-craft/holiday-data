@@ -1,0 +1,292 @@
+{
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "holidays": [
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "Anniversary of the February 17 Revolution",
+        "en": "Anniversary of the February 17 Revolution",
+        "es": "Anniversary of the February 17 Revolution",
+        "fr": "Anniversary of the February 17 Revolution",
+        "ja": "Anniversary of the February 17 Revolution",
+        "ko": "Anniversary of the February 17 Revolution",
+        "pt": "Anniversary of the February 17 Revolution",
+        "zh": "Anniversary of the February 17 Revolution"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-26",
+      "localizedNames": {
+        "de": "Arafat Day",
+        "en": "Arafat Day",
+        "es": "Arafat Day",
+        "fr": "Arafat Day",
+        "ja": "Arafat Day",
+        "ko": "Arafat Day",
+        "pt": "Arafat Day",
+        "zh": "Arafat Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-14",
+      "localizedNames": {
+        "de": "National Environmental Sanitation Day",
+        "en": "National Environmental Sanitation Day",
+        "es": "National Environmental Sanitation Day",
+        "fr": "National Environmental Sanitation Day",
+        "ja": "National Environmental Sanitation Day",
+        "ko": "National Environmental Sanitation Day",
+        "pt": "National Environmental Sanitation Day",
+        "zh": "National Environmental Sanitation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-16",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-23",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-24",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-17",
+      "localizedNames": {
+        "de": "Anniversary of the February 17 Revolution",
+        "en": "Anniversary of the February 17 Revolution",
+        "es": "Anniversary of the February 17 Revolution",
+        "fr": "Anniversary of the February 17 Revolution",
+        "ja": "Anniversary of the February 17 Revolution",
+        "ko": "Anniversary of the February 17 Revolution",
+        "pt": "Anniversary of the February 17 Revolution",
+        "zh": "Anniversary of the February 17 Revolution"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-16",
+      "localizedNames": {
+        "de": "Arafat Day",
+        "en": "Arafat Day",
+        "es": "Arafat Day",
+        "fr": "Arafat Day",
+        "ja": "Arafat Day",
+        "ko": "Arafat Day",
+        "pt": "Arafat Day",
+        "zh": "Arafat Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-14",
+      "localizedNames": {
+        "de": "National Environmental Sanitation Day",
+        "en": "National Environmental Sanitation Day",
+        "es": "National Environmental Sanitation Day",
+        "fr": "National Environmental Sanitation Day",
+        "ja": "National Environmental Sanitation Day",
+        "ko": "National Environmental Sanitation Day",
+        "pt": "National Environmental Sanitation Day",
+        "zh": "National Environmental Sanitation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-16",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-23",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-24",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Tripoli",
+  "years": [
+    2026,
+    2027
+  ]
+}

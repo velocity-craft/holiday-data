@@ -1,0 +1,292 @@
+{
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-10",
+      "localizedNames": {
+        "de": "National Tree Growing Day",
+        "en": "National Tree Growing Day",
+        "es": "National Tree Growing Day",
+        "fr": "National Tree Growing Day",
+        "ja": "National Tree Growing Day",
+        "ko": "National Tree Growing Day",
+        "pt": "National Tree Growing Day",
+        "zh": "National Tree Growing Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "Madaraka Day",
+        "en": "Madaraka Day",
+        "es": "Madaraka Day",
+        "fr": "Madaraka Day",
+        "ja": "Madaraka Day",
+        "ko": "Madaraka Day",
+        "pt": "Madaraka Day",
+        "zh": "Madaraka Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-10",
+      "localizedNames": {
+        "de": "Mazingira Day",
+        "en": "Mazingira Day",
+        "es": "Mazingira Day",
+        "fr": "Mazingira Day",
+        "ja": "Mazingira Day",
+        "ko": "Mazingira Day",
+        "pt": "Mazingira Day",
+        "zh": "Mazingira Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-20",
+      "localizedNames": {
+        "de": "Mashujaa Day",
+        "en": "Mashujaa Day",
+        "es": "Mashujaa Day",
+        "fr": "Mashujaa Day",
+        "ja": "Mashujaa Day",
+        "ko": "Mashujaa Day",
+        "pt": "Mashujaa Day",
+        "zh": "Mashujaa Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Inauguration Day",
+        "en": "Inauguration Day",
+        "es": "Inauguration Day",
+        "fr": "Inauguration Day",
+        "ja": "Inauguration Day",
+        "ko": "Inauguration Day",
+        "pt": "Inauguration Day",
+        "zh": "Inauguration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-12",
+      "localizedNames": {
+        "de": "Jamhuri Day",
+        "en": "Jamhuri Day",
+        "es": "Jamhuri Day",
+        "fr": "Jamhuri Day",
+        "ja": "Jamhuri Day",
+        "ko": "Jamhuri Day",
+        "pt": "Jamhuri Day",
+        "zh": "Jamhuri Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-10",
+      "localizedNames": {
+        "de": "National Tree Growing Day",
+        "en": "National Tree Growing Day",
+        "es": "National Tree Growing Day",
+        "fr": "National Tree Growing Day",
+        "ja": "National Tree Growing Day",
+        "ko": "National Tree Growing Day",
+        "pt": "National Tree Growing Day",
+        "zh": "National Tree Growing Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "Madaraka Day",
+        "en": "Madaraka Day",
+        "es": "Madaraka Day",
+        "fr": "Madaraka Day",
+        "ja": "Madaraka Day",
+        "ko": "Madaraka Day",
+        "pt": "Madaraka Day",
+        "zh": "Madaraka Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-10",
+      "localizedNames": {
+        "de": "Mazingira Day",
+        "en": "Mazingira Day",
+        "es": "Mazingira Day",
+        "fr": "Mazingira Day",
+        "ja": "Mazingira Day",
+        "ko": "Mazingira Day",
+        "pt": "Mazingira Day",
+        "zh": "Mazingira Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-20",
+      "localizedNames": {
+        "de": "Mashujaa Day",
+        "en": "Mashujaa Day",
+        "es": "Mashujaa Day",
+        "fr": "Mashujaa Day",
+        "ja": "Mashujaa Day",
+        "ko": "Mashujaa Day",
+        "pt": "Mashujaa Day",
+        "zh": "Mashujaa Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Inauguration Day",
+        "en": "Inauguration Day",
+        "es": "Inauguration Day",
+        "fr": "Inauguration Day",
+        "ja": "Inauguration Day",
+        "ko": "Inauguration Day",
+        "pt": "Inauguration Day",
+        "zh": "Inauguration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-12",
+      "localizedNames": {
+        "de": "Jamhuri Day",
+        "en": "Jamhuri Day",
+        "es": "Jamhuri Day",
+        "fr": "Jamhuri Day",
+        "ja": "Jamhuri Day",
+        "ko": "Jamhuri Day",
+        "pt": "Jamhuri Day",
+        "zh": "Jamhuri Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Nairobi",
+  "years": [
+    2026,
+    2027
+  ]
+}

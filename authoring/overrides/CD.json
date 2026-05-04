@@ -1,0 +1,51 @@
+{
+  "countryCode": "CD",
+  "countryName": "Congo, The Democratic Republic of the",
+  "timeZone": "Africa/Kinshasa",
+  "holidays": [
+    {
+      "template": "cd_national_hero_laurent_d_sir_kabila_day",
+      "rule": "fixed_jan_16"
+    },
+    {
+      "template": "cd_national_hero_patrice_emery_lumumba_day",
+      "rule": "fixed_jan_17"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_jan_4"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "cd_day_of_the_struggle_of_simon_kimbangu_an",
+      "rule": "fixed_apr_6"
+    },
+    {
+      "template": "cd_revolution_and_armed_forces_day",
+      "rule": "fixed_may_17"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jun_30"
+    },
+    {
+      "template": "cd_congolese_genocide_memorial_day",
+      "rule": "fixed_aug_2"
+    },
+    {
+      "template": "cd_parents_day",
+      "rule": "fixed_aug_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

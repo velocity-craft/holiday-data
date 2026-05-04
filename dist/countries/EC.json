@@ -1,0 +1,236 @@
+{
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Carnival",
+        "en": "Carnival",
+        "es": "Carnival",
+        "fr": "Carnival",
+        "ja": "Carnival",
+        "ko": "Carnival",
+        "pt": "Carnival",
+        "zh": "Carnival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-24",
+      "localizedNames": {
+        "de": "The Battle of Pichincha",
+        "en": "The Battle of Pichincha",
+        "es": "The Battle of Pichincha",
+        "fr": "The Battle of Pichincha",
+        "ja": "The Battle of Pichincha",
+        "ko": "The Battle of Pichincha",
+        "pt": "The Battle of Pichincha",
+        "zh": "The Battle of Pichincha"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-10",
+      "localizedNames": {
+        "de": "Declaration of Independence of Quito",
+        "en": "Declaration of Independence of Quito",
+        "es": "Declaration of Independence of Quito",
+        "fr": "Declaration of Independence of Quito",
+        "ja": "Declaration of Independence of Quito",
+        "ko": "Declaration of Independence of Quito",
+        "pt": "Declaration of Independence of Quito",
+        "zh": "Declaration of Independence of Quito"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-09",
+      "localizedNames": {
+        "de": "Independence of Guayaquil",
+        "en": "Independence of Guayaquil",
+        "es": "Independence of Guayaquil",
+        "fr": "Independence of Guayaquil",
+        "ja": "Independence of Guayaquil",
+        "ko": "Independence of Guayaquil",
+        "pt": "Independence of Guayaquil",
+        "zh": "Independence of Guayaquil"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-03",
+      "localizedNames": {
+        "de": "Independence of Cuenca",
+        "en": "Independence of Cuenca",
+        "es": "Independence of Cuenca",
+        "fr": "Independence of Cuenca",
+        "ja": "Independence of Cuenca",
+        "ko": "Independence of Cuenca",
+        "pt": "Independence of Cuenca",
+        "zh": "Independence of Cuenca"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-08",
+      "localizedNames": {
+        "de": "Carnival",
+        "en": "Carnival",
+        "es": "Carnival",
+        "fr": "Carnival",
+        "ja": "Carnival",
+        "ko": "Carnival",
+        "pt": "Carnival",
+        "zh": "Carnival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-24",
+      "localizedNames": {
+        "de": "The Battle of Pichincha",
+        "en": "The Battle of Pichincha",
+        "es": "The Battle of Pichincha",
+        "fr": "The Battle of Pichincha",
+        "ja": "The Battle of Pichincha",
+        "ko": "The Battle of Pichincha",
+        "pt": "The Battle of Pichincha",
+        "zh": "The Battle of Pichincha"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-10",
+      "localizedNames": {
+        "de": "Declaration of Independence of Quito",
+        "en": "Declaration of Independence of Quito",
+        "es": "Declaration of Independence of Quito",
+        "fr": "Declaration of Independence of Quito",
+        "ja": "Declaration of Independence of Quito",
+        "ko": "Declaration of Independence of Quito",
+        "pt": "Declaration of Independence of Quito",
+        "zh": "Declaration of Independence of Quito"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-09",
+      "localizedNames": {
+        "de": "Independence of Guayaquil",
+        "en": "Independence of Guayaquil",
+        "es": "Independence of Guayaquil",
+        "fr": "Independence of Guayaquil",
+        "ja": "Independence of Guayaquil",
+        "ko": "Independence of Guayaquil",
+        "pt": "Independence of Guayaquil",
+        "zh": "Independence of Guayaquil"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-03",
+      "localizedNames": {
+        "de": "Independence of Cuenca",
+        "en": "Independence of Cuenca",
+        "es": "Independence of Cuenca",
+        "fr": "Independence of Cuenca",
+        "ja": "Independence of Cuenca",
+        "ko": "Independence of Cuenca",
+        "pt": "Independence of Cuenca",
+        "zh": "Independence of Cuenca"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Guayaquil",
+  "years": [
+    2026,
+    2027
+  ]
+}

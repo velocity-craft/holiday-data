@@ -1,0 +1,236 @@
+{
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-19",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "National Flag Day",
+        "en": "National Flag Day",
+        "es": "National Flag Day",
+        "fr": "National Flag Day",
+        "ja": "National Flag Day",
+        "ko": "National Flag Day",
+        "pt": "National Flag Day",
+        "zh": "National Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-22",
+      "localizedNames": {
+        "de": "Birthday of Late King Sobhuza",
+        "en": "Birthday of Late King Sobhuza",
+        "es": "Birthday of Late King Sobhuza",
+        "fr": "Birthday of Late King Sobhuza",
+        "ja": "Birthday of Late King Sobhuza",
+        "ko": "Birthday of Late King Sobhuza",
+        "pt": "Birthday of Late King Sobhuza",
+        "zh": "Birthday of Late King Sobhuza"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-06",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-19",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "National Flag Day",
+        "en": "National Flag Day",
+        "es": "National Flag Day",
+        "fr": "National Flag Day",
+        "ja": "National Flag Day",
+        "ko": "National Flag Day",
+        "pt": "National Flag Day",
+        "zh": "National Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Worker's Day",
+        "en": "Worker's Day",
+        "es": "Worker's Day",
+        "fr": "Worker's Day",
+        "ja": "Worker's Day",
+        "ko": "Worker's Day",
+        "pt": "Worker's Day",
+        "zh": "Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-22",
+      "localizedNames": {
+        "de": "Birthday of Late King Sobhuza",
+        "en": "Birthday of Late King Sobhuza",
+        "es": "Birthday of Late King Sobhuza",
+        "fr": "Birthday of Late King Sobhuza",
+        "ja": "Birthday of Late King Sobhuza",
+        "ko": "Birthday of Late King Sobhuza",
+        "pt": "Birthday of Late King Sobhuza",
+        "zh": "Birthday of Late King Sobhuza"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-06",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Mbabane",
+  "years": [
+    2026,
+    2027
+  ]
+}

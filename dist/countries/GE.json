@@ -1,0 +1,348 @@
+{
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-19",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-09",
+      "localizedNames": {
+        "de": "Tag der nationalen Einheit",
+        "en": "National Unity Day",
+        "es": "Día de la Unidad Nacional",
+        "fr": "Journée de l'Unité nationale",
+        "ja": "国家統一記念日",
+        "ko": "국가통합의 날",
+        "pt": "Dia da Unidade Nacional",
+        "zh": "国家统一日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-11",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-09",
+      "localizedNames": {
+        "de": "Day of Victory over Fascism",
+        "en": "Day of Victory over Fascism",
+        "es": "Day of Victory over Fascism",
+        "fr": "Day of Victory over Fascism",
+        "ja": "Day of Victory over Fascism",
+        "ko": "Day of Victory over Fascism",
+        "pt": "Day of Victory over Fascism",
+        "zh": "Day of Victory over Fascism"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-12",
+      "localizedNames": {
+        "de": "Saint Andrew's Day",
+        "en": "Saint Andrew's Day",
+        "es": "Saint Andrew's Day",
+        "fr": "Saint Andrew's Day",
+        "ja": "Saint Andrew's Day",
+        "ko": "Saint Andrew's Day",
+        "pt": "Saint Andrew's Day",
+        "zh": "Saint Andrew's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-17",
+      "localizedNames": {
+        "de": "Day of Family Sanctity and Respect for Parents",
+        "en": "Day of Family Sanctity and Respect for Parents",
+        "es": "Day of Family Sanctity and Respect for Parents",
+        "fr": "Day of Family Sanctity and Respect for Parents",
+        "ja": "Day of Family Sanctity and Respect for Parents",
+        "ko": "Day of Family Sanctity and Respect for Parents",
+        "pt": "Day of Family Sanctity and Respect for Parents",
+        "zh": "Day of Family Sanctity and Respect for Parents"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-28",
+      "localizedNames": {
+        "de": "Dormition of the Mother of God",
+        "en": "Dormition of the Mother of God",
+        "es": "Dormition of the Mother of God",
+        "fr": "Dormition of the Mother of God",
+        "ja": "Dormition of the Mother of God",
+        "ko": "Dormition of the Mother of God",
+        "pt": "Dormition of the Mother of God",
+        "zh": "Dormition of the Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-14",
+      "localizedNames": {
+        "de": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "en": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "es": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "fr": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "ja": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "ko": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "pt": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "zh": "Holiday of Svetitskhovloba, Robe of Jesus"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-23",
+      "localizedNames": {
+        "de": "Saint George's Day",
+        "en": "Saint George's Day",
+        "es": "Saint George's Day",
+        "fr": "Saint George's Day",
+        "ja": "Saint George's Day",
+        "ko": "Saint George's Day",
+        "pt": "Saint George's Day",
+        "zh": "Saint George's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-19",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-09",
+      "localizedNames": {
+        "de": "Tag der nationalen Einheit",
+        "en": "National Unity Day",
+        "es": "Día de la Unidad Nacional",
+        "fr": "Journée de l'Unité nationale",
+        "ja": "国家統一記念日",
+        "ko": "국가통합의 날",
+        "pt": "Dia da Unidade Nacional",
+        "zh": "国家统一日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-09",
+      "localizedNames": {
+        "de": "Day of Victory over Fascism",
+        "en": "Day of Victory over Fascism",
+        "es": "Day of Victory over Fascism",
+        "fr": "Day of Victory over Fascism",
+        "ja": "Day of Victory over Fascism",
+        "ko": "Day of Victory over Fascism",
+        "pt": "Day of Victory over Fascism",
+        "zh": "Day of Victory over Fascism"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-12",
+      "localizedNames": {
+        "de": "Saint Andrew's Day",
+        "en": "Saint Andrew's Day",
+        "es": "Saint Andrew's Day",
+        "fr": "Saint Andrew's Day",
+        "ja": "Saint Andrew's Day",
+        "ko": "Saint Andrew's Day",
+        "pt": "Saint Andrew's Day",
+        "zh": "Saint Andrew's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Day of Family Sanctity and Respect for Parents",
+        "en": "Day of Family Sanctity and Respect for Parents",
+        "es": "Day of Family Sanctity and Respect for Parents",
+        "fr": "Day of Family Sanctity and Respect for Parents",
+        "ja": "Day of Family Sanctity and Respect for Parents",
+        "ko": "Day of Family Sanctity and Respect for Parents",
+        "pt": "Day of Family Sanctity and Respect for Parents",
+        "zh": "Day of Family Sanctity and Respect for Parents"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-26",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-28",
+      "localizedNames": {
+        "de": "Dormition of the Mother of God",
+        "en": "Dormition of the Mother of God",
+        "es": "Dormition of the Mother of God",
+        "fr": "Dormition of the Mother of God",
+        "ja": "Dormition of the Mother of God",
+        "ko": "Dormition of the Mother of God",
+        "pt": "Dormition of the Mother of God",
+        "zh": "Dormition of the Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-14",
+      "localizedNames": {
+        "de": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "en": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "es": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "fr": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "ja": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "ko": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "pt": "Holiday of Svetitskhovloba, Robe of Jesus",
+        "zh": "Holiday of Svetitskhovloba, Robe of Jesus"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-23",
+      "localizedNames": {
+        "de": "Saint George's Day",
+        "en": "Saint George's Day",
+        "es": "Saint George's Day",
+        "fr": "Saint George's Day",
+        "ja": "Saint George's Day",
+        "ko": "Saint George's Day",
+        "pt": "Saint George's Day",
+        "zh": "Saint George's Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Tbilisi",
+  "years": [
+    2026,
+    2027
+  ]
+}

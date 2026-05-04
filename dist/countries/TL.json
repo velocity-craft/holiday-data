@@ -1,0 +1,488 @@
+{
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-03",
+      "localizedNames": {
+        "de": "Veteran's Day",
+        "en": "Veteran's Day",
+        "es": "Veteran's Day",
+        "fr": "Veteran's Day",
+        "ja": "Veteran's Day",
+        "ko": "Veteran's Day",
+        "pt": "Veteran's Day",
+        "zh": "Veteran's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "International Worker's Day",
+        "en": "International Worker's Day",
+        "es": "International Worker's Day",
+        "fr": "International Worker's Day",
+        "ja": "International Worker's Day",
+        "ko": "International Worker's Day",
+        "pt": "International Worker's Day",
+        "zh": "International Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-20",
+      "localizedNames": {
+        "de": "Restoration of Independence Day",
+        "en": "Restoration of Independence Day",
+        "es": "Restoration of Independence Day",
+        "fr": "Restoration of Independence Day",
+        "ja": "Restoration of Independence Day",
+        "ko": "Restoration of Independence Day",
+        "pt": "Restoration of Independence Day",
+        "zh": "Restoration of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-30",
+      "localizedNames": {
+        "de": "Popular Consultation Day",
+        "en": "Popular Consultation Day",
+        "es": "Popular Consultation Day",
+        "fr": "Popular Consultation Day",
+        "ja": "Popular Consultation Day",
+        "ko": "Popular Consultation Day",
+        "pt": "Popular Consultation Day",
+        "zh": "Popular Consultation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-03",
+      "localizedNames": {
+        "de": "National Women's Day",
+        "en": "National Women's Day",
+        "es": "National Women's Day",
+        "fr": "National Women's Day",
+        "ja": "National Women's Day",
+        "ko": "National Women's Day",
+        "pt": "National Women's Day",
+        "zh": "National Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-12",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-28",
+      "localizedNames": {
+        "de": "Proclamation of Independence Day",
+        "en": "Proclamation of Independence Day",
+        "es": "Proclamation of Independence Day",
+        "fr": "Proclamation of Independence Day",
+        "ja": "Proclamation of Independence Day",
+        "ko": "Proclamation of Independence Day",
+        "pt": "Proclamation of Independence Day",
+        "zh": "Proclamation of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-07",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "en": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "es": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "fr": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "ja": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "ko": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "pt": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "zh": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-03",
+      "localizedNames": {
+        "de": "Veteran's Day",
+        "en": "Veteran's Day",
+        "es": "Veteran's Day",
+        "fr": "Veteran's Day",
+        "ja": "Veteran's Day",
+        "ko": "Veteran's Day",
+        "pt": "Veteran's Day",
+        "zh": "Veteran's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "International Worker's Day",
+        "en": "International Worker's Day",
+        "es": "International Worker's Day",
+        "fr": "International Worker's Day",
+        "ja": "International Worker's Day",
+        "ko": "International Worker's Day",
+        "pt": "International Worker's Day",
+        "zh": "International Worker's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-20",
+      "localizedNames": {
+        "de": "Restoration of Independence Day",
+        "en": "Restoration of Independence Day",
+        "es": "Restoration of Independence Day",
+        "fr": "Restoration of Independence Day",
+        "ja": "Restoration of Independence Day",
+        "ko": "Restoration of Independence Day",
+        "pt": "Restoration of Independence Day",
+        "zh": "Restoration of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-30",
+      "localizedNames": {
+        "de": "Popular Consultation Day",
+        "en": "Popular Consultation Day",
+        "es": "Popular Consultation Day",
+        "fr": "Popular Consultation Day",
+        "ja": "Popular Consultation Day",
+        "ko": "Popular Consultation Day",
+        "pt": "Popular Consultation Day",
+        "zh": "Popular Consultation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-01",
+      "localizedNames": {
+        "de": "Allerheiligen",
+        "en": "All Saints' Day",
+        "es": "Día de Todos los Santos",
+        "fr": "Toussaint",
+        "ja": "諸聖人の日",
+        "ko": "만성절",
+        "pt": "Dia de Todos os Santos",
+        "zh": "万圣节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-02",
+      "localizedNames": {
+        "de": "Allerseelen",
+        "en": "All Souls' Day",
+        "es": "Día de los Difuntos",
+        "fr": "Jour des Défunts",
+        "ja": "万霊節",
+        "ko": "위령의 날",
+        "pt": "Dia de Finados",
+        "zh": "万灵节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-03",
+      "localizedNames": {
+        "de": "National Women's Day",
+        "en": "National Women's Day",
+        "es": "National Women's Day",
+        "fr": "National Women's Day",
+        "ja": "National Women's Day",
+        "ko": "National Women's Day",
+        "pt": "National Women's Day",
+        "zh": "National Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-12",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-28",
+      "localizedNames": {
+        "de": "Proclamation of Independence Day",
+        "en": "Proclamation of Independence Day",
+        "es": "Proclamation of Independence Day",
+        "fr": "Proclamation of Independence Day",
+        "ja": "Proclamation of Independence Day",
+        "ko": "Proclamation of Independence Day",
+        "pt": "Proclamation of Independence Day",
+        "zh": "Proclamation of Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-07",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "en": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "es": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "fr": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "ja": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "ko": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "pt": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness",
+        "zh": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Dili",
+  "years": [
+    2026,
+    2027
+  ]
+}

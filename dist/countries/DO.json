@@ -1,0 +1,208 @@
+{
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-21",
+      "localizedNames": {
+        "de": "Lady of Altagracia",
+        "en": "Lady of Altagracia",
+        "es": "Lady of Altagracia",
+        "fr": "Lady of Altagracia",
+        "ja": "Lady of Altagracia",
+        "ko": "Lady of Altagracia",
+        "pt": "Lady of Altagracia",
+        "zh": "Lady of Altagracia"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-27",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-16",
+      "localizedNames": {
+        "de": "Restoration Day",
+        "en": "Restoration Day",
+        "es": "Restoration Day",
+        "fr": "Restoration Day",
+        "ja": "Restoration Day",
+        "ko": "Restoration Day",
+        "pt": "Restoration Day",
+        "zh": "Restoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-24",
+      "localizedNames": {
+        "de": "Our Lady of Mercedes Day",
+        "en": "Our Lady of Mercedes Day",
+        "es": "Our Lady of Mercedes Day",
+        "fr": "Our Lady of Mercedes Day",
+        "ja": "Our Lady of Mercedes Day",
+        "ko": "Our Lady of Mercedes Day",
+        "pt": "Our Lady of Mercedes Day",
+        "zh": "Our Lady of Mercedes Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-21",
+      "localizedNames": {
+        "de": "Lady of Altagracia",
+        "en": "Lady of Altagracia",
+        "es": "Lady of Altagracia",
+        "fr": "Lady of Altagracia",
+        "ja": "Lady of Altagracia",
+        "ko": "Lady of Altagracia",
+        "pt": "Lady of Altagracia",
+        "zh": "Lady of Altagracia"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-27",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-16",
+      "localizedNames": {
+        "de": "Restoration Day",
+        "en": "Restoration Day",
+        "es": "Restoration Day",
+        "fr": "Restoration Day",
+        "ja": "Restoration Day",
+        "ko": "Restoration Day",
+        "pt": "Restoration Day",
+        "zh": "Restoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-24",
+      "localizedNames": {
+        "de": "Our Lady of Mercedes Day",
+        "en": "Our Lady of Mercedes Day",
+        "es": "Our Lady of Mercedes Day",
+        "fr": "Our Lady of Mercedes Day",
+        "ja": "Our Lady of Mercedes Day",
+        "ko": "Our Lady of Mercedes Day",
+        "pt": "Our Lady of Mercedes Day",
+        "zh": "Our Lady of Mercedes Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Santo_Domingo",
+  "years": [
+    2026,
+    2027
+  ]
+}

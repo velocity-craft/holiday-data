@@ -1,0 +1,55 @@
+{
+  "countryCode": "BY",
+  "countryName": "Belarus",
+  "timeZone": "Europe/Minsk",
+  "holidays": [
+    {
+      "template": "ba_orthodox_christmas_day",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "am_women_s_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "by_catholic_easter",
+      "rule": "computus_western"
+    },
+    {
+      "template": "by_catholic_easter_orthodox_easter",
+      "rule": "fixed_apr_20"
+    },
+    {
+      "template": "by_orthodox_easter",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "by_radunitsa_day_of_rejoicing",
+      "rule": "offset_computus_eastern_pos9"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "by_independence_day_of_the_republic_of_bela",
+      "rule": "fixed_jul_3"
+    },
+    {
+      "template": "by_october_revolution_day",
+      "rule": "fixed_nov_7"
+    },
+    {
+      "template": "ba_catholic_christmas_day",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

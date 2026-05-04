@@ -1,0 +1,432 @@
+{
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-14",
+      "localizedNames": {
+        "de": "Summer Day",
+        "en": "Summer Day",
+        "es": "Summer Day",
+        "fr": "Summer Day",
+        "ja": "Summer Day",
+        "ko": "Summer Day",
+        "pt": "Summer Day",
+        "zh": "Summer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-15",
+      "localizedNames": {
+        "de": "Public Holiday",
+        "en": "Public Holiday",
+        "es": "Public Holiday",
+        "fr": "Public Holiday",
+        "ja": "Public Holiday",
+        "ko": "Public Holiday",
+        "pt": "Public Holiday",
+        "zh": "Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-22",
+      "localizedNames": {
+        "de": "Nowruz Day",
+        "en": "Nowruz Day",
+        "es": "Nowruz Day",
+        "fr": "Nowruz Day",
+        "ja": "Nowruz Day",
+        "ko": "Nowruz Day",
+        "pt": "Nowruz Day",
+        "zh": "Nowruz Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Catholic Easter Sunday",
+        "en": "Catholic Easter Sunday",
+        "es": "Catholic Easter Sunday",
+        "fr": "Catholic Easter Sunday",
+        "ja": "Catholic Easter Sunday",
+        "ko": "Catholic Easter Sunday",
+        "pt": "Catholic Easter Sunday",
+        "zh": "Catholic Easter Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-12",
+      "localizedNames": {
+        "de": "Orthodoxes Osterfest",
+        "en": "Orthodox Easter Sunday",
+        "es": "Pascua Ortodoxa",
+        "fr": "Pâques orthodoxes",
+        "ja": "正教会復活祭",
+        "ko": "정교회 부활절",
+        "pt": "Páscoa Ortodoxa",
+        "zh": "东正教复活节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-20",
+      "localizedNames": {
+        "de": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "en": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "es": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "fr": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "ja": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "ko": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "pt": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "zh": "Catholic Easter Sunday; Orthodox Easter Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-05",
+      "localizedNames": {
+        "de": "Mother Teresa Canonization Day",
+        "en": "Mother Teresa Canonization Day",
+        "es": "Mother Teresa Canonization Day",
+        "fr": "Mother Teresa Canonization Day",
+        "ja": "Mother Teresa Canonization Day",
+        "ko": "Mother Teresa Canonization Day",
+        "pt": "Mother Teresa Canonization Day",
+        "zh": "Mother Teresa Canonization Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-22",
+      "localizedNames": {
+        "de": "Alphabet Day",
+        "en": "Alphabet Day",
+        "es": "Alphabet Day",
+        "fr": "Alphabet Day",
+        "ja": "Alphabet Day",
+        "ko": "Alphabet Day",
+        "pt": "Alphabet Day",
+        "zh": "Alphabet Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-28",
+      "localizedNames": {
+        "de": "Flag and Independence Day",
+        "en": "Flag and Independence Day",
+        "es": "Flag and Independence Day",
+        "fr": "Flag and Independence Day",
+        "ja": "Flag and Independence Day",
+        "ko": "Flag and Independence Day",
+        "pt": "Flag and Independence Day",
+        "zh": "Flag and Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-29",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-14",
+      "localizedNames": {
+        "de": "Summer Day",
+        "en": "Summer Day",
+        "es": "Summer Day",
+        "fr": "Summer Day",
+        "ja": "Summer Day",
+        "ko": "Summer Day",
+        "pt": "Summer Day",
+        "zh": "Summer Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-15",
+      "localizedNames": {
+        "de": "Public Holiday",
+        "en": "Public Holiday",
+        "es": "Public Holiday",
+        "fr": "Public Holiday",
+        "ja": "Public Holiday",
+        "ko": "Public Holiday",
+        "pt": "Public Holiday",
+        "zh": "Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-22",
+      "localizedNames": {
+        "de": "Nowruz Day",
+        "en": "Nowruz Day",
+        "es": "Nowruz Day",
+        "fr": "Nowruz Day",
+        "ja": "Nowruz Day",
+        "ko": "Nowruz Day",
+        "pt": "Nowruz Day",
+        "zh": "Nowruz Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-28",
+      "localizedNames": {
+        "de": "Catholic Easter Sunday",
+        "en": "Catholic Easter Sunday",
+        "es": "Catholic Easter Sunday",
+        "fr": "Catholic Easter Sunday",
+        "ja": "Catholic Easter Sunday",
+        "ko": "Catholic Easter Sunday",
+        "pt": "Catholic Easter Sunday",
+        "zh": "Catholic Easter Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-20",
+      "localizedNames": {
+        "de": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "en": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "es": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "fr": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "ja": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "ko": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "pt": "Catholic Easter Sunday; Orthodox Easter Sunday",
+        "zh": "Catholic Easter Sunday; Orthodox Easter Sunday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-02",
+      "localizedNames": {
+        "de": "Orthodoxes Osterfest",
+        "en": "Orthodox Easter Sunday",
+        "es": "Pascua Ortodoxa",
+        "fr": "Pâques orthodoxes",
+        "ja": "正教会復活祭",
+        "ko": "정교회 부활절",
+        "pt": "Páscoa Ortodoxa",
+        "zh": "东正教复活节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-05",
+      "localizedNames": {
+        "de": "Mother Teresa Canonization Day",
+        "en": "Mother Teresa Canonization Day",
+        "es": "Mother Teresa Canonization Day",
+        "fr": "Mother Teresa Canonization Day",
+        "ja": "Mother Teresa Canonization Day",
+        "ko": "Mother Teresa Canonization Day",
+        "pt": "Mother Teresa Canonization Day",
+        "zh": "Mother Teresa Canonization Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-22",
+      "localizedNames": {
+        "de": "Alphabet Day",
+        "en": "Alphabet Day",
+        "es": "Alphabet Day",
+        "fr": "Alphabet Day",
+        "ja": "Alphabet Day",
+        "ko": "Alphabet Day",
+        "pt": "Alphabet Day",
+        "zh": "Alphabet Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-28",
+      "localizedNames": {
+        "de": "Flag and Independence Day",
+        "en": "Flag and Independence Day",
+        "es": "Flag and Independence Day",
+        "fr": "Flag and Independence Day",
+        "ja": "Flag and Independence Day",
+        "ko": "Flag and Independence Day",
+        "pt": "Flag and Independence Day",
+        "zh": "Flag and Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-29",
+      "localizedNames": {
+        "de": "Tag der Befreiung",
+        "en": "Liberation Day",
+        "es": "Día de la Liberación",
+        "fr": "Jour de la Libération",
+        "ja": "解放記念日",
+        "ko": "해방기념일",
+        "pt": "Dia da Libertação",
+        "zh": "解放日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "National Youth Day",
+        "en": "National Youth Day",
+        "es": "National Youth Day",
+        "fr": "National Youth Day",
+        "ja": "National Youth Day",
+        "ko": "National Youth Day",
+        "pt": "National Youth Day",
+        "zh": "National Youth Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Tirane",
+  "years": [
+    2026,
+    2027
+  ]
+}

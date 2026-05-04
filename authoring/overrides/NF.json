@@ -1,0 +1,51 @@
+{
+  "countryCode": "NF",
+  "countryName": "Norfolk Island",
+  "timeZone": "Pacific/Norfolk",
+  "holidays": [
+    {
+      "template": "australia_day",
+      "rule": "fixed_jan_26"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "jp_foundation_day",
+      "rule": "fixed_mar_6"
+    },
+    {
+      "template": "anzac_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "nf_bounty_day",
+      "rule": "fixed_jun_8"
+    },
+    {
+      "template": "nf_show_day",
+      "rule": "nth_mon_oct_2"
+    },
+    {
+      "template": "thanksgiving_day_generic",
+      "rule": "last_wed_nov"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

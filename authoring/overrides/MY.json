@@ -1,0 +1,47 @@
+{
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "timeZone": "Asia/Kuala_Lumpur",
+  "holidays": [
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "my_birthday_of_hm_yang_di_pertuan_agong",
+      "rule": "nth_mon_jun_1"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_aug_31"
+    },
+    {
+      "template": "my_malaysia_day",
+      "rule": "fixed_sep_16"
+    },
+    {
+      "template": "my_malaysia_day_prophet_muhammad_s_birthday",
+      "rule": "fixed_sep_16"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

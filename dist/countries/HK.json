@@ -1,0 +1,208 @@
+{
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-17",
+      "localizedNames": {
+        "de": "The fourth day of Chinese New Year",
+        "en": "The fourth day of Chinese New Year",
+        "es": "The fourth day of Chinese New Year",
+        "fr": "The fourth day of Chinese New Year",
+        "ja": "The fourth day of Chinese New Year",
+        "ko": "The fourth day of Chinese New Year",
+        "pt": "The fourth day of Chinese New Year",
+        "zh": "The fourth day of Chinese New Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Tomb-Sweeping Day",
+        "en": "Tomb-Sweeping Day",
+        "es": "Tomb-Sweeping Day",
+        "fr": "Tomb-Sweeping Day",
+        "ja": "Tomb-Sweeping Day",
+        "ko": "Tomb-Sweeping Day",
+        "pt": "Tomb-Sweeping Day",
+        "zh": "Tomb-Sweeping Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "Hong Kong S.A.R. Establishment Day",
+        "en": "Hong Kong S.A.R. Establishment Day",
+        "es": "Hong Kong S.A.R. Establishment Day",
+        "fr": "Hong Kong S.A.R. Establishment Day",
+        "ja": "Hong Kong S.A.R. Establishment Day",
+        "ko": "Hong Kong S.A.R. Establishment Day",
+        "pt": "Hong Kong S.A.R. Establishment Day",
+        "zh": "Hong Kong S.A.R. Establishment Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "The first weekday after Christmas Day",
+        "en": "The first weekday after Christmas Day",
+        "es": "The first weekday after Christmas Day",
+        "fr": "The first weekday after Christmas Day",
+        "ja": "The first weekday after Christmas Day",
+        "ko": "The first weekday after Christmas Day",
+        "pt": "The first weekday after Christmas Day",
+        "zh": "The first weekday after Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-09",
+      "localizedNames": {
+        "de": "The fourth day of Chinese New Year",
+        "en": "The fourth day of Chinese New Year",
+        "es": "The fourth day of Chinese New Year",
+        "fr": "The fourth day of Chinese New Year",
+        "ja": "The fourth day of Chinese New Year",
+        "ko": "The fourth day of Chinese New Year",
+        "pt": "The fourth day of Chinese New Year",
+        "zh": "The fourth day of Chinese New Year"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-05",
+      "localizedNames": {
+        "de": "Tomb-Sweeping Day",
+        "en": "Tomb-Sweeping Day",
+        "es": "Tomb-Sweeping Day",
+        "fr": "Tomb-Sweeping Day",
+        "ja": "Tomb-Sweeping Day",
+        "ko": "Tomb-Sweeping Day",
+        "pt": "Tomb-Sweeping Day",
+        "zh": "Tomb-Sweeping Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "Hong Kong S.A.R. Establishment Day",
+        "en": "Hong Kong S.A.R. Establishment Day",
+        "es": "Hong Kong S.A.R. Establishment Day",
+        "fr": "Hong Kong S.A.R. Establishment Day",
+        "ja": "Hong Kong S.A.R. Establishment Day",
+        "ko": "Hong Kong S.A.R. Establishment Day",
+        "pt": "Hong Kong S.A.R. Establishment Day",
+        "zh": "Hong Kong S.A.R. Establishment Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "The first weekday after Christmas Day",
+        "en": "The first weekday after Christmas Day",
+        "es": "The first weekday after Christmas Day",
+        "fr": "The first weekday after Christmas Day",
+        "ja": "The first weekday after Christmas Day",
+        "ko": "The first weekday after Christmas Day",
+        "pt": "The first weekday after Christmas Day",
+        "zh": "The first weekday after Christmas Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Hong_Kong",
+  "years": [
+    2026,
+    2027
+  ]
+}

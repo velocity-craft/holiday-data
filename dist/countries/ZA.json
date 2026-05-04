@@ -1,0 +1,264 @@
+{
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-06",
+      "localizedNames": {
+        "de": "Family Day",
+        "en": "Family Day",
+        "es": "Family Day",
+        "fr": "Family Day",
+        "ja": "Family Day",
+        "ko": "Family Day",
+        "pt": "Family Day",
+        "zh": "Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-27",
+      "localizedNames": {
+        "de": "Freedom Day",
+        "en": "Freedom Day",
+        "es": "Freedom Day",
+        "fr": "Freedom Day",
+        "ja": "Freedom Day",
+        "ko": "Freedom Day",
+        "pt": "Freedom Day",
+        "zh": "Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-29",
+      "localizedNames": {
+        "de": "National and Provincial Government Elections",
+        "en": "National and Provincial Government Elections",
+        "es": "National and Provincial Government Elections",
+        "fr": "National and Provincial Government Elections",
+        "ja": "National and Provincial Government Elections",
+        "ko": "National and Provincial Government Elections",
+        "pt": "National and Provincial Government Elections",
+        "zh": "National and Provincial Government Elections"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-09",
+      "localizedNames": {
+        "de": "National Women's Day",
+        "en": "National Women's Day",
+        "es": "National Women's Day",
+        "fr": "National Women's Day",
+        "ja": "National Women's Day",
+        "ko": "National Women's Day",
+        "pt": "National Women's Day",
+        "zh": "National Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-24",
+      "localizedNames": {
+        "de": "Heritage Day",
+        "en": "Heritage Day",
+        "es": "Heritage Day",
+        "fr": "Heritage Day",
+        "ja": "Heritage Day",
+        "ko": "Heritage Day",
+        "pt": "Heritage Day",
+        "zh": "Heritage Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-16",
+      "localizedNames": {
+        "de": "Day of Reconciliation",
+        "en": "Day of Reconciliation",
+        "es": "Day of Reconciliation",
+        "fr": "Day of Reconciliation",
+        "ja": "Day of Reconciliation",
+        "ko": "Day of Reconciliation",
+        "pt": "Day of Reconciliation",
+        "zh": "Day of Reconciliation"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Day of Goodwill",
+        "en": "Day of Goodwill",
+        "es": "Day of Goodwill",
+        "fr": "Day of Goodwill",
+        "ja": "Day of Goodwill",
+        "ko": "Day of Goodwill",
+        "pt": "Day of Goodwill",
+        "zh": "Day of Goodwill"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-29",
+      "localizedNames": {
+        "de": "Family Day",
+        "en": "Family Day",
+        "es": "Family Day",
+        "fr": "Family Day",
+        "ja": "Family Day",
+        "ko": "Family Day",
+        "pt": "Family Day",
+        "zh": "Family Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-27",
+      "localizedNames": {
+        "de": "Freedom Day",
+        "en": "Freedom Day",
+        "es": "Freedom Day",
+        "fr": "Freedom Day",
+        "ja": "Freedom Day",
+        "ko": "Freedom Day",
+        "pt": "Freedom Day",
+        "zh": "Freedom Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-29",
+      "localizedNames": {
+        "de": "National and Provincial Government Elections",
+        "en": "National and Provincial Government Elections",
+        "es": "National and Provincial Government Elections",
+        "fr": "National and Provincial Government Elections",
+        "ja": "National and Provincial Government Elections",
+        "ko": "National and Provincial Government Elections",
+        "pt": "National and Provincial Government Elections",
+        "zh": "National and Provincial Government Elections"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-09",
+      "localizedNames": {
+        "de": "National Women's Day",
+        "en": "National Women's Day",
+        "es": "National Women's Day",
+        "fr": "National Women's Day",
+        "ja": "National Women's Day",
+        "ko": "National Women's Day",
+        "pt": "National Women's Day",
+        "zh": "National Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-24",
+      "localizedNames": {
+        "de": "Heritage Day",
+        "en": "Heritage Day",
+        "es": "Heritage Day",
+        "fr": "Heritage Day",
+        "ja": "Heritage Day",
+        "ko": "Heritage Day",
+        "pt": "Heritage Day",
+        "zh": "Heritage Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-16",
+      "localizedNames": {
+        "de": "Day of Reconciliation",
+        "en": "Day of Reconciliation",
+        "es": "Day of Reconciliation",
+        "fr": "Day of Reconciliation",
+        "ja": "Day of Reconciliation",
+        "ko": "Day of Reconciliation",
+        "pt": "Day of Reconciliation",
+        "zh": "Day of Reconciliation"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Day of Goodwill",
+        "en": "Day of Goodwill",
+        "es": "Day of Goodwill",
+        "fr": "Day of Goodwill",
+        "ja": "Day of Goodwill",
+        "ko": "Day of Goodwill",
+        "pt": "Day of Goodwill",
+        "zh": "Day of Goodwill"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Johannesburg",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "timeZone": "Asia/Karachi",
+  "holidays": [
+    {
+      "template": "pk_kashmir_solidarity_day",
+      "rule": "fixed_feb_5"
+    },
+    {
+      "template": "pk_pakistan_day",
+      "rule": "fixed_mar_23"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "pk_eid_al_adha_estimated_youm_e_takbeer",
+      "rule": "fixed_may_28"
+    },
+    {
+      "template": "pk_youm_e_takbeer",
+      "rule": "fixed_may_28"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "day_of_ashura",
+      "rule": "islamic_muharram_10"
+    },
+    {
+      "template": "in_independence_day_prophet_s_birthday_esti",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "pk_iqbal_day",
+      "rule": "fixed_nov_9"
+    },
+    {
+      "template": "pk_quaid_e_azam_day",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "countryCode": "KY",
+  "countryName": "Cayman Islands",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-26",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-18",
+      "localizedNames": {
+        "de": "Ash Wednesday",
+        "en": "Ash Wednesday",
+        "es": "Ash Wednesday",
+        "fr": "Ash Wednesday",
+        "ja": "Ash Wednesday",
+        "ko": "Ash Wednesday",
+        "pt": "Ash Wednesday",
+        "zh": "Ash Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-30",
+      "localizedNames": {
+        "de": "General Election Day",
+        "en": "General Election Day",
+        "es": "General Election Day",
+        "fr": "General Election Day",
+        "ja": "General Election Day",
+        "ko": "General Election Day",
+        "pt": "General Election Day",
+        "zh": "General Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-04",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-18",
+      "localizedNames": {
+        "de": "Discovery Day",
+        "en": "Discovery Day",
+        "es": "Discovery Day",
+        "fr": "Discovery Day",
+        "ja": "Discovery Day",
+        "ko": "Discovery Day",
+        "pt": "Discovery Day",
+        "zh": "Discovery Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-25",
+      "localizedNames": {
+        "de": "National Heroes' Day",
+        "en": "National Heroes' Day",
+        "es": "National Heroes' Day",
+        "fr": "National Heroes' Day",
+        "ja": "National Heroes' Day",
+        "ko": "National Heroes' Day",
+        "pt": "National Heroes' Day",
+        "zh": "National Heroes' Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-10",
+      "localizedNames": {
+        "de": "Ash Wednesday",
+        "en": "Ash Wednesday",
+        "es": "Ash Wednesday",
+        "fr": "Ash Wednesday",
+        "ja": "Ash Wednesday",
+        "ko": "Ash Wednesday",
+        "pt": "Ash Wednesday",
+        "zh": "Ash Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-30",
+      "localizedNames": {
+        "de": "General Election Day",
+        "en": "General Election Day",
+        "es": "General Election Day",
+        "fr": "General Election Day",
+        "ja": "General Election Day",
+        "ko": "General Election Day",
+        "pt": "General Election Day",
+        "zh": "General Election Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-03",
+      "localizedNames": {
+        "de": "Emancipation Day",
+        "en": "Emancipation Day",
+        "es": "Emancipation Day",
+        "fr": "Emancipation Day",
+        "ja": "Emancipation Day",
+        "ko": "Emancipation Day",
+        "pt": "Emancipation Day",
+        "zh": "Emancipation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Discovery Day",
+        "en": "Discovery Day",
+        "es": "Discovery Day",
+        "fr": "Discovery Day",
+        "ja": "Discovery Day",
+        "ko": "Discovery Day",
+        "pt": "Discovery Day",
+        "zh": "Discovery Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Cayman",
+  "years": [
+    2026,
+    2027
+  ]
+}

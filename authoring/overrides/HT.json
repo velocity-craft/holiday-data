@@ -1,0 +1,71 @@
+{
+  "countryCode": "HT",
+  "countryName": "Haiti",
+  "timeZone": "America/Port-au-Prince",
+  "holidays": [
+    {
+      "template": "ht_ancestry_day",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "ht_national_independence_day_new_year_s_day",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ad_carnival",
+      "rule": "offset_computus_western_neg49"
+    },
+    {
+      "template": "ht_fat_tuesday",
+      "rule": "offset_computus_western_neg47"
+    },
+    {
+      "template": "ht_shrove_monday",
+      "rule": "offset_computus_western_neg48"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "corpus_christi",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "ht_agriculture_and_labor_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ht_flag_day_and_university_day",
+      "rule": "fixed_may_18"
+    },
+    {
+      "template": "ad_assumption_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "ht_death_of_dessalines",
+      "rule": "fixed_oct_17"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "ht_armed_forces_day_commemoration_of_the_ba",
+      "rule": "fixed_nov_18"
+    },
+    {
+      "template": "ht_day_of_the_dead",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

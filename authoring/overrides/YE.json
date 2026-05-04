@@ -1,0 +1,39 @@
+{
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "timeZone": "Asia/Aden",
+  "holidays": [
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "bi_unity_day",
+      "rule": "fixed_may_22"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "revolution_day_generic",
+      "rule": "fixed_sep_26"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_oct_14"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_nov_30"
+    }
+  ]
+}

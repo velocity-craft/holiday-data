@@ -1,0 +1,320 @@
+{
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-23",
+      "localizedNames": {
+        "de": "AFCON Victory Against Ivory Coast",
+        "en": "AFCON Victory Against Ivory Coast",
+        "es": "AFCON Victory Against Ivory Coast",
+        "fr": "AFCON Victory Against Ivory Coast",
+        "ja": "AFCON Victory Against Ivory Coast",
+        "ko": "AFCON Victory Against Ivory Coast",
+        "pt": "AFCON Victory Against Ivory Coast",
+        "zh": "AFCON Victory Against Ivory Coast"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-02",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "African Liberation Day",
+        "en": "African Liberation Day",
+        "es": "African Liberation Day",
+        "fr": "African Liberation Day",
+        "ja": "African Liberation Day",
+        "ko": "African Liberation Day",
+        "pt": "African Liberation Day",
+        "zh": "African Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-04",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-05",
+      "localizedNames": {
+        "de": "President's Day",
+        "en": "President's Day",
+        "es": "President's Day",
+        "fr": "President's Day",
+        "ja": "President's Day",
+        "ko": "President's Day",
+        "pt": "President's Day",
+        "zh": "President's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-23",
+      "localizedNames": {
+        "de": "AFCON Victory Against Ivory Coast",
+        "en": "AFCON Victory Against Ivory Coast",
+        "es": "AFCON Victory Against Ivory Coast",
+        "fr": "AFCON Victory Against Ivory Coast",
+        "ja": "AFCON Victory Against Ivory Coast",
+        "ko": "AFCON Victory Against Ivory Coast",
+        "pt": "AFCON Victory Against Ivory Coast",
+        "zh": "AFCON Victory Against Ivory Coast"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-25",
+      "localizedNames": {
+        "de": "Maundy Thursday",
+        "en": "Maundy Thursday",
+        "es": "Maundy Thursday",
+        "fr": "Maundy Thursday",
+        "ja": "Maundy Thursday",
+        "ko": "Maundy Thursday",
+        "pt": "Maundy Thursday",
+        "zh": "Maundy Thursday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-25",
+      "localizedNames": {
+        "de": "African Liberation Day",
+        "en": "African Liberation Day",
+        "es": "African Liberation Day",
+        "fr": "African Liberation Day",
+        "ja": "African Liberation Day",
+        "ko": "African Liberation Day",
+        "pt": "African Liberation Day",
+        "zh": "African Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-27",
+      "localizedNames": {
+        "de": "Fronleichnam",
+        "en": "Corpus Christi",
+        "es": "Corpus Christi",
+        "fr": "Fête-Dieu",
+        "ja": "キリストの聖体",
+        "ko": "성체 성혈 대축일",
+        "pt": "Corpus Christi",
+        "zh": "基督圣体圣血节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-05",
+      "localizedNames": {
+        "de": "President's Day",
+        "en": "President's Day",
+        "es": "President's Day",
+        "fr": "President's Day",
+        "ja": "President's Day",
+        "ko": "President's Day",
+        "pt": "President's Day",
+        "zh": "President's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-03",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-12",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-08",
+      "localizedNames": {
+        "de": "Mariä Empfängnis",
+        "en": "Immaculate Conception",
+        "es": "Inmaculada Concepción",
+        "fr": "Immaculée Conception",
+        "ja": "無原罪の御宿り",
+        "ko": "원죄 없이 잉태되신 성모 마리아 대축일",
+        "pt": "Imaculada Conceição",
+        "zh": "圣母无染原罪节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Africa/Malabo",
+  "years": [
+    2026,
+    2027
+  ]
+}

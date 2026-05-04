@@ -1,0 +1,39 @@
+{
+  "countryCode": "FK",
+  "countryName": "Falkland Islands (Malvinas)",
+  "timeZone": "Atlantic/Stanley",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_jun_14"
+    },
+    {
+      "template": "fk_peat_cutting_day",
+      "rule": "nth_mon_oct_1"
+    },
+    {
+      "template": "ai_king_s_birthday",
+      "rule": "fixed_nov_14"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "fk_christmas_holiday",
+      "rule": "fixed_dec_27"
+    }
+  ]
+}

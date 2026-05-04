@@ -1,0 +1,39 @@
+{
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "timeZone": "America/Mexico_City",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "constitution_day_generic",
+      "rule": "nth_mon_feb_1"
+    },
+    {
+      "template": "mx_benito_ju_rez_s_birthday",
+      "rule": "nth_mon_mar_3"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_16"
+    },
+    {
+      "template": "mx_change_of_federal_government",
+      "rule": "fixed_oct_1"
+    },
+    {
+      "template": "revolution_day_generic",
+      "rule": "nth_mon_nov_3"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

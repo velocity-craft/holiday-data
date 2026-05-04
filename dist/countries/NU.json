@@ -1,0 +1,264 @@
+{
+  "countryCode": "NU",
+  "countryName": "Niue",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-02",
+      "localizedNames": {
+        "de": "Takai Commission Holiday",
+        "en": "Takai Commission Holiday",
+        "es": "Takai Commission Holiday",
+        "fr": "Takai Commission Holiday",
+        "ja": "Takai Commission Holiday",
+        "ko": "Takai Commission Holiday",
+        "pt": "Takai Commission Holiday",
+        "zh": "Takai Commission Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-19",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-20",
+      "localizedNames": {
+        "de": "Constitution Day Holiday",
+        "en": "Constitution Day Holiday",
+        "es": "Constitution Day Holiday",
+        "fr": "Constitution Day Holiday",
+        "ja": "Constitution Day Holiday",
+        "ko": "Constitution Day Holiday",
+        "pt": "Constitution Day Holiday",
+        "zh": "Constitution Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-26",
+      "localizedNames": {
+        "de": "Peniamina Gospel Day",
+        "en": "Peniamina Gospel Day",
+        "es": "Peniamina Gospel Day",
+        "fr": "Peniamina Gospel Day",
+        "ja": "Peniamina Gospel Day",
+        "ko": "Peniamina Gospel Day",
+        "pt": "Peniamina Gospel Day",
+        "zh": "Peniamina Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-02",
+      "localizedNames": {
+        "de": "Takai Commission Holiday",
+        "en": "Takai Commission Holiday",
+        "es": "Takai Commission Holiday",
+        "fr": "Takai Commission Holiday",
+        "ja": "Takai Commission Holiday",
+        "ko": "Takai Commission Holiday",
+        "pt": "Takai Commission Holiday",
+        "zh": "Takai Commission Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-25",
+      "localizedNames": {
+        "de": "ANZAC-Tag",
+        "en": "ANZAC Day",
+        "es": "Día de ANZAC",
+        "fr": "Journée ANZAC",
+        "ja": "アンザック・デー",
+        "ko": "안작 기념일",
+        "pt": "Dia ANZAC",
+        "zh": "澳新军团日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-07",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-19",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-20",
+      "localizedNames": {
+        "de": "Constitution Day Holiday",
+        "en": "Constitution Day Holiday",
+        "es": "Constitution Day Holiday",
+        "fr": "Constitution Day Holiday",
+        "ja": "Constitution Day Holiday",
+        "ko": "Constitution Day Holiday",
+        "pt": "Constitution Day Holiday",
+        "zh": "Constitution Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-25",
+      "localizedNames": {
+        "de": "Peniamina Gospel Day",
+        "en": "Peniamina Gospel Day",
+        "es": "Peniamina Gospel Day",
+        "fr": "Peniamina Gospel Day",
+        "ja": "Peniamina Gospel Day",
+        "ko": "Peniamina Gospel Day",
+        "pt": "Peniamina Gospel Day",
+        "zh": "Peniamina Gospel Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Niue",
+  "years": [
+    2026,
+    2027
+  ]
+}

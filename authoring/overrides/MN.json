@@ -1,0 +1,35 @@
+{
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "timeZone": "Asia/Ulaanbaatar",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "korea_childrens_day",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "mn_national_festival_and_people_s_revolutio",
+      "rule": "fixed_jul_10"
+    },
+    {
+      "template": "republic_day_generic",
+      "rule": "fixed_nov_26"
+    },
+    {
+      "template": "mn_national_freedom_and_independence_day",
+      "rule": "fixed_dec_29"
+    }
+  ]
+}

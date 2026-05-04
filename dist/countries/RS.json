@@ -1,0 +1,166 @@
+{
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-15",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-11",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Holy Saturday; Labor Day",
+        "en": "Holy Saturday; Labor Day",
+        "es": "Holy Saturday; Labor Day",
+        "fr": "Holy Saturday; Labor Day",
+        "ja": "Holy Saturday; Labor Day",
+        "ko": "Holy Saturday; Labor Day",
+        "pt": "Holy Saturday; Labor Day",
+        "zh": "Holy Saturday; Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-02",
+      "localizedNames": {
+        "de": "Easter Sunday; Labor Day",
+        "en": "Easter Sunday; Labor Day",
+        "es": "Easter Sunday; Labor Day",
+        "fr": "Easter Sunday; Labor Day",
+        "ja": "Easter Sunday; Labor Day",
+        "ko": "Easter Sunday; Labor Day",
+        "pt": "Easter Sunday; Labor Day",
+        "zh": "Easter Sunday; Labor Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-15",
+      "localizedNames": {
+        "de": "Statehood Day",
+        "en": "Statehood Day",
+        "es": "Statehood Day",
+        "fr": "Statehood Day",
+        "ja": "Statehood Day",
+        "ko": "Statehood Day",
+        "pt": "Statehood Day",
+        "zh": "Statehood Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Karsamstag",
+        "en": "Holy Saturday",
+        "es": "Sábado Santo",
+        "fr": "Samedi saint",
+        "ja": "聖土曜日",
+        "ko": "성 토요일",
+        "pt": "Sábado Santo",
+        "zh": "复活节前夕"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-02",
+      "localizedNames": {
+        "de": "Easter Sunday; Labor Day",
+        "en": "Easter Sunday; Labor Day",
+        "es": "Easter Sunday; Labor Day",
+        "fr": "Easter Sunday; Labor Day",
+        "ja": "Easter Sunday; Labor Day",
+        "ko": "Easter Sunday; Labor Day",
+        "pt": "Easter Sunday; Labor Day",
+        "zh": "Easter Sunday; Labor Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Belgrade",
+  "years": [
+    2026,
+    2027
+  ]
+}

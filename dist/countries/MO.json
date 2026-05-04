@@ -1,0 +1,124 @@
+{
+  "countryCode": "MO",
+  "countryName": "Macao",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-05",
+      "localizedNames": {
+        "de": "Tomb-Sweeping Day",
+        "en": "Tomb-Sweeping Day",
+        "es": "Tomb-Sweeping Day",
+        "fr": "Tomb-Sweeping Day",
+        "ja": "Tomb-Sweeping Day",
+        "ko": "Tomb-Sweeping Day",
+        "pt": "Tomb-Sweeping Day",
+        "zh": "Tomb-Sweeping Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-01",
+      "localizedNames": {
+        "de": "National Day of the People's Republic of China",
+        "en": "National Day of the People's Republic of China",
+        "es": "National Day of the People's Republic of China",
+        "fr": "National Day of the People's Republic of China",
+        "ja": "National Day of the People's Republic of China",
+        "ko": "National Day of the People's Republic of China",
+        "pt": "National Day of the People's Republic of China",
+        "zh": "National Day of the People's Republic of China"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-20",
+      "localizedNames": {
+        "de": "Macao S.A.R. Establishment Day",
+        "en": "Macao S.A.R. Establishment Day",
+        "es": "Macao S.A.R. Establishment Day",
+        "fr": "Macao S.A.R. Establishment Day",
+        "ja": "Macao S.A.R. Establishment Day",
+        "ko": "Macao S.A.R. Establishment Day",
+        "pt": "Macao S.A.R. Establishment Day",
+        "zh": "Macao S.A.R. Establishment Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-05",
+      "localizedNames": {
+        "de": "Tomb-Sweeping Day",
+        "en": "Tomb-Sweeping Day",
+        "es": "Tomb-Sweeping Day",
+        "fr": "Tomb-Sweeping Day",
+        "ja": "Tomb-Sweeping Day",
+        "ko": "Tomb-Sweeping Day",
+        "pt": "Tomb-Sweeping Day",
+        "zh": "Tomb-Sweeping Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-01",
+      "localizedNames": {
+        "de": "National Day of the People's Republic of China",
+        "en": "National Day of the People's Republic of China",
+        "es": "National Day of the People's Republic of China",
+        "fr": "National Day of the People's Republic of China",
+        "ja": "National Day of the People's Republic of China",
+        "ko": "National Day of the People's Republic of China",
+        "pt": "National Day of the People's Republic of China",
+        "zh": "National Day of the People's Republic of China"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-20",
+      "localizedNames": {
+        "de": "Macao S.A.R. Establishment Day",
+        "en": "Macao S.A.R. Establishment Day",
+        "es": "Macao S.A.R. Establishment Day",
+        "fr": "Macao S.A.R. Establishment Day",
+        "ja": "Macao S.A.R. Establishment Day",
+        "ko": "Macao S.A.R. Establishment Day",
+        "pt": "Macao S.A.R. Establishment Day",
+        "zh": "Macao S.A.R. Establishment Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Macau",
+  "years": [
+    2026,
+    2027
+  ]
+}

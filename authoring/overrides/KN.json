@@ -1,0 +1,55 @@
+{
+  "countryCode": "KN",
+  "countryName": "Saint Kitts and Nevis",
+  "timeZone": "America/St_Kitts",
+  "holidays": [
+    {
+      "template": "ao_carnival_day",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "kn_carnival_day_last_lap",
+      "rule": "fixed_jan_2"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "nth_mon_may_1"
+    },
+    {
+      "template": "whit_monday",
+      "rule": "offset_computus_western_pos50"
+    },
+    {
+      "template": "bb_emancipation_day",
+      "rule": "nth_mon_aug_1"
+    },
+    {
+      "template": "kn_culturama_day_last_lap",
+      "rule": "nth_tue_aug_1"
+    },
+    {
+      "template": "ao_national_heroes_day",
+      "rule": "fixed_sep_16"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_19"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

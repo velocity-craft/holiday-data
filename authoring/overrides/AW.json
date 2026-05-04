@@ -1,0 +1,47 @@
+{
+  "countryCode": "AW",
+  "countryName": "Aruba",
+  "timeZone": "America/Aruba",
+  "holidays": [
+    {
+      "template": "aw_betico_day",
+      "rule": "fixed_jan_25"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "aw_monday_before_ash_wednesday",
+      "rule": "offset_computus_western_neg48"
+    },
+    {
+      "template": "aw_national_anthem_and_flag_day",
+      "rule": "fixed_mar_18"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_2nd_day",
+      "rule": "fixed_dec_26"
+    }
+  ]
+}

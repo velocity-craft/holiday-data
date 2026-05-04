@@ -1,0 +1,51 @@
+{
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "timeZone": "Africa/Mbabane",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ai_king_s_birthday",
+      "rule": "fixed_apr_19"
+    },
+    {
+      "template": "az_national_flag_day",
+      "rule": "fixed_apr_25"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "br_worker_s_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "sz_birthday_of_late_king_sobhuza",
+      "rule": "fixed_jul_22"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_sep_6"
+    },
+    {
+      "template": "boxing_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

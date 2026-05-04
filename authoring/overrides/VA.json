@@ -1,0 +1,115 @@
+{
+  "countryCode": "VA",
+  "countryName": "Holy See (Vatican City State)",
+  "timeZone": "Europe/Vatican",
+  "holidays": [
+    {
+      "template": "epiphany",
+      "rule": "fixed_jan_6"
+    },
+    {
+      "template": "va_solemnity_of_mary_mother_of_god",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "va_anniversary_of_the_foundation_of_vatican",
+      "rule": "fixed_feb_11"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_western"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "holy_saturday",
+      "rule": "offset_computus_western_neg1"
+    },
+    {
+      "template": "li_saint_joseph_s_day",
+      "rule": "fixed_mar_19"
+    },
+    {
+      "template": "easter_monday",
+      "rule": "offset_computus_western_pos1"
+    },
+    {
+      "template": "nr_easter_tuesday",
+      "rule": "offset_computus_western_pos2"
+    },
+    {
+      "template": "ascension_day",
+      "rule": "offset_computus_western_pos39"
+    },
+    {
+      "template": "va_corpus_domini",
+      "rule": "offset_computus_western_pos60"
+    },
+    {
+      "template": "va_saint_joseph_the_worker_s_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "va_solemnity_of_holy_trinity",
+      "rule": "offset_computus_western_pos56"
+    },
+    {
+      "template": "va_solemnity_of_pentecost",
+      "rule": "offset_computus_western_pos49"
+    },
+    {
+      "template": "va_saints_peter_and_paul_s_day",
+      "rule": "fixed_jun_29"
+    },
+    {
+      "template": "it_assumption_of_mary_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "va_day_after_assumption_of_mary",
+      "rule": "fixed_aug_16"
+    },
+    {
+      "template": "va_day_before_assumption_of_mary",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "all_saints_day",
+      "rule": "fixed_nov_1"
+    },
+    {
+      "template": "all_souls_day",
+      "rule": "fixed_nov_2"
+    },
+    {
+      "template": "ad_saint_stephen_s_day",
+      "rule": "fixed_dec_26"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "christmas_eve",
+      "rule": "fixed_dec_24"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    },
+    {
+      "template": "va_last_day_of_the_year",
+      "rule": "fixed_dec_31"
+    },
+    {
+      "template": "va_saint_john_the_evangelist_s_day",
+      "rule": "fixed_dec_27"
+    }
+  ]
+}

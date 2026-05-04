@@ -1,0 +1,264 @@
+{
+  "countryCode": "AI",
+  "countryName": "Anguilla",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-28",
+      "localizedNames": {
+        "de": "Special Public Holiday",
+        "en": "Special Public Holiday",
+        "es": "Special Public Holiday",
+        "fr": "Special Public Holiday",
+        "ja": "Special Public Holiday",
+        "ko": "Special Public Holiday",
+        "pt": "Special Public Holiday",
+        "zh": "Special Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-02",
+      "localizedNames": {
+        "de": "James Ronald Webster Day",
+        "en": "James Ronald Webster Day",
+        "es": "James Ronald Webster Day",
+        "fr": "James Ronald Webster Day",
+        "ja": "James Ronald Webster Day",
+        "ko": "James Ronald Webster Day",
+        "pt": "James Ronald Webster Day",
+        "zh": "James Ronald Webster Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-30",
+      "localizedNames": {
+        "de": "Anguilla Day",
+        "en": "Anguilla Day",
+        "es": "Anguilla Day",
+        "fr": "Anguilla Day",
+        "ja": "Anguilla Day",
+        "ko": "Anguilla Day",
+        "pt": "Anguilla Day",
+        "zh": "Anguilla Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-15",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "August Monday",
+        "en": "August Monday",
+        "es": "August Monday",
+        "fr": "August Monday",
+        "ja": "August Monday",
+        "ko": "August Monday",
+        "pt": "August Monday",
+        "zh": "August Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-19",
+      "localizedNames": {
+        "de": "National Heroes and Heroines Day",
+        "en": "National Heroes and Heroines Day",
+        "es": "National Heroes and Heroines Day",
+        "fr": "National Heroes and Heroines Day",
+        "ja": "National Heroes and Heroines Day",
+        "ko": "National Heroes and Heroines Day",
+        "pt": "National Heroes and Heroines Day",
+        "zh": "National Heroes and Heroines Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-28",
+      "localizedNames": {
+        "de": "Special Public Holiday",
+        "en": "Special Public Holiday",
+        "es": "Special Public Holiday",
+        "fr": "Special Public Holiday",
+        "ja": "Special Public Holiday",
+        "ko": "Special Public Holiday",
+        "pt": "Special Public Holiday",
+        "zh": "Special Public Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-02",
+      "localizedNames": {
+        "de": "James Ronald Webster Day",
+        "en": "James Ronald Webster Day",
+        "es": "James Ronald Webster Day",
+        "fr": "James Ronald Webster Day",
+        "ja": "James Ronald Webster Day",
+        "ko": "James Ronald Webster Day",
+        "pt": "James Ronald Webster Day",
+        "zh": "James Ronald Webster Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-30",
+      "localizedNames": {
+        "de": "Anguilla Day",
+        "en": "Anguilla Day",
+        "es": "Anguilla Day",
+        "fr": "Anguilla Day",
+        "ja": "Anguilla Day",
+        "ko": "Anguilla Day",
+        "pt": "Anguilla Day",
+        "zh": "Anguilla Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-21",
+      "localizedNames": {
+        "de": "King's Birthday",
+        "en": "King's Birthday",
+        "es": "King's Birthday",
+        "fr": "King's Birthday",
+        "ja": "King's Birthday",
+        "ko": "King's Birthday",
+        "pt": "King's Birthday",
+        "zh": "King's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "August Monday",
+        "en": "August Monday",
+        "es": "August Monday",
+        "fr": "August Monday",
+        "ja": "August Monday",
+        "ko": "August Monday",
+        "pt": "August Monday",
+        "zh": "August Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-19",
+      "localizedNames": {
+        "de": "National Heroes and Heroines Day",
+        "en": "National Heroes and Heroines Day",
+        "es": "National Heroes and Heroines Day",
+        "fr": "National Heroes and Heroines Day",
+        "ja": "National Heroes and Heroines Day",
+        "ko": "National Heroes and Heroines Day",
+        "pt": "National Heroes and Heroines Day",
+        "zh": "National Heroes and Heroines Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Anguilla",
+  "years": [
+    2026,
+    2027
+  ]
+}

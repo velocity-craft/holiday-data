@@ -1,0 +1,320 @@
+{
+  "countryCode": "VG",
+  "countryName": "Virgin Islands, British",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-02",
+      "localizedNames": {
+        "de": "Lavity Stoutt's Birthday",
+        "en": "Lavity Stoutt's Birthday",
+        "es": "Lavity Stoutt's Birthday",
+        "fr": "Lavity Stoutt's Birthday",
+        "ja": "Lavity Stoutt's Birthday",
+        "ko": "Lavity Stoutt's Birthday",
+        "pt": "Lavity Stoutt's Birthday",
+        "zh": "Lavity Stoutt's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-12",
+      "localizedNames": {
+        "de": "Sovereign's Birthday",
+        "en": "Sovereign's Birthday",
+        "es": "Sovereign's Birthday",
+        "fr": "Sovereign's Birthday",
+        "ja": "Sovereign's Birthday",
+        "ko": "Sovereign's Birthday",
+        "pt": "Sovereign's Birthday",
+        "zh": "Sovereign's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Virgin Islands Day",
+        "en": "Virgin Islands Day",
+        "es": "Virgin Islands Day",
+        "fr": "Virgin Islands Day",
+        "ja": "Virgin Islands Day",
+        "ko": "Virgin Islands Day",
+        "pt": "Virgin Islands Day",
+        "zh": "Virgin Islands Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-03",
+      "localizedNames": {
+        "de": "Emancipation Monday",
+        "en": "Emancipation Monday",
+        "es": "Emancipation Monday",
+        "fr": "Emancipation Monday",
+        "ja": "Emancipation Monday",
+        "ko": "Emancipation Monday",
+        "pt": "Emancipation Monday",
+        "zh": "Emancipation Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-04",
+      "localizedNames": {
+        "de": "Emancipation Tuesday",
+        "en": "Emancipation Tuesday",
+        "es": "Emancipation Tuesday",
+        "fr": "Emancipation Tuesday",
+        "ja": "Emancipation Tuesday",
+        "ko": "Emancipation Tuesday",
+        "pt": "Emancipation Tuesday",
+        "zh": "Emancipation Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-05",
+      "localizedNames": {
+        "de": "Emancipation Wednesday",
+        "en": "Emancipation Wednesday",
+        "es": "Emancipation Wednesday",
+        "fr": "Emancipation Wednesday",
+        "ja": "Emancipation Wednesday",
+        "ko": "Emancipation Wednesday",
+        "pt": "Emancipation Wednesday",
+        "zh": "Emancipation Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-19",
+      "localizedNames": {
+        "de": "Heroes and Foreparents Day",
+        "en": "Heroes and Foreparents Day",
+        "es": "Heroes and Foreparents Day",
+        "fr": "Heroes and Foreparents Day",
+        "ja": "Heroes and Foreparents Day",
+        "ko": "Heroes and Foreparents Day",
+        "pt": "Heroes and Foreparents Day",
+        "zh": "Heroes and Foreparents Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-23",
+      "localizedNames": {
+        "de": "The Great March of 1949 and Restoration Day",
+        "en": "The Great March of 1949 and Restoration Day",
+        "es": "The Great March of 1949 and Restoration Day",
+        "fr": "The Great March of 1949 and Restoration Day",
+        "ja": "The Great March of 1949 and Restoration Day",
+        "ko": "The Great March of 1949 and Restoration Day",
+        "pt": "The Great March of 1949 and Restoration Day",
+        "zh": "The Great March of 1949 and Restoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-01",
+      "localizedNames": {
+        "de": "Lavity Stoutt's Birthday",
+        "en": "Lavity Stoutt's Birthday",
+        "es": "Lavity Stoutt's Birthday",
+        "fr": "Lavity Stoutt's Birthday",
+        "ja": "Lavity Stoutt's Birthday",
+        "ko": "Lavity Stoutt's Birthday",
+        "pt": "Lavity Stoutt's Birthday",
+        "zh": "Lavity Stoutt's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-11",
+      "localizedNames": {
+        "de": "Sovereign's Birthday",
+        "en": "Sovereign's Birthday",
+        "es": "Sovereign's Birthday",
+        "fr": "Sovereign's Birthday",
+        "ja": "Sovereign's Birthday",
+        "ko": "Sovereign's Birthday",
+        "pt": "Sovereign's Birthday",
+        "zh": "Sovereign's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-05",
+      "localizedNames": {
+        "de": "Virgin Islands Day",
+        "en": "Virgin Islands Day",
+        "es": "Virgin Islands Day",
+        "fr": "Virgin Islands Day",
+        "ja": "Virgin Islands Day",
+        "ko": "Virgin Islands Day",
+        "pt": "Virgin Islands Day",
+        "zh": "Virgin Islands Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-02",
+      "localizedNames": {
+        "de": "Emancipation Monday",
+        "en": "Emancipation Monday",
+        "es": "Emancipation Monday",
+        "fr": "Emancipation Monday",
+        "ja": "Emancipation Monday",
+        "ko": "Emancipation Monday",
+        "pt": "Emancipation Monday",
+        "zh": "Emancipation Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-03",
+      "localizedNames": {
+        "de": "Emancipation Tuesday",
+        "en": "Emancipation Tuesday",
+        "es": "Emancipation Tuesday",
+        "fr": "Emancipation Tuesday",
+        "ja": "Emancipation Tuesday",
+        "ko": "Emancipation Tuesday",
+        "pt": "Emancipation Tuesday",
+        "zh": "Emancipation Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-04",
+      "localizedNames": {
+        "de": "Emancipation Wednesday",
+        "en": "Emancipation Wednesday",
+        "es": "Emancipation Wednesday",
+        "fr": "Emancipation Wednesday",
+        "ja": "Emancipation Wednesday",
+        "ko": "Emancipation Wednesday",
+        "pt": "Emancipation Wednesday",
+        "zh": "Emancipation Wednesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-18",
+      "localizedNames": {
+        "de": "Heroes and Foreparents Day",
+        "en": "Heroes and Foreparents Day",
+        "es": "Heroes and Foreparents Day",
+        "fr": "Heroes and Foreparents Day",
+        "ja": "Heroes and Foreparents Day",
+        "ko": "Heroes and Foreparents Day",
+        "pt": "Heroes and Foreparents Day",
+        "zh": "Heroes and Foreparents Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-22",
+      "localizedNames": {
+        "de": "The Great March of 1949 and Restoration Day",
+        "en": "The Great March of 1949 and Restoration Day",
+        "es": "The Great March of 1949 and Restoration Day",
+        "fr": "The Great March of 1949 and Restoration Day",
+        "ja": "The Great March of 1949 and Restoration Day",
+        "ko": "The Great March of 1949 and Restoration Day",
+        "pt": "The Great March of 1949 and Restoration Day",
+        "zh": "The Great March of 1949 and Restoration Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "2. Weihnachtstag",
+        "en": "Boxing Day",
+        "es": "Boxing Day",
+        "fr": "Lendemain de Noël",
+        "ja": "ボクシング・デー",
+        "ko": "박싱 데이",
+        "pt": "Boxing Day",
+        "zh": "节礼日"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/Tortola",
+  "years": [
+    2026,
+    2027
+  ]
+}

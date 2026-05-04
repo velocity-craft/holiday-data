@@ -1,0 +1,390 @@
+{
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-20",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-29",
+      "localizedNames": {
+        "de": "Municipal elections",
+        "en": "Municipal elections",
+        "es": "Municipal elections",
+        "fr": "Municipal elections",
+        "ja": "Municipal elections",
+        "ko": "Municipal elections",
+        "pt": "Municipal elections",
+        "zh": "Municipal elections"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-07",
+      "localizedNames": {
+        "de": "Presidential elections",
+        "en": "Presidential elections",
+        "es": "Presidential elections",
+        "fr": "Presidential elections",
+        "ja": "Presidential elections",
+        "ko": "Presidential elections",
+        "pt": "Presidential elections",
+        "zh": "Presidential elections"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr; Spring Festival",
+        "en": "Eid al-Fitr; Spring Festival",
+        "es": "Eid al-Fitr; Spring Festival",
+        "fr": "Eid al-Fitr; Spring Festival",
+        "ja": "Eid al-Fitr; Spring Festival",
+        "ko": "Eid al-Fitr; Spring Festival",
+        "pt": "Eid al-Fitr; Spring Festival",
+        "zh": "Eid al-Fitr; Spring Festival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-09",
+      "localizedNames": {
+        "de": "Victory over Fascism Day",
+        "en": "Victory over Fascism Day",
+        "es": "Victory over Fascism Day",
+        "fr": "Victory over Fascism Day",
+        "ja": "Victory over Fascism Day",
+        "ko": "Victory over Fascism Day",
+        "pt": "Victory over Fascism Day",
+        "zh": "Victory over Fascism Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-28",
+      "localizedNames": {
+        "de": "Eid al-Adha; Independence Day",
+        "en": "Eid al-Adha; Independence Day",
+        "es": "Eid al-Adha; Independence Day",
+        "fr": "Eid al-Adha; Independence Day",
+        "ja": "Eid al-Adha; Independence Day",
+        "ko": "Eid al-Adha; Independence Day",
+        "pt": "Eid al-Adha; Independence Day",
+        "zh": "Eid al-Adha; Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-15",
+      "localizedNames": {
+        "de": "National Liberation Day",
+        "en": "National Liberation Day",
+        "es": "National Liberation Day",
+        "fr": "National Liberation Day",
+        "ja": "National Liberation Day",
+        "ko": "National Liberation Day",
+        "pt": "National Liberation Day",
+        "zh": "National Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-26",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-09",
+      "localizedNames": {
+        "de": "National Flag Day",
+        "en": "National Flag Day",
+        "es": "National Flag Day",
+        "fr": "National Flag Day",
+        "ja": "National Flag Day",
+        "ko": "National Flag Day",
+        "pt": "National Flag Day",
+        "zh": "National Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-31",
+      "localizedNames": {
+        "de": "International Azerbaijanis Solidarity Day",
+        "en": "International Azerbaijanis Solidarity Day",
+        "es": "International Azerbaijanis Solidarity Day",
+        "fr": "International Azerbaijanis Solidarity Day",
+        "ja": "International Azerbaijanis Solidarity Day",
+        "ko": "International Azerbaijanis Solidarity Day",
+        "pt": "International Azerbaijanis Solidarity Day",
+        "zh": "International Azerbaijanis Solidarity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-20",
+      "localizedNames": {
+        "de": "Märtyrertag",
+        "en": "Martyrs' Day",
+        "es": "Día de los Mártires",
+        "fr": "Journée des Martyrs",
+        "ja": "殉教者の日",
+        "ko": "순국선열의 날",
+        "pt": "Dia dos Mártires",
+        "zh": "烈士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-29",
+      "localizedNames": {
+        "de": "Municipal elections",
+        "en": "Municipal elections",
+        "es": "Municipal elections",
+        "fr": "Municipal elections",
+        "ja": "Municipal elections",
+        "ko": "Municipal elections",
+        "pt": "Municipal elections",
+        "zh": "Municipal elections"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-07",
+      "localizedNames": {
+        "de": "Presidential elections",
+        "en": "Presidential elections",
+        "es": "Presidential elections",
+        "fr": "Presidential elections",
+        "ja": "Presidential elections",
+        "ko": "Presidential elections",
+        "pt": "Presidential elections",
+        "zh": "Presidential elections"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-08",
+      "localizedNames": {
+        "de": "Women's Day",
+        "en": "Women's Day",
+        "es": "Women's Day",
+        "fr": "Women's Day",
+        "ja": "Women's Day",
+        "ko": "Women's Day",
+        "pt": "Women's Day",
+        "zh": "Women's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr; Spring Festival",
+        "en": "Eid al-Fitr; Spring Festival",
+        "es": "Eid al-Fitr; Spring Festival",
+        "fr": "Eid al-Fitr; Spring Festival",
+        "ja": "Eid al-Fitr; Spring Festival",
+        "ko": "Eid al-Fitr; Spring Festival",
+        "pt": "Eid al-Fitr; Spring Festival",
+        "zh": "Eid al-Fitr; Spring Festival"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-09",
+      "localizedNames": {
+        "de": "Victory over Fascism Day",
+        "en": "Victory over Fascism Day",
+        "es": "Victory over Fascism Day",
+        "fr": "Victory over Fascism Day",
+        "ja": "Victory over Fascism Day",
+        "ko": "Victory over Fascism Day",
+        "pt": "Victory over Fascism Day",
+        "zh": "Victory over Fascism Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-28",
+      "localizedNames": {
+        "de": "Eid al-Adha; Independence Day",
+        "en": "Eid al-Adha; Independence Day",
+        "es": "Eid al-Adha; Independence Day",
+        "fr": "Eid al-Adha; Independence Day",
+        "ja": "Eid al-Adha; Independence Day",
+        "ko": "Eid al-Adha; Independence Day",
+        "pt": "Eid al-Adha; Independence Day",
+        "zh": "Eid al-Adha; Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-15",
+      "localizedNames": {
+        "de": "National Liberation Day",
+        "en": "National Liberation Day",
+        "es": "National Liberation Day",
+        "fr": "National Liberation Day",
+        "ja": "National Liberation Day",
+        "ko": "National Liberation Day",
+        "pt": "National Liberation Day",
+        "zh": "National Liberation Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-26",
+      "localizedNames": {
+        "de": "Tag der Streitkräfte",
+        "en": "Armed Forces Day",
+        "es": "Día de las Fuerzas Armadas",
+        "fr": "Journée des Forces armées",
+        "ja": "軍人の日",
+        "ko": "국군의 날",
+        "pt": "Dia das Forças Armadas",
+        "zh": "建军节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-09",
+      "localizedNames": {
+        "de": "National Flag Day",
+        "en": "National Flag Day",
+        "es": "National Flag Day",
+        "fr": "National Flag Day",
+        "ja": "National Flag Day",
+        "ko": "National Flag Day",
+        "pt": "National Flag Day",
+        "zh": "National Flag Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-31",
+      "localizedNames": {
+        "de": "International Azerbaijanis Solidarity Day",
+        "en": "International Azerbaijanis Solidarity Day",
+        "es": "International Azerbaijanis Solidarity Day",
+        "fr": "International Azerbaijanis Solidarity Day",
+        "ja": "International Azerbaijanis Solidarity Day",
+        "ko": "International Azerbaijanis Solidarity Day",
+        "pt": "International Azerbaijanis Solidarity Day",
+        "zh": "International Azerbaijanis Solidarity Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Asia/Baku",
+  "years": [
+    2026,
+    2027
+  ]
+}

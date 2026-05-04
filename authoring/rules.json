@@ -1,223 +1,2377 @@
 {
-  "schemaVersion": 1,
   "_comment": "Date computation rules referenced by overrides/{CC}.json. build.py interprets these to expand dates for each target year.",
   "rules": {
-
-    "fixed_jan_1":  { "type": "fixed", "month": 1,  "day": 1  },
-    "fixed_jan_6":  { "type": "fixed", "month": 1,  "day": 6  },
-    "fixed_jan_26": { "type": "fixed", "month": 1,  "day": 26 },
-    "fixed_feb_2":  { "type": "fixed", "month": 2,  "day": 2  },
-    "fixed_feb_6":  { "type": "fixed", "month": 2,  "day": 6  },
-    "fixed_feb_11": { "type": "fixed", "month": 2,  "day": 11 },
-    "fixed_feb_23": { "type": "fixed", "month": 2,  "day": 23 },
-    "fixed_mar_1":  { "type": "fixed", "month": 3,  "day": 1  },
-    "fixed_mar_17": { "type": "fixed", "month": 3,  "day": 17 },
-    "fixed_apr_25": { "type": "fixed", "month": 4,  "day": 25 },
-    "fixed_apr_29": { "type": "fixed", "month": 4,  "day": 29 },
-    "fixed_may_1":  { "type": "fixed", "month": 5,  "day": 1  },
-    "fixed_may_3":  { "type": "fixed", "month": 5,  "day": 3  },
-    "fixed_may_4":  { "type": "fixed", "month": 5,  "day": 4  },
-    "fixed_may_5":  { "type": "fixed", "month": 5,  "day": 5  },
-    "fixed_may_8":  { "type": "fixed", "month": 5,  "day": 8  },
-    "fixed_jun_9":  { "type": "fixed", "month": 6,  "day": 9  },
-    "fixed_jun_19": { "type": "fixed", "month": 6,  "day": 19 },
-    "fixed_jul_1":  { "type": "fixed", "month": 7,  "day": 1  },
-    "fixed_jul_4":  { "type": "fixed", "month": 7,  "day": 4  },
-    "fixed_jul_14": { "type": "fixed", "month": 7,  "day": 14 },
-    "fixed_aug_1":  { "type": "fixed", "month": 8,  "day": 1  },
-    "fixed_aug_11": { "type": "fixed", "month": 8,  "day": 11 },
-    "fixed_aug_15": { "type": "fixed", "month": 8,  "day": 15 },
-    "fixed_aug_17": { "type": "fixed", "month": 8,  "day": 17 },
-    "fixed_oct_1":  { "type": "fixed", "month": 10, "day": 1  },
-    "fixed_oct_2":  { "type": "fixed", "month": 10, "day": 2  },
-    "fixed_oct_3":  { "type": "fixed", "month": 10, "day": 3  },
-    "fixed_oct_9":  { "type": "fixed", "month": 10, "day": 9  },
-    "fixed_nov_1":  { "type": "fixed", "month": 11, "day": 1  },
-    "fixed_nov_2":  { "type": "fixed", "month": 11, "day": 2  },
-    "fixed_nov_3":  { "type": "fixed", "month": 11, "day": 3  },
-    "fixed_nov_11": { "type": "fixed", "month": 11, "day": 11 },
-    "fixed_nov_23": { "type": "fixed", "month": 11, "day": 23 },
-    "fixed_nov_30": { "type": "fixed", "month": 11, "day": 30 },
-    "fixed_dec_8":  { "type": "fixed", "month": 12, "day": 8  },
-    "fixed_dec_24": { "type": "fixed", "month": 12, "day": 24 },
-    "fixed_dec_25": { "type": "fixed", "month": 12, "day": 25 },
-    "fixed_dec_26": { "type": "fixed", "month": 12, "day": 26 },
-    "fixed_dec_31": { "type": "fixed", "month": 12, "day": 31 },
-
-    "nth_mon_jan_2": { "type": "nth_weekday", "month": 1,  "weekday": "MON", "ordinal": 2 },
-    "nth_mon_jan_3": { "type": "nth_weekday", "month": 1,  "weekday": "MON", "ordinal": 3 },
-    "nth_mon_feb_3": { "type": "nth_weekday", "month": 2,  "weekday": "MON", "ordinal": 3 },
-    "nth_mon_may_2": { "type": "nth_weekday", "month": 5,  "weekday": "MON", "ordinal": 2 },
-    "nth_sun_may_2": { "type": "nth_weekday", "month": 5,  "weekday": "SUN", "ordinal": 2 },
-    "nth_mon_sep_1": { "type": "nth_weekday", "month": 9,  "weekday": "MON", "ordinal": 1 },
-    "nth_mon_sep_3": { "type": "nth_weekday", "month": 9,  "weekday": "MON", "ordinal": 3 },
-    "nth_mon_oct_2": { "type": "nth_weekday", "month": 10, "weekday": "MON", "ordinal": 2 },
-    "nth_thu_nov_4": { "type": "nth_weekday", "month": 11, "weekday": "THU", "ordinal": 4 },
-    "nth_mon_jul_3": { "type": "nth_weekday", "month": 7,  "weekday": "MON", "ordinal": 3 },
-
-    "last_mon_may": { "type": "last_weekday", "month": 5,  "weekday": "MON" },
-    "last_mon_aug": { "type": "last_weekday", "month": 8,  "weekday": "MON" },
-    "last_mon_oct": { "type": "last_weekday", "month": 10, "weekday": "MON" },
-
-    "mon_before_may_25": {
-      "type": "nearest_weekday_before_or_on",
-      "weekday": "MON",
-      "month": 5,
-      "day": 25,
-      "_note": "Victoria Day Canada: Monday on or before May 25"
+    "chinese_lunar_12_last": {
+      "_note": "Chinese New Year Eve (last day of 12th lunar month)",
+      "calendar": "chinese",
+      "day": 30,
+      "month": 12,
+      "type": "lunisolar"
     },
-
-    "computus_western": {
-      "type": "computus",
-      "variant": "western",
-      "_note": "Gregorian Easter — Anonymous Gregorian algorithm"
-    },
-    "computus_eastern": {
-      "type": "computus",
-      "variant": "eastern",
-      "_note": "Julian Easter converted to Gregorian calendar"
-    },
-
-    "offset_computus_western_neg2": {
-      "type": "offset", "base": "computus_western", "days": -2,
-      "_note": "Good Friday"
-    },
-    "offset_computus_western_neg1": {
-      "type": "offset", "base": "computus_western", "days": -1,
-      "_note": "Holy Saturday"
-    },
-    "offset_computus_western_1": {
-      "type": "offset", "base": "computus_western", "days": 1,
-      "_note": "Easter Monday"
-    },
-    "offset_computus_western_39": {
-      "type": "offset", "base": "computus_western", "days": 39,
-      "_note": "Ascension Day (39 days after Easter)"
-    },
-    "offset_computus_western_49": {
-      "type": "offset", "base": "computus_western", "days": 49,
-      "_note": "Whit Sunday / Pentecost (49 days after Easter)"
-    },
-    "offset_computus_western_50": {
-      "type": "offset", "base": "computus_western", "days": 50,
-      "_note": "Whit Monday (50 days after Easter)"
-    },
-    "offset_computus_western_60": {
-      "type": "offset", "base": "computus_western", "days": 60,
-      "_note": "Corpus Christi (60 days after Easter)"
-    },
-    "offset_computus_eastern_1": {
-      "type": "offset", "base": "computus_eastern", "days": 1,
-      "_note": "Orthodox Easter Monday"
-    },
-
     "chinese_lunar_1_1": {
-      "type": "lunisolar", "calendar": "chinese", "month": 1, "day": 1,
-      "_note": "Chinese New Year / Spring Festival"
+      "_note": "Chinese New Year / Spring Festival",
+      "calendar": "chinese",
+      "day": 1,
+      "month": 1,
+      "type": "lunisolar"
     },
     "chinese_lunar_1_2": {
-      "type": "lunisolar", "calendar": "chinese", "month": 1, "day": 2
+      "calendar": "chinese",
+      "day": 2,
+      "month": 1,
+      "type": "lunisolar"
     },
     "chinese_lunar_5_5": {
-      "type": "lunisolar", "calendar": "chinese", "month": 5, "day": 5,
-      "_note": "Dragon Boat Festival"
+      "_note": "Dragon Boat Festival",
+      "calendar": "chinese",
+      "day": 5,
+      "month": 5,
+      "type": "lunisolar"
     },
     "chinese_lunar_8_15": {
-      "type": "lunisolar", "calendar": "chinese", "month": 8, "day": 15,
-      "_note": "Mid-Autumn Festival"
+      "_note": "Mid-Autumn Festival",
+      "calendar": "chinese",
+      "day": 15,
+      "month": 8,
+      "type": "lunisolar"
     },
-    "solar_term_qingming": {
-      "type": "solar_term",
-      "longitude": 15,
-      "_note": "Qingming: sun reaches ecliptic longitude 15° (approx. April 4–5)"
+    "computus_eastern": {
+      "_note": "Julian Easter converted to Gregorian calendar",
+      "type": "computus",
+      "variant": "eastern"
     },
-
-    "korean_lunar_1_neg1": {
-      "type": "lunisolar", "calendar": "korean", "month": 1, "day": -1,
-      "_note": "Seollal Eve (day before Lunar New Year)"
+    "computus_western": {
+      "_note": "Gregorian Easter — Anonymous Gregorian algorithm",
+      "type": "computus",
+      "variant": "western"
     },
-    "korean_lunar_1_1": {
-      "type": "lunisolar", "calendar": "korean", "month": 1, "day": 1,
-      "_note": "Seollal / Korean Lunar New Year"
+    "fixed_apr_1": {
+      "day": 1,
+      "month": 4,
+      "type": "fixed"
     },
-    "korean_lunar_1_2": {
-      "type": "lunisolar", "calendar": "korean", "month": 1, "day": 2
+    "fixed_apr_10": {
+      "day": 10,
+      "month": 4,
+      "type": "fixed"
     },
-    "korean_lunar_8_14": {
-      "type": "lunisolar", "calendar": "korean", "month": 8, "day": 14,
-      "_note": "Chuseok Eve"
+    "fixed_apr_11": {
+      "day": 11,
+      "month": 4,
+      "type": "fixed"
     },
-    "korean_lunar_8_15": {
-      "type": "lunisolar", "calendar": "korean", "month": 8, "day": 15,
-      "_note": "Chuseok"
+    "fixed_apr_13": {
+      "day": 13,
+      "month": 4,
+      "type": "fixed"
     },
-    "korean_lunar_8_16": {
-      "type": "lunisolar", "calendar": "korean", "month": 8, "day": 16
+    "fixed_apr_14": {
+      "day": 14,
+      "month": 4,
+      "type": "fixed"
     },
-
-    "islamic_muharram_1": {
-      "type": "lunisolar", "calendar": "hijri", "month": 1, "day": 1,
-      "_note": "Islamic New Year — Muharram 1"
+    "fixed_apr_15": {
+      "day": 15,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_rabi_12": {
-      "type": "lunisolar", "calendar": "hijri", "month": 3, "day": 12,
-      "_note": "Mawlid al-Nabi (Sunni) — Rabi al-Awwal 12"
+    "fixed_apr_17": {
+      "day": 17,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_rajab_27": {
-      "type": "lunisolar", "calendar": "hijri", "month": 7, "day": 27,
-      "_note": "Isra Mi'raj — Rajab 27"
+    "fixed_apr_18": {
+      "day": 18,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_ramadan_27": {
-      "type": "lunisolar", "calendar": "hijri", "month": 9, "day": 27,
-      "_note": "Laylat al-Qadr (approximate) — Ramadan 27"
+    "fixed_apr_19": {
+      "day": 19,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_shawwal_1": {
-      "type": "lunisolar", "calendar": "hijri", "month": 10, "day": 1,
-      "_note": "Eid al-Fitr — Shawwal 1"
+    "fixed_apr_2": {
+      "day": 2,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_shawwal_2": {
-      "type": "lunisolar", "calendar": "hijri", "month": 10, "day": 2
+    "fixed_apr_20": {
+      "day": 20,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_shawwal_3": {
-      "type": "lunisolar", "calendar": "hijri", "month": 10, "day": 3
+    "fixed_apr_21": {
+      "day": 21,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_dhul_hijja_10": {
-      "type": "lunisolar", "calendar": "hijri", "month": 12, "day": 10,
-      "_note": "Eid al-Adha — Dhul Hijjah 10"
+    "fixed_apr_23": {
+      "day": 23,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_dhul_hijja_11": {
-      "type": "lunisolar", "calendar": "hijri", "month": 12, "day": 11
+    "fixed_apr_24": {
+      "day": 24,
+      "month": 4,
+      "type": "fixed"
     },
-    "islamic_dhul_hijja_12": {
-      "type": "lunisolar", "calendar": "hijri", "month": 12, "day": 12
+    "fixed_apr_25": {
+      "day": 25,
+      "month": 4,
+      "type": "fixed"
     },
-
+    "fixed_apr_26": {
+      "day": 26,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_27": {
+      "day": 27,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_28": {
+      "day": 28,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_29": {
+      "day": 29,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_30": {
+      "day": 30,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_4": {
+      "day": 4,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_5": {
+      "day": 5,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_6": {
+      "day": 6,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_7": {
+      "day": 7,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_apr_9": {
+      "day": 9,
+      "month": 4,
+      "type": "fixed"
+    },
+    "fixed_aug_1": {
+      "day": 1,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_10": {
+      "day": 10,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_11": {
+      "day": 11,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_12": {
+      "day": 12,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_13": {
+      "day": 13,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_14": {
+      "day": 14,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_15": {
+      "day": 15,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_16": {
+      "day": 16,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_17": {
+      "day": 17,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_19": {
+      "day": 19,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_2": {
+      "day": 2,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_20": {
+      "day": 20,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_21": {
+      "day": 21,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_23": {
+      "day": 23,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_24": {
+      "day": 24,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_25": {
+      "day": 25,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_26": {
+      "day": 26,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_27": {
+      "day": 27,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_28": {
+      "day": 28,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_29": {
+      "day": 29,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_3": {
+      "day": 3,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_30": {
+      "day": 30,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_31": {
+      "day": 31,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_4": {
+      "day": 4,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_5": {
+      "day": 5,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_6": {
+      "day": 6,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_7": {
+      "day": 7,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_8": {
+      "day": 8,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_aug_9": {
+      "day": 9,
+      "month": 8,
+      "type": "fixed"
+    },
+    "fixed_dec_1": {
+      "day": 1,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_10": {
+      "day": 10,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_11": {
+      "day": 11,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_12": {
+      "day": 12,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_13": {
+      "day": 13,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_16": {
+      "day": 16,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_17": {
+      "day": 17,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_18": {
+      "day": 18,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_19": {
+      "day": 19,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_2": {
+      "day": 2,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_20": {
+      "day": 20,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_21": {
+      "day": 21,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_22": {
+      "day": 22,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_24": {
+      "day": 24,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_25": {
+      "day": 25,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_26": {
+      "day": 26,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_27": {
+      "day": 27,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_28": {
+      "day": 28,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_29": {
+      "day": 29,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_30": {
+      "day": 30,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_31": {
+      "day": 31,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_5": {
+      "day": 5,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_6": {
+      "day": 6,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_7": {
+      "day": 7,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_8": {
+      "day": 8,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_dec_9": {
+      "day": 9,
+      "month": 12,
+      "type": "fixed"
+    },
+    "fixed_feb_1": {
+      "day": 1,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_10": {
+      "day": 10,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_11": {
+      "day": 11,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_12": {
+      "day": 12,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_14": {
+      "day": 14,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_15": {
+      "day": 15,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_16": {
+      "day": 16,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_17": {
+      "day": 17,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_18": {
+      "day": 18,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_19": {
+      "day": 19,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_2": {
+      "day": 2,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_21": {
+      "day": 21,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_22": {
+      "day": 22,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_23": {
+      "day": 23,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_24": {
+      "day": 24,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_25": {
+      "day": 25,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_26": {
+      "day": 26,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_27": {
+      "day": 27,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_28": {
+      "day": 28,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_3": {
+      "day": 3,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_4": {
+      "day": 4,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_5": {
+      "day": 5,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_6": {
+      "day": 6,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_7": {
+      "day": 7,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_8": {
+      "day": 8,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_feb_9": {
+      "day": 9,
+      "month": 2,
+      "type": "fixed"
+    },
+    "fixed_jan_1": {
+      "day": 1,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_10": {
+      "day": 10,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_11": {
+      "day": 11,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_12": {
+      "day": 12,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_13": {
+      "day": 13,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_14": {
+      "day": 14,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_15": {
+      "day": 15,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_16": {
+      "day": 16,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_17": {
+      "day": 17,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_19": {
+      "day": 19,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_2": {
+      "day": 2,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_20": {
+      "day": 20,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_21": {
+      "day": 21,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_22": {
+      "day": 22,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_23": {
+      "day": 23,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_24": {
+      "day": 24,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_25": {
+      "day": 25,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_26": {
+      "day": 26,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_27": {
+      "day": 27,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_28": {
+      "day": 28,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_29": {
+      "day": 29,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_3": {
+      "day": 3,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_30": {
+      "day": 30,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_31": {
+      "day": 31,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_4": {
+      "day": 4,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_5": {
+      "day": 5,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_6": {
+      "day": 6,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_7": {
+      "day": 7,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jan_9": {
+      "day": 9,
+      "month": 1,
+      "type": "fixed"
+    },
+    "fixed_jul_1": {
+      "day": 1,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_10": {
+      "day": 10,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_11": {
+      "day": 11,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_12": {
+      "day": 12,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_13": {
+      "day": 13,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_14": {
+      "day": 14,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_15": {
+      "day": 15,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_16": {
+      "day": 16,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_17": {
+      "day": 17,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_18": {
+      "day": 18,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_19": {
+      "day": 19,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_2": {
+      "day": 2,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_20": {
+      "day": 20,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_21": {
+      "day": 21,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_22": {
+      "day": 22,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_23": {
+      "day": 23,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_24": {
+      "day": 24,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_25": {
+      "day": 25,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_26": {
+      "day": 26,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_27": {
+      "day": 27,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_28": {
+      "day": 28,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_29": {
+      "day": 29,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_3": {
+      "day": 3,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_30": {
+      "day": 30,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_4": {
+      "day": 4,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_5": {
+      "day": 5,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_6": {
+      "day": 6,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_7": {
+      "day": 7,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jul_9": {
+      "day": 9,
+      "month": 7,
+      "type": "fixed"
+    },
+    "fixed_jun_1": {
+      "day": 1,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_10": {
+      "day": 10,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_12": {
+      "day": 12,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_14": {
+      "day": 14,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_15": {
+      "day": 15,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_16": {
+      "day": 16,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_17": {
+      "day": 17,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_18": {
+      "day": 18,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_19": {
+      "day": 19,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_2": {
+      "day": 2,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_20": {
+      "day": 20,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_21": {
+      "day": 21,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_22": {
+      "day": 22,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_23": {
+      "day": 23,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_24": {
+      "day": 24,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_25": {
+      "day": 25,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_26": {
+      "day": 26,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_27": {
+      "day": 27,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_28": {
+      "day": 28,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_29": {
+      "day": 29,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_3": {
+      "day": 3,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_30": {
+      "day": 30,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_5": {
+      "day": 5,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_6": {
+      "day": 6,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_7": {
+      "day": 7,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_8": {
+      "day": 8,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_jun_9": {
+      "day": 9,
+      "month": 6,
+      "type": "fixed"
+    },
+    "fixed_mar_1": {
+      "day": 1,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_10": {
+      "day": 10,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_11": {
+      "day": 11,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_12": {
+      "day": 12,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_14": {
+      "day": 14,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_15": {
+      "day": 15,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_16": {
+      "day": 16,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_17": {
+      "day": 17,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_18": {
+      "day": 18,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_19": {
+      "day": 19,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_2": {
+      "day": 2,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_20": {
+      "day": 20,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_21": {
+      "day": 21,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_22": {
+      "day": 22,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_23": {
+      "day": 23,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_24": {
+      "day": 24,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_25": {
+      "day": 25,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_26": {
+      "day": 26,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_27": {
+      "day": 27,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_29": {
+      "day": 29,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_3": {
+      "day": 3,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_30": {
+      "day": 30,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_31": {
+      "day": 31,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_5": {
+      "day": 5,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_6": {
+      "day": 6,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_8": {
+      "day": 8,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_mar_9": {
+      "day": 9,
+      "month": 3,
+      "type": "fixed"
+    },
+    "fixed_may_1": {
+      "day": 1,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_10": {
+      "day": 10,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_12": {
+      "day": 12,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_14": {
+      "day": 14,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_15": {
+      "day": 15,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_16": {
+      "day": 16,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_17": {
+      "day": 17,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_18": {
+      "day": 18,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_19": {
+      "day": 19,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_2": {
+      "day": 2,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_20": {
+      "day": 20,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_21": {
+      "day": 21,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_22": {
+      "day": 22,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_23": {
+      "day": 23,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_24": {
+      "day": 24,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_25": {
+      "day": 25,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_26": {
+      "day": 26,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_27": {
+      "day": 27,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_28": {
+      "day": 28,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_29": {
+      "day": 29,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_3": {
+      "day": 3,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_30": {
+      "day": 30,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_31": {
+      "day": 31,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_4": {
+      "day": 4,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_5": {
+      "day": 5,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_6": {
+      "day": 6,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_7": {
+      "day": 7,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_8": {
+      "day": 8,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_may_9": {
+      "day": 9,
+      "month": 5,
+      "type": "fixed"
+    },
+    "fixed_nov_1": {
+      "day": 1,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_10": {
+      "day": 10,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_11": {
+      "day": 11,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_12": {
+      "day": 12,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_13": {
+      "day": 13,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_14": {
+      "day": 14,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_15": {
+      "day": 15,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_16": {
+      "day": 16,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_17": {
+      "day": 17,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_18": {
+      "day": 18,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_19": {
+      "day": 19,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_2": {
+      "day": 2,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_20": {
+      "day": 20,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_22": {
+      "day": 22,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_23": {
+      "day": 23,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_25": {
+      "day": 25,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_26": {
+      "day": 26,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_27": {
+      "day": 27,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_28": {
+      "day": 28,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_29": {
+      "day": 29,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_3": {
+      "day": 3,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_30": {
+      "day": 30,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_4": {
+      "day": 4,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_5": {
+      "day": 5,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_6": {
+      "day": 6,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_7": {
+      "day": 7,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_8": {
+      "day": 8,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_nov_9": {
+      "day": 9,
+      "month": 11,
+      "type": "fixed"
+    },
+    "fixed_oct_1": {
+      "day": 1,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_10": {
+      "day": 10,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_11": {
+      "day": 11,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_12": {
+      "day": 12,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_13": {
+      "day": 13,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_14": {
+      "day": 14,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_15": {
+      "day": 15,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_17": {
+      "day": 17,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_18": {
+      "day": 18,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_19": {
+      "day": 19,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_2": {
+      "day": 2,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_20": {
+      "day": 20,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_21": {
+      "day": 21,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_23": {
+      "day": 23,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_24": {
+      "day": 24,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_25": {
+      "day": 25,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_26": {
+      "day": 26,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_27": {
+      "day": 27,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_28": {
+      "day": 28,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_29": {
+      "day": 29,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_3": {
+      "day": 3,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_30": {
+      "day": 30,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_31": {
+      "day": 31,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_4": {
+      "day": 4,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_5": {
+      "day": 5,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_6": {
+      "day": 6,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_8": {
+      "day": 8,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_oct_9": {
+      "day": 9,
+      "month": 10,
+      "type": "fixed"
+    },
+    "fixed_sep_1": {
+      "day": 1,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_10": {
+      "day": 10,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_14": {
+      "day": 14,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_15": {
+      "day": 15,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_16": {
+      "day": 16,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_17": {
+      "day": 17,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_18": {
+      "day": 18,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_19": {
+      "day": 19,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_21": {
+      "day": 21,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_22": {
+      "day": 22,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_23": {
+      "day": 23,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_24": {
+      "day": 24,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_25": {
+      "day": 25,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_26": {
+      "day": 26,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_27": {
+      "day": 27,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_28": {
+      "day": 28,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_3": {
+      "day": 3,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_30": {
+      "day": 30,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_5": {
+      "day": 5,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_6": {
+      "day": 6,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_7": {
+      "day": 7,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_8": {
+      "day": 8,
+      "month": 9,
+      "type": "fixed"
+    },
+    "fixed_sep_9": {
+      "day": 9,
+      "month": 9,
+      "type": "fixed"
+    },
     "hindu_diwali": {
-      "type": "lunisolar",
+      "_note": "Diwali: new moon night of Kartika (October–November)",
       "calendar": "hindu",
       "month": "kartika",
       "tithi": "amavasya",
-      "_note": "Diwali: new moon night of Kartika (October–November)"
+      "type": "lunisolar"
     },
     "hindu_holi": {
-      "type": "lunisolar",
+      "_note": "Holi: full moon of Phalguna (February–March)",
       "calendar": "hindu",
       "month": "phalguna",
       "tithi": "purnima",
-      "_note": "Holi: full moon of Phalguna (February–March)"
+      "type": "lunisolar"
     },
-
+    "islamic_dhul_hijja_10": {
+      "_note": "Eid al-Adha — Dhul Hijjah 10",
+      "calendar": "hijri",
+      "day": 10,
+      "month": 12,
+      "type": "lunisolar"
+    },
+    "islamic_dhul_hijja_11": {
+      "calendar": "hijri",
+      "day": 11,
+      "month": 12,
+      "type": "lunisolar"
+    },
+    "islamic_dhul_hijja_12": {
+      "calendar": "hijri",
+      "day": 12,
+      "month": 12,
+      "type": "lunisolar"
+    },
+    "islamic_dhul_hijja_9": {
+      "_note": "Arafat Day — Dhul Hijjah 9",
+      "calendar": "hijri",
+      "day": 9,
+      "month": 12,
+      "type": "lunisolar"
+    },
+    "islamic_muharram_1": {
+      "_note": "Islamic New Year — Muharram 1",
+      "calendar": "hijri",
+      "day": 1,
+      "month": 1,
+      "type": "lunisolar"
+    },
+    "islamic_muharram_10": {
+      "_note": "Day of Ashura — Muharram 10",
+      "calendar": "hijri",
+      "day": 10,
+      "month": 1,
+      "type": "lunisolar"
+    },
+    "islamic_rabi_12": {
+      "_note": "Mawlid al-Nabi (Sunni) — Rabi al-Awwal 12",
+      "calendar": "hijri",
+      "day": 12,
+      "month": 3,
+      "type": "lunisolar"
+    },
+    "islamic_rajab_27": {
+      "_note": "Isra Mi'raj — Rajab 27",
+      "calendar": "hijri",
+      "day": 27,
+      "month": 7,
+      "type": "lunisolar"
+    },
+    "islamic_ramadan_27": {
+      "_note": "Laylat al-Qadr (approximate) — Ramadan 27",
+      "calendar": "hijri",
+      "day": 27,
+      "month": 9,
+      "type": "lunisolar"
+    },
+    "islamic_shawwal_1": {
+      "_note": "Eid al-Fitr — Shawwal 1",
+      "calendar": "hijri",
+      "day": 1,
+      "month": 10,
+      "type": "lunisolar"
+    },
+    "islamic_shawwal_2": {
+      "calendar": "hijri",
+      "day": 2,
+      "month": 10,
+      "type": "lunisolar"
+    },
+    "islamic_shawwal_3": {
+      "calendar": "hijri",
+      "day": 3,
+      "month": 10,
+      "type": "lunisolar"
+    },
     "japan_autumnal_equinox_computed": {
-      "type": "astronomical",
+      "_note": "Exact date varies by year; determined by Japanese National Astronomical Observatory",
       "event": "autumnal_equinox",
       "timezone": "Asia/Tokyo",
-      "_note": "Exact date varies by year; determined by Japanese National Astronomical Observatory"
+      "type": "astronomical"
     },
     "japan_vernal_equinox_computed": {
-      "type": "astronomical",
+      "_note": "Exact date varies by year",
       "event": "vernal_equinox",
       "timezone": "Asia/Tokyo",
-      "_note": "Exact date varies by year"
+      "type": "astronomical"
+    },
+    "korean_lunar_1_1": {
+      "_note": "Seollal / Korean Lunar New Year",
+      "calendar": "korean",
+      "day": 1,
+      "month": 1,
+      "type": "lunisolar"
+    },
+    "korean_lunar_1_2": {
+      "calendar": "korean",
+      "day": 2,
+      "month": 1,
+      "type": "lunisolar"
+    },
+    "korean_lunar_1_neg1": {
+      "_note": "Seollal Eve (day before Lunar New Year)",
+      "calendar": "korean",
+      "day": -1,
+      "month": 1,
+      "type": "lunisolar"
+    },
+    "korean_lunar_4_8": {
+      "_note": "Buddha's Birthday — Korean Lunar 4th month, 8th day",
+      "calendar": "korean",
+      "day": 8,
+      "month": 4,
+      "type": "lunisolar"
+    },
+    "korean_lunar_8_14": {
+      "_note": "Chuseok Eve",
+      "calendar": "korean",
+      "day": 14,
+      "month": 8,
+      "type": "lunisolar"
+    },
+    "korean_lunar_8_15": {
+      "_note": "Chuseok",
+      "calendar": "korean",
+      "day": 15,
+      "month": 8,
+      "type": "lunisolar"
+    },
+    "korean_lunar_8_16": {
+      "calendar": "korean",
+      "day": 16,
+      "month": 8,
+      "type": "lunisolar"
+    },
+    "last_fri_may": {
+      "month": 5,
+      "type": "last_weekday",
+      "weekday": "FRI"
+    },
+    "last_fri_sep": {
+      "month": 9,
+      "type": "last_weekday",
+      "weekday": "FRI"
+    },
+    "last_mon_aug": {
+      "month": 8,
+      "type": "last_weekday",
+      "weekday": "MON"
+    },
+    "last_mon_may": {
+      "month": 5,
+      "type": "last_weekday",
+      "weekday": "MON"
+    },
+    "last_mon_oct": {
+      "month": 10,
+      "type": "last_weekday",
+      "weekday": "MON"
+    },
+    "last_sun_may": {
+      "month": 5,
+      "type": "last_weekday",
+      "weekday": "SUN"
+    },
+    "last_thu_nov": {
+      "month": 11,
+      "type": "last_weekday",
+      "weekday": "THU"
+    },
+    "last_wed_nov": {
+      "month": 11,
+      "type": "last_weekday",
+      "weekday": "WED"
+    },
+    "mon_before_may_25": {
+      "_note": "Victoria Day Canada: Monday on or before May 25",
+      "day": 25,
+      "month": 5,
+      "type": "nearest_weekday_before_or_on",
+      "weekday": "MON"
+    },
+    "nth_fri_apr_2": {
+      "month": 4,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_aug_1": {
+      "month": 8,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_dec_1": {
+      "month": 12,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_jul_1": {
+      "month": 7,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_jun_1": {
+      "month": 6,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_jun_2": {
+      "month": 6,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_may_4": {
+      "month": 5,
+      "ordinal": 4,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_nov_4": {
+      "month": 11,
+      "ordinal": 4,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_fri_sep_1": {
+      "month": 9,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "FRI"
+    },
+    "nth_mon_aug_1": {
+      "month": 8,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_aug_2": {
+      "month": 8,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_feb_1": {
+      "month": 2,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_feb_3": {
+      "month": 2,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jan_2": {
+      "month": 1,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jan_3": {
+      "month": 1,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jan_4": {
+      "month": 1,
+      "ordinal": 4,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jul_1": {
+      "month": 7,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jul_3": {
+      "month": 7,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jun_1": {
+      "month": 6,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_jun_3": {
+      "month": 6,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_mar_1": {
+      "month": 3,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_mar_2": {
+      "month": 3,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_mar_3": {
+      "month": 3,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_may_1": {
+      "month": 5,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_may_2": {
+      "month": 5,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_may_3": {
+      "month": 5,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_nov_2": {
+      "month": 11,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_nov_3": {
+      "month": 11,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_nov_4": {
+      "month": 11,
+      "ordinal": 4,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_oct_1": {
+      "month": 10,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_oct_2": {
+      "month": 10,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_oct_3": {
+      "month": 10,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_sep_1": {
+      "month": 9,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_mon_sep_3": {
+      "month": 9,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "MON"
+    },
+    "nth_sat_jan_2": {
+      "month": 1,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "SAT"
+    },
+    "nth_sat_jun_2": {
+      "month": 6,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "SAT"
+    },
+    "nth_sun_jan_1": {
+      "month": 1,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_sun_jun_1": {
+      "month": 6,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_sun_jun_3": {
+      "month": 6,
+      "ordinal": 3,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_sun_may_1": {
+      "month": 5,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_sun_may_2": {
+      "month": 5,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_sun_nov_1": {
+      "month": 11,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_sun_oct_2": {
+      "month": 10,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "SUN"
+    },
+    "nth_thu_apr_4": {
+      "month": 4,
+      "ordinal": 4,
+      "type": "nth_weekday",
+      "weekday": "THU"
+    },
+    "nth_thu_nov_1": {
+      "month": 11,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "THU"
+    },
+    "nth_thu_nov_4": {
+      "month": 11,
+      "ordinal": 4,
+      "type": "nth_weekday",
+      "weekday": "THU"
+    },
+    "nth_tue_aug_1": {
+      "month": 8,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "TUE"
+    },
+    "nth_tue_aug_2": {
+      "month": 8,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "TUE"
+    },
+    "nth_tue_feb_2": {
+      "month": 2,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "TUE"
+    },
+    "nth_tue_nov_1": {
+      "month": 11,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "TUE"
+    },
+    "nth_wed_aug_1": {
+      "month": 8,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "WED"
+    },
+    "nth_wed_jul_2": {
+      "month": 7,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "WED"
+    },
+    "nth_wed_mar_2": {
+      "month": 3,
+      "ordinal": 2,
+      "type": "nth_weekday",
+      "weekday": "WED"
+    },
+    "nth_wed_oct_1": {
+      "month": 10,
+      "ordinal": 1,
+      "type": "nth_weekday",
+      "weekday": "WED"
+    },
+    "offset_computus_eastern_1": {
+      "_note": "Orthodox Easter Monday",
+      "base": "computus_eastern",
+      "days": 1,
+      "type": "offset"
+    },
+    "offset_computus_eastern_neg1": {
+      "base": "computus_eastern",
+      "days": -1,
+      "type": "offset"
+    },
+    "offset_computus_eastern_neg2": {
+      "base": "computus_eastern",
+      "days": -2,
+      "type": "offset"
+    },
+    "offset_computus_eastern_neg48": {
+      "base": "computus_eastern",
+      "days": -48,
+      "type": "offset"
+    },
+    "offset_computus_eastern_pos1": {
+      "base": "computus_eastern",
+      "days": 1,
+      "type": "offset"
+    },
+    "offset_computus_eastern_pos10": {
+      "base": "computus_eastern",
+      "days": 10,
+      "type": "offset"
+    },
+    "offset_computus_eastern_pos49": {
+      "base": "computus_eastern",
+      "days": 49,
+      "type": "offset"
+    },
+    "offset_computus_eastern_pos50": {
+      "base": "computus_eastern",
+      "days": 50,
+      "type": "offset"
+    },
+    "offset_computus_eastern_pos8": {
+      "base": "computus_eastern",
+      "days": 8,
+      "type": "offset"
+    },
+    "offset_computus_eastern_pos9": {
+      "base": "computus_eastern",
+      "days": 9,
+      "type": "offset"
+    },
+    "offset_computus_western_1": {
+      "_note": "Easter Monday",
+      "base": "computus_western",
+      "days": 1,
+      "type": "offset"
+    },
+    "offset_computus_western_39": {
+      "_note": "Ascension Day (39 days after Easter)",
+      "base": "computus_western",
+      "days": 39,
+      "type": "offset"
+    },
+    "offset_computus_western_49": {
+      "_note": "Whit Sunday / Pentecost (49 days after Easter)",
+      "base": "computus_western",
+      "days": 49,
+      "type": "offset"
+    },
+    "offset_computus_western_50": {
+      "_note": "Whit Monday (50 days after Easter)",
+      "base": "computus_western",
+      "days": 50,
+      "type": "offset"
+    },
+    "offset_computus_western_60": {
+      "_note": "Corpus Christi (60 days after Easter)",
+      "base": "computus_western",
+      "days": 60,
+      "type": "offset"
+    },
+    "offset_computus_western_neg1": {
+      "_note": "Holy Saturday",
+      "base": "computus_western",
+      "days": -1,
+      "type": "offset"
+    },
+    "offset_computus_western_neg2": {
+      "_note": "Good Friday",
+      "base": "computus_western",
+      "days": -2,
+      "type": "offset"
+    },
+    "offset_computus_western_neg24": {
+      "base": "computus_western",
+      "days": -24,
+      "type": "offset"
+    },
+    "offset_computus_western_neg3": {
+      "base": "computus_western",
+      "days": -3,
+      "type": "offset"
+    },
+    "offset_computus_western_neg46": {
+      "base": "computus_western",
+      "days": -46,
+      "type": "offset"
+    },
+    "offset_computus_western_neg47": {
+      "base": "computus_western",
+      "days": -47,
+      "type": "offset"
+    },
+    "offset_computus_western_neg48": {
+      "base": "computus_western",
+      "days": -48,
+      "type": "offset"
+    },
+    "offset_computus_western_neg49": {
+      "base": "computus_western",
+      "days": -49,
+      "type": "offset"
+    },
+    "offset_computus_western_pos1": {
+      "base": "computus_western",
+      "days": 1,
+      "type": "offset"
+    },
+    "offset_computus_western_pos173": {
+      "base": "computus_western",
+      "days": 173,
+      "type": "offset"
+    },
+    "offset_computus_western_pos2": {
+      "base": "computus_western",
+      "days": 2,
+      "type": "offset"
+    },
+    "offset_computus_western_pos26": {
+      "base": "computus_western",
+      "days": 26,
+      "type": "offset"
+    },
+    "offset_computus_western_pos39": {
+      "base": "computus_western",
+      "days": 39,
+      "type": "offset"
+    },
+    "offset_computus_western_pos49": {
+      "base": "computus_western",
+      "days": 49,
+      "type": "offset"
+    },
+    "offset_computus_western_pos50": {
+      "base": "computus_western",
+      "days": 50,
+      "type": "offset"
+    },
+    "offset_computus_western_pos56": {
+      "base": "computus_western",
+      "days": 56,
+      "type": "offset"
+    },
+    "offset_computus_western_pos60": {
+      "base": "computus_western",
+      "days": 60,
+      "type": "offset"
+    },
+    "solar_term_qingming": {
+      "_note": "Qingming: sun reaches ecliptic longitude 15° (approx. April 4–5)",
+      "longitude": 15,
+      "type": "solar_term"
     }
-  }
+  },
+  "schemaVersion": 1
 }

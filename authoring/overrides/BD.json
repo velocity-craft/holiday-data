@@ -1,0 +1,35 @@
+{
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "timeZone": "Asia/Dhaka",
+  "holidays": [
+    {
+      "template": "bd_martyrs_day_and_international_mother_lan",
+      "rule": "fixed_feb_21"
+    },
+    {
+      "template": "bd_sheikh_mujibur_rahman_s_birthday",
+      "rule": "fixed_mar_17"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_mar_26"
+    },
+    {
+      "template": "bd_bengali_new_year_s_day",
+      "rule": "fixed_apr_14"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "bd_national_mourning_day",
+      "rule": "fixed_aug_15"
+    },
+    {
+      "template": "victory_day_generic",
+      "rule": "fixed_dec_16"
+    }
+  ]
+}

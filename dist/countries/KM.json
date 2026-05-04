@@ -1,0 +1,348 @@
+{
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-16",
+      "localizedNames": {
+        "de": "Lailat al-Mi'radsch",
+        "en": "Isra Mi'raj",
+        "es": "Isra Mi'raj",
+        "fr": "Isra et Mi'raj",
+        "ja": "イスラー・ミウラージュ",
+        "ko": "이스라 미라지",
+        "pt": "Isra e Mi'raj",
+        "zh": "登霄节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-30",
+      "localizedNames": {
+        "de": "Election Partial Day Holiday",
+        "en": "Election Partial Day Holiday",
+        "es": "Election Partial Day Holiday",
+        "fr": "Election Partial Day Holiday",
+        "ja": "Election Partial Day Holiday",
+        "ko": "Election Partial Day Holiday",
+        "pt": "Election Partial Day Holiday",
+        "zh": "Election Partial Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-18",
+      "localizedNames": {
+        "de": "Cheikh al Maarouf Day",
+        "en": "Cheikh al Maarouf Day",
+        "es": "Cheikh al Maarouf Day",
+        "fr": "Cheikh al Maarouf Day",
+        "ja": "Cheikh al Maarouf Day",
+        "ko": "Cheikh al Maarouf Day",
+        "pt": "Cheikh al Maarouf Day",
+        "zh": "Cheikh al Maarouf Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-13",
+      "localizedNames": {
+        "de": "National Holiday",
+        "en": "National Holiday",
+        "es": "National Holiday",
+        "fr": "National Holiday",
+        "ja": "National Holiday",
+        "ko": "National Holiday",
+        "pt": "National Holiday",
+        "zh": "National Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-17",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-06",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-26",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-12",
+      "localizedNames": {
+        "de": "Maore Day",
+        "en": "Maore Day",
+        "es": "Maore Day",
+        "fr": "Maore Day",
+        "ja": "Maore Day",
+        "ko": "Maore Day",
+        "pt": "Maore Day",
+        "zh": "Maore Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "en": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "es": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "fr": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "ja": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "ko": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "pt": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "zh": "Christmas Day; Isra' and Mi'raj (estimated)"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Lailat al-Mi'radsch",
+        "en": "Isra Mi'raj",
+        "es": "Isra Mi'raj",
+        "fr": "Isra et Mi'raj",
+        "ja": "イスラー・ミウラージュ",
+        "ko": "이스라 미라지",
+        "pt": "Isra e Mi'raj",
+        "zh": "登霄节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-30",
+      "localizedNames": {
+        "de": "Election Partial Day Holiday",
+        "en": "Election Partial Day Holiday",
+        "es": "Election Partial Day Holiday",
+        "fr": "Election Partial Day Holiday",
+        "ja": "Election Partial Day Holiday",
+        "ko": "Election Partial Day Holiday",
+        "pt": "Election Partial Day Holiday",
+        "zh": "Election Partial Day Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-18",
+      "localizedNames": {
+        "de": "Cheikh al Maarouf Day",
+        "en": "Cheikh al Maarouf Day",
+        "es": "Cheikh al Maarouf Day",
+        "fr": "Cheikh al Maarouf Day",
+        "ja": "Cheikh al Maarouf Day",
+        "ko": "Cheikh al Maarouf Day",
+        "pt": "Cheikh al Maarouf Day",
+        "zh": "Cheikh al Maarouf Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-13",
+      "localizedNames": {
+        "de": "National Holiday",
+        "en": "National Holiday",
+        "es": "National Holiday",
+        "fr": "National Holiday",
+        "ja": "National Holiday",
+        "ko": "National Holiday",
+        "pt": "National Holiday",
+        "zh": "National Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-06",
+      "localizedNames": {
+        "de": "Islamisches Neujahr",
+        "en": "Islamic New Year",
+        "es": "Año Nuevo Islámico",
+        "fr": "Nouvel An de l'Hégire",
+        "ja": "イスラム暦新年",
+        "ko": "이슬람 새해",
+        "pt": "Ano Novo Islâmico",
+        "zh": "伊斯兰新年"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-06",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Prophet's Birthday",
+        "en": "Prophet's Birthday",
+        "es": "Prophet's Birthday",
+        "fr": "Prophet's Birthday",
+        "ja": "Prophet's Birthday",
+        "ko": "Prophet's Birthday",
+        "pt": "Prophet's Birthday",
+        "zh": "Prophet's Birthday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-12",
+      "localizedNames": {
+        "de": "Maore Day",
+        "en": "Maore Day",
+        "es": "Maore Day",
+        "fr": "Maore Day",
+        "ja": "Maore Day",
+        "ko": "Maore Day",
+        "pt": "Maore Day",
+        "zh": "Maore Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "en": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "es": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "fr": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "ja": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "ko": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "pt": "Christmas Day; Isra' and Mi'raj (estimated)",
+        "zh": "Christmas Day; Isra' and Mi'raj (estimated)"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Indian/Comoro",
+  "years": [
+    2026,
+    2027
+  ]
+}

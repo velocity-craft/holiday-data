@@ -1,0 +1,264 @@
+{
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Saint John the Baptist",
+        "en": "Saint John the Baptist",
+        "es": "Saint John the Baptist",
+        "fr": "Saint John the Baptist",
+        "ja": "Saint John the Baptist",
+        "ko": "Saint John the Baptist",
+        "pt": "Saint John the Baptist",
+        "zh": "Saint John the Baptist"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-24",
+      "localizedNames": {
+        "de": "Unification of the Romanian Principalities Day",
+        "en": "Unification of the Romanian Principalities Day",
+        "es": "Unification of the Romanian Principalities Day",
+        "fr": "Unification of the Romanian Principalities Day",
+        "ja": "Unification of the Romanian Principalities Day",
+        "ko": "Unification of the Romanian Principalities Day",
+        "pt": "Unification of the Romanian Principalities Day",
+        "zh": "Unification of the Romanian Principalities Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-01",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-15",
+      "localizedNames": {
+        "de": "Dormition of the Mother of God",
+        "en": "Dormition of the Mother of God",
+        "es": "Dormition of the Mother of God",
+        "fr": "Dormition of the Mother of God",
+        "ja": "Dormition of the Mother of God",
+        "ko": "Dormition of the Mother of God",
+        "pt": "Dormition of the Mother of God",
+        "zh": "Dormition of the Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-30",
+      "localizedNames": {
+        "de": "Saint Andrew's Day",
+        "en": "Saint Andrew's Day",
+        "es": "Saint Andrew's Day",
+        "fr": "Saint Andrew's Day",
+        "ja": "Saint Andrew's Day",
+        "ko": "Saint Andrew's Day",
+        "pt": "Saint Andrew's Day",
+        "zh": "Saint Andrew's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-01",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-06",
+      "localizedNames": {
+        "de": "Heilige Drei Könige",
+        "en": "Epiphany",
+        "es": "Epifanía del Señor",
+        "fr": "Épiphanie",
+        "ja": "公現祭",
+        "ko": "주님 공현 대축일",
+        "pt": "Epifania",
+        "zh": "主显节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Saint John the Baptist",
+        "en": "Saint John the Baptist",
+        "es": "Saint John the Baptist",
+        "fr": "Saint John the Baptist",
+        "ja": "Saint John the Baptist",
+        "ko": "Saint John the Baptist",
+        "pt": "Saint John the Baptist",
+        "zh": "Saint John the Baptist"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-24",
+      "localizedNames": {
+        "de": "Unification of the Romanian Principalities Day",
+        "en": "Unification of the Romanian Principalities Day",
+        "es": "Unification of the Romanian Principalities Day",
+        "fr": "Unification of the Romanian Principalities Day",
+        "ja": "Unification of the Romanian Principalities Day",
+        "ko": "Unification of the Romanian Principalities Day",
+        "pt": "Unification of the Romanian Principalities Day",
+        "zh": "Unification of the Romanian Principalities Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-01",
+      "localizedNames": {
+        "de": "Koreanischer Kindertag",
+        "en": "Children's Day",
+        "es": "Día de los Niños de Corea",
+        "fr": "Journée des Enfants de Corée",
+        "ja": "韓国こどもの日",
+        "ko": "어린이날",
+        "pt": "Dia das Crianças na Coreia",
+        "zh": "韩国儿童节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-15",
+      "localizedNames": {
+        "de": "Dormition of the Mother of God",
+        "en": "Dormition of the Mother of God",
+        "es": "Dormition of the Mother of God",
+        "fr": "Dormition of the Mother of God",
+        "ja": "Dormition of the Mother of God",
+        "ko": "Dormition of the Mother of God",
+        "pt": "Dormition of the Mother of God",
+        "zh": "Dormition of the Mother of God"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-30",
+      "localizedNames": {
+        "de": "Saint Andrew's Day",
+        "en": "Saint Andrew's Day",
+        "es": "Saint Andrew's Day",
+        "fr": "Saint Andrew's Day",
+        "ja": "Saint Andrew's Day",
+        "ko": "Saint Andrew's Day",
+        "pt": "Saint Andrew's Day",
+        "zh": "Saint Andrew's Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-01",
+      "localizedNames": {
+        "de": "Nationalfeiertag",
+        "en": "National Day",
+        "es": "Día Nacional",
+        "fr": "Fête nationale",
+        "ja": "建国記念日",
+        "ko": "국경일",
+        "pt": "Dia Nacional",
+        "zh": "国庆节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Bucharest",
+  "years": [
+    2026,
+    2027
+  ]
+}

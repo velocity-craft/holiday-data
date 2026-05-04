@@ -1,0 +1,55 @@
+{
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "timeZone": "Africa/Tripoli",
+  "holidays": [
+    {
+      "template": "ly_anniversary_of_the_february_17_revolutio",
+      "rule": "fixed_feb_17"
+    },
+    {
+      "template": "eid_ul_fitr",
+      "rule": "islamic_shawwal_1"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "arafat_day",
+      "rule": "islamic_dhul_hijja_9"
+    },
+    {
+      "template": "eid_al_adha",
+      "rule": "islamic_dhul_hijja_10"
+    },
+    {
+      "template": "islamic_new_year",
+      "rule": "islamic_muharram_1"
+    },
+    {
+      "template": "ly_national_environmental_sanitation_day",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "ly_national_environmental_sanitation_day_pr",
+      "rule": "fixed_aug_14"
+    },
+    {
+      "template": "martyrs_day_generic",
+      "rule": "fixed_sep_16"
+    },
+    {
+      "template": "prophet_birthday",
+      "rule": "islamic_rabi_12"
+    },
+    {
+      "template": "liberation_day_generic",
+      "rule": "fixed_oct_23"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_dec_24"
+    }
+  ]
+}

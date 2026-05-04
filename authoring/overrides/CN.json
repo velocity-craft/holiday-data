@@ -1,0 +1,39 @@
+{
+  "countryCode": "CN",
+  "countryName": "China",
+  "timeZone": "Asia/Shanghai",
+  "holidays": [
+    {
+      "template": "chinese_new_year_eve",
+      "rule": "chinese_lunar_12_last"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "chinese_new_year",
+      "rule": "chinese_lunar_1_1"
+    },
+    {
+      "template": "qingming",
+      "rule": "solar_term_qingming"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "dragon_boat_festival",
+      "rule": "chinese_lunar_5_5"
+    },
+    {
+      "template": "mid_autumn_festival",
+      "rule": "chinese_lunar_8_15"
+    },
+    {
+      "template": "national_day_generic",
+      "rule": "fixed_oct_1"
+    }
+  ]
+}

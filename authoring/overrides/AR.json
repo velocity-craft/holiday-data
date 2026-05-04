@@ -1,0 +1,67 @@
+{
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "timeZone": "America/Argentina/Buenos_Aires",
+  "holidays": [
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "ag_carnival_monday",
+      "rule": "offset_computus_western_neg48"
+    },
+    {
+      "template": "ag_carnival_tuesday",
+      "rule": "offset_computus_western_neg47"
+    },
+    {
+      "template": "ar_maundy_thursday",
+      "rule": "offset_computus_western_neg3"
+    },
+    {
+      "template": "ar_national_day_of_remembrance_for_truth_an",
+      "rule": "fixed_mar_24"
+    },
+    {
+      "template": "good_friday",
+      "rule": "offset_computus_western_neg2"
+    },
+    {
+      "template": "ar_maundy_thursday_veteran_s_day_and_the_fa",
+      "rule": "fixed_apr_2"
+    },
+    {
+      "template": "ar_veteran_s_day_and_the_fallen_in_the_malv",
+      "rule": "fixed_apr_2"
+    },
+    {
+      "template": "ar_may_revolution_day",
+      "rule": "fixed_may_25"
+    },
+    {
+      "template": "labour_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "ar_pass_to_the_immortality_of_general_don_m",
+      "rule": "nth_mon_jun_3"
+    },
+    {
+      "template": "ar_pass_to_the_immortality_of_general_don_m",
+      "rule": "fixed_jun_20"
+    },
+    {
+      "template": "independence_day_generic",
+      "rule": "fixed_jul_9"
+    },
+    {
+      "template": "christmas",
+      "rule": "fixed_dec_25"
+    },
+    {
+      "template": "immaculate_conception",
+      "rule": "fixed_dec_8"
+    }
+  ]
+}

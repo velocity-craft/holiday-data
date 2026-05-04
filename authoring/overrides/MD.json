@@ -1,0 +1,51 @@
+{
+  "countryCode": "MD",
+  "countryName": "Moldova, Republic of",
+  "timeZone": "Europe/Chisinau",
+  "holidays": [
+    {
+      "template": "md_christmas_day_by_old_style",
+      "rule": "fixed_jan_7"
+    },
+    {
+      "template": "new_year",
+      "rule": "fixed_jan_1"
+    },
+    {
+      "template": "international_womens_day",
+      "rule": "fixed_mar_8"
+    },
+    {
+      "template": "easter_sunday",
+      "rule": "computus_eastern"
+    },
+    {
+      "template": "md_day_of_rejoicing",
+      "rule": "offset_computus_eastern_pos8"
+    },
+    {
+      "template": "md_europe_day_victory_day_and_commemoration",
+      "rule": "fixed_may_9"
+    },
+    {
+      "template": "md_international_workers_solidarity_day",
+      "rule": "fixed_may_1"
+    },
+    {
+      "template": "cv_international_children_s_day",
+      "rule": "fixed_jun_1"
+    },
+    {
+      "template": "md_national_language_day",
+      "rule": "fixed_aug_31"
+    },
+    {
+      "template": "md_republic_of_moldova_independence_day",
+      "rule": "fixed_aug_27"
+    },
+    {
+      "template": "md_christmas_day_by_new_style",
+      "rule": "fixed_dec_25"
+    }
+  ]
+}

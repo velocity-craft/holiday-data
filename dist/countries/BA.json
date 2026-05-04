@@ -1,0 +1,208 @@
+{
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-03-20",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-06",
+      "localizedNames": {
+        "de": "Catholic Easter Monday",
+        "en": "Catholic Easter Monday",
+        "es": "Catholic Easter Monday",
+        "fr": "Catholic Easter Monday",
+        "ja": "Catholic Easter Monday",
+        "ko": "Catholic Easter Monday",
+        "pt": "Catholic Easter Monday",
+        "zh": "Catholic Easter Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-10",
+      "localizedNames": {
+        "de": "Orthodox Good Friday",
+        "en": "Orthodox Good Friday",
+        "es": "Orthodox Good Friday",
+        "fr": "Orthodox Good Friday",
+        "ja": "Orthodox Good Friday",
+        "ko": "Orthodox Good Friday",
+        "pt": "Orthodox Good Friday",
+        "zh": "Orthodox Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-27",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "Catholic Christmas Day",
+        "en": "Catholic Christmas Day",
+        "es": "Catholic Christmas Day",
+        "fr": "Catholic Christmas Day",
+        "ja": "Catholic Christmas Day",
+        "ko": "Catholic Christmas Day",
+        "pt": "Catholic Christmas Day",
+        "zh": "Catholic Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "Orthodox Christmas Day",
+        "en": "Orthodox Christmas Day",
+        "es": "Orthodox Christmas Day",
+        "fr": "Orthodox Christmas Day",
+        "ja": "Orthodox Christmas Day",
+        "ko": "Orthodox Christmas Day",
+        "pt": "Orthodox Christmas Day",
+        "zh": "Orthodox Christmas Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-10",
+      "localizedNames": {
+        "de": "Eid al-Fitr Holiday",
+        "en": "Eid al-Fitr Holiday",
+        "es": "Eid al-Fitr Holiday",
+        "fr": "Eid al-Fitr Holiday",
+        "ja": "Eid al-Fitr Holiday",
+        "ko": "Eid al-Fitr Holiday",
+        "pt": "Eid al-Fitr Holiday",
+        "zh": "Eid al-Fitr Holiday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-29",
+      "localizedNames": {
+        "de": "Catholic Easter Monday",
+        "en": "Catholic Easter Monday",
+        "es": "Catholic Easter Monday",
+        "fr": "Catholic Easter Monday",
+        "ja": "Catholic Easter Monday",
+        "ko": "Catholic Easter Monday",
+        "pt": "Catholic Easter Monday",
+        "zh": "Catholic Easter Monday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-04-30",
+      "localizedNames": {
+        "de": "Orthodox Good Friday",
+        "en": "Orthodox Good Friday",
+        "es": "Orthodox Good Friday",
+        "fr": "Orthodox Good Friday",
+        "ja": "Orthodox Good Friday",
+        "ko": "Orthodox Good Friday",
+        "pt": "Orthodox Good Friday",
+        "zh": "Orthodox Good Friday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Eid al-Adha",
+        "en": "Eid al-Adha",
+        "es": "Eid al-Adha",
+        "fr": "Aïd el-Adha",
+        "ja": "イード・アル＝アドハー",
+        "ko": "이드 알 아드하",
+        "pt": "Eid al-Adha",
+        "zh": "宰牲节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "Catholic Christmas Day",
+        "en": "Catholic Christmas Day",
+        "es": "Catholic Christmas Day",
+        "fr": "Catholic Christmas Day",
+        "ja": "Catholic Christmas Day",
+        "ko": "Catholic Christmas Day",
+        "pt": "Catholic Christmas Day",
+        "zh": "Catholic Christmas Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Sarajevo",
+  "years": [
+    2026,
+    2027
+  ]
+}

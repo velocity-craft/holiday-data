@@ -1,0 +1,180 @@
+{
+  "countryCode": "RU",
+  "countryName": "Russian Federation",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "New Year Holidays",
+        "en": "New Year Holidays",
+        "es": "New Year Holidays",
+        "fr": "New Year Holidays",
+        "ja": "New Year Holidays",
+        "ko": "New Year Holidays",
+        "pt": "New Year Holidays",
+        "zh": "New Year Holidays"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-23",
+      "localizedNames": {
+        "de": "Defender of the Fatherland Day",
+        "en": "Defender of the Fatherland Day",
+        "es": "Defender of the Fatherland Day",
+        "fr": "Defender of the Fatherland Day",
+        "ja": "Defender of the Fatherland Day",
+        "ko": "Defender of the Fatherland Day",
+        "pt": "Defender of the Fatherland Day",
+        "zh": "Defender of the Fatherland Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-01",
+      "localizedNames": {
+        "de": "Holiday of Spring and Labor",
+        "en": "Holiday of Spring and Labor",
+        "es": "Holiday of Spring and Labor",
+        "fr": "Holiday of Spring and Labor",
+        "ja": "Holiday of Spring and Labor",
+        "ko": "Holiday of Spring and Labor",
+        "pt": "Holiday of Spring and Labor",
+        "zh": "Holiday of Spring and Labor"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-12",
+      "localizedNames": {
+        "de": "Russia Day",
+        "en": "Russia Day",
+        "es": "Russia Day",
+        "fr": "Russia Day",
+        "ja": "Russia Day",
+        "ko": "Russia Day",
+        "pt": "Russia Day",
+        "zh": "Russia Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-04",
+      "localizedNames": {
+        "de": "Unity Day",
+        "en": "Unity Day",
+        "es": "Unity Day",
+        "fr": "Unity Day",
+        "ja": "Unity Day",
+        "ko": "Unity Day",
+        "pt": "Unity Day",
+        "zh": "Unity Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "New Year Holidays",
+        "en": "New Year Holidays",
+        "es": "New Year Holidays",
+        "fr": "New Year Holidays",
+        "ja": "New Year Holidays",
+        "ko": "New Year Holidays",
+        "pt": "New Year Holidays",
+        "zh": "New Year Holidays"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-07",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-23",
+      "localizedNames": {
+        "de": "Defender of the Fatherland Day",
+        "en": "Defender of the Fatherland Day",
+        "es": "Defender of the Fatherland Day",
+        "fr": "Defender of the Fatherland Day",
+        "ja": "Defender of the Fatherland Day",
+        "ko": "Defender of the Fatherland Day",
+        "pt": "Defender of the Fatherland Day",
+        "zh": "Defender of the Fatherland Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-01",
+      "localizedNames": {
+        "de": "Holiday of Spring and Labor",
+        "en": "Holiday of Spring and Labor",
+        "es": "Holiday of Spring and Labor",
+        "fr": "Holiday of Spring and Labor",
+        "ja": "Holiday of Spring and Labor",
+        "ko": "Holiday of Spring and Labor",
+        "pt": "Holiday of Spring and Labor",
+        "zh": "Holiday of Spring and Labor"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-12",
+      "localizedNames": {
+        "de": "Russia Day",
+        "en": "Russia Day",
+        "es": "Russia Day",
+        "fr": "Russia Day",
+        "ja": "Russia Day",
+        "ko": "Russia Day",
+        "pt": "Russia Day",
+        "zh": "Russia Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-04",
+      "localizedNames": {
+        "de": "Unity Day",
+        "en": "Unity Day",
+        "es": "Unity Day",
+        "fr": "Unity Day",
+        "ja": "Unity Day",
+        "ko": "Unity Day",
+        "pt": "Unity Day",
+        "zh": "Unity Day"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Europe/Moscow",
+  "years": [
+    2026,
+    2027
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "countryCode": "NR",
+  "countryName": "Nauru",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-31",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-01",
+      "localizedNames": {
+        "de": "Day following Independence Day",
+        "en": "Day following Independence Day",
+        "es": "Day following Independence Day",
+        "fr": "Day following Independence Day",
+        "ja": "Day following Independence Day",
+        "ko": "Day following Independence Day",
+        "pt": "Day following Independence Day",
+        "zh": "Day following Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-04-07",
+      "localizedNames": {
+        "de": "Easter Tuesday",
+        "en": "Easter Tuesday",
+        "es": "Easter Tuesday",
+        "fr": "Easter Tuesday",
+        "ja": "Easter Tuesday",
+        "ko": "Easter Tuesday",
+        "pt": "Easter Tuesday",
+        "zh": "Easter Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-17",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-01",
+      "localizedNames": {
+        "de": "RONPHOS Handover",
+        "en": "RONPHOS Handover",
+        "es": "RONPHOS Handover",
+        "fr": "RONPHOS Handover",
+        "ja": "RONPHOS Handover",
+        "ko": "RONPHOS Handover",
+        "pt": "RONPHOS Handover",
+        "zh": "RONPHOS Handover"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-08-19",
+      "localizedNames": {
+        "de": "Ibumin Earoeni Day",
+        "en": "Ibumin Earoeni Day",
+        "es": "Ibumin Earoeni Day",
+        "fr": "Ibumin Earoeni Day",
+        "ja": "Ibumin Earoeni Day",
+        "ko": "Ibumin Earoeni Day",
+        "pt": "Ibumin Earoeni Day",
+        "zh": "Ibumin Earoeni Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-25",
+      "localizedNames": {
+        "de": "Sir Hammer DeRoburt Day",
+        "en": "Sir Hammer DeRoburt Day",
+        "es": "Sir Hammer DeRoburt Day",
+        "fr": "Sir Hammer DeRoburt Day",
+        "ja": "Sir Hammer DeRoburt Day",
+        "ko": "Sir Hammer DeRoburt Day",
+        "pt": "Sir Hammer DeRoburt Day",
+        "zh": "Sir Hammer DeRoburt Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-26",
+      "localizedNames": {
+        "de": "Angam Day",
+        "en": "Angam Day",
+        "es": "Angam Day",
+        "fr": "Angam Day",
+        "ja": "Angam Day",
+        "ko": "Angam Day",
+        "pt": "Angam Day",
+        "zh": "Angam Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-26",
+      "localizedNames": {
+        "de": "Day following Christmas",
+        "en": "Day following Christmas",
+        "es": "Day following Christmas",
+        "fr": "Day following Christmas",
+        "ja": "Day following Christmas",
+        "ko": "Day following Christmas",
+        "pt": "Day following Christmas",
+        "zh": "Day following Christmas"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-31",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Jour de l'Indépendance",
+        "ja": "独立記念日",
+        "ko": "독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "独立日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-01",
+      "localizedNames": {
+        "de": "Day following Independence Day",
+        "en": "Day following Independence Day",
+        "es": "Day following Independence Day",
+        "fr": "Day following Independence Day",
+        "ja": "Day following Independence Day",
+        "ko": "Day following Independence Day",
+        "pt": "Day following Independence Day",
+        "zh": "Day following Independence Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-03-30",
+      "localizedNames": {
+        "de": "Easter Tuesday",
+        "en": "Easter Tuesday",
+        "es": "Easter Tuesday",
+        "fr": "Easter Tuesday",
+        "ja": "Easter Tuesday",
+        "ko": "Easter Tuesday",
+        "pt": "Easter Tuesday",
+        "zh": "Easter Tuesday"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-17",
+      "localizedNames": {
+        "de": "Verfassungstag",
+        "en": "Constitution Day",
+        "es": "Día de la Constitución",
+        "fr": "Journée de la Constitution",
+        "ja": "憲法記念日",
+        "ko": "제헌절",
+        "pt": "Dia da Constituição",
+        "zh": "宪法日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-01",
+      "localizedNames": {
+        "de": "RONPHOS Handover",
+        "en": "RONPHOS Handover",
+        "es": "RONPHOS Handover",
+        "fr": "RONPHOS Handover",
+        "ja": "RONPHOS Handover",
+        "ko": "RONPHOS Handover",
+        "pt": "RONPHOS Handover",
+        "zh": "RONPHOS Handover"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-08-19",
+      "localizedNames": {
+        "de": "Ibumin Earoeni Day",
+        "en": "Ibumin Earoeni Day",
+        "es": "Ibumin Earoeni Day",
+        "fr": "Ibumin Earoeni Day",
+        "ja": "Ibumin Earoeni Day",
+        "ko": "Ibumin Earoeni Day",
+        "pt": "Ibumin Earoeni Day",
+        "zh": "Ibumin Earoeni Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-25",
+      "localizedNames": {
+        "de": "Sir Hammer DeRoburt Day",
+        "en": "Sir Hammer DeRoburt Day",
+        "es": "Sir Hammer DeRoburt Day",
+        "fr": "Sir Hammer DeRoburt Day",
+        "ja": "Sir Hammer DeRoburt Day",
+        "ko": "Sir Hammer DeRoburt Day",
+        "pt": "Sir Hammer DeRoburt Day",
+        "zh": "Sir Hammer DeRoburt Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-26",
+      "localizedNames": {
+        "de": "Angam Day",
+        "en": "Angam Day",
+        "es": "Angam Day",
+        "fr": "Angam Day",
+        "ja": "Angam Day",
+        "ko": "Angam Day",
+        "pt": "Angam Day",
+        "zh": "Angam Day"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-26",
+      "localizedNames": {
+        "de": "Day following Christmas",
+        "en": "Day following Christmas",
+        "es": "Day following Christmas",
+        "fr": "Day following Christmas",
+        "ja": "Day following Christmas",
+        "ko": "Day following Christmas",
+        "pt": "Day following Christmas",
+        "zh": "Day following Christmas"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "Pacific/Nauru",
+  "years": [
+    2026,
+    2027
+  ]
+}
