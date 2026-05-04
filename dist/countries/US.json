@@ -1,0 +1,320 @@
+{
+  "countryCode": "US",
+  "countryName": "United States",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-01-19",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-02-16",
+      "localizedNames": {
+        "de": "Präsidententag",
+        "en": "Presidents' Day",
+        "es": "Día de los Presidentes",
+        "fr": "Jour des Présidents",
+        "ja": "大統領の日",
+        "ko": "대통령의 날",
+        "pt": "Dia dos Presidentes",
+        "zh": "总统日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-05-25",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Fête nationale américaine",
+        "ja": "アメリカ独立記念日",
+        "ko": "미국 독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "美国独立纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-09-07",
+      "localizedNames": {
+        "de": "Labor Day",
+        "en": "Labor Day",
+        "es": "Día del Trabajo",
+        "fr": "Fête du Travail",
+        "ja": "レイバー・デー",
+        "ko": "미국 노동절",
+        "pt": "Dia do Trabalho",
+        "zh": "美国劳工节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-10-12",
+      "localizedNames": {
+        "de": "Kolumbustag",
+        "en": "Columbus Day",
+        "es": "Día de la Hispanidad",
+        "fr": "Jour de Christophe Colomb",
+        "ja": "コロンブスデー",
+        "ko": "콜럼버스의 날",
+        "pt": "Dia de Colombo",
+        "zh": "哥伦布日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-11",
+      "localizedNames": {
+        "de": "Veteranentag",
+        "en": "Veterans Day",
+        "es": "Día de los Veteranos",
+        "fr": "Jour des Anciens Combattants",
+        "ja": "ベテランズデー",
+        "ko": "재향군인의 날",
+        "pt": "Dia dos Veteranos",
+        "zh": "退伍军人节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-11-26",
+      "localizedNames": {
+        "de": "Thanksgiving",
+        "en": "Thanksgiving Day",
+        "es": "Día de Acción de Gracias",
+        "fr": "Thanksgiving",
+        "ja": "感謝祭",
+        "ko": "추수감사절",
+        "pt": "Ação de Graças",
+        "zh": "感恩节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2026-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-01",
+      "localizedNames": {
+        "de": "Neujahr",
+        "en": "New Year's Day",
+        "es": "Año Nuevo",
+        "fr": "Jour de l'An",
+        "ja": "元日",
+        "ko": "신정",
+        "pt": "Ano Novo",
+        "zh": "元旦"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-01-18",
+      "localizedNames": {
+        "de": "Martin-Luther-King-Tag",
+        "en": "Martin Luther King Jr. Day",
+        "es": "Día de Martin Luther King Jr.",
+        "fr": "Journée Martin Luther King",
+        "ja": "マーティン・ルーサー・キング・デー",
+        "ko": "마틴 루터 킹 기념일",
+        "pt": "Dia de Martin Luther King Jr.",
+        "zh": "马丁·路德·金纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-02-15",
+      "localizedNames": {
+        "de": "Präsidententag",
+        "en": "Presidents' Day",
+        "es": "Día de los Presidentes",
+        "fr": "Jour des Présidents",
+        "ja": "大統領の日",
+        "ko": "대통령의 날",
+        "pt": "Dia dos Presidentes",
+        "zh": "总统日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-05-31",
+      "localizedNames": {
+        "de": "Memorial Day",
+        "en": "Memorial Day",
+        "es": "Día de los Caídos",
+        "fr": "Jour du Souvenir",
+        "ja": "メモリアルデー",
+        "ko": "현충일",
+        "pt": "Dia dos Caídos",
+        "zh": "阵亡将士纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-06-19",
+      "localizedNames": {
+        "de": "Juneteenth",
+        "en": "Juneteenth National Independence Day",
+        "es": "Juneteenth",
+        "fr": "Juneteenth",
+        "ja": "ジューンティーンス",
+        "ko": "준틴스 국가 독립기념일",
+        "pt": "Juneteenth",
+        "zh": "六月节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-07-04",
+      "localizedNames": {
+        "de": "Unabhängigkeitstag",
+        "en": "Independence Day",
+        "es": "Día de la Independencia",
+        "fr": "Fête nationale américaine",
+        "ja": "アメリカ独立記念日",
+        "ko": "미국 독립기념일",
+        "pt": "Dia da Independência",
+        "zh": "美国独立纪念日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-09-06",
+      "localizedNames": {
+        "de": "Labor Day",
+        "en": "Labor Day",
+        "es": "Día del Trabajo",
+        "fr": "Fête du Travail",
+        "ja": "レイバー・デー",
+        "ko": "미국 노동절",
+        "pt": "Dia do Trabalho",
+        "zh": "美国劳工节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-10-11",
+      "localizedNames": {
+        "de": "Kolumbustag",
+        "en": "Columbus Day",
+        "es": "Día de la Hispanidad",
+        "fr": "Jour de Christophe Colomb",
+        "ja": "コロンブスデー",
+        "ko": "콜럼버스의 날",
+        "pt": "Dia de Colombo",
+        "zh": "哥伦布日"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-11",
+      "localizedNames": {
+        "de": "Veteranentag",
+        "en": "Veterans Day",
+        "es": "Día de los Veteranos",
+        "fr": "Jour des Anciens Combattants",
+        "ja": "ベテランズデー",
+        "ko": "재향군인의 날",
+        "pt": "Dia dos Veteranos",
+        "zh": "退伍军人节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-11-25",
+      "localizedNames": {
+        "de": "Thanksgiving",
+        "en": "Thanksgiving Day",
+        "es": "Día de Acción de Gracias",
+        "fr": "Thanksgiving",
+        "ja": "感謝祭",
+        "ko": "추수감사절",
+        "pt": "Ação de Graças",
+        "zh": "感恩节"
+      },
+      "type": "PUBLIC"
+    },
+    {
+      "date": "2027-12-25",
+      "localizedNames": {
+        "de": "1. Weihnachtstag",
+        "en": "Christmas Day",
+        "es": "Navidad",
+        "fr": "Noël",
+        "ja": "クリスマス",
+        "ko": "크리스마스",
+        "pt": "Natal",
+        "zh": "圣诞节"
+      },
+      "type": "PUBLIC"
+    }
+  ],
+  "schemaVersion": 2,
+  "timeZone": "America/New_York",
+  "years": [
+    2026,
+    2027
+  ]
+}
